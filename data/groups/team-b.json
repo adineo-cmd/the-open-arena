@@ -1,0 +1,1366 @@
+[
+  {
+    "slug": "lacrosse",
+    "name": "Lacrosse",
+    "category": "team-ball",
+    "glyph": "🥍",
+    "tagline": "North America's oldest game — stick, ball, and a medicine returning to the Olympics in 2028.",
+    "origin": "Haudenosaunee homelands · codified 1867",
+    "tags": ["Team sport", "Indigenous origins", "Olympic LA 2028", "Field and box"],
+    "overview": [
+      "Lacrosse is played with a small solid rubber ball caught, carried, and thrown in the pocket of a long-handled stick called a crosse. Men's field lacrosse is 10 v 10 on a surface longer than a soccer pitch, women's field is 12 v 12 with finesse checking, and box lacrosse packs 6 v 6 into hockey rinks. A new 6 v 6 discipline called sixes was built by World Lacrosse specifically for the Olympic stage.",
+      "The game is the medicine game of the Haudenosaunee — tewaaraton, played for centuries as ritual, healing, and preparation for war — and the Haudenosaunee Nationals still compete among the world's elite as one of the few national teams defined by Indigenous identity. Lacrosse was an Olympic medal sport in 1904 and 1908, faded to demonstration status, and returns at the Los Angeles 2028 Games, a homecoming more than a century in the making.",
+      "Newcomers should know that stick skills are the whole sport. Catching and throwing with both hands inside the pocket decides everything else, and the fastest way to acquire them is daily wall work, not games. Learn to cradle before you learn to shoot."
+    ],
+    "facts": [
+      ["Played for centuries", "Tewaaraton, the Haudenosaunee medicine game — played long before European contact"],
+      ["First documented", "1636 — French missionary Jean de Brébeuf names the game lacrosse after a bishop's crosier"],
+      ["Governing body", "World Lacrosse, formed in 2008 from the men's and women's federations and renamed in 2019 — more than 90 member nations"],
+      ["Team size", "10 v 10 in men's field, 12 v 12 in the women's game, 6 v 6 in box lacrosse and sixes"],
+      ["Match length", "Four quarters, 15 minutes each in NCAA play, with a shot clock in college and professional games"],
+      ["Playing area", "Field lacrosse pitch about 100.6 m by 54.9 m (110 by 60 yards); goals 1.8 m square"],
+      ["Olympic status", "Medal sport in 1904 and 1908, demonstration until 1948, back on the program for Los Angeles 2028 in sixes"]
+    ],
+    "history": [
+      ["Pre-1500s", "Haudenosaunee nations play tewaaraton as a healing ritual and warrior training — the medicine game of origin stories and community obligation."],
+      ["1636", "Jesuit missionary Jean de Brébeuf records the game near the Georgian Bay and gives it the French name lacrosse."],
+      ["1856-1867", "Montreal Lacrosse Club forms in 1856; George Beers publishes uniform rules in 1867 and the National Lacrosse Association of Canada is founded."],
+      ["1904-1908", "Lacrosse is an Olympic medal sport at St. Louis and London; Canada wins both tournaments."],
+      ["1974-1987", "The International Lacrosse Federation forms in 1974; box lacrosse goes professional with the National Lacrosse League's first season in 1987."],
+      ["2018-2023", "The IOC grants provisional recognition in 2018, full recognition in 2021, and in 2023 confirms lacrosse's return at LA 2028 in the sixes format."]
+    ],
+    "formats": [
+      ["Field lacrosse (men)", "10 v 10 with body checking, long-stick defenders, and the six-across-midfield offside rule; NCAA games run four 15-minute quarters."],
+      ["Field lacrosse (women)", "12 v 12 with controlled stick checks only, stricter shooting-space rules, and a center draw to restart play."],
+      ["Box lacrosse", "6 v 6 inside hockey rinks with boards, a 30-second shot clock, and goalies who face a hail of close-range shots — the NLL's game."],
+      ["Sixes", "World Lacrosse's compact 6 v 6 format with four 8-minute quarters, no long poles, and a smaller field — built for the Olympics and emerging nations."],
+      ["College lacrosse", "The NCAA championships, for men since 1971 and women since 1982, remain the sport's biggest annual stage in the United States."]
+    ],
+    "skills": [
+      ["Cradling", "Rocking the stick with wrist and forearm so the ball stays seated in the pocket while running at speed.", "Wall-ball with one hand on the shaft — 50 reps each side, then cradle through cones at full speed."],
+      ["Catching and passing", "Soft hands away from the body, then an overhand throw driven by the top hand pulling and the bottom hand pushing.", "Partner lines at 10 and 20 meters; 100 clean catches before any shooting, half with the weak hand only."],
+      ["Ground balls", "Scooping through the ball with low hips and two hands — the scrappy skill that decides possession.", "Roll the ball, scoop, sprint five steps; then make it a live 50-50 race against a partner."],
+      ["Dodging", "Split, roll, and bully dodges that beat a defender's stick and force the defense to slide.", "1 v 1 alley runs to the cage with a live defender; the goal is to beat the stick, not the body."],
+      ["Shooting", "An overhand rip with torque from hips and shoulders, sidearm and underhand for changing angles and tight windows.", "Static form first, then on-the-run shots from 5 and 10 meters, targeting the four corners of the 1.8 m goal."],
+      ["Checking", "Poke and slap checks with the stick to dislodge the ball; body contact is legal but tightly policed.", "Poke-check repetition against a cradling partner — footwork first, stick second, head of the stick to the hands."],
+      ["Face-offs and draws", "The clamp, rake, and jam that restart play after every goal in the men's game; the draw does the same in the women's.", "Whistle-to-whistle reps against a live opponent, tracking wins out of every 20 tries."]
+    ],
+    "rules": [
+      "Men's field lacrosse is 10 v 10; a team may not send more than six players across midfield on offense and must keep seven, usually including the goalie, back on defense.",
+      "Body checking is legal only against the ball-carrier or a player within five yards of a loose ball; hits to the head and from behind draw penalties.",
+      "The pocket must be legal depth — a stuck ball is raked free by the referee, and a pocket that traps too deep is a stick violation.",
+      "Penalties send players to the box for 30 seconds for technical fouls or one to three minutes for personal fouls, handing the opponent a man-up power play.",
+      "The women's game polices contact strictly: only controlled stick checks are legal, and a shooting-space violation protects players in front of the goal.",
+      "After every goal, men's play restarts with a face-off at center and women's play with a center draw.",
+      "College and professional games run a shot clock — 80 seconds in NCAA men's play — that forces a shot on goal or a turnover."
+    ],
+    "equipment": [
+      ["Stick (crosse)", "Head, pocket, and shaft; roughly 1.0-1.2 m for attackers and midfielders, with defensive long poles up to 1.8 m. A starter stick costs $60-150."],
+      ["Ball", "Solid vulcanized rubber weighing about 142 g; a dozen practice balls run $30-50."],
+      ["Helmet", "Mandatory in men's field and all box play; $120-300."],
+      ["Gloves and pads", "Padded gloves, shoulder, rib, and arm protection in the men's game; a full set runs $100-250."],
+      ["Women's kit", "Protective goggles, mouthguard, and lighter gloves — simpler and cheaper at $50-120 for the set."],
+      ["Goal", "1.8 m square with netting; portable practice goals cost $150-400."]
+    ],
+    "training": [
+      "Stick skills are volume work: 15-20 minutes of daily wall-ball, alternating hands, does more than any gadget.",
+      "Lacrosse is change-of-direction sprinting — train deceleration and re-acceleration with lateral bounds and 5-10-5 shuttles.",
+      "Build a contact-ready core and neck; loaded carries and anti-rotation work transfer directly to legal checks and screens.",
+      "Goalies live on reps: 100 short-range reaction saves from a coach's flip per session, with the eyes leading the hands.",
+      "Condition for repeated 15-30 second sprints with incomplete rest — the exact rhythm of a shift, a ride, or a clear."
+    ],
+    "pathway": [
+      ["First stick", "Parks programs and school clinics teach wall-ball and ground-ball games — the two skills everything else stands on."],
+      ["Club and school", "Town travel teams and high school lacrosse, where most American and Canadian players develop."],
+      ["Showcase and college", "Summer club circuits and recruiting camps feed NCAA rosters, the sport's de facto professional ladder."],
+      ["Pro leagues", "The Premier Lacrosse League for field and the National Lacrosse League for box pay the top players in the world."],
+      ["International", "World Championships every four years and the Haudenosaunee Nationals' seat among the elite set the global stage toward LA 2028."]
+    ],
+    "events": [
+      ["World Lacrosse Championship", "Men's field world title, quadrennial since 1967; the United States leads with 11 championships to Canada's three."],
+      ["Women's Lacrosse World Cup", "The women's world championship, held since 1982, with the United States the dominant force and Australia its chief rival."],
+      ["World Indoor Lacrosse Championship", "Box lacrosse's world title, staged since 2003 — Canada has won every edition."],
+      ["Premier Lacrosse League", "The American professional field league, touring cities across a summer season since its 2019 launch."],
+      ["Olympic Games 2028", "Lacrosse returns as a medal sport in Los Angeles, contested in sixes for men and women."]
+    ],
+    "legends": [
+      ["Jim Brown", "A National Lacrosse Hall of Fame inductee and Syracuse All-American before his NFL fame — many still call him the greatest all-around athlete the sport has seen."],
+      ["Gary Gait", "Syracuse and Team Canada great whose vertical dunking redefined offensive lacrosse across a Hall of Fame field and box career."],
+      ["Paul Gait", "Gary's twin and partner — together the brothers rewrote what the stick could do, behind-the-back shots included."],
+      ["Lyle Thompson", "Haudenosaunee attacking great and two-time Tewaaraton Award winner (2014 and 2015) who plays the game the way it was invented — as a medicine."],
+      ["Paul Rabil", "Two-time NCAA champion at Johns Hopkins and co-founder of the Premier Lacrosse League; the sport's first modern entrepreneur-athlete."]
+    ],
+    "getting_started": [
+      "Buy a starter stick for $60-150 and find a wall; skip the padding until you know you are hooked.",
+      "Wall-ball every day — 20 minutes, 50 reps per hand — because catching and throwing are 90 percent of the sport.",
+      "Learn to cradle with both hands before you learn to shoot; weak-hand skill separates players faster than anything else.",
+      "Join a beginner league within a month; most cities run programs that lend sticks and teach the rules on the field.",
+      "Watch one Premier Lacrosse League weekend — the broadcast teaches field positioning better than any textbook.",
+      "If you come from hockey or basketball, try box lacrosse; the six-a-side game shortens the learning curve."
+    ],
+    "glossary": [
+      ["Crosse", "The full name of the stick — head, pocket, and shaft — from the French for a bishop's crosier."],
+      ["Cradle", "Rocking the stick to keep the ball seated in the pocket while running or absorbing checks."],
+      ["Ground ball", "A loose ball on the turf; winning them decides games at every level."],
+      ["Clamp", "A face-off move that pins the ball under the head of the stick to steal the first touch."],
+      ["Clear", "Moving the ball from defense to offense; failing to clear is a costly turnover."],
+      ["Ride", "Attacking the clear to trap the ball deep in the clearing team's end."],
+      ["Slide", "The double-team sent at the ball-carrier; sliding well is the heart of team defense."],
+      ["Crease", "The 2.74-meter circle around the goal that only the goalie and defenders may occupy."],
+      ["Tewaaraton", "The Mohawk name for the original game, little brother of war — also the college game's Heisman-style award."],
+      ["Man-up", "The power play created when an opponent sits in the penalty box."]
+    ],
+    "related": ["hurling", "field-hockey", "ice-hockey", "basketball"],
+    "crosslink": false
+  },
+  {
+    "slug": "volleyball",
+    "name": "Volleyball",
+    "category": "team-ball",
+    "glyph": "🏐",
+    "tagline": "Six players, three touches, a net, and rallies that end two meters above the floor.",
+    "origin": "United States · 1895",
+    "tags": ["Team sport", "Olympic since 1964", "World Championship", "Rally scoring"],
+    "overview": [
+      "Volleyball is two teams of six trading a ball over a 2.43-meter net for men and 2.24 meters for women on an 18-by-9-meter court. Each side may touch the ball three times — receive, set, attack — before sending it back, and every rally scores a point under the rally-scoring rules adopted worldwide in the late 1990s. Best-of-five sets to 25 points, with a deciding set to 15, make comebacks structural rather than lucky.",
+      "Invented as a gentler alternative to basketball for businessmen, it became one of the planet's most-played sports: the FIVB counts more than 220 member federations, and the Olympic tournament sits among the most-watched events of every Games. The sport's genius is scalability — the same rules govern a birthday-party court and the Volleyball Nations League final.",
+      "Newcomers should know that volleyball is won in the first touch. Serve-receive passing decides far more points than hitting, so the platform — joined forearms angled to target — is the first skill to own. Footwork for the approach comes before arm swings."
+    ],
+    "facts": [
+      ["Invented", "1895 — William G. Morgan, a YMCA director in Holyoke, Massachusetts, blends tennis, baseball, and basketball into a game first called Mintonette"],
+      ["Governing body", "FIVB, founded in Paris in 1947; over 220 national federations across five continental confederations"],
+      ["Team size", "6 v 6 on court with rosters of 12 to 14; the libero defensive specialist entered the rules in 1998"],
+      ["Match length", "Best of five sets to 25 points, fifth set to 15, all by two clear points — about 90-110 minutes"],
+      ["Playing area", "18 m by 9 m court with a 3-meter attack line; net at 2.43 m for men and 2.24 m for women"],
+      ["Ball", "65-67 cm circumference and 260-280 g — bigger and lighter than a soccer ball"],
+      ["Olympic status", "Medal sport for men and women since Tokyo 1964"]
+    ],
+    "history": [
+      ["1895", "William G. Morgan creates Mintonette at the Holyoke YMCA; a Springfield College professor renames it volleyball after watching the ball volleyed in flight."],
+      ["1896-1916", "The game travels through the YMCA network to Canada and Asia, and players in the Philippines develop the set and spike that turn volleyball athletic."],
+      ["1947-1949", "Fourteen federations found the FIVB in Paris; the first men's World Championship follows in Prague in 1949."],
+      ["1964", "Volleyball debuts at the Tokyo Olympics; the Soviet Union takes the first men's gold and Japan the first women's."],
+      ["1998", "The FIVB introduces rally scoring and the libero, ending the serve-and-sideout era and making every rally a point."],
+      ["2018", "The Volleyball Nations League replaces the World League and Grand Prix as the sport's annual global circuit."]
+    ],
+    "formats": [
+      ["Indoor 6 v 6", "The Olympic game — three touches, rotations, libero, and the deepest tactical systems in the sport."],
+      ["Beach volleyball", "Two-a-side on sand, Olympic since 1996 and a fully separate discipline with its own page of this library."],
+      ["Sitting volleyball", "Paralympic sport for men since 1980 and women since 2004, played on a 10-by-6-meter court with a lower net and a fast ground game."],
+      ["Nine-man volleyball", "The nine-a-side Chinese-American tradition with no rotation and an open net game, anchored by the North American Chinese Invitational Volleyball Tournament since 1944."],
+      ["Snow volleyball", "A three-a-side winter variant recognized by the FIVB and played in boots and jackets on mountain snow."]
+    ],
+    "skills": [
+      ["Serving", "Float serves wobble without spin; jump serves are struck with topspin at over 100 km/h to break the first touch.", "Serve 50 balls per session to three zones — deep corner, short middle, and the seam between passers."],
+      ["Forearm passing", "Platform contact with locked elbows and angled wrists; the ball rebounds off the platform rather than being caught.", "100 passes against a partner's tosses, angled each rep into a marked target zone."],
+      ["Setting", "Fingertip contact in a window above the forehead with both hands finishing toward the target.", "Self-toss, then 100 sets to a target circle; half of them back sets behind the head."],
+      ["Attacking", "A four-step approach, two-foot jump, and full arm swing with wrist snap on contact — power is timing, not muscle.", "50 dry approaches without a ball, then hitting through controlled tosses with the block's hands as the target."],
+      ["Blocking", "Read the setter, seal the net with the hands, and penetrate over the tape into the hitter's airspace.", "Mirror-jump drills against a setter, calling line or angle on every rep."],
+      ["Digging", "Defense below the tape — platform or overhead — with hips low and eyes on the hitter's arm swing.", "A coach hitting from a box; dig 50 balls to a playable spot near the 3-meter line, not merely up."],
+      ["Serve receive", "The first touch that decides everything; passers form a triangle behind the 3-meter line.", "Track your pass quality out of 50 serves received, aiming for 40 that reach the target."]
+    ],
+    "rules": [
+      "Six players a side; each team may touch the ball up to three times, and a block does not count as a touch.",
+      "Players rotate clockwise one position each time their team wins serve back, so every player attacks, sets, and defends in turn.",
+      "Rally scoring to 25 points in the first four sets and 15 in the fifth, always by a two-point margin, best of five sets.",
+      "The libero wears a contrasting color, cannot serve, block, or attack a ball above net height, and substitutes freely in back-row defensive spots.",
+      "Back-row players may not attack from above the top of the net or block in front of the 3-meter line.",
+      "Touching the net between the antennas, four team touches, or a caught-and-thrown ball hands the rally to the opponent.",
+      "Each team gets two 30-second timeouts per set."
+    ],
+    "equipment": [
+      ["Ball", "FIVB-spec indoor ball of 65-67 cm and 260-280 g; a quality match ball runs $40-80."],
+      ["Knee pads", "The sport's signature protection for floor defense; $15-40."],
+      ["Shoes", "Volleyball-specific court shoes with gum rubber soles and cushioned midsoles built for jumping; $70-150."],
+      ["Net system", "Adjustable poles and a net spanning about 9.5-10 m for an 18-by-9-meter court; home systems cost $150-400."],
+      ["Antennas and lines", "Red-and-white antennas mark the crossing plane above the net; all court lines are 5 cm wide."],
+      ["Uniforms", "Numbered jerseys with a contrasting libero kit, mandatory in organized play."]
+    ],
+    "training": [
+      "Count your jumps — spike, block, and serve loads tax knees and shoulders, so cap volume and land on two feet through the toes.",
+      "Train the vertical with loaded squats, trap-bar jumps, and low-volume high-quality plyometrics two or three times weekly.",
+      "Protect shoulders with external-rotation work and scapular control; rotator-cuff prehab is non-negotiable for attackers.",
+      "Rally fitness is repeat-sprint work: 15-30 second bursts with short rests mirror match demands better than long steady runs.",
+      "Serve-receive is trained, not hoped for — every session includes passing under pressure with consequences."
+    ],
+    "pathway": [
+      ["Backyard and school", "The sport starts at picnics and gym classes; a ball and a rope net are enough to learn the three-touch rhythm."],
+      ["Club volleyball", "Regional clubs run tryouts, weekend tournaments, and positional coaching from roughly age 12."],
+      ["National junior system", "Provincial and junior national championships where national-team scouts do most of their watching."],
+      ["Professional leagues", "Italy, Poland, Japan, and Turkey run the strongest paid circuits, alongside growing leagues in Brazil, Iran, and China."],
+      ["National team", "The Olympic cycle and the Volleyball Nations League define the international calendar for the top 18 or so nations."]
+    ],
+    "events": [
+      ["Olympic tournament", "Every four years since 1964, twelve teams per gender after a worldwide qualification road."],
+      ["FIVB World Championship", "The sport's oldest title, for men since 1949 and women since 1952, expanded to 32 teams on a two-year cycle from 2025."],
+      ["Volleyball Nations League", "The FIVB's annual traveling league since 2018 for the world's top national teams, built for broadcast."],
+      ["Club World Championship", "The FIVB's annual club crown, long dominated by Brazilian and Italian powerhouses."],
+      ["Continental championships", "The European, Asian, Pan-American, and African titles each summer feed world qualification."]
+    ],
+    "legends": [
+      ["Karch Kiraly", "The only player with Olympic gold indoors in 1984 and 1988 and on the sand in 1996 — widely called the greatest volleyball player ever."],
+      ["Regla Torres", "Centerpiece of Cuba's three straight women's Olympic titles from 1992 to 2000, a gold medalist at 17 in Barcelona."],
+      ["Giba", "Brazil's attacking talisman of the 2000s — Olympic gold in 2004 and back-to-back world championships in 2002 and 2006."],
+      ["Misty May-Treanor", "Three Olympic beach golds from 2004 to 2012 alongside Kerri Walsh Jennings, after an NCAA indoor title with Long Beach State."],
+      ["Kerri Walsh Jennings", "The other half of beach volleyball's greatest dynasty — three golds, a 2016 bronze, and the longest winning streak the sport has known."]
+    ],
+    "getting_started": [
+      "Find a rec league or drop-in night; organized volleyball welcomes beginners far better than pickup parks.",
+      "Learn platform passing first — 15 minutes against a wall each day, then a partner.",
+      "Buy knee pads and court shoes before a fancy ball; your knees outlast your enthusiasm without them.",
+      "Practice the approach footwork off-ball until it is automatic; the arm swing is easy once the feet are right.",
+      "Watch NCAA finals or Volleyball Nations League rallies and count how many points are won on the first touch.",
+      "Play grass doubles or co-ed sixes weekly — more touches per person is the whole curriculum."
+    ],
+    "glossary": [
+      ["Ace", "A serve that lands untouched or shatters the first pass."],
+      ["Kill", "An attack that ends the rally with a point, unbeatable by the defense."],
+      ["Dig", "A defensive recovery of a hard-driven attack."],
+      ["Pipe", "A back-row attack launched from central court behind the 3-meter line."],
+      ["Tool", "Deliberately playing the ball off the blocker's hands and out for a point."],
+      ["Joust", "Two opposing players contesting the ball at the net tape at the same moment."],
+      ["Dump", "The setter's surprise second-touch attack over the net."],
+      ["Shank", "A wild first touch that flies nowhere near the setter."],
+      ["Cover", "Surrounding your own attacker to dig out a blocked ball."],
+      ["Sideout", "The classic term for regaining serve — now slang for winning the rally off a strong defense."]
+    ],
+    "related": ["beach-volleyball", "handball", "netball", "sepak-takraw"],
+    "crosslink": false
+  },
+  {
+    "slug": "beach-volleyball",
+    "name": "Beach Volleyball",
+    "category": "team-ball",
+    "glyph": "🏖️",
+    "tagline": "Two players, a mountain of sand, and every skill from block to swing owned by both.",
+    "origin": "United States (California) · 1920s",
+    "tags": ["Olympic since 1996", "Two-a-side", "Sand sport", "No substitutions"],
+    "overview": [
+      "Beach volleyball is volleyball distilled: two players per side on a 16-by-8-meter sand court, playing best-of-three sets to 21 with a deciding set to 15. There are no substitutions and no coaching between points — whatever skill your pair lacks, one of you must provide it. The block counts as the team's first touch, so defense and attack flow through the same two athletes.",
+      "Born on the beaches of Santa Monica and raised in Manhattan Beach lore, the sport turned professional in the 1970s, joined the Olympics in 1996, and now sells out beaches on every continent. Every jump costs more in sand, every seam in the defense is man-made, and the communication between partners is the sport's hidden spectacle.",
+      "Newcomers should know that sand changes the game's physics: run to the ball and stop, set the ball clean and still, and read the wind before you read the opponent. Passing and setting under breeze are the first skills to train."
+    ],
+    "facts": [
+      ["Born", "1920s — the sand courts of Santa Monica and Playa del Rey turned six-man volleyball into a beach phenomenon; the two-person game appears around 1930"],
+      ["Governing bodies", "FIVB runs the international game; the AVP has run the American professional tour since 1983"],
+      ["Team size", "2 v 2 with no substitutions — block, dig, set, and attack from the same two people"],
+      ["Match length", "Best of three sets, 21 points for the first two and 15 in the decider, always by two"],
+      ["Playing area", "16 m by 8 m court with at least 40 cm of sand; net heights identical to indoor at 2.43 m and 2.24 m"],
+      ["Ball", "66-68 cm circumference, softer and lower-pressured than the indoor ball for control in wind"],
+      ["Olympic status", "Olympic sport for men and women since Atlanta 1996"]
+    ],
+    "history": [
+      ["1920s-1930s", "Beach volleyball grows out of Santa Monica's volleyball clubs; the first two-person game is played around 1930."],
+      ["1948", "The first prize tournaments appear at Manhattan Beach, with winners reportedly collecting a crate of Pepsi-Cola."],
+      ["1976", "The first open professional event draws the game's best to Will Rogers State Beach and beach volleyball becomes a career."],
+      ["1983", "The Association of Volleyball Professionals forms to run the American tour."],
+      ["1987-1997", "The FIVB launches the international circuit with an event in Ipanema in 1987, beach volleyball debuts at the Atlanta Olympics in 1996, and the first World Championship follows in Los Angeles in 1997."],
+      ["2004-2012", "Misty May-Treanor and Kerri Walsh Jennings win three straight Olympic titles and 21 consecutive Olympic matches."]
+    ],
+    "formats": [
+      ["Beach Pro Tour", "The FIVB's international circuit since 2022, tiered from Futures through Challenge to Elite16 majors."],
+      ["AVP tour", "The American circuit since 1983 — the sport's spiritual home with its deepest professional fields."],
+      ["World Championships", "The FIVB's world title for national pairs, contested every two years since 1997."],
+      ["NCAA beach volleyball", "A fully sponsored American college sport since 2016 whose championship each May has built the women's talent pipeline."],
+      ["Grassroots doubles", "King and queen of the beach, co-ed quads, and park doubles — the formats every player starts in."]
+    ],
+    "skills": [
+      ["Passing in sand", "Run to the ball, then stop; the platform stays shallow because the sand absorbs the ball's pace.", "A partner serves 50 balls from the far side; land each pass inside a 2-meter circle near the net."],
+      ["Beach setting", "Clean, still hands — spinning or drifting overhand sets are whistled, and setting over the net with fingers is illegal.", "Set 100 balls in a cross-breeze, chasing stillness at the moment of contact."],
+      ["Attacking into space", "With only one blocker, every swing has a seam; cut shots and high hands over the block replace raw power.", "Split the court with cones and hit 30 balls to each seam at match speed."],
+      ["Blocking and pulling", "Call line or angle for your partner, block, then pull off the net on defense to dig behind your own hands.", "Block-pull-dig repetitions with a coach calling shots; the communication is part of the rep."],
+      ["Jousting", "The contested ball at the tape, won with patience and strong wrists rather than brute strength.", "Partner jousts on a call — hold the high hands and finish the push upward and over."],
+      ["Serving in wind", "Shortened-toss jump floats into the wind, heavy topspin with the wind at your back.", "Serve 30 balls per session alternating wind directions, tracking aces and broken passes."],
+      ["Sand movement", "Shorter, quicker steps with an upright posture; takeoffs sink, so jumping is trained differently from indoor.", "Sand sprints of 4 by 20 meters with walk-back rests, plus low box jumps on firm ground."]
+    ],
+    "rules": [
+      "Two players per side, no substitutions and no coaching between points — the pair solves everything itself.",
+      "The court is 16 by 8 meters with the same net heights as indoor; elite sand must be at least 40 cm deep.",
+      "Rally scoring to 21 for the first two sets and 15 in the third, by two clear points, with sides switching every 7 points played (every 5 in the decider).",
+      "An overhand set must be clean and still — spin or drift is a fault — and finger sets over the net are illegal.",
+      "The block counts as the first of the team's touches, leaving two contacts to dig and set or set and attack.",
+      "A hard-driven ball may be received with an overhand double-contact beach dig only as the first team touch.",
+      "Partners alternate serves, and either player may attack from anywhere on their side of the net."
+    ],
+    "equipment": [
+      ["Sand", "Fine, drained sand at least 40 cm deep at the elite level; any deep-sand beach or park court works to learn."],
+      ["Beach ball", "A softer, larger-feeling ball of 66-68 cm with lower air pressure; $30-60."],
+      ["Sunglasses", "Polarized, strap-secured glasses are standard professional kit against glare and kicked sand; $50-200."],
+      ["Sand socks", "Neoprene socks against burning courts — the one purchase that saves more beginner sessions than any other; $15-40."],
+      ["Court lines", "Ribbon or taped boundaries strung at the corners; portable line sets cost $50-100."],
+      ["Net system", "A net and poles set outside the 8-meter court; portable systems run $200-500."]
+    ],
+    "training": [
+      "Sand makes you strong: sprints, bounds, and jump repetitions in soft sand build legs that transfer to every surface.",
+      "Jump mechanics change on sand — train shorter, faster ground contact and count jumps to manage load in summer heat.",
+      "Shoulder and core endurance for high swing volume; band work and rotational medicine-ball throws are the standard.",
+      "Train heat tolerance and hydration deliberately — elite matches run 90 minutes in midday sun with no shade.",
+      "Play mixed doubles and king-of-the-beach formats; touching every role accelerates the judgment that two-a-side demands."
+    ],
+    "pathway": [
+      ["Park doubles", "A net, four players, and a summer evening — the entry point for nearly everyone."],
+      ["Local club circuit", "Regional tournaments teach the two-person game's tactics, switching systems, and unwritten etiquette."],
+      ["National junior tour", "Youth and junior championships in the United States, Brazil, and Europe feed the professional pipeline."],
+      ["Pro circuit", "Futures and Challenge events lead to Elite16 majors and, in time, the two-year Olympic qualification race."],
+      ["Olympic Games", "Quota places are earned through world rankings over the cycle — the sport's summit every four years."]
+    ],
+    "events": [
+      ["Olympic tournament", "Every four years since 1996, 24 pairs per gender qualifying through a two-year rankings race."],
+      ["FIVB Beach Volleyball World Championships", "The world title for national pairs, every two years since 1997."],
+      ["Beach Pro Tour Elite16", "The top tier of the annual FIVB circuit since 2022, featuring the world's leading 16 pairs."],
+      ["AVP season", "The American tour's summer run from Huntington Beach to Chicago, with the AVP Championships closing the year."],
+      ["NCAA Championship", "American college beach volleyball's team title, contested each May since 2016."]
+    ],
+    "legends": [
+      ["Karch Kiraly", "The only player with indoor golds in 1984 and 1988 and a beach gold in 1996 with Kent Steffes — the bridge between the two games."],
+      ["Misty May-Treanor", "Three Olympic titles from 2004 to 2012 and 21 straight Olympic match wins — the winningest competitor the sport has seen."],
+      ["Kerri Walsh Jennings", "May-Treanor's partner across the dynasty, an Olympic bronze in 2016 with April Ross at 37, and the sport's great ambassador."],
+      ["Emanuel Rego", "Brazil's tactical master — Olympic champion in Athens 2004 with Ricardo Santos after a record-setting world-title career."],
+      ["Phil Dalhausser", "The Thin Beast — 2008 Olympic champion and one of the game's great blocking and net-defense artists."]
+    ],
+    "getting_started": [
+      "Find sand: most large cities maintain beach courts, and an hour of play costs nothing but sunscreen.",
+      "Learn the two-touch rhythm early — the block counts as your first touch, so dig and set become one motion.",
+      "Serve a float first; power serves are wasted in wind until the toss is consistent.",
+      "Play with many partners — the sport's real vocabulary is communication, and it is learned by talking.",
+      "Buy sand socks before summer courts burn your feet; burned feet end more beginner careers than bad passes.",
+      "Watch an AVP final for the block-pull system, then replay one point and name every call made."
+    ],
+    "glossary": [
+      ["Pull", "The blocker dropping off the net to play defense after the serve — a signature beach move."],
+      ["Cut shot", "A sharp-angled attack sliced with topspin into the open corner."],
+      ["Joust", "A contested ball at the tape, won by whoever pushes last and strongest."],
+      ["Pokey", "A one-handed defensive dig played with the knuckles."],
+      ["Fish", "An overhead, spread-finger dig used to absorb a hard-driven first ball — legal on the first team touch only."],
+      ["Kong block", "A one-armed block, the other hand kept out of play — a beach improvisation."],
+      ["Seam", "The gap between two defenders, or between blocker and digger, that attacks are aimed into."],
+      ["Side out", "Winning the rally on defense to regain the serve — the term that once named the old scoring system."],
+      ["Wind play", "Reading the breeze — floaters served into the wind, heavy topspin served with it."],
+      ["Deep court", "The defensive position pulled well off the net behind the block."]
+    ],
+    "related": ["volleyball", "beach-soccer", "handball", "water-polo"],
+    "crosslink": false
+  },
+  {
+    "slug": "handball",
+    "name": "Handball (Team Handball)",
+    "category": "team-ball",
+    "glyph": "🤾",
+    "tagline": "Basketball's footwork with soccer's goals and a full-speed collision in between.",
+    "origin": "Germany and Denmark · 1917",
+    "tags": ["Olympic since 1972", "Indoor", "World Championship", "Fast and physical"],
+    "overview": [
+      "Team handball is 7 v 7 on a 40-by-20-meter court, two 30-minute halves, and a ball thrown at 3-by-2-meter goals guarded by keepers who fill most of them. Players dribble, take three steps, hold the ball three seconds, and launch themselves from outside the 6-meter line to shoot over or through defenses. Scores of 25 to 30 goals a side are normal, and a goal arrives roughly every 40 seconds.",
+      "It is Europe's second indoor religion — enormous in Germany, the Nordic countries, France, Spain, the Balkans, and North Africa — and its Champions League Final4 in Cologne sells out 20,000 seats like a cup final. The French call their golden generation Les Experts; the Danes turned the last decade into a dynasty.",
+      "Newcomers should know that the footwork rules are the game's grammar: three steps, then dribble or pass, with the jump shot learned from a standstill before ever moving. The goalkeeper is a spectacle in their own right and the sport's most specialized craft."
+    ],
+    "facts": [
+      ["Codified", "1917 — modern rules published in Germany, drawing on Danish haandbold traditions of the 1890s"],
+      ["Governing body", "International Handball Federation (IHF), founded 1946 in Copenhagen; more than 200 member federations"],
+      ["Team size", "7 v 7 on court — six field players and a goalkeeper — with unlimited flying substitutions"],
+      ["Match length", "Two 30-minute halves with a running clock; drawn knockout matches add two 5-minute overtime periods"],
+      ["Playing area", "40 m by 20 m court with 3-by-2-meter goals and a 6-meter goal-area line"],
+      ["Ball", "58-60 cm and 425-475 g for men; 54-56 cm and 325-375 g for women"],
+      ["Olympic status", "Indoor handball Olympic since Munich 1972 for men and Montreal 1976 for women; the outdoor 11-a-side game appeared in 1936"]
+    ],
+    "history": [
+      ["1890s-1917", "Danish gym teachers and German school reformers such as Holger Nielsen and Konrad Koch codify the ball games that converge into handball; the first modern rules appear in Berlin in 1917."],
+      ["1928-1936", "The International Amateur Handball Federation forms in 1928; outdoor 11-a-side handball is an Olympic sport at the 1936 Berlin Games."],
+      ["1938", "Germany hosts and wins the first indoor seven-a-side World Championship, born as a winter alternative to the field game."],
+      ["1946", "Eight nations found the IHF in Copenhagen, and indoor play steadily replaces the outdoor field game worldwide."],
+      ["1972-1976", "Indoor handball debuts at the Munich Olympics; the women's tournament follows in Montreal in 1976."],
+      ["1995-2025", "France's Les Experts win six world titles and three Olympic golds; Denmark then answers with three straight men's world championships from 2021 to 2025."]
+    ],
+    "formats": [
+      ["Indoor 7 v 7", "The Olympic standard: 40-by-20-meter court, two 30-minute halves, and the world's strongest leagues in Europe."],
+      ["Beach handball", "4 v 4 on sand with spin shots and keeper goals worth two points — an IHF world title since 2016 and a Youth Olympic Games sport in 2014."],
+      ["Field handball", "The original 11-a-side outdoor game, Olympic in 1936 and still played in Germany and Scandinavia as a heritage format."],
+      ["Mini handball", "Smaller courts, lighter balls, and simplified rules for children under eight — the entry point across European schools."]
+    ],
+    "skills": [
+      ["Jump shot", "The signature throw — drive, leap, and release at the apex over defenders or the keeper's shoulder.", "60 shots per session from three angles: center, back position, and 9 meters."],
+      ["Wing play", "Corner attackers who score from impossible angles, often airborne outside the court when they release.", "50 flying shots per session, turning in the air past a coach-thrown keeper cue."],
+      ["Pivot play", "The line player who screens, seals, and finishes from 6 meters among the defense.", "Footwork ladders, then catch-and-finish repetitions with a passive defender to beat."],
+      ["Passing", "Overhead, bounce, behind-the-back, and spin passes — all one-handed, many from the air.", "Pair passing in continuous motion for 10 minutes without feet ever stopping."],
+      ["6-0 defense", "The flat six-man wall with step-out pressure — handball's most common defensive shape.", "Shadow drills where defenders shift as one unit on a coach's point calls."],
+      ["Goalkeeping", "Close-range shot-stopping with split-second reads; keepers are the sport's celebrities.", "Massed-shot blocks of 100 throws, reacting to hip, arm, and foot fakes."],
+      ["Fast break", "Goalkeeper save to sprinting wing in under five seconds — the game's most electric sequence.", "Break drills: keeper outlet to two runners against one defender, ten repetitions each direction."]
+    ],
+    "rules": [
+      "Seven players a side with unlimited rolling substitutions — the game never stops for changes.",
+      "Field players may take three steps, hold the ball three seconds, and dribble freely; dribbling resets the step count.",
+      "Only the goalkeeper may stand inside the 6-meter goal area; attackers may leap into it if they release the ball before landing.",
+      "A clear scoring chance illegally stopped gives a 7-meter penalty throw; lesser fouls give a 9-meter free throw from the dashed line.",
+      "Defenders may use their torso to block but must not hold, hit, or push; rough play brings two-minute suspensions, and a third sends the player off.",
+      "Each team gets three 60-second team timeouts per match.",
+      "The clock stops in the last minute of each half and for team timeouts, keeping late finishes live."
+    ],
+    "equipment": [
+      ["Ball", "Resin-friendly leather or synthetic balls — 58-60 cm for men, 54-56 cm for women; $40-90."],
+      ["Goals", "3-by-2-meter frames with nets; club-grade goals cost $500-1,500, so beginners play in gyms with supplied ones."],
+      ["Court shoes", "Indoor court shoes with strong lateral support for cutting; $60-130."],
+      ["Resin", "Sticky rosin that improves grip on leather balls — standard at elite level, banned in some youth leagues; $10-20."],
+      ["Goalkeeper kit", "Long trousers, padded sleeves, and knee protection; $80-200."],
+      ["Uniforms", "Numbered jerseys with contrasting goalkeeper colors, mandatory in organized play."]
+    ],
+    "training": [
+      "Handball is repeat-sprint anaerobic work — train 10-30 meter accelerations with short recoveries, the rhythm of each attack.",
+      "Jump power for the shot: countermovement jumps, single-leg bounds, and landing mechanics that spare knees and ankles.",
+      "Shoulders take the beating — manage throw volume and commit to rotator-cuff and scapular work to prevent the sport's overuse injuries.",
+      "Footwork rules mean agility ladders and 1-2-3 step patterns practiced until they are reflex.",
+      "Goalkeepers train like wrestlers: hip mobility, video-based reaction work, and massed shot-blocking."
+    ],
+    "pathway": [
+      ["School and mini handball", "Small balls and small courts from age six across European school systems."],
+      ["Club youth", "Academies at clubs such as Kiel, Barcelona, and Veszprém scout early and train three to four times weekly."],
+      ["National junior teams", "Under-18 and Under-20 world and European tournaments mark the elite track."],
+      ["Professional leagues", "Germany's Handball-Bundesliga and the EHF Champions League sit at the peak of club play."],
+      ["National team", "World Championships now biennial and Olympics every four years define the international calendar."]
+    ],
+    "events": [
+      ["IHF World Championship", "For men since 1938 and women since 1957 — France leads the men's roll with six titles, Denmark the reigning force."],
+      ["Olympic handball", "Every Games since Munich 1972, twelve teams per gender."],
+      ["EHF Champions League", "Europe's club crown, decided since 2010 at the Final4 weekend in Cologne."],
+      ["European Championship", "The continental title for men and women, biennial since 1994."],
+      ["IHF Beach Handball World Championship", "The sand game's world title, staged since 2016."]
+    ],
+    "legends": [
+      ["Nikola Karabatić", "France's midfield general — a triple Olympic champion and four-time world champion, the greatest two-way player of his era."],
+      ["Mikkel Hansen", "Denmark's left back — Olympic champion in Rio 2016 and world champion in 2021 and 2023, the most feared shooter of his generation."],
+      ["Thierry Omeyer", "The goalkeeper of France's golden generation — two Olympic golds and multiple world titles behind the Les Experts wall."],
+      ["Ivano Balić", "Croatia's Olympic champion of 2004 and world champion of 2003 — the most watchable playmaker of the 2000s."],
+      ["Cristina Neagu", "Romania's left back, a four-time IHF World Player of the Year and a Champions League great with Győr."]
+    ],
+    "getting_started": [
+      "Join a club or university team — the footwork rules need live defenders to make sense.",
+      "Learn the three-step rhythm first: catch, two steps, jump — the entire game lives in this footwork.",
+      "Master the standing jump shot before running; 30 shots per session builds arm-safe mechanics.",
+      "Play 4 v 4 on a half court to multiply touches; the 40-meter court divides beautifully into drills.",
+      "Watch the EHF Champions League Final4 — the broadcast teaches court geometry and defensive shifts.",
+      "Start shoulder prehab on day one; the throwing load is high and the injuries are preventable."
+    ],
+    "glossary": [
+      ["9-meter throw", "The free throw taken from the dashed line for ordinary fouls."],
+      ["7-meter throw", "The penalty shot from 7 meters for a clear chance illegally denied."],
+      ["6-meter line", "The goal-area boundary only the goalkeeper may stand inside."],
+      ["Pivot", "The line player operating among the defenders at the 6-meter line."],
+      ["Wing", "The corner attacker, usually the smallest and quickest player on the court."],
+      ["Spin shot", "A jump shot where the throwing arm circles over the head to disguise the angle."],
+      ["Fast break", "The counterattack launched straight from a keeper save or turnover."],
+      ["Passive play", "The referee's raised-hand warning when a team stops attacking; possession is forfeited if it continues."],
+      ["Zone defense", "Defenders guarding areas rather than players — the default 6-0 wall."],
+      ["Suspension", "A two-minute exclusion for fouls, during which the team plays a player short."]
+    ],
+    "related": ["basketball", "netball", "floorball", "water-polo"],
+    "crosslink": false
+  },
+  {
+    "slug": "netball",
+    "name": "Netball",
+    "category": "team-ball",
+    "glyph": "🥅",
+    "tagline": "Basketball's Commonwealth cousin — seven positions, three seconds, and sniper shooting.",
+    "origin": "England · 1890s",
+    "tags": ["Commonwealth Games", "Women-led", "World Cup", "Team sport"],
+    "overview": [
+      "Netball is 7 v 7 with fixed positions — goalkeeper, goal defense, wing defense, center, wing attack, goal attack, goal shooter — each confined to designated thirds of a 30.5-by-15.25-meter court. Only the two shooters may score through a 3.05-meter ring with no backboard, no player may run with the ball, and the holder must pass within three seconds. Defenders must stand 0.9 meters away before contesting a pass.",
+      "It is one of the world's most-played women's team sports, with about 20 million players across more than 80 nations, and its culture is shaped by women's leadership from club committees to the international federation. Australia and New Zealand have traded supremacy for a century, with England's 2018 Commonwealth gold the great heist of the modern era.",
+      "Newcomers should know that the footwork rule is the whole education: land, pivot on the landing foot, and pass inside three seconds. Shooting without a backboard rewards repetition like almost nothing else in sport."
+    ],
+    "facts": [
+      ["Born", "1890s — an adapted, outdoor women's version of basketball spread from English colleges across the British Empire"],
+      ["Governing body", "World Netball — the international federation founded in 1960 and renamed from IFNA in 2020"],
+      ["Team size", "7 v 7 with fixed positions and squads of 12 using rolling substitutions"],
+      ["Match length", "Four 15-minute quarters, 60 minutes total, with tactical and injury stoppages"],
+      ["Playing area", "30.5 m by 15.25 m court split into thirds; goal post 3.05 m tall with a 38 cm ring"],
+      ["Ball", "690-710 mm circumference and 400-450 g — leather or composite"],
+      ["Olympic status", "Not on the Olympic program; a Commonwealth Games core sport since 1998 and IOC-recognized since 1995"]
+    ],
+    "history": [
+      ["1893-1901", "Basketball arrives at a Hampstead physical-training college and mutates for outdoor play; American Clara Baer publishes her related basquette rules in 1895, and the first codified net ball rules appear in England in 1901."],
+      ["1926", "The All England Netball Association forms and standardizes the rules the Empire plays."],
+      ["1960-1963", "England, Australia, New Zealand, South Africa, and the West Indies found the international federation; the first World Tournament follows in 1963 at Eastbourne."],
+      ["1995", "The IOC grants the federation full recognition — a milestone for a women-run international federation."],
+      ["1998", "Netball debuts at the Commonwealth Games in Kuala Lumpur, where Australia and New Zealand's final runs to double overtime."],
+      ["2017-2018", "Australia and New Zealand launch new professional leagues; England stun Australia with a last-second goal for Commonwealth gold in 2018."]
+    ],
+    "formats": [
+      ["Traditional 7s", "The world game — fixed positions, court thirds, and 60-minute internationals."],
+      ["Fast5", "Five-a-side with four 6-minute quarters, power plays, and 2- and 3-point super shots from range — the made-for-television version."],
+      ["Mixed and social netball", "The recreational lifeblood of Australia, New Zealand, and Britain, with indoor centers running leagues nightly."],
+      ["Walking netball", "A slower variant championed by England Netball for over-50s and returning players."],
+      ["Indoor netball", "A netted-court version with rebound walls, popular in South Africa, Australia, and New Zealand."]
+    ],
+    "skills": [
+      ["Shooting", "The goal shooter and goal attack score from inside the 4.9-meter-radius circle with a one-hand guided release and repeatable rhythm.", "Shoot 100 reps per session from five spots in the circle and track makes out of 100."],
+      ["Footwork", "Land, pivot on the landing foot, and pass within three seconds — the game's defining constraint.", "Shuttle pivots: catch, land, pivot 180 degrees, pass — 50 reps each side."],
+      ["Passing variety", "Chest, shoulder, bounce, overhead, and lobbed circle entries, chosen by the defense in front of you.", "Triangle passing with a defender in the middle for 10 minutes of continuous work."],
+      ["Defensive marking", "Mark the player and the space, then deny the pass lane with an active leading hand.", "One-on-one mirroring: 30-second holds where the attacker may not receive."],
+      ["Interception", "Reading angles and leaping the lane for a turnover — the game's most valuable single act.", "Two lines pass across a defender who times the jump; chase 20 interceptions per session."],
+      ["Center-court control", "The center links defense to attack through all three thirds within the three-second rule.", "Conditioning runs stitched with decision drills — pass within two seconds of every catch."],
+      ["Circle defense and rebounding", "Goal defense and goalkeeper contest the shot and win the rebound off a rim with no backboard.", "30 shots with defenders required to win the loose ball 20 times."]
+    ],
+    "rules": [
+      "Seven fixed positions — GK, GD, WD, C, WA, GA, GS — each restricted to defined thirds, and only the two shooters may score.",
+      "No running or dribbling with the ball; the holder must pass within three seconds of catching.",
+      "The first landing foot is the pivot foot; dragging or re-planting it is footwork and gives the ball to the opponents.",
+      "Defenders must be 0.9 meters from the passer's landing feet before actively defending the pass — closer is obstruction.",
+      "Contact and obstruction award a penalty pass with the offender standing out of play; minor infringements give a free pass.",
+      "Entering a forbidden third, even for a loose ball, is offside.",
+      "Four 15-minute quarters with rolling substitutions; finals use extra time for drawn matches."
+    ],
+    "equipment": [
+      ["Ball", "Size 5, 400-450 g and 690-710 mm around; $25-60."],
+      ["Goal posts", "3.05 m posts with a 38 cm steel ring and no backboard — accuracy is absolute."],
+      ["Bibs", "Position-lettered bibs from GK to GS, color-coded per team; $15-30."],
+      ["Court shoes", "Lateral-support court shoes with grip for hard outdoor and indoor courts; $60-120."],
+      ["Court", "30.5 by 15.25 meters with thirds, center circle, and goal circles marked on a hard surface."],
+      ["Umpire kit", "A whistle and a current rulebook — umpiring is a recognized and respected career track in the sport."]
+    ],
+    "training": [
+      "Netball is repeated accelerations and lateral movement: shuttle runs and 5-0-5 agility tests mirror match demands.",
+      "Single-leg strength and balance matter because pivoting and landing dominate — split squats and Copenhagen planks are staples.",
+      "Vertical power for rebounds and interceptions through low-volume plyometrics twice a week.",
+      "Ankle and knee injury prevention is central — netball's landing injuries rank among the highest in women's sport, so landing mechanics are coached explicitly.",
+      "Elite shooters take 200-plus practice shots daily; the ring forgives nothing and rewards nothing else."
+    ],
+    "pathway": [
+      ["School and junior netball", "Almost every girl in Australia, New Zealand, and much of the Commonwealth starts in school netball."],
+      ["Club and representative", "Regional leagues and age-group representative teams from about age 12 upward."],
+      ["Semi-professional leagues", "Australia's Suncorp Super Netball, New Zealand's ANZ Premiership, and England's Netball Super League pay the top tier."],
+      ["National selection", "National squads and the Commonwealth Games and World Cup cycle define the elite calendar."],
+      ["Officiating and coaching", "The sport's women-led governance makes umpiring and coaching genuine career ladders."]
+    ],
+    "events": [
+      ["Netball World Cup", "Every four years since 1963 — Australia leads with a dozen titles, Trinidad and Tobago's 1987 upset the great outlier."],
+      ["Commonwealth Games", "A core sport since 1998; England's 2018 gold ended the Australian-New Zealand duopoly."],
+      ["Suncorp Super Netball", "Australia's eight-team professional league since 2017 and the world's richest."],
+      ["ANZ Premiership", "New Zealand's five-team league since 2017."],
+      ["Constellation Cup", "The annual Australia-New Zealand test series, the sport's fiercest rivalry."]
+    ],
+    "legends": [
+      ["Irene van Dyk", "New Zealand's goal shoot and the most-capped player in international netball history with more than 200 tests for South Africa and then New Zealand."],
+      ["Liz Ellis", "Australia's long-serving captain, a two-time world champion and Commonwealth gold medalist, now the sport's leading broadcaster and advocate."],
+      ["Vicki Wilson", "Australia's sharpshooting goal attack of the 1990s and later a championship-winning coach in the ANZ era."],
+      ["Helen Housby", "England's shooter whose last-second goal won the 2018 Commonwealth gold — the most famous shot in the sport's history."],
+      ["Casey Kopua", "New Zealand's inspirational defensive captain and a 2019 world champion after returning from retirement."]
+    ],
+    "getting_started": [
+      "Find a local association — in Australia and New Zealand a club sits within minutes of nearly every suburb.",
+      "Learn the positions by playing every one; the rules only make sense from inside each third.",
+      "Practice pivots daily: catch, land, hold three seconds, pass — footwork faults are the beginner's whole education.",
+      "Shoot 50 balls after every session; the ring has no backboard to forgive you.",
+      "Watch a Suncorp Super Netball match to see the 0.9-meter defense and circle feeds in action.",
+      "Umpire a junior game — it is the fastest way to learn the rules and the sport values it highly."
+    ],
+    "glossary": [
+      ["Positions", "GK, GD, WD, C, WA, GA, GS — the seven fixed roles; only the two shooters can score."],
+      ["Footwork", "The rule against re-planting or dragging the landing foot while holding the ball."],
+      ["Obstruction", "Defending closer than 0.9 meters to the player with the ball."],
+      ["Contact", "Any illegal interference with an opponent, from pushing to leaning on a landing player."],
+      ["Free pass", "Restart awarded for minor infringements, taken from the spot."],
+      ["Penalty pass", "Awarded for contact or obstruction, taken with the offender standing out of play."],
+      ["Circle work", "Coordinated movement between shooters and feeders inside the goal circle."],
+      ["Feed", "The pass into the shooting circle to the shooters."],
+      ["Centre pass", "The alternating restart taken by the center after every goal."],
+      ["Deflection", "A defender tipping the ball without catching it to create a turnover."]
+    ],
+    "related": ["basketball", "korfball", "handball", "volleyball"],
+    "crosslink": false
+  },
+  {
+    "slug": "gaelic-football",
+    "name": "Gaelic Football",
+    "category": "team-ball",
+    "glyph": "🇮🇪",
+    "tagline": "Ireland's amateur giant — soccer's skills, rugby's collisions, and aerial ballet on top.",
+    "origin": "Ireland · 1884",
+    "tags": ["Amateur", "GAA", "All-Ireland", "Team sport"],
+    "overview": [
+      "Gaelic football is 15 v 15 on a pitch larger than soccer's, played with a round ball that may be kicked, fisted, and caught but never thrown. One point goes over the H-shaped crossbar, three under it for a goal, and since 2025 scores struck from beyond a 40-meter arc count two. Players carry the ball by soloing — bouncing and toe-tapping it off the boot — and tackles are shoulder charges and ball-slaps only.",
+      "The game is the showpiece of the Gaelic Athletic Association, founded in 1884 to revive Irish games, and it stays proudly amateur at every level: county stars hold day jobs and return each week to their parish clubs. The All-Ireland final fills Croke Park's 82,300 seats — among the largest crowds in European sport — for players who are paid in pride.",
+      "Newcomers should know the core rhythm is catch, solo, pass, with kicking demanded of every position and both feet. The mark, the shoulder, and the 40-meter arc are the three rules that most change how the modern game looks."
+    ],
+    "facts": [
+      ["Founded", "1884 — the Gaelic Athletic Association forms in Thurles to revive Ireland's native games"],
+      ["Governing body", "The GAA, with thousands of clubs at home and abroad; the Ladies Gaelic Football Association has run the women's game since 1974"],
+      ["Team size", "15 v 15 with limited substitutions from a panel"],
+      ["Match length", "70 minutes at senior inter-county level, 60 minutes below it"],
+      ["Playing area", "130-145 m long by 70-82 m wide, with H-shaped posts and a goal mouth 6.4 m wide and 2.44 m high"],
+      ["Scoring", "1 point over the bar, 3 for a goal under it, 2 for scores from beyond the 40-meter arc since 2025"],
+      ["Olympic status", "Never Olympic — the All-Ireland final and the intermittent International Rules series with Australia are its world stage"]
+    ],
+    "history": [
+      ["Pre-1884", "Folk football has been played in Ireland for centuries — the Statutes of Kilkenny tried to ban it in 1366, proof of its grip."],
+      ["1884-1887", "Michael Cusack and Maurice Davin found the GAA in Thurles; the first All-Ireland championships are played in 1887."],
+      ["1928", "The Sam Maguire Cup is presented to the All-Ireland football champions."],
+      ["1974", "The Ladies Gaelic Football Association is founded — now one of the world's largest women's sports organizations."],
+      ["2015-2020", "Dublin win six consecutive All-Irelands, the modern standard of dominance."],
+      ["2024-2025", "The Football Review Committee introduces sweeping changes, led by two-point scores from beyond the 40-meter arc."]
+    ],
+    "formats": [
+      ["Inter-county championship", "The pinnacle: provincial titles feed the All-Ireland series each summer, ending at Croke Park in July."],
+      ["National Football League", "The divisional league each spring — promotion, relegation, and the form lines for the championship."],
+      ["Club football", "The soul of the GAA: parish teams whose county finals are the most fervent occasions in Irish sport, where the county stars return."],
+      ["Ladies football", "15-a-side under the LGFA with closely aligned rules and its own All-Ireland final for the Brendan Martin Cup."],
+      ["International Rules", "Hybrid Tests against Australia's AFL professionals blending both codes' rules, played intermittently since 1984."]
+    ],
+    "skills": [
+      ["Solo", "Dropping the ball onto the boot every few strides — one bounce, then toe-taps — lets a player run legally at full speed.", "Solo relays: 30 meters down and back, alternating feet, ten lengths without losing the ball."],
+      ["Catching and fielding", "High catches and palmed grabs above opponents' heads — the game's signature aerial contest.", "20 high balls per session, kicked by a partner from distance, caught above a static opponent."],
+      ["Hand pass", "A struck pass off the fist — throwing is illegal — and the game's metronome for possession.", "Fist-pass rondos in a tight grid, 50 passes each hand, eyes up."],
+      ["Kick passing", "The drop kick with the laces, long and short, off both feet — the sport's defining skill.", "Kick-pass grids where every second pass must travel more than 20 meters and swap feet."],
+      ["Shooting", "Points from 40-plus meters off the drop kick, and placed goals under the bar from angles.", "Score 50 attempts from the arc, then 30 placed shots at goal from close range."],
+      ["Tackling", "Legal contact is the shoulder charge and the slap at the ball — never the grab.", "Live 1 v 1 grids with a referee enforcing shoulder-only contact."],
+      ["Kickout play", "Goalkeepers restart after scores and wides; the long kickout became the game's strategic battleground.", "Keeper target drills: 20 kickouts per session to marked zones with pressure arriving."]
+    ],
+    "rules": [
+      "Fifteen players a side; the ball may be kicked, fisted, and caught but never thrown.",
+      "Run with the ball by alternating bounces and toe-taps — the ball cannot be bounced twice in a row.",
+      "Scoring: one point over the crossbar, three under it, and since 2025 two points from beyond the 40-meter arc.",
+      "Tackling is by shoulder charge and ball-slap only; grabbing the jersey or body gives away a free.",
+      "The ball cannot be picked directly off the ground with the hands — lift it with the foot or scoop it on the run.",
+      "A clean catch from a kick that traveled over 20 meters can be called as a mark, rewarding the catcher with a free.",
+      "Goalkeepers restart with kickouts after scores and wides; senior inter-county halves run 35 minutes with stoppages built in."
+    ],
+    "equipment": [
+      ["Ball", "Size 5, 480-500 g, leather-look panels built for both hands and boots; $25-80."],
+      ["Boots", "Molded-stud firm-ground boots; $60-150."],
+      ["Mouthguard", "Mandatory for all ages since 2014; $10-30."],
+      ["Kit", "Club jersey, shorts, and socks — the colors carry civic and parish identity."],
+      ["Gloves", "Grip gloves are common and optional; $15-40."],
+      ["Pitch and posts", "130-145 by 70-82 meters with H-posts, shared with hurling across the GAA calendar."]
+    ],
+    "training": [
+      "Players cover 8-12 kilometers per match with repeated high-speed segments — build the aerobic base and add speed endurance and change of direction.",
+      "Aerial strength for catching under contact: trap-bar deadlifts, hip power, and core anti-rotation work.",
+      "Ball skills are volume: kick-passing ladders and solo drills woven into every run.",
+      "Shoulder-proofing for legal contact — neck and upper-back work reduces the sting of big hits.",
+      "County players juggle day jobs with professional-level training loads, so sleep and load management are treated as skills."
+    ],
+    "pathway": [
+      ["Schools and nurseries", "GAA club nurseries take children from age five; almost every parish runs one."],
+      ["Under-age county", "Development squads and the minor championship, plus schools' and universities' competitions like the Hogan and Sigerson Cups."],
+      ["Senior club", "The local championship is where reputations are made and county managers watch."],
+      ["Inter-county panel", "Amateur in name only — professional training, nutrition, and analysis around the day job."],
+      ["Management", "The coaching ladder runs from club sideline to county management and All-Ireland glory."]
+    ],
+    "events": [
+      ["All-Ireland Senior Football Championship", "The summer championship culminating at Croke Park — the biggest day in Irish sport."],
+      ["National Football League", "Divisional league each spring, with promotion, relegation, and form lines for the championship."],
+      ["Provincial championships", "Munster, Leinster, Connacht, and Ulster titles — Ulster's famously the toughest."],
+      ["Ladies All-Ireland", "The LGFA championship for the Brendan Martin Cup, with Meath's back-to-back titles in 2021 and 2022 recent lore."],
+      ["International Rules Series", "Ireland versus Australia in hybrid rules, intermittent since 1984 — a nod to the games' shared family tree."]
+    ],
+    "legends": [
+      ["Colm Cooper", "Kerry's Gooch — five All-Irelands and the forward whose swagger defined the 2000s."],
+      ["David Clifford", "Kerry's generational forward and All-Ireland winner in 2022 and 2025."],
+      ["Stephen Cluxton", "Dublin's revolutionary goalkeeper whose long kickouts changed the sport — eight All-Ireland medals across a two-decade career."],
+      ["Cora Staunton", "Mayo's four-time All-Ireland winner and one of ladies football's first superstars, later an AFLW professional with Greater Western Sydney."],
+      ["Peter Canavan", "Tyrone's all-time great forward, driving the county to its first All-Ireland in 2003."]
+    ],
+    "getting_started": [
+      "Find a GAA club — every parish in Ireland has one, and most cities abroad have a county's club.",
+      "Learn solo and fist-pass in week one; they are the alphabet of the game.",
+      "Kick with both feet from the start — weak-side kicking is the fastest differentiator.",
+      "Play lots of 1 v 1 with shoulder contact to learn what is legal early.",
+      "Watch an All-Ireland final archive — Kerry-Dublin classics show the aerial game at its best.",
+      "Expect the club to be the center of the experience; the GAA is a community institution first and a league second."
+    ],
+    "glossary": [
+      ["Solo", "The run-carry: dropping the ball to the boot every few strides."],
+      ["Hand pass", "A struck pass off the fist — throwing is illegal."],
+      ["Mark", "A clean catch from a long kick, rewarded with a free."],
+      ["Kickout", "The goalkeeper's restart after a score or a wide."],
+      ["Sideline ball", "A free from the touchline after the ball goes out of play."],
+      ["Square ball", "An attacker inside the small square before the ball arrives — the score is disallowed."],
+      ["Block", "Using the hands to deflect a kick as it is struck."],
+      ["Shoulder charge", "The legal body tackle — big hits are part of the game."],
+      ["Forty-five", "A free from the 45-meter line awarded when a defender is last to touch the ball over their own end line."],
+      ["The parish", "The local community the club represents — the GAA's basic unit."]
+    ],
+    "related": ["hurling", "australian-rules-football", "rugby-union", "soccer"],
+    "crosslink": false
+  },
+  {
+    "slug": "hurling",
+    "name": "Hurling",
+    "category": "team-ball",
+    "glyph": "🥍",
+    "tagline": "Three thousand years old, 150 km/h off the stick — Ireland's ancient game of air and nerve.",
+    "origin": "Ireland · codified 1884",
+    "tags": ["Ancient game", "GAA", "All-Ireland", "Amateur"],
+    "overview": [
+      "Hurling is 15 v 15 with a flat ash stick — the camán, or hurley — and a small hard leather ball, the sliotar, struck over a crossbar for one point and under it for a three-point goal. The ball flies at up to 150 km/h, is caught cleanly in the hand, balanced on the bas, pulled off the ground, and contested in the air at full sprint. It is routinely called the world's fastest field sport.",
+      "The game runs through Irish myth — the boy Setanta tames the hound of Culann with a sliotar and becomes Cú Chulainn — and through 3,000 years of recorded history, surviving bans and famine to be codified by the GAA in 1884. Like its sibling Gaelic football, it remains amateur at every level, played before 82,000 at the All-Ireland final by men and women with day jobs.",
+      "Newcomers should know that hurling rewards nerve and symmetry: striking off both sides of the bas, catching under rain and pressure, and playing the ball off the turf with a stick while everyone else sprints at you. The wall is the first gym."
+    ],
+    "facts": [
+      ["Played", "For at least 3,000 years — one of the world's oldest field games, present in Irish myth and early law tracts"],
+      ["First codified", "1884 — the GAA writes uniform rules at its founding in Thurles"],
+      ["Governing bodies", "The GAA for hurling; the Camogie Association, founded in 1904, runs the women's game"],
+      ["Team size", "15 v 15, the same as Gaelic football, on the same pitch"],
+      ["Match length", "70 minutes at senior inter-county level"],
+      ["Scoring and ball", "1 point over the crossbar, 3 for a goal; the sliotar is 69-72 mm across and 110-116 g"],
+      ["Olympic status", "Not Olympic — the All-Ireland final and the club game are its world stage"]
+    ],
+    "history": [
+      ["Myth and law", "Hurling fills Irish mythology — Setanta's feat makes him Cú Chulainn — and early Irish law tracts regulate the game's violence."],
+      ["1366", "The Statutes of Kilkenny try to ban English colonists from playing hurling — evidence of how thoroughly the game thrived."],
+      ["1884-1887", "The GAA codifies hurling at its founding in Thurles; the first All-Ireland championship is played in 1887."],
+      ["1904", "The Camogie Association forms to run the women's game, with nearly identical rules."],
+      ["1923", "Limerick lift the first Liam MacCarthy Cup as senior champions."],
+      ["2018-2023", "Limerick win five titles in six years, including four in a row from 2020 to 2023."]
+    ],
+    "formats": [
+      ["Inter-county hurling", "The pinnacle: provincial and All-Ireland championships each summer, ending at Croke Park."],
+      ["Club hurling", "The parish game — the grassroots backbone, with county club finals that stop towns."],
+      ["Camogie", "The women's game since 1904, with its own All-Ireland final for the O'Duffy Cup and near-identical rules."],
+      ["Hurling-shinty internationals", "Composite-rules Tests against Scotland's shinty players, a nod to the games' shared ancestry."],
+      ["Sevens and urban hurling", "Seven-a-side festival tournaments and school programs that keep the game growing in cities."]
+    ],
+    "skills": [
+      ["Striking", "From the hand and off the ground, off both sides of the bas — accuracy at speed decides everything.", "Wall striking: 100 shots per side, then moving targets at 20 and 45 meters."],
+      ["Catching", "Bare-hand high catches with soft hands and the free hand guarding the body.", "High-ball contests: 20 balls pucked high by a partner over a static opponent."],
+      ["Blocking", "Standing in front of an opponent's swing with the hurley held square — courage with technique.", "Block repetitions against a live striker starting from five meters."],
+      ["Hooking", "Flicking your bas over the opponent's from behind as the swing begins — timing is everything.", "30 successful hooks per drill block in 1 v 1 striking games."],
+      ["The pull", "The low, forceful ground stroke that sends the sliotar 80-plus meters.", "Ground-pull reps along a line, then pulling out of defense under pressure."],
+      ["Sideline cut", "The celebrated strike off the turf from a sideline ball — accuracy's hardest test.", "50 sideline attempts per session, alternating sides of the bas."],
+      ["Puck-out", "The goalkeeper's restart after every wide or score — modern keepers pick targets like quarterbacks.", "20 targeted puck-outs per session to marked receivers with pressure arriving."]
+    ],
+    "rules": [
+      "Fifteen players a side on the Gaelic pitch; over the crossbar scores one point, under it scores three.",
+      "The sliotar may be caught in the hand, but on the ground it may only be played with the hurley or the foot — never picked up by hand.",
+      "Tackling means the shoulder, the block, and the hook; swinging at the player rather than the ball is a foul.",
+      "The ball may be carried in the hand or balanced and tossed on the bas while running — the solo run.",
+      "Every wide or score ends with the goalkeeper's puck-out; sideline balls are struck off the turf.",
+      "A foul denying a goal gives a penalty from the 20-meter line — one striker against the keeper.",
+      "Senior matches run 70 minutes, and the All-Ireland final fills Croke Park's 82,300 seats for an amateur game."
+    ],
+    "equipment": [
+      ["Hurley (camán)", "A flat-ended ash stick cut to suit the player, with a maximum blade width of 13 cm; $40-120."],
+      ["Sliotar", "Leather over a cork core, 69-72 mm across and 110-116 g — hard-cored and fast off the bas; $15-30."],
+      ["Helmet", "Mandatory with faceguard at all levels since 2010; $60-150."],
+      ["Grip gloves", "Optional fingerless gloves improve grip and protect the knuckles; $20-40."],
+      ["Boots", "Molded-stud firm-ground boots; $60-140."],
+      ["Spare hurley", "Players keep a spare on the line — breakages are part of every match."]
+    ],
+    "training": [
+      "Striking volume is everything: 15 minutes of daily wall-ball, both sides, is the hurler's daily bread.",
+      "Rotation power comes from hips and trunk — medicine-ball rotational throws and cable pulls build the pull.",
+      "Hands and reaction: catching drills with varied pucks, juggling, and reaction-ball work for a ball moving at 150 km/h.",
+      "Deceleration and change of direction on grass, with Nordic curls and Copenhagen planks for a sprint-heavy game.",
+      "Aerial courage is trained: paired high-ball drills with a designated catcher build the confidence the game demands."
+    ],
+    "pathway": [
+      ["Club nursery", "GAA Cúl Camps and school programs introduce the camán to thousands each summer."],
+      ["Under-age club and school", "Under-age leagues and schools cups; the best play minor county at 17."],
+      ["Adult club", "County championships — the club is where careers are measured."],
+      ["Inter-county", "Panels train like professionals while remaining amateur, five nights a week around jobs and study."],
+      ["Coaching", "Games promotion officers and coaching ladders sustain the game's growth at the grassroots."]
+    ],
+    "events": [
+      ["All-Ireland Senior Hurling Championship", "The summer championship ending in the Liam MacCarthy final before a full Croke Park."],
+      ["Provincial championships", "Munster's round-robin is the game's crucible — Cork, Tipperary, Limerick, Clare, and Waterford in one gauntlet."],
+      ["All-Ireland Camogie Championship", "The women's championship, run since 1932 for the O'Duffy Cup."],
+      ["National Hurling League", "The spring league under lights, a form-builder for the championship."],
+      ["Hurling-shinty internationals", "Ireland versus Scotland each year in composite rules, honoring the games' shared ancestry."]
+    ],
+    "legends": [
+      ["Christy Ring", "Cork's sorcerer of the 1940s and 1950s — eight All-Irelands and the standard by which all hurlers are measured."],
+      ["Henry Shefflin", "Kilkenny's ten-time All-Ireland winner and three-time Hurler of the Year — the modern benchmark."],
+      ["DJ Carey", "Kilkenny's darling of the 1990s and 2000s, a multiple All-Ireland winner and Hurler of the Year whose fame crossed county lines."],
+      ["Joe Canning", "Galway's long-range artist, finally lifting Liam MacCarthy in 2017 as Hurler of the Year."],
+      ["Nickey Rackard", "Wexford's 1950s icon, remembered in the name of the Nicky Rackard Cup."]
+    ],
+    "getting_started": [
+      "Buy a cheap hurley and sliotar and find a wall — hurling's first gym is a gable end.",
+      "Strike 100 balls off both sides of the bas every session; symmetry decides who plays.",
+      "Learn the jab lift — scooping the ball off the ground with the hurley — 50 reps per session.",
+      "Play wall games with a partner; live catching under pressure is learned only live.",
+      "Watch a Munster round-robin match — the noise alone teaches the stakes.",
+      "Join a club adult beginner group; most GAA clubs now run them and lend gear."
+    ],
+    "glossary": [
+      ["Camán", "The hurley — the flat ash stick every player carries."],
+      ["Sliotar", "The ball: cork core, leather cover, and 110-116 g of menace."],
+      ["Bas", "The flat striking end of the hurley."],
+      ["Puck-out", "The goalkeeper's restart after a wide or a score."],
+      ["Sideline cut", "The spectacular ground strike from a sideline ball."],
+      ["Pull", "The low power stroke along the ground."],
+      ["Solo", "Tossing the sliotar on the bas while running."],
+      ["Jab lift", "Scooping the ball off the ground with the hurley while moving."],
+      ["Hook", "A tackle from behind that checks the opponent's swing mid-motion."],
+      ["Hand pass", "A flicked pass with the hand — struck, not thrown."]
+    ],
+    "related": ["gaelic-football", "lacrosse", "field-hockey"],
+    "crosslink": false
+  },
+  {
+    "slug": "australian-rules-football",
+    "name": "Australian Rules Football (AFL)",
+    "category": "team-ball",
+    "glyph": "🏉",
+    "tagline": "Eighteen a side, no offside, and the greatest jumping catch in world sport.",
+    "origin": "Australia (Melbourne) · 1858",
+    "tags": ["Australian", "AFL", "The mark", "Team sport"],
+    "overview": [
+      "Australian football is 18 v 18 on cricket ovals up to 185 meters long, with no offside and all 36 players sharing one oval ball. Kicking is the primary skill, handballing is a fist pass off the palm, and a clean catch from a 15-meter kick is a mark — a free kick, taken or played on. Goals between the two inner posts score six, behinds score one, and four 20-minute quarters with time-on make matches about two and a half hours of real time.",
+      "It is Australia's winter religion: the most-attended sports league in the country, a Grand Final before about 100,000 at the MCG, and a code invented in Melbourne in 1858 to keep cricketers fit that became a national identity. The women's AFLW, launched in 2017, now matches the men's 18 clubs.",
+      "Newcomers should know three things define the game: the mark, the drop punt, and the fact that no position is offside. Learn to kick end-over-end accurately and catch everything, and the rest is running."
+    ],
+    "facts": [
+      ["Codified", "1858-1859 — Tom Wills calls for a football club to keep cricketers fit, and Melbourne FC writes the first ten rules in May 1859"],
+      ["Governing body", "The Australian Football League — the VFL, founded 1897, renamed AFL in 1990 — with state leagues and AFLW beneath it"],
+      ["Team size", "18 a side on the field with a free-running interchange bench"],
+      ["Match length", "Four 20-minute quarters plus time-on — about two and a half hours of real time"],
+      ["Playing area", "Ovals 135-185 m long and 110-155 m wide — the largest playing surfaces in world football"],
+      ["Scoring", "6 points between the inner posts, 1 for the outer behind posts; 80-110 points a side is a normal scoreline"],
+      ["Olympic status", "Not Olympic; the AFL International Cup is the global stage for developing football nations"]
+    ],
+    "history": [
+      ["1858-1859", "Tom Wills and friends stage the first matches in Melbourne; the Melbourne Football Club codifies the first rules in May 1859."],
+      ["1877-1897", "The Victorian Football Association forms in 1877; the VFL breaks away with eight clubs in 1897 and becomes the competition that matters."],
+      ["1924", "The Brownlow Medal, for the season's fairest and best player, is first presented."],
+      ["1982-1990", "South Melbourne relocates to Sydney in 1982, the league nationalizes across Australia, and the VFL is renamed the AFL in 1990."],
+      ["2002", "The first AFL International Cup draws national teams of amateur players from around the world."],
+      ["2017", "AFLW launches with eight clubs — professional women's football begins, expanding to 18 clubs within six seasons."]
+    ],
+    "formats": [
+      ["AFL", "The national league: 18 clubs playing a 23-round home-and-away season into a four-week finals series."],
+      ["AFLW", "The women's league since 2017, now matching the men's 18 clubs, running from August to a late-November final."],
+      ["State leagues", "The SANFL, WAFL, and VFL — historic competitions that develop talent and hold the game's depth."],
+      ["AFL 9s", "The official small-sided format: nine a side with modified contact, built for social and workplace leagues."],
+      ["International Cup", "Staged in Australia roughly every three to four years for national teams from countries where the game is growing."]
+    ],
+    "skills": [
+      ["Kicking (drop punt)", "The default kick — ball held point-down and struck end-over-end, accurate to a target 50 meters away.", "Kick 50 balls to a partner at 20-50 meters; 8 of 10 should hit the chest at 30 meters."],
+      ["Marking", "Catching a kicked ball cleanly — chest marks, high marks, and the contested speccy overhead.", "Contested marking grids of 3 v 1 with high kicks; 30 grabs per session."],
+      ["Handball", "Held on one palm and punched with the fist of the other — the game's quick-release pass.", "Handball chains: 10-minute continuous grids where only fists move the ball."],
+      ["Ground balls and tackling", "Winning the contest at the feet and wrapping the ball-carrier legally between shoulders and knees.", "Tackle-bag repetitions and four-player ground-ball races."],
+      ["Shepherding", "Using the body to shield a teammate or block a runner between kicks — legal where most sports call it obstruction.", "2 v 2 protect-the-carrier drills with a coach policing the legal bump."],
+      ["Rucking", "The contested tap at every center bounce and boundary throw-in.", "Jump-timing drills against a live opponent, tapping to marked zones set by a coach."],
+      ["Set-shot kicking", "Conversion from angles after a mark or free kick — pressure is mental and mechanical.", "50 set shots from the arc with a 7-of-10 target from 40 meters."]
+    ],
+    "rules": [
+      "Eighteen a side with free interchange; there is no offside — all 36 players contest one ball on one oval.",
+      "A mark is a clean catch from a kick that traveled 15 meters or more; the marker takes the free or plays on immediately.",
+      "Scoring: 6 points between the two inner posts, 1 point for the outer behind posts or when the ball crosses the line off a defender.",
+      "A player running with the ball must bounce or touch it on the ground every 15 meters.",
+      "Tackles must wrap between the shoulders and knees; high contact and pushes in the back are free kicks.",
+      "Kicking the ball out of bounds on the full concedes a free kick from the boundary; other out-of-bounds plays restart with a throw-in.",
+      "Four 20-minute quarters with time-on added for stoppages; finals resolve draws with extra time."
+    ],
+    "equipment": [
+      ["Ball", "The Sherrin — a leather-look oval ball about 72 cm around and 450-500 g; official match balls cost $100 and up, trainers $30-60."],
+      ["Boots", "Low-cut boots with molded studs for hard Australian ovals; $80-180."],
+      ["Guernsey", "The numbered club jumper, mandatory in organized play."],
+      ["Mouthguard", "Standard protection in contact football; $10-40."],
+      ["Goal posts", "Two inner goal posts 6.4 m apart with behind posts 6.4 m further out either side, on ovals up to 185 m long."],
+      ["Ball and boots", "The entire beginner kit — the game's beauty at entry level is its simplicity."]
+    ],
+    "training": [
+      "AFL players run 12-18 kilometers per match with repeated high-speed efforts — build the aerobic base, then add speed endurance.",
+      "Jumping and landing under contact on grass, with lower-body strength blocks periodized around the season.",
+      "Kicking is a skill of thousands of repetitions — sessions begin and end with goal-kicking ladders.",
+      "Contact conditioning and safe tackling technique, with neck and upper-body strength for contests.",
+      "Recovery is professional-grade even below the AFL: sleep, soft-tissue work, and load management across a long season."
+    ],
+    "pathway": [
+      ["Auskick", "The national beginner program for ages 5-12 — fun-first and contact-light."],
+      ["Community clubs", "Local leagues from under-10s through seniors — the heartbeat of Australian country towns and suburbs."],
+      ["State leagues and academies", "SANFL, WAFL, and VFL competition plus AFL club talent academies feed the draft."],
+      ["The draft and AFL", "The national draft assigns teenage talent to clubs; careers are built on multi-year contracts."],
+      ["AFLW and beyond", "The women's pathway mirrors the men's, and coaching, umpiring, and media are full careers."]
+    ],
+    "events": [
+      ["AFL Grand Final", "Late September at the MCG before about 100,000 — the biggest event on the Australian sporting calendar."],
+      ["Brownlow Medal", "The fairest-and-best count, held on the Monday night before the Grand Final."],
+      ["AFLW premiership season", "The women's league runs from August to a late-November grand final."],
+      ["International Cup", "Amateur national teams from around the world, staged in Australia since 2002."],
+      ["State league grand finals", "The SANFL and WAFL finals carry over a century of history each."]
+    ],
+    "legends": [
+      ["Leigh Matthews", "Lethal — a four-time premiership Hawk named the AFL player of the century in 2000, then a premiership coach."],
+      ["Tony Lockett", "The most prolific goal-kicker in VFL and AFL history with 1,360 career goals."],
+      ["Lance Franklin", "Buddy — 1,000-plus goals across Hawthorn and Sydney, the first to the milestone since Lockett and the most magnetic forward of the modern era."],
+      ["Ron Barassi", "Ten premierships across playing and coaching and the game's first celebrity tactician."],
+      ["Daisy Pearce", "The face of women's football before AFLW, captain of Melbourne's 2022 premiership, and now a leading broadcaster and assistant coach."]
+    ],
+    "getting_started": [
+      "Join Auskick or a social AFL 9s league — both are built for first-timers.",
+      "Learn the drop punt before any other kick; 20 minutes a day against a wall or with a partner.",
+      "Catch everything — the mark is the game's joy, and hands are trained by volume.",
+      "Watch one quarter of an AFL match following only one midfielder's running patterns.",
+      "Expect to run: build a 5-kilometer base before your first season.",
+      "Find a local club open day — Australian clubs recruit as much by community as by trial."
+    ],
+    "glossary": [
+      ["Speccy", "The spectacular high mark — the airborne catch taken above a pack of players."],
+      ["Shepherd", "Legally blocking an opponent with the body to protect a teammate or the ball."],
+      ["Handball", "The fist pass struck off the palm — the game's quick-release option."],
+      ["Banana kick", "A curved kick struck around the body, used from tight angles."],
+      ["Snap", "A rapidly executed kick over the shoulder toward goal in traffic."],
+      ["Ruck", "The tall player contesting every center bounce and boundary throw-in."],
+      ["Torpedo", "The spiral-nosed punt for maximum distance."],
+      ["Behind", "The one-point score through the outer posts."],
+      ["Interchange", "The bench rotation — players swap on the fly through the interchange gate."],
+      ["Siren", "The timekeeper's signal ending each quarter — play stops instantly."]
+    ],
+    "related": ["gaelic-football", "rugby-union", "rugby-league", "american-football"],
+    "crosslink": false
+  },
+  {
+    "slug": "ultimate-frisbee",
+    "name": "Ultimate",
+    "category": "team-ball",
+    "glyph": "🥏",
+    "tagline": "Seven a side, no referees, and a Spirit of the Game that actually works.",
+    "origin": "United States (New Jersey) · 1968",
+    "tags": ["Self-officiated", "Spirit of the Game", "World Games", "Team sport"],
+    "overview": [
+      "Ultimate is 7 v 7 on a 100-by-37-meter field with two 18-meter end zones, scored by catching a 175-gram disc in the opponent's end zone. The disc cannot be run with — the thrower must keep a pivot foot planted while a defender counts the stall to ten — and any incomplete pass is an immediate turnover. Games run to 15 points or a time cap, with no physical contact allowed.",
+      "What makes the sport singular is Spirit of the Game: matches are self-officiated even at world championships, with players calling their own fouls and resolving disputes on the field. The WFDF holds full IOC recognition, ultimate has been a World Games sport since 2001, and its mixed-gender divisions are standard rather than exceptions.",
+      "Newcomers should know that throwing is 80 percent of the game. The backhand and forehand grips, the wrist snap, and three simple cuts learned at full speed will make anyone playable within a month — the sport's communities are famously built to teach exactly that."
+    ],
+    "facts": [
+      ["Invented", "1968 — students at Columbia High School in Maplewood, New Jersey, with Joel Silver among the founders, adapt Frisbee football into a played sport"],
+      ["Governing body", "World Flying Disc Federation (WFDF, founded 1985); USA Ultimate governs the American game"],
+      ["Team size", "7 v 7 outdoors, 5 v 5 on beach and indoor; mixed-gender rosters are standard at world level"],
+      ["Match length", "Games to 15 points, or time-capped at roughly 90-100 minutes"],
+      ["Playing area", "100 m by 37 m including two 18-meter end zones — the length of a soccer pitch at about half its width"],
+      ["Disc", "The standard 175-gram disc, 27.4 cm in diameter"],
+      ["Olympic status", "Not yet Olympic; played at The World Games since 2001 with the WFDF fully IOC-recognized since 2015"]
+    ],
+    "history": [
+      ["1968", "Columbia High School students play the first games in the school parking lot, and the rules spread through New Jersey high schools."],
+      ["Late 1970s", "The Ultimate Players Association — now USA Ultimate — organizes the American game."],
+      ["1983", "The first world championship is played in Gothenburg, Sweden."],
+      ["1985", "The World Flying Disc Federation is founded to govern disc sports internationally."],
+      ["2001", "Ultimate debuts at The World Games in Akita, Japan — its first multi-sport stage."],
+      ["2013-2015", "The IOC grants the WFDF provisional recognition in 2013 and full recognition in 2015."]
+    ],
+    "formats": [
+      ["Outdoor 7s", "The classic game on full grass fields, in open, women's, and mixed divisions."],
+      ["Beach ultimate", "5 v 5 on a 75-by-25-meter sand field — the sport's sunshine format with its own world championships."],
+      ["Indoor ultimate", "5 v 5 in sports halls, popular across northern Europe through the winter."],
+      ["Professional leagues", "The American Ultimate Disc League, running since 2012, plays with officials and a game clock."],
+      ["College ultimate", "USA Ultimate's college series is the talent engine; the Callahan Award honors its top graduating players."]
+    ],
+    "skills": [
+      ["Backhand", "The default throw — power from the hips, release flat from the chest, with the wrist snap doing the work.", "100 throws to a partner at 10-30 meters before adding a defender's mark."],
+      ["Forehand (flick)", "The tight-window release with the middle finger on the rim and the thumb steadying the flight plate.", "30 throws at 10, 20, and 30 meters each, focusing on a flat spin."],
+      ["Huck", "The long throw downfield of 50-70 meters with height and hang time for the receivers to run under.", "Huck into a marked 10-meter circle from 50 meters, alternating both throws."],
+      ["Cutting", "The in-cut, deep cut, and dump cut — sudden changes at full speed that sell the fake and create separation.", "Two-line cutting drills: plant hard on the go call and attack the disc's shoulder."],
+      ["Layout", "The full-extension dive for a catch or block — the sport's signature act.", "Learn in slow motion on soft grass; 20 layouts per session once landing mechanics are safe."],
+      ["Marking", "The mark counts the stall and shapes the thrower's angles, removing half the field without touching the disc.", "Hold a force for ten full stalls against a live thrower, arms wide, hips low."],
+      ["Handler movement", "Swings and reset passes that move the disc through the backfield while cutters clear space.", "3-handler weave drills with a stall count running on every possession."]
+    ],
+    "rules": [
+      "Seven a side; the disc may be thrown anywhere but never run with — the pivot foot stays planted while holding it.",
+      "The thrower has ten seconds on the stall count; a completed count is a turnover.",
+      "An incomplete pass — dropped, intercepted, out of bounds, or hitting the ground — is an immediate turnover, and play continues.",
+      "Points are scored by catching the disc in the opponent's end zone; after each score, the scoring team throws off the pull.",
+      "Games are self-officiated under Spirit of the Game: players call their own fouls, and a contested call returns the disc to the thrower.",
+      "Substitutions happen only between points and for injuries.",
+      "Contact is a foul; dangerous plays and disc-space violations are called by the player affected."
+    ],
+    "equipment": [
+      ["Disc", "The official 175-gram disc of 27.4 cm diameter; $10-20."],
+      ["Cleats", "Molded cleats with ankle support for cutting on grass; $60-150."],
+      ["Kit", "Lightweight jerseys and shorts — most clubs design their own, and team culture is part of the sport."],
+      ["Cones", "Two dozen per field — ultimate's fields are lined with cones rather than paint."],
+      ["Hydration kit", "Tournament days mean four to six matches in the sun, so water and shade planning is standard equipment."]
+    ],
+    "training": [
+      "The engine is repeated sprints — 30-60 meter cuts with short rests, trained with intervals that match point rhythms.",
+      "Change-of-direction strength: Nordic curls and Copenhagen planks prevent the hamstring and groin tears the sport produces.",
+      "Throwing is weather-proof volume — 15 minutes daily of flicks, backhands, and hucks, deliberately into wind.",
+      "Land-safe plyometrics and hip mobility make layouts repeatable instead of reckless.",
+      "Film study of defensive sets — man, zone, and poach looks — is as valuable as fitness above the club level."
+    ],
+    "pathway": [
+      ["Pickup and intro leagues", "Most cities run beginner-friendly nights with loaner discs and teaching built into the game."],
+      ["School and youth clubs", "High school clubs and youth leagues, with mixed divisions welcoming everyone."],
+      ["College ultimate", "The USA Ultimate college series — the sport's biggest developmental stage, ending in a national championship each May."],
+      ["Club nationals", "The adult club series culminating in national championships, the peak of the self-officiated game."],
+      ["National teams and World Games", "World Championships every four years and The World Games put ultimate on multi-sport stages."]
+    ],
+    "events": [
+      ["WFDF World Ultimate Championships", "Every four years for national teams — the United States has dominated since 1983."],
+      ["The World Games", "Ultimate's multi-sport showcase, included since 2001."],
+      ["USA Ultimate Club Championships", "The traditional peak of American club ultimate each October."],
+      ["AUDL season", "Professional ultimate in North America, running from April through the summer to a championship weekend."],
+      ["World Ultimate Club Championships", "Every four years for the world's best club teams."]
+    ],
+    "legends": [
+      ["Joel Silver", "The Columbia High School student who named and organized the first games in 1968 — later a Hollywood producer, always the sport's originator."],
+      ["Beau Kittredge", "The layout machine — a staple of United States world titles and club championships, and the sport's most famous diving-catch artist."],
+      ["Jimmy Mickle", "The 2014 Callahan Award winner and world champion with the United States — a model of two-way handler excellence."],
+      ["Brodie Smith", "The trick-shot creator whose videos introduced millions to what a disc can do, after a top college career at Florida."]
+    ],
+    "getting_started": [
+      "Buy a 175-gram disc for about $15 and find a park with 40 meters of open space.",
+      "Learn the backhand and forehand grips first; the wrist snap does the work, not the arm.",
+      "Throw 100 discs a day for two weeks — flat, straight, and at chest height is the target.",
+      "Join a mixed pickup game; ultimate communities actively teach newcomers mid-game.",
+      "Learn three cuts — in, deep, dump — and run them at full speed; half-speed cuts ruin offenses.",
+      "Watch a USA Ultimate nationals final to see the stall count, the mark, and spirit calls in action."
+    ],
+    "glossary": [
+      ["Stall count", "The marker's ten-second countdown; a stall-out is a turnover."],
+      ["Huck", "A long downfield throw."],
+      ["Layout", "The full-extension diving catch or block."],
+      ["Sky", "Out-jumping a defender to take the disc over them."],
+      ["Pull", "The throw-off to start each point, like a kickoff."],
+      ["Force", "The mark's chosen angle, forcing the thrower to one side of the field."],
+      ["Poach", "A defender lurking in passing lanes instead of covering their player."],
+      ["Dump", "The short backward reset pass to a handler under pressure."],
+      ["Callahan", "An interception caught directly in the opponent's end zone for an instant point — named for the award's founder."],
+      ["Spirit of the Game", "The self-officiating ethos — competitive play without referees, resolved by the players themselves."]
+    ],
+    "related": ["disc-golf", "flag-football", "soccer", "handball"],
+    "crosslink": false
+  },
+  {
+    "slug": "futsal",
+    "name": "Futsal",
+    "category": "team-ball",
+    "glyph": "⚽",
+    "tagline": "Soccer's indoor laboratory — size-4 ball, hard court, and decisions every two seconds.",
+    "origin": "Uruguay · 1930",
+    "tags": ["Indoor", "FIFA", "World Cup", "Small-sided"],
+    "overview": [
+      "Futsal is 5 v 5 including goalkeepers on a hard court up to 40 by 20 meters, with a size-4 ball of 400-440 grams whose reduced bounce keeps it on the floor. Two 20-minute halves run on a stopped clock, substitutions fly like hockey, kick-ins replace throw-ins, and from the sixth accumulated foul the opponent gets a direct free kick from 10 meters with no wall. Scores run high and attacks last seconds.",
+      "Born in a Montevideo YMCA in 1930 and adopted by FIFA in 1989, futsal is the skill accelerator behind a generation of 11-a-side stars — Messi, Ronaldo, Neymar, and Ronaldinho all grew up on its hard courts. Brazil and Spain built world-class technical cultures on it, and Portugal's Ricardinho carried the craft to a world title in 2021.",
+      "Newcomers should know that the sole of the foot is the futsal player's hands — stopping, dragging, and rolling the ball before ever sprinting. The 4-second rules on every restart are the game's tempo-keepers and the first habit to build."
+    ],
+    "facts": [
+      ["Invented", "1930 — Juan Carlos Ceriani, a YMCA teacher in Montevideo, adapts soccer for basketball courts as indoor foot-ball"],
+      ["Governing bodies", "FIFA has run futsal since 1989; the AMF keeps the older FIFUSA lineage, founded in 1971 in São Paulo, alive"],
+      ["Team size", "5 v 5 including goalkeepers, with unlimited flying substitutions"],
+      ["Match length", "Two 20-minute halves on a stopped clock; drawn knockout matches add two 5-minute overtime periods"],
+      ["Playing area", "Up to 40 m by 20 m with 3-by-2-meter goals — a basketball court plus margins"],
+      ["Ball", "Size 4, 62-64 cm and 400-440 g, with a first bounce of 50-65 cm from a 2-meter drop"],
+      ["Olympic status", "Not yet Olympic; a Youth Olympic Games sport since 2010"]
+    ],
+    "history": [
+      ["1930", "Juan Carlos Ceriani fuses soccer's feet, basketball's five players, and handball's goals at the Montevideo YMCA."],
+      ["1965-1971", "South American tournaments grow the game across the continent, and FIFUSA is founded in São Paulo in 1971."],
+      ["1982", "The first world championship is staged in São Paulo and won by Brazil."],
+      ["1989", "FIFA adopts the game and stages its first Futsal World Cup in the Netherlands — Brazil wins the first of a record five titles."],
+      ["2000-2021", "Spain win twice in 2000 and 2004; Argentina (2016) and Portugal (2021) break the duopoly."],
+      ["2024", "Brazil win the FIFA Futsal World Cup in Uzbekistan, their first title since 2012."]
+    ],
+    "formats": [
+      ["FIFA futsal", "The world game: 5 v 5, stopped clock, accumulated fouls, and a World Cup every four years."],
+      ["AMF futsal", "The FIFUSA-descended variant with its own federation, rulebook, and world titles."],
+      ["UEFA Futsal Champions League", "Europe's club crown since 2001-02, dominated by Spanish and Portuguese clubs."],
+      ["Continental championships", "The UEFA Futsal Euro, Copa América de Futsal, and AFC Futsal Asian Cup — each a World Cup springboard."],
+      ["Youth and schools futsal", "The standard school-hall format worldwide and the feeder for 11-a-side academies."]
+    ],
+    "skills": [
+      ["Sole control", "The sole of the foot stops, drags, and rolls the ball — the game's foundational touch.", "Sole-tap ladders: drag the ball across the body 50 times per foot, then add direction changes."],
+      ["First touch under pressure", "Receive across the line of the press, playing away from the defender with the first touch.", "3 v 1 and 4 v 2 rondos with one-touch conditions at the edges of the grid."],
+      ["Toe-poke", "The emergency strike with no backswing — pure toe, devastating from tight angles.", "30 toe-poke finishes from 6-10 meters after a dribble."],
+      ["Pivot play", "The pivot holds with back to goal and lays off to break presses and restart attacks.", "Pivot grids: receive, lay off, spin — 20 sequences per side against live pressure."],
+      ["Transitions", "The court flips in a heartbeat; scanning and speed of decision rule the 4 v 3 and 3 v 2.", "Conditioned games with a 5-second shooting rule after winning the ball."],
+      ["Power play", "The patient 5 v 4 possession system that breaks packed defenses through rotations.", "5 v 4 possession drills where a goal counts only after ten passes."],
+      ["Goalkeeping", "Shot-stopping from 6-10 meters with hands, feet, and legs — futsal keepers face a shot every few seconds.", "Massed-shot blocks of 60 throws with randomized angles."]
+    ],
+    "rules": [
+      "Five players a side with unlimited flying substitutions — players re-enter without the clock stopping.",
+      "The clock stops at every dead ball; halves are 20 minutes of pure playing time.",
+      "Kick-ins replace throw-ins, and goalkeepers restart with throws from their hands.",
+      "A 4-second rule governs all restarts — kick-ins, corners, free kicks, and goalkeeper possession.",
+      "From the sixth accumulated foul in a half, every further foul gives the opponent a direct free kick from the 10-meter second penalty mark with no wall.",
+      "After releasing the ball, the goalkeeper may not touch it again in their own half until an opponent plays it.",
+      "There is no offside — teams defend space with pressing instead of lines."
+    ],
+    "equipment": [
+      ["Ball", "Size 4, 400-440 g, low bounce; $30-80 for match quality."],
+      ["Court shoes", "Flat, non-marking indoor shoes with gum rubber soles — never studs; $50-120."],
+      ["Goals", "3-by-2-meter frames with nets; portable club goals cost $300-900."],
+      ["Court", "Parquet or smooth concrete up to 40 by 20 meters — a basketball court plus margins is the classic venue."],
+      ["Goalkeeper gloves", "Smaller and flatter than outdoor gloves, built for feel rather than padding."],
+      ["Scoreboard and clock", "A stopped clock managed courtside — matches are run like basketball."]
+    ],
+    "training": [
+      "High-intensity intermittent load: repeated 2-8 second sprints with tiny rests, trained with shuttles and small-court games.",
+      "Decision speed through possession games with touch limits — scanning habits built here transfer straight to 11-a-side.",
+      "Footwork and hip mobility for the low defensive stance, with Copenhagen planks for the adductors that cutting punishes.",
+      "Technical volume: daily sole-control and finishing blocks totaling hundreds of touches are non-negotiable.",
+      "Monitor sprint counts in training — the stopped clock hides fatigue better than any other indoor sport."
+    ],
+    "pathway": [
+      ["School hall", "Almost every futsal nation starts on school courts with a low-bounce ball and taped lines."],
+      ["Club academies", "Futsal clubs train three to four times weekly; Brazilian and Spanish academies develop both futsal and 11-a-side talent."],
+      ["National leagues", "Spain's Primera División, Brazil's Liga Nacional, and Italy's Serie A are the top domestic circuits."],
+      ["National team", "Continental championships qualify teams toward the World Cup cycle every four years."],
+      ["Club Europe", "The UEFA Futsal Champions League final four is club futsal's summit."]
+    ],
+    "events": [
+      ["FIFA Futsal World Cup", "Every four years since 1989 — Brazil with five titles, Spain two, and one each for Argentina and Portugal."],
+      ["UEFA Futsal Champions League", "The annual club crown since 2001-02."],
+      ["UEFA Futsal Euro", "The biennial European championship since 1996."],
+      ["Copa América de Futsal", "South America's championship — the most unforgiving qualifying pool in futsal."],
+      ["Futsal at the Youth Olympics", "On the program since Singapore 2010."]
+    ],
+    "legends": [
+      ["Falcão", "Brazil's Alessandro Rosa Vieira — the Pelé of futsal, a two-time World Cup winner whose highlight reel sold the sport worldwide."],
+      ["Ricardinho", "Portugal's O Mágico — the most decorated European player of his generation and a 2021 world champion."],
+      ["Manoel Tobias", "Brazil's great marksman of the 1990s and a fixture of the first golden generation."],
+      ["Javi Rodríguez", "The playmaking heart of Spain's golden 2000s era of world and European titles."]
+    ],
+    "getting_started": [
+      "Any gym, one ball: futsal needs a size-4 ball, flat shoes, and five players a side.",
+      "Master sole control in week one — stop, drag, and roll before you ever sprint with the ball.",
+      "Play 3 v 3 on half a basketball court; touches per minute are the whole curriculum.",
+      "Practice the toe-poke finish from standing until it surprises you.",
+      "Watch clips of Falcão and Ricardinho, then copy one move per session.",
+      "Join a league with a stopped clock — the 4-second restart rules are learned fastest under pressure."
+    ],
+    "glossary": [
+      ["Kick-in", "The sideline restart — kicked, not thrown, within four seconds."],
+      ["Accumulated fouls", "Fouls counted per half; from the sixth, every foul gives a no-wall direct free kick."],
+      ["Pivot", "The target player with back to goal who links play at the top of the attack."],
+      ["Power play", "The patient possession system used to break a packed defense, often with the keeper joining."],
+      ["Flying substitution", "Unlimited on-the-fly changes, as in hockey."],
+      ["Goal clearance", "The goalkeeper's four-second throw that restarts play after the ball goes out over the goal line."],
+      ["Second penalty mark", "The 10-meter spot for direct free kicks awarded on accumulated fouls."],
+      ["Bloqueio", "The screen — a player blocks a defender to free a teammate, from the Portuguese for blockade."],
+      ["Tabelinha", "The Brazilian term for the give-and-go wall pass."],
+      ["Rondo", "The keep-away training game played with a numbers advantage around a circle."]
+    ],
+    "related": ["soccer", "beach-soccer", "floorball", "handball"],
+    "crosslink": false
+  },
+  {
+    "slug": "beach-soccer",
+    "name": "Beach Soccer",
+    "category": "team-ball",
+    "glyph": "⛱️",
+    "tagline": "Soccer stripped to sand and skill — overhead volleys, twelve-minute periods, bare feet.",
+    "origin": "Brazil (Rio de Janeiro) · mid-20th century",
+    "tags": ["FIFA World Cup", "Sand sport", "5-a-side", "Acrobatic"],
+    "overview": [
+      "Beach soccer is 5 v 5 including goalkeepers on a 35-37 by 26-28-meter sand pitch, played in three 12-minute periods on a stopped clock with a no-draw guarantee — level games go to three minutes of overtime and penalties. Every free kick is direct and taken without a wall, kick-ins replace throw-ins, and goals come in flurries: elite matches produce eight or more.",
+      "Born from pick-up games on Rio de Janeiro's sand and formalized in the 1990s by Beach Soccer Worldwide, the game was adopted by FIFA in 2005 and has since built its own World Cup, its own stars, and its own aesthetics — the bicycle kick is a working tool here, not a circus act. Brazil lead the FIFA-era roll of honour with seven titles.",
+      "Newcomers should know that sand changes soccer's physics: the ball arrives bouncing, contact beats power when striking barefoot, and ankle and calf conditioning decides who lasts the third period. Chest and thigh control are trained before anything else."
+    ],
+    "facts": [
+      ["Born", "Mid-20th century — informal games on Rio de Janeiro's beaches grew into a codified sport"],
+      ["Rules codified", "1992 — the first formal rules are written, with professional competitions following in 1993"],
+      ["Governing bodies", "Beach Soccer Worldwide created the modern game; FIFA has run the World Cup since 2005"],
+      ["Team size", "5 v 5 including goalkeepers, with rolling substitutions from the bench"],
+      ["Match length", "Three 12-minute periods on a stopped clock; drawn games go to 3 minutes of overtime, then penalties"],
+      ["Playing area", "35-37 m by 26-28 m of washed, raked sand at least 40 cm deep; goals 5.5 m by 2.2 m"],
+      ["Olympic status", "Not Olympic; a headline sport at the ANOC World Beach Games since 2019"]
+    ],
+    "history": [
+      ["1950s-1980s", "Rio's beach pick-up culture invents the game's aesthetics — acrobatics, chest control, and barefoot striking refined over decades."],
+      ["1992-1993", "The first formal rules are written and professional competitions begin, launching the sport's organized era."],
+      ["1995", "The first world championship is held and won by Brazil."],
+      ["2005", "FIFA adopts beach soccer and stages the first FIFA Beach Soccer World Cup in Rio de Janeiro — Brazil win at home."],
+      ["2005-2009", "Brazil complete a run of five straight world titles."],
+      ["2011-2024", "Russia's golden generation win in 2011 and 2013, Portugal lift the trophy at home in 2015 and in the Bahamas in 2017, Italy shock Paraguay in 2019, and Brazil reclaim the crown in Dubai in 2024."]
+    ],
+    "formats": [
+      ["FIFA Beach Soccer World Cup", "The flagship tournament, held annually from 2005 to 2009 and every two years since."],
+      ["BSWW circuit", "The professional tour created by Beach Soccer Worldwide, still running international events alongside FIFA."],
+      ["Euro Winners Cup", "The club championship of Europe, held each summer in Portugal since 2013 — beach soccer's Champions League."],
+      ["Continental qualifiers", "Every confederation crowns a beach champion as a World Cup qualification route."],
+      ["Women's beach soccer", "The women's game grows through the Euro Beach Soccer League and world-level invitational cups."]
+    ],
+    "skills": [
+      ["Sand control", "First touch with chest, thigh, and instep on a surface that absorbs pace but bounces unpredictably.", "Partner serves high balls; 60 touches per session played down instantly from chest height."],
+      ["Acrobatic finishing", "Bicycle kicks and volleys are routine scoring tools, trained weekly rather than improvised.", "30 acrobatic attempts per week from soft tosses on forgiving sand, landing technique first."],
+      ["Barefoot striking", "Striking cleanly without boots — the instep and laces area, protected by technique rather than leather.", "50 barefoot strikes per session from static positions before adding movement."],
+      ["Restarts", "Every free kick is direct and every kick-in is a set play — routines win tight games.", "Ten rehearsed restart routines per week with a fixed five-person cast."],
+      ["Goalkeeping", "Shot-stopping on an unpredictable surface with sweeper duties behind a high line.", "Reaction training with deliberately mis-bouncing feeds, 60 saves per session."],
+      ["Transitions", "On small courts the counterattack is the fastest route to goal — games flip in three-second swings.", "Conditioned games with a 5-second shot clock after winning possession."],
+      ["Sand conditioning", "Running, jumping, and changing direction barefoot in sand — the sport's foundation.", "Ankle and calf blocks: barefoot sprints, single-leg hops, and progressive loading."]
+    ],
+    "rules": [
+      "Five players a side — four outfield plus the keeper — on a 35-37 by 26-28-meter sand pitch with 5.5-by-2.2-meter goals.",
+      "Three 12-minute periods with a stopped clock; no match may end in a draw.",
+      "All free kicks are direct and taken without a wall, with opponents at least five meters away.",
+      "Fouls accumulate per period — from the sixth, every subsequent foul gives a direct free kick from the spot with no wall.",
+      "There are no throw-ins: restarts on the touchline are kick-ins under the 4-second rule, and keepers restart from the goal area with their hands.",
+      "Goalkeepers may handle only inside their penalty area and must release within four seconds of gaining possession.",
+      "Group standings award 3 points for a win in regular time, 2 for a win in overtime, and 1 for a shootout win."
+    ],
+    "equipment": [
+      ["Ball", "A size-5 ball that is lighter, softer, and pressure-reduced for control on sand; $30-70."],
+      ["Goals", "5.5-by-2.2-meter freestanding frames; $400-1,200."],
+      ["Sand", "Washed, raked sand at least 40 cm deep at elite events — the playing surface is regulated like a pitch."],
+      ["Kit", "Jersey and swimwear, with bare feet mandatory at elite level; $40-80."],
+      ["Sun protection", "Waterproof sunscreen, caps, and hydration — midday matches in 30-degree heat are standard."],
+      ["Bench and timer", "A stopped clock and period hooter managed courtside, as in basketball."]
+    ],
+    "training": [
+      "Barefoot sand sprinting builds foot, ankle, and calf strength few sports develop — start with short blocks and progressive loading.",
+      "Mobility for acrobatics: hip and spine flexibility plus core control make bicycle kicks repeatable rather than reckless.",
+      "Hydration and heat acclimation are performance tools — sweat rates on sun-baked sand are extreme.",
+      "Finishing volume: 50 volley and overhead repetitions per week, first from soft tosses on forgiving sand.",
+      "Keeper work on variable bounces, with deliberately errant feeds and randomized angles."
+    ],
+    "pathway": [
+      ["Pick-up on the sand", "Anyone with a ball and a patch of beach starts here."],
+      ["National programs", "Most soccer federations now run beach squads alongside the 11-a-side game."],
+      ["Continental competition", "National teams qualify through confederation tournaments."],
+      ["FIFA World Cup", "The biennial tournament is the sport's summit."],
+      ["Club beach soccer", "The Euro Winners Cup gathers Europe's best club sides each summer."]
+    ],
+    "events": [
+      ["FIFA Beach Soccer World Cup", "Held annually from 2005 to 2009 and every two years since — Brazil lead with seven titles."],
+      ["Euro Beach Soccer League", "Europe's summer league, the strongest regional circuit in the sport."],
+      ["World Beach Games", "The ANOC beach multi-sport festival since 2019, where beach soccer headlines."],
+      ["Continental championships", "Every confederation crowns a beach champion as a World Cup qualifier."],
+      ["Euro Winners Cup", "Europe's club championship, staged each summer in Portugal."]
+    ],
+    "legends": [
+      ["Madjer", "Portugal's iconic captain — 2015 world champion on home sand and the sport's global face for a decade."],
+      ["Eric Cantona", "The French legend who headlined the 1990s professional tour and legitimized the sport's first professional era."],
+      ["Zico", "Brazil's footballing idol, who became beach soccer's first great coach and ambassador."],
+      ["Bruno Xavier", "Brazil's star across the 2017 and 2024 world titles and one of the tour's most decorated current players."],
+      ["Dejan Stankovic", "Switzerland's long-serving captain, a fixture on world podiums for over a decade."]
+    ],
+    "getting_started": [
+      "Any beach or sand pitch: five players, one low-bounce ball, and flip-flops for the walk home.",
+      "Learn to strike barefoot first — on sand, contact beats power.",
+      "Practice chest and thigh control from high feeds; most balls arrive in the air.",
+      "Set up small goals and play 3 v 3 — control comes first, acrobatics later.",
+      "Build ankle and calf strength before sprinting hard barefoot; loads on sand differ from turf.",
+      "Watch World Cup highlights for restart routines — every free kick is direct, so setups are pure craft."
+    ],
+    "glossary": [
+      ["Period", "One of three 12-minute segments played on a stopped clock."],
+      ["Kick-in", "The sideline restart — always kicked, within four seconds."],
+      ["Accumulated fouls", "The foul count per period; from the sixth, every foul gives a no-wall direct free kick."],
+      ["Bicycle kick", "The overhead scissor volley — the sport's signature and a working finish."],
+      ["Goal clearance", "The goalkeeper's restart with the hands from the goal area."],
+      ["Sand sock", "A neoprene sock worn against hot or cold sand."],
+      ["Overtime", "Three added minutes when regulation ends level, followed by penalties."],
+      ["Wall", "The defensive line that does not exist here — every free kick is direct with no wall."],
+      ["Volley", "Striking the ball in the air before it bounces — the sport's most rehearsed skill."],
+      ["Tournament points", "3-2-1 for wins in regular time, overtime, and the shootout — no draws, ever."]
+    ],
+    "related": ["soccer", "futsal", "beach-volleyball", "water-polo"],
+    "crosslink": false
+  },
+  {
+    "slug": "dodgeball",
+    "name": "Dodgeball",
+    "category": "team-ball",
+    "glyph": "🟢",
+    "tagline": "Throw, dodge, catch, repeat — the schoolyard game that became a world championship sport.",
+    "origin": "Ancient folk roots · codified 1905",
+    "tags": ["World Cup", "Team sport", "Quick reflexes", "Low cost"],
+    "overview": [
+      "Dodgeball is elimination by ball: hit an opponent and they are out, catch a throw and the thrower is out instead. The World Dodgeball Federation's flagship code is 6 v 6 on an 18-by-9-meter court — the footprint of a volleyball court — with six soft cloth balls, timed sets inside two 15-minute halves, and matches decided by the majority of sets. Foam and no-sting rubber codes run alongside it from schoolyards to national leagues.",
+      "Almost everyone on Earth has played some version of it, which makes dodgeball the rare sport whose player base dwarfs its professional structure — and the last two decades have been about closing that gap. The film Dodgeball in 2004, college leagues from 2005, and the WDBF's first World Cup in Kuala Lumpur in 2012 turned a gym class into a governed international sport.",
+      "Newcomers should know that catching is worth more than any throw, that aiming at thighs beats aiming at heads, and that the opening rush — a three-second sprint for the center balls — decides more sets than anything else. Footwork and reaction speed are the trainable core."
+    ],
+    "facts": [
+      ["Origins", "Commonly traced to African throwing-and-dodging games observed by missionaries in the 1800s, carried into English and American schools"],
+      ["Codified", "Around 1905 — Philip Ferguson formalizes American rules after seeing the game at St. Mary's College, introducing it at Yale"],
+      ["Governing body", "World Dodgeball Federation (WDBF, founded 2011) with cloth and foam rulebooks and member federations on every inhabited continent"],
+      ["Team size", "6 v 6 on court in WDBF world play, with ball retrievers and bench rotations in elite formats"],
+      ["Match length", "Timed sets inside two 15-minute halves — a set ends when a team loses all six players or time expires"],
+      ["Playing area", "18 m by 9 m court split by a center line — the same footprint as a volleyball court"],
+      ["Balls", "Six soft cloth balls in WDBF championship play; 8.5-inch no-sting rubber and foam balls in other codes"]
+    ],
+    "history": [
+      ["1800s", "The commonly told history: missionary observations of African throwing-and-dodging games reach English schools, then American colleges."],
+      ["1905", "Philip Ferguson adapts and formalizes the game for American college play, writing early rules."],
+      ["1950s-1990s", "Dodgeball becomes a gym-class staple across North America, loved and feared in equal measure."],
+      ["2004-2005", "The film Dodgeball popularizes the game just as the National Collegiate Dodgeball Association forms in 2005."],
+      ["2011-2012", "The World Dodgeball Federation is founded and stages the first Dodgeball World Cup in Kuala Lumpur in 2012."],
+      ["2010s-present", "Cloth-ball rules professionalize the sport across Europe, Asia, and Oceania, with world cups running nearly annually."]
+    ],
+    "formats": [
+      ["Cloth", "The WDBF flagship: six soft cloth balls, 6 v 6, timed sets — the world championship code."],
+      ["No-sting rubber", "The traditional American code, played with 8.5-inch rubber balls in schools and leagues."],
+      ["Foam", "Ultra-light foam balls for juniors and mixed social leagues — the gentlest entry point."],
+      ["College dodgeball", "The National Collegiate Dodgeball Association's university circuit in the United States, running since 2005."],
+      ["Playground variants", "Doctor dodgeball, prison ball, and scramble — the folk formats that keep the game alive in every schoolyard."]
+    ],
+    "skills": [
+      ["Throwing", "Overhand for power, sidearm for angles — aimed at thighs and hips where reactions are slowest.", "30 accurate throws per session at target zones marked on a wall, from 6 and 10 meters."],
+      ["Catching", "A catch retires the thrower — and in most codes returns a teammate — making it the game's most valuable act.", "Partner firing lines: 50 catches per session at full extension, absorbing into the body."],
+      ["Dodging", "The dip, the jump, the lean, and the spin — small, late movements beat panicked sprints.", "Reaction grids: a partner throws on random calls; make 20 of 30 throws miss."],
+      ["Ball control", "Carrying two or three balls at once to starve the opponent of ammunition.", "Two-ball handling drills: collect, clutch, and throw in sequence without dropping."],
+      ["Blocking", "Using a held ball as a shield, angled so deflections cannot count as hits.", "Deflection drills with a partner throwing at your shield from 8 meters."],
+      ["Counting and baiting", "Calling ball counts aloud and baiting panicked throws before a synchronized attack.", "Team scrimmages with a dedicated counter and rehearsed bait-then-strike patterns."],
+      ["Opening rush", "The sprint to the center line that decides the first three seconds of every set.", "Rehearsed rush lanes with assigned balls, timed against a live opposing rush."]
+    ],
+    "rules": [
+      "Six players a side on an 18-by-9-meter court split by a center line — players may not cross it.",
+      "The set opens with a rush for the six center balls; claimed balls must be carried back behind the attack line before any throw.",
+      "A player is eliminated when a live ball strikes any part of the body, or when their own throw is caught; school variants usually void headshots, elite cloth rules count them.",
+      "A caught ball eliminates the thrower, and in most codes returns a teammate to play.",
+      "A deflected ball remains live and can still eliminate a second player.",
+      "Stalling with hoarded balls is penalized — officials warn, then declare balls dead.",
+      "Sets end when one team has no players left; matches are decided by the majority of sets across the two 15-minute halves."
+    ],
+    "equipment": [
+      ["Cloth balls", "Fabric-covered balls designed for grip and fast, accurate throws; $15-30 each."],
+      ["No-sting rubber balls", "The classic 8.5-inch rubber playground ball; $10-25."],
+      ["Foam balls", "Ultra-light foam balls for juniors and social leagues; $8-15 each."],
+      ["Court", "An 18-by-9-meter hall floor with taped lines — most gyms already have the footprint."],
+      ["Kit", "Indoor court shoes with grip for lunges and dives; shorts and a t-shirt are the whole uniform."],
+      ["Match clock", "Officials manage the set clock, live balls, and fouls from courtside."]
+    ],
+    "training": [
+      "Dodgeball is explosive bursts and lunges — train shuttles, lateral bounds, and 1-3 second efforts.",
+      "Shoulder health first: band work and scapular stability protect the rotator cuffs that throwing volume inflames.",
+      "Reaction training with randomized catch-and-throw reps sharpens the eye-hand speed that wins sets.",
+      "Learn to fall: low, controlled dives practiced on mats protect knees and wrists before you ever dive on a court.",
+      "Rehearse the rush and synchronized multi-ball attacks like set plays — choreography wins the first five seconds."
+    ],
+    "pathway": [
+      ["School and playground", "Where everyone meets the game, at almost no equipment cost beyond the balls."],
+      ["Local leagues", "Corporate and community league nights — mostly social, increasingly competitive."],
+      ["University circuit", "The NCDA in the United States and similar university leagues in Britain and Australia."],
+      ["National federation", "Trials for national cloth and foam squads, with member federations running championships and rankings."],
+      ["World Cup", "The WDBF's Dodgeball World Cup, held nearly every year since 2012, is the summit."]
+    ],
+    "events": [
+      ["Dodgeball World Cup", "Staged by the WDBF nearly annually since the 2012 opener in Kuala Lumpur, with cloth and foam divisions."],
+      ["National championships", "Federations across Europe, Asia, the Americas, and Oceania crown champions in both codes."],
+      ["NCDA season", "The American college championship circuit, running since 2006."],
+      ["International opens", "Events such as the Australian Open draw national and club teams across Oceania and Asia."],
+      ["League nights", "Weekly university and corporate leagues are the sport's lifeblood — its participation runs through social sport."]
+    ],
+    "legends": [
+      ["The NCDA generation", "The American college players who organized the sport's first sustained competitive structure from 2005 onward."],
+      ["The WDBF founders", "The federations and volunteers who wrote unified cloth and foam rules and staged the first World Cup in 2012."],
+      ["Southeast Asia's hosts", "Kuala Lumpur staged the 2012 opener and the region became one of the sport's fastest-growing heartlands."],
+      ["The cloth-era powers", "National teams from North America, Oceania, and Asia have defined the World Cup podiums as the sport professionalized."],
+      ["The schoolyard millions", "Every national team starts in a school gym — dodgeball's player base remains among the broadest in ball sports relative to its professional depth."]
+    ],
+    "getting_started": [
+      "Six balls, a taped court, twelve players — dodgeball needs almost nothing to start.",
+      "Learn to catch before you learn to throw hard; a catch is worth more than any throw.",
+      "Aim at thighs and shins — the zones with the slowest reactions and the hardest catches.",
+      "Practice the rush with lane assignments; chaos at the center line loses sets before they start.",
+      "Build two-ball control — holding two, throwing one — as your first skill upgrade.",
+      "Find a social league first; dodgeball's culture is notoriously welcoming and competitively sharp once you are hooked."
+    ],
+    "glossary": [
+      ["Live ball", "A thrown ball that can still record an out — it has not touched the floor, wall, or ceiling."],
+      ["Dead ball", "A ball that has hit the floor or a wall and can no longer eliminate anyone."],
+      ["Opening rush", "The sprint to the center line at the start of every set."],
+      ["Attack line", "The line behind which claimed balls must be taken before the first throw."],
+      ["Headshot", "A hit to the head — counted in elite cloth rules, voided in most school variants."],
+      ["Catch-out", "Eliminating the thrower by catching their ball cleanly."],
+      ["Deflection", "A live ball ricocheting off a player or held ball — still able to eliminate another player."],
+      ["Clutching", "Carrying multiple balls at once to control the ball count."],
+      ["Baiting", "Provoking a throw with a deliberate fake or half-step."],
+      ["Stalling", "Hoarding balls to run the clock — an infraction officials warn for, then penalize."]
+    ],
+    "related": ["kabaddi", "handball", "floorball"],
+    "crosslink": false
+  }
+]

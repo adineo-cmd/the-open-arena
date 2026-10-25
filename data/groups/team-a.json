@@ -1,0 +1,1273 @@
+[
+  {
+    "slug": "basketball",
+    "name": "Basketball",
+    "category": "team-ball",
+    "glyph": "🏀",
+    "tagline": "Peach baskets in a Massachusetts gym became the world's slickest show.",
+    "origin": "Springfield, USA · 1891",
+    "tags": ["Team sport", "Olympic", "NBA", "Indoor"],
+    "overview": [
+      "Basketball is played by two teams of five on a rectangular court, scoring by putting a leather ball through a hoop mounted 3.05 meters high at each end. Dribbling, passing, and shooting are the entire grammar, and the hoop sits low enough that every player on the floor, point guard to center, is a threat to score. Nothing between the athletes and the air but a wooden floor and a rulebook.",
+      "Invented in 1891 by James Naismith to keep athletes busy through a New England winter, it became the most exported indoor sport on earth — FIBA counts 212 national federations, from superpowers to islands. The NBA turned it into global theater, the WNBA proved a women's professional league could last a quarter century and counting, and one rusted hoop still runs a waiting game in every city in the world.",
+      "The newcomer's shortcut is that basketball is won with feet before hands. Learn to stop, pivot, and square up before chasing flashy handles, and the rest of the game opens up. The other shortcut: play. Pickup basketball is the sport's true academy, and it takes all comers."
+    ],
+    "facts": [
+      ["First codified", "1891 — James Naismith posts 13 rules at the YMCA training school in Springfield, Massachusetts, with peach baskets as goals"],
+      ["Governing bodies", "FIBA (world, founded 1932); the NBA (1946) and WNBA (1997) run the premier professional leagues"],
+      ["Team size", "5 v 5, with unlimited substitutions at stoppages; NBA clubs carry 15 players on standard contracts"],
+      ["Match length", "Four 12-minute quarters in the NBA, four 10-minute quarters under FIBA rules"],
+      ["Playing area", "28 x 15 m (FIBA) or 94 x 50 ft (NBA); hoop at 3.05 m, three-point arc at 6.75 m FIBA and 7.24 m NBA"],
+      ["Olympic status", "Men since 1936, women since 1976; 3x3 added at the Tokyo 2020 Games"],
+      ["Global reach", "212 FIBA member federations — among the largest sporting families on earth"]
+    ],
+    "history": [
+      ["1891", "Naismith nails up peach baskets in a Springfield gymnasium and writes 13 rules for an indoor winter game."],
+      ["1892-1936", "The game spreads through YMCA networks and colleges; Senda Berenson adapts it for women within months; it debuts as an Olympic sport at Berlin 1936."],
+      ["1946-49", "The Basketball Association of America forms in 1946 and absorbs the NBL in 1949 to become the NBA."],
+      ["1967-79", "The rival ABA runs nine seasons and leaves the NBA the three-point line; the 1979 NCAA final between Magic Johnson and Larry Bird ignites the modern boom."],
+      ["1992", "The USA's Dream Team — Jordan, Magic, Bird — takes the Barcelona Olympics and globalizes the NBA product overnight."],
+      ["1997", "The WNBA tips off and becomes the most durable professional women's team league in the world."],
+      ["2021", "3x3 makes its Olympic debut in Tokyo — the half-court street version that now carries its own World Tour."]
+    ],
+    "formats": [
+      ["5 v 5 (indoor)", "The full game: four quarters on the full court — the format of the NBA, FIBA, and the Olympics."],
+      ["3x3", "Half-court, one hoop, 10 minutes or first to 21, on a 12-second shot clock — basketball at double speed, Olympic since 2020."],
+      ["Streetball", "Playground basketball with looser rules and a heavy accent on one-on-one moves; Harlem's Rucker League is its cathedral."],
+      ["Wheelchair basketball", "A Paralympic fixture since Rome 1960 — 5 v 5 with dribbling adapted to chair pushes, played at startling skill."],
+      ["Half-court 21", "The pickup standard: make-it-take-it scoring by ones and twos to 21 — where most players actually live."]
+    ],
+    "skills": [
+      ["Shooting form", "Set feet, elbow in, one smooth line from legs to follow-through; the jumper is built from the floor up.", "Form shooting one-handed from 1 m, 50 makes, stepping back a meter at a time; track makes per day, not attempts."],
+      ["Dribbling", "Control with the finger pads, eyes up, the ball on a string in both hands.", "Five minutes of stationary two-ball drills daily, then full-speed cone series; test: 30 seconds of crossovers without looking down."],
+      ["Layup", "The two-step finish off the correct foot (right hand jumps off the left), plus inside-hand and reverse variants.", "Full-speed reps from both wings and the middle — 40 makes per side, finishing through light contact."],
+      ["Passing", "Chest, bounce, and overhead passes delivered to the shooter's pocket, not their body.", "Two-player series of 50 per pass type, then the 3-man weave at game speed; count turnovers per 100 passes in scrimmage."],
+      ["Rebounding", "Box out first, jump second — the miss belongs to whoever takes the space.", "Partner box-out drill 3 x 30 seconds, then tip drills off the rim; track rebounds per scrimmage quarter."],
+      ["Pick-and-roll", "The two-man game: the screener's defender and the ball-handler's defender forced to guard one action.", "Read drills at walking speed — reject, turn the corner, hit the roller — 20 reads each before adding a live defender."],
+      ["Man defense", "Slide-run-slide footwork an arm's length off the ball, sprinting to recover when beaten.", "Defensive-slide ladders 3 x 20 seconds, then 1 v 1 to a single hoop; win by forcing a miss within five dribbles."]
+    ],
+    "rules": [
+      "Five players per side on court, with unlimited substitutions during stoppages.",
+      "Score 2 points per field goal, 3 from behind the arc, 1 per free throw — top-level games finish in the 80s to 130s.",
+      "You cannot run with the ball: the dribble ends when you gather it, and moving your pivot foot is a travel.",
+      "The shot clock resets the attack — 24 seconds in the NBA and FIBA, 14 after an offensive rebound.",
+      "Personal fouls: five fouls out under FIBA rules, six in the NBA; team fouls beyond the limit put opponents on the line.",
+      "The three-second rule keeps big men from camping in the paint, and goaltending bans touching a shot on its way down.",
+      "Zone defense is legal nearly everywhere, though NBA rules add a defensive three-second restriction — know your league's book."
+    ],
+    "equipment": [
+      ["Ball", "Size 7 (about 75 cm) for men 13 and up, size 6 for women's and under-12 play; indoor composite or leather balls run $40-120."],
+      ["Hoop", "A 3.05 m rim on a backboard — portable adjustable systems from $150 let you lower it for learners and raise it as they grow."],
+      ["Shoes", "Court shoes with flat, grippy soles and lateral support; $60-150 buys real protection — running shoes roll ankles on hardwood."],
+      ["Clothing", "Breathable kit plus a mouthguard for organized play; nothing else is mandatory for pickup."],
+      ["Ball pump", "The unglamorous essential — a ball at the wrong pressure teaches a wrong shot."],
+      ["Cones and a rebounder", "A dozen cones and a passing rebounder turn a driveway into a gym for under $60."]
+    ],
+    "training": [
+      "Build repeat-sprint capacity: the game is a thousand changes of direction over 40 minutes, so shuttle intervals (30 seconds on, 30 off) beat steady jogging.",
+      "Jump training with a plan: depth drops to stuck landings first, then box jumps and bounds — the sport pays vertically.",
+      "Protect knees and ankles: single-leg RDLs, Copenhagen planks, and barefoot-balance ankle work cut the two most common injuries.",
+      "Shoot daily for volume, not variety — 150-300 makes a day of the same footwork patterns beats a new move every week.",
+      "Play 1 v 1 and 2 v 2 weekly; half the court doubles the touches and decisions per minute."
+    ],
+    "pathway": [
+      ["Grassroots", "School teams, community leagues, and driveway pickup — where every professional started."],
+      ["Youth and club (U10-U18)", "Club programs and national development frameworks; in the US, AAU circuits own the spring and summer."],
+      ["College or academy", "NCAA and junior-college basketball in the US; club academies and junior professional contracts elsewhere."],
+      ["Professional", "The NBA and WNBA at the summit; the G League, EuroLeague, and top leagues in dozens of countries pay real wages."],
+      ["National team", "FIBA World Cups and the Olympics; 3x3 offers a second international ladder."]
+    ],
+    "events": [
+      ["NBA Finals", "Best-of-seven each June between conference champions — the sport's biggest stage."],
+      ["FIBA Basketball World Cup", "Every four years since 1950; 32 teams since 2023 and the main Olympic qualifier."],
+      ["Olympic basketball", "Every four years — men since 1936, women since 1976, 3x3 since 2020."],
+      ["WNBA Finals", "Best-of-five each October — the championship of the world's longest-running women's pro league."],
+      ["EuroLeague Final Four", "Continental Europe's club crown each May, played at opera-house volume."]
+    ],
+    "legends": [
+      ["Michael Jordan", "Chicago Bulls — six championships, six Finals MVPs, five league MVPs; the yardstick every greatest-ever argument is measured against."],
+      ["Kareem Abdul-Jabbar", "Six titles, a record six MVPs, and the unstoppable skyhook; his 38,387 points stood as the NBA record for 39 years."],
+      ["LeBron James", "Four championships with three franchises and the NBA's all-time scoring record since 2023; two decades of elite play and counting."],
+      ["Diana Taurasi", "The WNBA's all-time leading scorer and a six-time Olympic champion — the most decorated Olympian in basketball history."],
+      ["Stephen Curry", "Two MVPs and four titles built on three-point shooting so prolific it moved where every level of the game shoots from."]
+    ],
+    "getting_started": [
+      "Get a size-appropriate ball and find a hoop — adjustable or full height — and shoot 20 minutes daily for two weeks.",
+      "Learn to dribble without watching the ball: five minutes of stationary two-ball work every session.",
+      "Find a local pickup run or beginners' league within a month; game reps are irreplaceable.",
+      "Master three shots first — the layup, the free throw, and the set jumper. Everything else is decoration.",
+      "Watch one NBA or WNBA game a week tracking a single off-ball player; movement and defense teach fastest.",
+      "Add two leg days a week — split squats, calf raises, jump rope — before buying any gear beyond shoes."
+    ],
+    "glossary": [
+      ["Swish", "A made shot that touches nothing but net — the game's cleanest sound."],
+      ["Crossover", "A dribble snapped from one hand to the other to shift a defender; Allen Iverson's version is the genre-defining artwork."],
+      ["Alley-oop", "A pass lobbed at the rim for a teammate to catch and dunk in one motion."],
+      ["Triple-double", "Double figures in three of the five main stats — points, rebounds, assists, steals, blocks — in one game."],
+      ["And-one", "A made basket plus a foul: one free throw tacked on as punishment for the defense."],
+      ["Buzzer-beater", "A shot released before the horn that wins or ties as time expires."],
+      ["In the paint", "The colored key around the basket where most of the game's bruises happen."],
+      ["Fast break", "A sprint to score before the defense can set — numbers in your favor, seconds on the clock."],
+      ["Sixth man", "The first substitute off the bench, often closer to a starter in scoring than not."],
+      ["Euro step", "A lateral two-step around a defender in the lane — Ginobili made it famous, and every guard now owns it."]
+    ],
+    "related": ["netball", "handball", "volleyball", "ultimate-frisbee"],
+    "crosslink": false
+  },
+  {
+    "slug": "cricket",
+    "name": "Cricket",
+    "category": "team-ball",
+    "glyph": "🏏",
+    "tagline": "A 22-yard duel of bat and ball — for an afternoon or five days.",
+    "origin": "England · 1744 (first Laws)",
+    "tags": ["Team sport", "Bat and ball", "Test cricket", "T20"],
+    "overview": [
+      "Cricket pits a batting team against a fielding team around a 22-yard pitch: the batters score runs by hitting the ball and running between the wickets, while the bowlers try to dismiss them — bowled, caught, leg before wicket, a dozen ways. An innings ends when ten wickets fall or the allotted overs run out, and the higher total wins. Everything else is format: five days of Test cat-and-mouse, one day of World Cup chess, three hours of T20 fireworks.",
+      "It is the beating heart of a belt of countries from London to Lahore — India treats a series like a second monsoon season, the Ashes has run between England and Australia since 1882, and India-Pakistan matches draw audiences counted in the hundreds of millions. Cricket is also the only major sport whose top-class formats differ in length by a factor of fifty: a Test averages 90 overs a day, a T20 innings is twenty.",
+      "Newcomers should know the game is decided at two moments: the bowler's release and the batter's contact. Watch wrists and feet, not the scoreboard. And be patient with the format puzzle — start with T20 (three hours), graduate to one-dayers, and let Test cricket seduce you slowly. It will."
+    ],
+    "facts": [
+      ["First codified", "1744 — the first Laws of Cricket; the Marylebone Cricket Club (founded 1787) has guarded them ever since"],
+      ["Governing body", "International Cricket Council — founded 1909 as the Imperial Cricket Conference; 12 Full Members and more than 90 Associate nations"],
+      ["Team size", "11 a side, with a 12th man as substitute fielder in first-class cricket"],
+      ["Match length", "Tests: five days at 90 overs a day. ODIs: 50 overs a side. T20s: 20 overs a side, about three hours"],
+      ["Playing area", "An oval field with boundaries typically 65-90 m across; the pitch is 20.12 m (22 yards) of rolled turf with wickets 71 cm high at each end"],
+      ["Ball", "Cork wrapped in string and leather: 156-163 g for men's play; one new ball per innings in Tests, another after 80 overs"],
+      ["Olympic status", "Played at Paris 1900 (Britain beat France); T20 cricket returns to the Games at Los Angeles 2028"],
+      ["Global reach", "Roughly 2.5 billion fans, concentrated in India, Pakistan, Bangladesh, Australia, England, South Africa, and the Caribbean"]
+    ],
+    "history": [
+      ["16th-17th c.", "Villagers and schoolboys in south-east England play 'creckett'; a 1598 court case records the game at Guildford."],
+      ["1744", "The first Laws of Cricket are published — the pitch is set at 22 yards, where it remains to this day."],
+      ["1787-88", "The Marylebone Cricket Club forms at Lord's and adopts the Laws — cricket's legislature ever since."],
+      ["1877-82", "Australia beats England in the first Test at the MCG by 45 runs; England's first home defeat in 1882 births The Ashes."],
+      ["1971-75", "A rain-ruined Test in Melbourne becomes the first one-day international (1971); the men's World Cup follows in 1975 — two years after the women staged theirs."],
+      ["2003-08", "The ECB invents Twenty20 in 2003; India's T20 World Cup win in 2007 lights the fuse for the Indian Premier League, launched in 2008."],
+      ["2021-28", "The World Test Championship crowns its first champion (New Zealand, 2021) and T20 wins an Olympic slot for Los Angeles 2028."]
+    ],
+    "formats": [
+      ["Test cricket", "The five-day original: two innings a side, red ball, whites — the format the World Test Championship final now crowns every two years."],
+      ["One Day International", "50 overs a side in colored kit; the World Cup format since 1975 — cricket's middle distance."],
+      ["T20", "20 overs a side in about three hours; the format that rewrote shots, salaries, and the sport's audience."],
+      ["The Hundred", "England's 100-ball-per-side invention (2021), built for television pacing and family nights out."],
+      ["Club and village cricket", "Saturday leagues, declaration cricket, and the tea interval — the sport's social fabric from English villages to Indian maidans."]
+    ],
+    "skills": [
+      ["Cover drive", "The classical front-foot stroke through the off side: head over the ball, elbow high, the bat swinging through the line.", "Drop feeds in the nets — 40 drives through a target zone between extra cover and mid-off, then throwdowns at increasing pace."],
+      ["Yorker", "A fast, full delivery landing at the base of the stumps — too full to drive, too late to dig out.", "Target bowling: place a shoe at the popping crease and bowl six-ball sets aiming to clip it four times in six."],
+      ["Googly", "The leg-spinner's wrong 'un: the wrist turns the ball the other way, deceiving the batter on length and spin.", "Bowl it in isolation 20 minutes a session and film from behind the stumps — the goal is an action identical to the stock leg-break."],
+      ["Bouncer", "A short-pitched ball rising at chest or head, cramping the pull shot and planting doubt.", "Bowl short at a marked target zone on the pitch: two bouncers per six-ball over — one at the body, one as a surprise."],
+      ["Sweep", "A cross-batted shot played kneeling into a spinning ball, robbing the spinner of turn and length.", "Progress from tennis-ball sweeps against a bowling machine at 60 kph to soft-ball spinners — 50 reps building to full pace."],
+      ["Outswing bowling", "Seam upright, wrist behind the ball, one side shined — the ball curves late in the air away from the bat.", "Bowl at a single stump with a new ball in 6-ball sets, checking seam presentation every delivery; target four of six landing on the seam."],
+      ["Wicketkeeping", "The crouched, gloved collector standing up to the stumps — footwork first, hands second.", "100 collects each side at walking pace, then 20 minutes standing up to spinners; never take your eyes off the ball's last meter."]
+    ],
+    "rules": [
+      "Each team bats until ten wickets fall or the overs run out — once in limited-overs cricket, twice each in Tests.",
+      "An over is six legal deliveries; bowlers change ends every over and may not bowl two overs in succession.",
+      "The pitch is 20.12 m (22 yards) long; the stumps at each end stand 71.1 cm high and 22.86 cm apart.",
+      "Ten dismissal modes exist, from bowled, caught, and LBW to stumped, hit wicket, and obstructing the field — the LBW law alone runs to a page of conditions.",
+      "Limited-overs fields are restricted: only a set number of fielders may stand outside the 30-yard circle in each powerplay phase; Tests have no such limit.",
+      "Teams may review umpires' calls through the DRS — usually two unsuccessful reviews per innings, checked by ball-tracking and edge-detection technology.",
+      "A tie in limited-overs cricket is broken by a Super Over: one extra over each, the closest thing in sport to extra innings."
+    ],
+    "equipment": [
+      ["Bat", "A willow blade with a cane handle, no more than 96.5 cm long or 10.8 cm wide; $60-150 for a good starter bat, $400+ for pro-grade English willow."],
+      ["Ball", "Cork, string, and stitched leather, 156-163 g for men's play — one quality ball per innings, cheaper composite balls for training."],
+      ["Pads and gloves", "Batting pads, batting gloves, and a keeper's set — the kit that makes the sport survivable; $60-150 entry tier."],
+      ["Helmet", "A grille-faced helmet, mandatory almost everywhere since the 2014-15 safety reforms."],
+      ["Abdominal guard", "The 'box' — non-negotiable for anyone standing up to fast bowling; about $10."],
+      ["Stumps and bails", "Three stumps and two bails per end; a set with a composite ball costs under $40 for garden cricket."],
+      ["Shoes", "Rubber-soled for juniors and artificial pitches, half-spikes or full spikes for bowlers on turf."]
+    ],
+    "training": [
+      "Net batting with intent: 30-45 minutes of scenario batting (leave the first 20 balls wide of off stump, then score) beats aimless hitting.",
+      "Bowlers build work capacity like pitchers — tempo runs, heavy posterior-chain lifting (RDLs, Nordic curls), and strict over counts to manage bone-stress risk.",
+      "Fielding is trained as a reaction skill: 20 minutes of catching progressions — high balls, slip catching, flat throws at a single stump — every session.",
+      "Rotational power for batting comes from the hips, not the arms: med-ball throws and cable woodchops twice a week.",
+      "Play formats deliberately — T20 for shot-making under pressure, longer formats for technique — because each teaches the other."
+    ],
+    "pathway": [
+      ["Grassroots", "Backyard, street, and school cricket — plus soft-ball and tape-ball formats where turf and a leather ball are luxuries."],
+      ["Junior club (U8-U18)", "Weekend age-group and school competitions; hard-ball entry from around under-11s in most countries."],
+      ["Age representative", "District, state, and regional honors feeding national under-19 programs — the Under-19 World Cup is heavily scouted."],
+      ["First-class and franchise", "Premier club leagues into state and first-class contracts; T20 franchises worldwide now offer a parallel career."],
+      ["International", "Central contracts with national boards; the ultimate prizes remain the Ashes urn and a World Cup of any length."]
+    ],
+    "events": [
+      ["ICC Cricket World Cup", "Men's 50-over championship every four years since 1975; the women's edition has run since 1973 — two years longer."],
+      ["T20 World Cup", "Held every couple of years since 2007, now with 20 teams — the sport's biggest television property after a World Cup final."],
+      ["World Test Championship", "A two-year league of Test series culminating in a one-off final, first won by New Zealand in 2021."],
+      ["The Ashes", "England v Australia, Test cricket's oldest grudge since 1882 — a series every couple of years, fought over a terracotta urn."],
+      ["Indian Premier League", "March to May every year since 2008: ten franchises, the world's richest cricket league, and a player auction like no other."],
+      ["WBBL and The Hundred", "Franchise competitions (Women's Big Bash since 2015, The Hundred since 2021) that made the women's game genuinely full-time."]
+    ],
+    "legends": [
+      ["Don Bradman", "Australia — a Test batting average of 99.94 across 52 Tests; statisticians still rank it the most dominant career in any sport."],
+      ["Sachin Tendulkar", "India — 100 international centuries and 34,357 international runs, both records; carried a billion expectations for 24 years."],
+      ["Muttiah Muralitharan", "Sri Lanka — 800 Test wickets, more than any bowler in history, spun from an action all his own."],
+      ["Mithali Raj", "India — 10,868 international runs and the first woman past 10,000; a 23-year career that professionalized the women's game."]
+    ],
+    "getting_started": [
+      "Start with a tennis ball and one bat — learn to stop the ball dead before you try to hit it far.",
+      "Bowl at a single target on a wall or pitch 20 minutes a day; accuracy arrives years before speed.",
+      "Watch one T20 match with a single bowler in focus for a full spell — count where each ball lands.",
+      "Join a weekend club or a tape-ball group within a month; cricket is unplayable alone.",
+      "Buy the protective basics in order: box, pads, gloves, helmet — then upgrade the bat last.",
+      "Play backyard rules (one bounce one hand, six-and-out) to build hitting instinct without a full field."
+    ],
+    "glossary": [
+      ["Over", "Six legal deliveries bowled by one bowler — the game's basic unit of accounting."],
+      ["Wicket", "The three stumps — or a dismissal, or the pitch itself; context is everything."],
+      ["Maiden", "An over conceding no runs — a bowler's shutout."],
+      ["Duck", "Out for zero; a golden duck is first ball."],
+      ["Googly", "The leg-spinner's wrong 'un, turning the opposite way to expectation."],
+      ["Yorker", "A fast, full delivery aimed at the base of the stumps."],
+      ["Silly point", "A fielder standing absurdly close to the batter — helmet mandatory, nerve also required."],
+      ["Nightwatchman", "A tail-end batter sent in late on day one to survive until stumps, protecting a specialist."],
+      ["DRS", "The Decision Review System — teams challenging calls with ball-tracking and edge-detection technology."],
+      ["Ashes", "The England-Australia Test urn, born of a mock obituary mourning English cricket in 1882."]
+    ],
+    "related": ["baseball", "softball", "australian-rules-football", "kabaddi"],
+    "crosslink": false
+  },
+  {
+    "slug": "baseball",
+    "name": "Baseball",
+    "category": "team-ball",
+    "glyph": "⚾",
+    "tagline": "Nine innings, ninety feet, and failure three times in ten.",
+    "origin": "New York · 1845",
+    "tags": ["Team sport", "Bat and ball", "World Series", "Summer"],
+    "overview": [
+      "Baseball is a bat-and-ball game in which one team pitches and fields while the other bats and runs the bases counterclockwise — first, second, third, home — to score runs. At its center is the duel of pitcher against batter, decided in under half a second. A regulation game is nine innings, and it simply does not end until someone leads after the last one.",
+      "It is America's summer ledger and East Asia's obsession: Japan's Koshien tournament fills a 47,000-seat stadium with teenagers, the Dominican Republic and Venezuela mint superstars from sandlots, and the World Baseball Classic has grown into a genuinely global championship. Nowhere else does a season stitch itself into nightly ritual quite like this — 162 games, radio on the porch, October at stake.",
+      "The newcomer's first lesson is geometric: the diamond is 90 feet (27.4 m) between bases, and almost every play is decided by half-steps. The second is statistical: even the greatest hitters fail seven times in ten — make peace with that early. Learn to read the count, and every pitch becomes a miniature drama."
+    ],
+    "facts": [
+      ["First codified", "1845 — the Knickerbocker Base Ball Club's rules; the first recorded match followed in June 1846 at Hoboken, New Jersey"],
+      ["Governing bodies", "World Baseball Softball Confederation (WBSC, formed 2013 by merger); Major League Baseball runs the top professional leagues"],
+      ["Team size", "9 fielders (10 with the designated hitter); MLB active rosters of 26"],
+      ["Match length", "Nine innings — about two hours 45 at the MLB level since the 2023 pitch clock"],
+      ["Playing area", "A diamond with 90 ft (27.4 m) base paths; the pitcher's rubber 60 ft 6 in (18.44 m) from home; fences typically 325-410 ft"],
+      ["Olympic status", "A medal sport 1992-2008 and 2020; on the program again for Los Angeles 2028"],
+      ["Global reach", "MLB's 30 clubs plus major professional leagues in Japan (NPB), South Korea (KBO), Mexico, and Taiwan"]
+    ],
+    "history": [
+      ["1830s-45", "Town-ball variants evolve into codified 'base ball'; the Knickerbocker Club writes the rules that stick."],
+      ["1869-76", "The Cincinnati Red Stockings become the first openly professional club; the National League is founded in 1876."],
+      ["1903", "The American League (founded 1901) and National League champions meet in the first modern World Series — Boston over Pittsburgh."],
+      ["1920s", "Babe Ruth turns the home run into the sport's currency and lifts it past the 1919 Black Sox scandal."],
+      ["1947", "Jackie Robinson debuts for the Brooklyn Dodgers on April 15, breaking MLB's color line — the most consequential day in the sport's history."],
+      ["1992-2006", "Baseball becomes an Olympic medal sport and launches the World Baseball Classic (2006) as a true world championship."],
+      ["2020s", "Shohei Ohtani becomes the first two-way star in a century, a pitch clock arrives in MLB (2023), and the game gets crisper."]
+    ],
+    "formats": [
+      ["Nine-inning pro game", "The MLB, NPB, and international standard: nine innings, extra innings until decided, and the designated hitter."],
+      ["Professional leagues worldwide", "Japan's NPB (12 clubs) and Korea's KBO run leagues with their own rules, rhythms, and devoted fan cultures."],
+      ["World Baseball Classic", "The national-team world championship, held since 2006 — the sport's true global title."],
+      ["College baseball", "Aluminum-bat NCAA format capped by the College World Series in Omaha each June."],
+      ["Youth and amateur", "Little League (founded 1939, its World Series in Williamsport since 1947), plus adult amateur and wood-bat summer leagues."]
+    ],
+    "skills": [
+      ["Hitting", "A rotational swing — load, stride, hips fire, hands inside the ball — timed against a ball that arrives in half a second.", "Tee work and soft toss daily (50 swings), then batting-practice rounds; count hard contact per 15 swings, not home runs."],
+      ["Fastball command", "The four-seam fastball at the top of the zone; every other pitch works off it.", "Bullpens to a four-quadrant target: 30 pitches a session, goal of 60 percent within a glove's width of the call."],
+      ["Off-speed pitches", "Changeup, slider, curveball — each moving off the fastball's plane and speed.", "Learn the changeup first (grip change only, same arm speed): 20 throws a session before any spinning pitch; youth arms should wait on breaking balls."],
+      ["Infield play", "Pre-pitch ready position, funneling grounders with soft hands, footwork into a strong throw.", "Ground-ball ladders of 50 at increasing pace, forehand and backhand; double-play turns with a sub-one-second release target."],
+      ["Outfield play", "Drop step, sprint to the catch point, receive over the throwing shoulder, crow hop to throw.", "30 fungo flies read off the bat every session, plus crow-hop throws to a base on the run."],
+      ["Catching (the position)", "Receive quietly, frame the zone's edges, block balls in the dirt, and throw with intent.", "Full-gear blocking drills — 30 dirt balls each direction — and pop-time throws to second under 2.0 seconds."],
+      ["Baserunning", "Sprint through first on grounders, round the bag on hits, read outfielders' arms for the extra base.", "Time home-to-first weekly; drill leads, first-move reads, and tag-ups at every practice."]
+    ],
+    "rules": [
+      "Three outs end a half-inning; nine innings decide a game, and the home team bats last with the chance to walk it off.",
+      "The count: three strikes and you are out, four balls and you walk; a foul ball counts as a strike except with two strikes.",
+      "The strike zone spans home plate between the batter's knees and the midpoint of the torso, judged by the umpire or the electronic zone in some leagues.",
+      "Batters are out on strikes, on caught flies (runners must tag up), and on force or tag plays; runners must touch every base in order.",
+      "Scoring: one run per runner crossing home; a fair ball over the fence is a home run, and a grand slam with the bases loaded scores four.",
+      "Pitchers work from the stretch with runners on, and a balk — deceiving the runner — awards the next base.",
+      "MLB pace rules since 2023: a pitch clock of about 15 seconds with the bases empty and 18 with runners, plus limits on step-offs and mound visits."
+    ],
+    "equipment": [
+      ["Bat", "Alloy or composite for amateurs, wood in the pros; a durable alloy bat runs $50-200."],
+      ["Ball", "Cork-centered, yarn-wrapped, leather-covered: 22.9-23.5 cm around and 142-149 g."],
+      ["Glove", "Leather and sized by position — 11-12 in for infielders, 12-13 for outfielders; $40-150 for a gamer."],
+      ["Batting helmet", "Mandatory at every level, $40-80, with an added face guard for juniors."],
+      ["Catcher's gear", "Mask-and-helmet, chest protector, shin guards, and a cup — the full kit runs $150-400 and is non-negotiable."],
+      ["Cleats", "Metal for pro and high-school varsity ball in the US, molded rubber for youth; $50-130."]
+    ],
+    "training": [
+      "Follow arm-care protocols: long-toss progressions, band work daily, and strict pitch counts with mandated rest — youth limits are law in the US.",
+      "Track hitting quality, not volume: exit velocity and hard-contact rate tell more than batting-practice home runs.",
+      "Train position-specific speed — catchers pop times, infielders first-step quickness (5-10-5 pro agility), outfielders straight-line sprints.",
+      "Batting and throwing both run on hip rotation: deadlifts, rotational med-ball throws, and oblique work twice a week.",
+      "Take ground balls and fungo flies daily; fielding reps decay faster than any other skill in the game."
+    ],
+    "pathway": [
+      ["Grassroots", "Tee-ball at 4-6, then coach-pitch and kid-pitch Little League — the sport's front door worldwide."],
+      ["Youth travel and high school", "Travel ball from around 10, school baseball, and the showcase-camp circuit in the early teens."],
+      ["College or academy", "NCAA and junior-college baseball, or MLB's international academies in the Dominican Republic and Venezuela."],
+      ["Professional", "The MLB draft (20 rounds each July) out of high school or college, then minor-league rungs from rookie ball to Triple-A; NPB and KBO routes abroad."],
+      ["National team", "World Baseball Classic and WBSC Premier12 selection at the top of the international ladder."]
+    ],
+    "events": [
+      ["World Series", "Best-of-seven each October between the AL and NL champions — baseball's championship since 1903."],
+      ["World Baseball Classic", "The national-team world championship, roughly every three years since 2006; Japan has won three of the first five editions."],
+      ["Japan Series", "NPB's championship each October since 1950 — the climax of Japan's baseball year."],
+      ["College World Series", "Every June in Omaha, Nebraska — eight teams, bracket madness in the summer sun."],
+      ["Little League World Series", "Every August in Williamsport, Pennsylvania since 1947 — 10-to-12-year-olds on national television."]
+    ],
+    "legends": [
+      ["Babe Ruth", "New York Yankees — 714 home runs and a .690 career slugging percentage untouched a century later; the man who invented the long ball."],
+      ["Willie Mays", "New York and San Francisco — 660 home runs, 12 Gold Gloves, and 'The Catch' in the 1954 World Series."],
+      ["Satchel Paige", "Negro Leagues immortal who finally reached MLB at 42 — 'Don't look back, something might be gaining on you.'"],
+      ["Shohei Ohtani", "Los Angeles — the first true two-way star since Ruth; 2024 brought the first 50-homer, 50-steal season in MLB history."],
+      ["Ichiro Suzuki", "Japan's hit machine — 3,000-plus MLB hits after 1,278 in NPB, elected to the Hall of Fame in 2025."]
+    ],
+    "getting_started": [
+      "Get a glove first and break it in properly — play catch 15 minutes daily for two weeks before anything else.",
+      "Learn to hit off a tee; the tee is not for children, it is where big leaguers take their daily swings.",
+      "Find a rec league, beer league, or pickup game — adult baseball and its softball cousins exist nearly everywhere.",
+      "Play catch with a purpose: pick a target on your partner's body and hit it 50 times without a wild throw.",
+      "Watch one game a week with the count in mind — guess fastball or breaking ball before every pitch.",
+      "Learn to score a game by hand; nine innings of scorekeeping teaches the rules faster than a rulebook."
+    ],
+    "glossary": [
+      ["Strike zone", "The invisible box over the plate between the knees and mid-torso where strikes live."],
+      ["Full count", "Three balls, two strikes — the pitch everyone leans forward for."],
+      ["Double play", "Two outs on one batted ball, usually shortstop to second to first — 'around the horn.'"],
+      ["Southpaw", "A left-handed pitcher, from the era when ballparks faced east and the arm faced south."],
+      ["Can of corn", "An easy fly ball — taken, like everything else, off the grocer's top shelf."],
+      ["Grand slam", "A home run with the bases loaded: four runs, one swing."],
+      ["Balk", "An illegal deception of runners by the pitcher — a free base and a chorus of boos."],
+      ["Foul tip", "A sharply struck ball glancing off the bat into the catcher's glove — a strike, and live with two strikes."],
+      ["Closer", "The relief pitcher brought in for the final outs — entrance music mandatory."],
+      ["Bush league", "Slang for unsporting or amateurish play — an insult older than the designated hitter."]
+    ],
+    "related": ["softball", "cricket", "golf", "flag-football"],
+    "crosslink": false
+  },
+  {
+    "slug": "softball",
+    "name": "Softball (Fastpitch and Slowpitch)",
+    "category": "team-ball",
+    "glyph": "🥎",
+    "tagline": "Baseball's windmill cousin — 43 feet of pure reaction, seven quick innings.",
+    "origin": "Chicago, USA · 1887",
+    "tags": ["Team sport", "Bat and ball", "Olympic", "Fastpitch"],
+    "overview": [
+      "Softball is baseball's closest relative, played on a smaller diamond with a bigger yellow ball pitched underhand. In fastpitch — the international and collegiate format — the pitcher whips a full windmill delivery from 43 feet, generating rise balls and drops that reach the plate in less time than an MLB fastball. Seven innings decide it; the geometry is tighter, and everything happens faster.",
+      "Invented indoors at a Chicago boat club in 1887 as a winter baseball substitute, softball grew into one of the most-played team sports in the United States and a women's collegiate giant — the Women's College World Series sells out Oklahoma City every June. Slowpitch recreation leagues, with their arcing pitches and post-game traditions, may be the most sociable team sport ever devised.",
+      "Newcomers should know fastpitch is a pitcher's game first: a dominant one can carry a team through a tournament, and every roster decision flows from who is in the circle. Batters work with tiny margins, so slapping and bunting are weapons, not clichés. And the defense plays shallow, because at 60 feet everything arrives early."
+    ],
+    "facts": [
+      ["First codified", "1887 — the first game is played indoors at Chicago's Farragut Boat Club; the name 'softball' takes hold by the mid-1920s"],
+      ["Governing body", "World Baseball Softball Confederation (WBSC), formed 2013 by merging baseball's and softball's international federations"],
+      ["Team size", "9 fielders a side (10 with the extra fielder in some slowpitch codes)"],
+      ["Match length", "Seven innings — college and international games usually finish inside two hours"],
+      ["Playing area", "60 ft (18.29 m) base paths; the pitcher's plate 43 ft (13.11 m) from home in women's fastpitch; fences about 200-220 ft"],
+      ["Ball", "Optic yellow, 12 in (30.5 cm) around and 178-198 g — bigger and heavier than a baseball"],
+      ["Olympic status", "Women's fastpitch 1996-2008 and 2020; on the program again for Los Angeles 2028"],
+      ["First world championship", "1965 — the first women's world championship in Melbourne; the men's followed in 1966"]
+    ],
+    "history": [
+      ["1887", "Awaiting a football score at the Farragut Boat Club, alumni improvise a game with a tied-up boxing glove and a broom handle; George Hancock writes the first rules."],
+      ["1933", "The name 'softball' sticks at a national tournament run alongside Chicago's World's Fair — the sport's coming-out party."],
+      ["1952-65", "The International Softball Federation forms (1952); the first women's world championship is held in Melbourne (1965)."],
+      ["1991-96", "Women's fastpitch is added to the Olympics and debuts at Atlanta 1996 — the USA wins gold, and again in 2000 and 2004."],
+      ["2008-21", "Voted off the Olympic program after Beijing 2008, softball returns at Tokyo 2020, where Japan beats the USA for gold again."],
+      ["2020s", "Athletes Unlimited launches its points-based pro league (2020) and softball regains its Olympic slot for Los Angeles 2028."]
+    ],
+    "formats": [
+      ["Fastpitch", "The Olympic and collegiate format: windmill pitching at 70 mph from 43 feet, bunting and slapping, seven innings."],
+      ["Slowpitch", "The recreational giant — the pitch must arc 6-12 feet, a tenth fielder is common, and home runs are often capped per team."],
+      ["College (NCAA)", "Seven innings with the designated player, run-rule mercy, and a postseason that ends in Oklahoma City."],
+      ["Modified pitch", "The middle path — underhand but no windmill; common in adult recreational leagues."],
+      ["Coed and corporate leagues", "Slowpitch's social engine: batting orders that alternate men and women, and games that end wherever the evening goes."]
+    ],
+    "skills": [
+      ["Windmill pitching", "A full-circle arm whip generating speed and spin — legal underhand, and from 43 feet, devastatingly quick.", "Bullpens of 60-100 pitches daily: 20 fastballs at a spot, then spins — track called-strike percentage, not velocity alone."],
+      ["Rise ball", "A pitch thrown with backward spin that appears to hop as it reaches the plate — fastpitch's signature weapon.", "Isolate the grip and snap with 25 half-speed reps, then full speed; the goal is late lift at the top of the zone."],
+      ["Changeup", "The equalizer: identical arm speed, a ball that arrives a beat late.", "Pair it with every fastball session — 10 changeups per 60 pitches — and chase a 10-mph gap off the fastball."],
+      ["Slap hitting", "Left-side batters running through the box while making contact, beating the ball to first with pure speed.", "Dry footwork 30 times without a ball, then soft toss; the standard is ball down and out of the box within three seconds to first."],
+      ["Bunting", "Deadening the ball on purpose — sacrifice, squeeze, and slap-bunt variants that move runners 60 feet at a time.", "25 bunts a session to chalked zones down each line; five of six in fair territory before squeeze practice begins."],
+      ["Infield quickness", "At 60 feet the game is anticipation: glove readiness and transfer speed rule the infield.", "Reaction-ball work plus 50 ground balls a day at game speed, fielding and releasing in under a second."],
+      ["Throwing mechanics", "Overhand throwing with a crow hop from the outfield and quick snaps infield — arm strength is trained, not inherited.", "Long toss three times a week out to 120 feet with daily band work; 20 on-target throws to bases each session."]
+    ],
+    "rules": [
+      "Seven innings; the visiting team bats first, and the home team walks it off if ahead after batting in the seventh.",
+      "Fastpitch: an underhand windmill delivery from 43 feet, with runners released from their bases only once the ball leaves the pitcher's hand.",
+      "Slowpitch: the pitch must arc between 6 and 12 feet, and home runs past a league's cap are ruled dead-ball outs.",
+      "The look-back rule: with the pitcher holding the ball inside the 8-foot circle, runners must immediately advance or return — no dancing off base.",
+      "Balls, strikes, force outs, and tag-ups mirror baseball, but the 60-foot diamond and big ball make the short game king.",
+      "Most codes end a game early when a team leads by 8 or more runs after five innings.",
+      "Late extra innings use the international tiebreaker — each half-inning begins with a runner on second base."
+    ],
+    "equipment": [
+      ["Ball", "Optic yellow, 12 in around and 178-198 g; the 16-inch 'Chicago' ball is famously played barehanded."],
+      ["Bat", "Composite or alloy, no more than 34 in long and 2.25 in in diameter; competitive fastpitch bats run $80-300."],
+      ["Glove", "Leather, 11.5-13 in, plus a first-base mitt and a catcher's mitt as in baseball; $50-200."],
+      ["Cleats", "Molded for youth, metal permitted at college and international level; $50-130."],
+      ["Fielder's mask", "A protective face mask for the circle and the corner infield positions — increasingly standard, $40-70."],
+      ["Batting helmet", "With an attached facemask, mandatory at nearly every level of fastpitch; $50-100."]
+    ],
+    "training": [
+      "Pitchers are volume athletes: daily band work, heavy leg and hip strength (the windmill runs on the legs), and pitch counts with mandated rest.",
+      "Hitters train against elite velocity with short toss from 25 feet — compress reaction time on purpose, twice a week.",
+      "Slappers live on footwork: home-to-first under 2.9 seconds is the standard worth chasing.",
+      "Defense plays shallow and fast — reaction-ball circuits and 5-10-5 agility twice weekly.",
+      "Catchers chase sub-1.9-second pop times to second: blocking drills and footwork every session, throwing every other."
+    ],
+    "pathway": [
+      ["Grassroots", "Recreation leagues and coach-pitch juniors — most players start at 7 or 8, often on the same diamonds as their parents."],
+      ["Travel ball (10U-18U)", "The club showcase circuit: tournaments most weekends from age 10, college coaches watching at 16U and 18U."],
+      ["High school and college", "Varsity seasons plus NCAA, NAIA, or junior-college ball — Division I alone has nearly 300 programs."],
+      ["Professional", "Athletes Unlimited in the US and Japan's JD.League, arguably the deepest pitching pool on earth."],
+      ["National team", "WBSC World Cups and Olympic selection — the USA and Japan are the sport's two superpowers."]
+    ],
+    "events": [
+      ["Women's College World Series", "Every June in Oklahoma City — the pinnacle of the collegiate game since 1982, played to a packed house."],
+      ["WBSC Women's Softball World Cup", "Every two years since 1965 — the USA leads the all-time medal table, with Japan owning much of the recent era."],
+      ["Olympic softball", "Women's fastpitch 1996-2008 and 2020; back on the program for Los Angeles 2028."],
+      ["Athletes Unlimited", "A US professional league since 2020 with individual-points scoring and rotating captain-drafted teams."],
+      ["JD.League", "Japan's professional league since 2022, successor to the Japan Softball League — where the world's best pitchers work."]
+    ],
+    "legends": [
+      ["Jennie Finch", "USA — Athens 2004 gold and Beijing 2008 silver; a 6-ft-1 right-hander whose rise ball made her the sport's most famous face."],
+      ["Lisa Fernandez", "USA — three Olympic golds (1996, 2000, 2004) as a dominant pitcher and hitter; perhaps the greatest all-round fastpitch player."],
+      ["Cat Osterman", "USA — left-handed ace with 2004 gold and two silvers, plus 2,265 strikeouts at Texas in one of the most dominant NCAA careers ever."],
+      ["Dot Richardson", "USA — hit the first home run in Olympic softball history in the 1996 gold-medal game; two Olympic golds."],
+      ["Monica Abbott", "USA — 2,440 strikeouts at Tennessee, still the NCAA Division I record, and a globe-trotting professional icon."]
+    ],
+    "getting_started": [
+      "Find a glove and a league first: adult slowpitch needs no more than that, and registration is usually open all summer.",
+      "If fastpitch calls, find a pitching coach early — the windmill is too technical to self-teach safely.",
+      "Practice the underhand arc with a bucket of balls and a strike zone drawn on a wall; slowpitch accuracy is a quickly earned skill.",
+      "Learn slap footwork left-handed even if you hit right-handed — the skill adds a roster spot's worth of value.",
+      "Play catch two or three times a week and take 50 dry swings; softball hands reward cheap, frequent reps.",
+      "Watch one Women's College World Series game — the pace and the crowds will recalibrate what you think the sport is."
+    ],
+    "glossary": [
+      ["Windmill", "The legal fastpitch delivery: one full arm circle, with the hips and legs doing the firing."],
+      ["Rise ball", "A backspinned pitch that appears to hop at the plate."],
+      ["Drop ball", "The opposite: a pitch that falls off the table at the front knee."],
+      ["Slapper", "A left-handed batter who runs through the box while contacting the ball."],
+      ["Circle", "The 8-foot radius around the pitcher's plate that triggers the look-back rule."],
+      ["International tiebreaker", "The extra-inning format starting each half-inning with a runner on second."],
+      ["Crow hop", "The outfielder's hop-step that turns a catch into a throw."],
+      ["Frozen rope", "A line drive hit flat and hard, on a string."],
+      ["Full count", "Three balls, two strikes — everyone in the park leans in."],
+      ["Play at the plate", "The throw home against a charging runner — fastpitch's signature collision of timing."]
+    ],
+    "related": ["baseball", "cricket", "basketball"],
+    "crosslink": false
+  },
+  {
+    "slug": "rugby-union",
+    "name": "Rugby Union",
+    "category": "team-ball",
+    "glyph": "🏉",
+    "tagline": "Fifteen a side, eighty minutes, and every tackle a contest for the ball.",
+    "origin": "England · 1871",
+    "tags": ["Team sport", "Full contact", "World Cup", "Olympic sevens"],
+    "overview": [
+      "Rugby union is a full-contact game of 15 a side — eight forwards and seven backs — in which the ball may only be passed backwards and ground is gained by running, kicking, and contesting every tackle. Score by grounding the ball over the try line for five points, or add conversions, penalties, and drop goals. Two 40-minute halves, and the clock almost never stops.",
+      "Born at Rugby School — legend says William Webb Ellis picked up the ball and ran in 1823 — and codified in 1871, the game became the civic religion of New Zealand, where the All Blacks' haka opens every Test, and much of the British Isles, France, South Africa, and the Pacific. The 1995 World Cup final, with Nelson Mandela in a Springbok jersey handing the trophy to Francois Pienaar, remains one of sport's great political images.",
+      "Newcomers should learn two things early: the tackle is a contest for the ball, not the end of the play — players arrive and fight for possession on the ground — and everyone on the field runs, passes, tackles, and occasionally kicks. The game looks chaotic at first; watch the tackled ball rather than the ball carrier, and the chaos resolves into law."
+    ],
+    "facts": [
+      ["First codified", "1871 — the Rugby Football Union forms in London; the first international, Scotland v England, follows that year in Edinburgh"],
+      ["Governing body", "World Rugby — founded 1886 as the International Rugby Football Board, with more than 100 member unions"],
+      ["Team size", "15 a side (8 forwards, 7 backs) plus up to 8 replacements; match-day squads of 23"],
+      ["Match length", "Two 40-minute halves plus stoppage time"],
+      ["Playing area", "A pitch no larger than 100 x 70 m plus in-goal areas; goalposts 5.6 m apart with the crossbar at 3 m"],
+      ["Scoring", "Try 5 points, conversion 2, penalty goal 3, drop goal 3"],
+      ["Olympic status", "Fifteens appeared 1900-1924; rugby sevens returned the sport to the Games at Rio 2016"],
+      ["First World Cup", "1987 — New Zealand wins the inaugural tournament, co-hosted with Australia"]
+    ],
+    "history": [
+      ["1823", "The legend: William Webb Ellis, 'with a fine disregard for the rules of football,' takes the ball in his arms and runs at Rugby School — the trophy still bears his name."],
+      ["1871", "Twenty-one clubs form the RFU; Scotland beats England in the first international at Raeburn Place, Edinburgh."],
+      ["1886-95", "The IRFB forms to write the laws (1886); in 1895 the split over broken-time payments creates the Northern Union — rugby league, with a page of its own."],
+      ["1905-24", "The Original All Blacks tour Britain and popularize running rugby; union appears in four Olympics (1900-1924) before leaving the Games."],
+      ["1987", "The first Rugby World Cup — 16 teams, won by New Zealand — takes the sport global on television."],
+      ["1995", "The World Cup in South Africa: the game declares itself open to professionals, and Mandela hands Pienaar the trophy in a rainbow jersey."],
+      ["2016", "Rugby sevens debuts at the Rio Olympics — Fiji wins the men's gold, its first Olympic medal of any kind."]
+    ],
+    "formats": [
+      ["Fifteens (XV)", "The full game: 15 a side with scrums, lineouts, and mauls — the format of Test rugby and the World Cup."],
+      ["Rugby sevens", "7 a side, 7-minute halves, a whole tournament in a weekend — the Olympic and World Series format."],
+      ["Tens", "A one-day hybrid: 10 a side, 10-minute halves, kept alive by famous invitation tournaments."],
+      ["Women's fifteens and sevens", "A professional era of its own — the Women's Rugby World Cup since 1991, Olympic sevens since 2016, and contracted leagues in England and France."],
+      ["Club and social rugby", "Saturday club rugby in a hundred countries — where most of the world's rugby is actually played."],
+      ["Vets and golden oldies", "Over-35s rugby under modified laws — proof the sport can be played, gingerly, for life."]
+    ],
+    "skills": [
+      ["Passing", "Delivering the ball backwards off both hands — long, flat, and fast across the body.", "Passing under fatigue: 3 x 2 minutes of shuttle passing with a partner; accuracy gate of 8 of 10 through a 1 m target at 10 m."],
+      ["Tackling", "Shoulder-led contact with the head on the safe side and the legs driving — then an immediate fight for the ball.", "Progress from bags to live 1 v 1: 40 technique reps weekly; the law demands you release the tackled player and roll away."],
+      ["Breakdown (ruck) work", "The fight over the tackled ball: arriving low, on your feet, clearing past the ball.", "Sled and shield circuits of 6 x 20 seconds with a coach calling arrival or cleanout; height wins turnovers."],
+      ["Scrummaging", "Eight forwards bound and pushing in sync — a coordinated power contest for the feed.", "Scrum-machine sessions of 5 x 30-second drives, technique before weight, plus mandatory weekly neck and shoulder strength."],
+      ["Lineout throwing and lifting", "The hooker's throw to a lifted jumper — a basketball play with two props as elevators.", "30 throws a session to three marked targets; jumpers and lifters drill timing with the same pod every week."],
+      ["Evasive running", "Sidestep, swerve, and the fend — beating a defender one-on-one in a foot of space.", "1 v 1 into a 5 m channel, 10 lives per player; track beaten defenders, not just tries."],
+      ["Place kicking", "The match-winning skill: striking off the tee over the crossbar from any angle.", "30 kicks a session — 10 each from in front, the 22, and wide; log percentage from each zone and chase the weak ones."]
+    ],
+    "rules": [
+      "The ball may not be passed forward — it travels backward from hand to hand while play runs continuously.",
+      "The tackled player must release the ball immediately and roll away; arriving players must stay on their feet to contest it — that contest is the ruck.",
+      "A try — grounding the ball in-goal — is worth 5 points; conversions 2; penalty and drop goals 3.",
+      "Offside is everywhere: players must stay behind the hindmost foot of the ruck and behind the kicker's last foot at kicks.",
+      "Scrums restart play after minor infringements — eight forwards per side bind and push, and the hooker strikes for the ball.",
+      "Lineouts restart play when the ball goes into touch: jumpers are lifted to contest the throw-in.",
+      "A yellow card means 10 minutes in the sin bin; a red card means off for good."
+    ],
+    "equipment": [
+      ["Ball", "An oval size-5 match ball (smaller sizes for juniors); $50-120 buys a ball that lasts seasons."],
+      ["Mouthguard", "Mandatory at every serious level — $10 boil-and-bite to $200 custom dental fittings."],
+      ["Headgear and shoulder pads", "Thin, World Rugby-approved padding — comfort rather than armor; $30-80 for either."],
+      ["Boots", "Studs for grip with toe reinforcement for kicking; $60-150."],
+      ["Kit", "Jersey, shorts, and socks built to be grabbed — reinforced seams are worth the money."],
+      ["Training gear", "Hit shields, tackle bags, and a breakdown sled are the furniture of every club; the club buys, you show up."]
+    ],
+    "training": [
+      "Match demands are brutal: backs cover 6-8 km with repeated collisions — build an aerobic base, then repeated-sprint intervals such as 6 x 50 m shuttles.",
+      "Collision conditioning before collisions: neck flexion and trap-bar deadlifts gate every contact block.",
+      "Hamstrings and adductors are rugby's soft-tissue tax — Nordic curls and Copenhagen planks twice weekly.",
+      "Arriving at the breakdown on your feet is a trained skill: sled drives beat gym machines for it.",
+      "Play sevens in summer and fifteens in winter — the formats feed each other skills and set-piece."
+    ],
+    "pathway": [
+      ["Grassroots", "Club minis from age 5-6 and school rugby — the sport's true base in every playing nation."],
+      ["School and age-grade", "Representative school and age-grade rugby; in New Zealand and South Africa, school 1st XV matches are televised."],
+      ["Academy and provincial", "Franchise and provincial academies at 16-18 — contracted development squads below the professional first XV."],
+      ["Professional", "The Premiership (England), Top 14 (France), United Rugby Championship, Super Rugby, and Japan's League One pay the bills."],
+      ["International", "Test rugby — the Six Nations, the Rugby Championship, and the World Cup every four years."]
+    ],
+    "events": [
+      ["Rugby World Cup", "Every four years since 1987, now with 20 teams — the Webb Ellis Cup is the sport's biggest prize."],
+      ["Six Nations", "Every February-March — England, France, Ireland, Italy, Scotland, and Wales in the northern hemisphere's annual championship."],
+      ["The Rugby Championship", "Annually — Argentina, Australia, New Zealand, and South Africa in the southern hemisphere's Test series."],
+      ["British & Irish Lions tour", "Every four years — the best of Britain and Ireland tours South Africa, Australia, or New Zealand."],
+      ["World Rugby SVNS Series", "The annual global sevens circuit for men and women, from Dubai to Hong Kong, with Olympic qualification attached."]
+    ],
+    "legends": [
+      ["Jonah Lomu", "New Zealand — a 1.96 m, 119 kg winger who ran over England in the 1995 World Cup semifinal; the professional era's first global superstar."],
+      ["Richie McCaw", "New Zealand — 148 Tests, the most-capped All Black, and captain of back-to-back World Cup wins in 2011 and 2015."],
+      ["Dan Carter", "New Zealand — fly-half with a record 1,598 Test points, three World Player of the Year awards, and the 2015 final's man-of-the-match."],
+      ["Siya Kolisi", "South Africa — the Springboks' first Black captain, who lifted the Webb Ellis Cup in 2019 and again in 2023."],
+      ["Portia Woodman", "New Zealand — Black Ferns wing; 2017 World Cup winner and top try-scorer at that tournament, plus Olympic sevens gold at Tokyo."]
+    ],
+    "getting_started": [
+      "Find your local club — rugby clubs recruit beginners at every age and own the social calendar of most towns that have them.",
+      "Learn to fall first: breakfalls and tackle technique before contact, always under supervision.",
+      "Pass every day against a wall or with a partner — 100 backward passes, both hands, both sides.",
+      "Get fit for the game, not the mirror: shuttles, sleds, and bodyweight circuits beat mirror muscles.",
+      "Watch one full Test match with the breakdown in view — count the turnovers, not the tries.",
+      "Buy the mouthguard before the boots; the rest of the kit can wait a month."
+    ],
+    "glossary": [
+      ["Try", "A score, worth 5 — named for the original reward, a 'try' at goal."],
+      ["Ruck", "The contest for the ball on the ground after a tackle."],
+      ["Maul", "The ball carrier held up, teammates bound on, all moving forward — a rolling argument."],
+      ["Grubber", "A low bouncing kick along the ground, chased by everyone."],
+      ["Garryowen", "The up-and-under — a high kick to contest; named for the Irish club."],
+      ["Dummy pass", "Faking the pass to fix a defender, then going yourself."],
+      ["Sin bin", "Where yellow-carded players sit for 10 minutes while their team fights on short-handed."],
+      ["Advantage", "The referee playing on after an infringement because the offended team is gaining ground."],
+      ["Grand Slam", "A Six Nations title won with victories over all five rivals."],
+      ["Haka", "The All Blacks' pre-match challenge — the most famous 80 seconds in sport."]
+    ],
+    "related": ["rugby-league", "touch-rugby", "american-football", "flag-football"],
+    "crosslink": false
+  },
+  {
+    "slug": "rugby-league",
+    "name": "Rugby League",
+    "category": "team-ball",
+    "glyph": "🏉",
+    "tagline": "Born of the 1895 split: thirteen players, six tackles, relentless speed.",
+    "origin": "Huddersfield, England · 1895",
+    "tags": ["Team sport", "Full contact", "World Cup", "Australasia"],
+    "overview": [
+      "Rugby league is rugby's working-class offshoot: 13 a side, and when a player is tackled the ball is heeled back in a play-the-ball and the game restarts instantly. The attacking team gets six tackles to advance before possession turns over, which is why the fifth tackle usually ends in a kick. It is rugby stripped for speed — fewer stoppages, more running, and collisions on every carry.",
+      "The 1895 meeting at Huddersfield's George Hotel — northern English clubs breaking from the RFU over payments to working men — created a sport that became the heartbeat of northern England, of New South Wales and Queensland, and of Papua New Guinea, where it is the national game. State of Origin, the annual interstate war between New South Wales and Queensland, is Australian sport at its most ferocious.",
+      "Newcomers should count with the game: six tackles to a set, and the scoreboard follows the sets. Watch how the ball moves — a dummy-half dart here, two passes wide there, a bomb launched on the last. Learn the play-the-ball, the game's metronome, and the tempo makes sense."
+    ],
+    "facts": [
+      ["First codified", "1895 — 22 northern English clubs form the Northern Union at the George Hotel, Huddersfield, over broken-time payments"],
+      ["Governing bodies", "International Rugby League for the world game; the Rugby Football League (England) and the Australian Rugby League Commission run the top competitions"],
+      ["Team size", "13 a side; NRL match-day squads of 17 (four on the bench) with eight interchanges"],
+      ["Match length", "Two 40-minute halves, with the clock stopped for tries and conversions in the NRL"],
+      ["Playing area", "The same maximum as union — 100 x 68 m plus in-goals; posts 5.6 m apart"],
+      ["Scoring", "Try 4 points, conversion 2, penalty goal 2, drop goal 1"],
+      ["First World Cup", "1954 — rugby league's World Cup predates union's by 33 years; Great Britain won the first"],
+      ["Heartlands", "Northern England, New South Wales and Queensland, Papua New Guinea (the national sport), plus France, New Zealand, and the Pacific islands"]
+    ],
+    "history": [
+      ["1895", "The Great Split: clubs meet at the George Hotel and form the Northern Union — professionalism for working-class players is the issue."],
+      ["1906", "The Northern Union cuts teams to 13 a side and replaces the post-tackle scrum with the play-the-ball — rugby league becomes its own sport."],
+      ["1907-08", "New Zealand's 'All Golds' take the professional game to Britain and on to Australia; leagues start in Sydney in 1908 — the sport's Pacific future begins."],
+      ["1954", "The first Rugby League World Cup — the oldest rugby World Cup — is won by Great Britain."],
+      ["1980", "State of Origin begins, with players representing their state of origin: it becomes Australian sport's fiercest annual rivalry."],
+      ["1995-98", "The Super League war between News Corporation and the ARL splits the game, then reshapes it; the NRL is born from the peace in 1998."],
+      ["2013-22", "The World Cup grows into a men's, women's, and wheelchair festival (the 2021 edition played in 2022) — Australia has won 12 of the 16 men's titles."]
+    ],
+    "formats": [
+      ["Thirteens (the international game)", "13 a side, six tackles, 80 minutes — the format of the NRL, Super League, and internationals."],
+      ["Nines", "9 a side, 9-minute halves, whole tournaments in a day — the festival format that fills pre-season weekends."],
+      ["Women's rugby league", "The NRLW (since 2018), women's State of Origin, and a Women's Rugby League World Cup running since 2000."],
+      ["Masters (over-35s)", "Modified contact laws for older players — two tags per tackle and no lifting."],
+      ["Schoolboy and junior league", "The nursery: schoolboy competitions in Sydney and Leeds have fed both hemispheres for a century."]
+    ],
+    "skills": [
+      ["Play-the-ball speed", "Getting to your feet and heeling the ball back instantly — the game's metronome.", "Hit-and-roll drills: 3 x 10 quick play-the-balls against shields, chasing a sub-two-second turnaround from tackle to dummy-half pass."],
+      ["Dummy-half running", "The hooker sniping around the ruck before the defense resets — noting that being touched in possession turns the ball over.", "Scoot drills: 10 per session against a retreating line; only count the ones that gain five meters or force a defensive shift."],
+      ["The bomb", "A towering kick into the in-goal for chasing wingers to contest in the air.", "20 bombs a session with hang time measured by a partner; wingers contest each one with a catcher under it."],
+      ["Offload", "Passing in the tackle — second-phase play that turns set defenses into chaos.", "Bag offloads: 20 reps with a support player calling; the ball must go backwards or it is a penalty."],
+      ["Hit-and-spin", "Taking the collision on your terms — shoulder in, spin out of the tackle, ball alive.", "1 v 2 collisions and wrestle circuits 20 minutes twice a week; league's ruck is a wrestling gym."],
+      ["Line defense", "A defensive line that moves as one, three or four men to a shoulder, with no gaps.", "Line-speed sets of 6 x 10 — all 13 sliding together; integrity of the line beats individual heroics."],
+      ["Short kicking", "Grubbers, cross-field chips, and field goals — turning tackles into points with the last touch of the set.", "Kicking sessions of 40 balls: grubbers into the in-goal, chips to the corner, plus 20 shots at goal."]
+    ],
+    "rules": [
+      "Thirteen players a side; possession turns over at the completion of the sixth tackle if no score has come.",
+      "The tackled player stands and heels the ball back in the play-the-ball; two markers may defend directly, and the rest of the line retreats 10 m.",
+      "Scoring: try 4, conversion 2, penalty goal 2, drop goal 1 — the single point has decided a hundred famous matches.",
+      "The 40/20 rule: a kick from inside your own 40 that bounces into touch inside the opponent's 20 earns the kicking team a scrum feed and fresh set.",
+      "Forward passes and knock-ons are penalized with scrums, now largely uncontested restarts that keep the clock honest.",
+      "A yellow card means 10 minutes in the sin bin; shoulder charges and contact with the head draw severe sanctions.",
+      "Interchanges are capped — eight per match in the NRL — so forwards ration their tanks across 80 minutes."
+    ],
+    "equipment": [
+      ["Ball", "The league ball is slightly smaller and more pointed than union's, built for passing and kicking; $50-100."],
+      ["Boots", "Light and low for speed, with screw-in studs for grass; $60-150."],
+      ["Mouthguard", "Mandatory at every level — the collisions are constant; $10-40."],
+      ["Headgear and shoulder pads", "Thin approved padding, common among outside backs and front-rowers alike; $30-80."],
+      ["Training gear", "Wrestle mats, tackle bags, and shields — the wrestling element makes mats a league-club staple."],
+      ["Kit", "Reinforced jerseys built for stretching, grabbing, and 30 tackles a match."]
+    ],
+    "training": [
+      "League may be the most aerobically punishing collision sport: backs cover 8-9 km — train repeat high-intensity efforts such as 6 x 40 m sprints off short recoveries.",
+      "The wrestle is a skill gym: clubs train jiu-jitsu-style grips and leg drives for the ruck, twice weekly.",
+      "Wingers hit 35 km/h and above — flywheel or resisted sprint work for the outside backs.",
+      "Neck, shoulder, and hamstring protocols are non-negotiable: Nordics, Copenhagen planks, and neck flexion in every week.",
+      "Bomb-squad practice under fatigue: high balls caught in the last five minutes decide close games, so train them tired."
+    ],
+    "pathway": [
+      ["Junior league (U6-U16)", "Local clubs from age 6 — the lifeblood of the game in New South Wales and Queensland."],
+      ["Representative pathways", "Age-grade competitions run by NRL clubs — the Harold Matthews Cup (U16s) and SG Ball Cup (U18s) are the famous rungs."],
+      ["Reserve grade and cup", "The NSW Cup and Queensland Cup bridge young professionals into the top grade."],
+      ["Professional", "The NRL (17 clubs since 2023) and Super League in Europe — the two paying leagues at the center of the sport."],
+      ["International", "Kangaroos, Kiwis, England, and the Pacific nations, with a World Cup every four years."]
+    ],
+    "events": [
+      ["NRL Grand Final", "One Sunday each spring in Sydney — Australia's rugby league championship day."],
+      ["State of Origin", "Three matches every mid-season, New South Wales v Queensland — routinely among Australian television's biggest nights."],
+      ["Super League Grand Final", "Every October at Old Trafford — the climax of the northern English season since 1996."],
+      ["Challenge Cup", "A knockout cup since 1896 with a Wembley final tradition — every amateur club in the draw."],
+      ["Rugby League World Cup", "Every four years since 1954 — the oldest rugby World Cup, with men's, women's, and wheelchair editions running together."]
+    ],
+    "legends": [
+      ["Clive Churchill", "'The Little Master' — South Sydney and Australian fullback of the 1950s; the NRL grand final's man-of-the-match medal bears his name."],
+      ["Wally Lewis", "'The King' — Queensland and Australian five-eighth, State of Origin's founding colossus; the series' best-player medal is his."],
+      ["Andrew Johns", "Newcastle's Immortal halfback — the kicking and vision that set the template for every modern playmaker."],
+      ["Jonathan Thurston", "North Queensland — a record four Dally M Medals and the 2015 premiership sealed in golden point; the era's supreme big-moment player."],
+      ["Cameron Smith", "Melbourne — record NRL appearances (430) and a record 42 State of Origin matches; captain of everything he played for."]
+    ],
+    "getting_started": [
+      "Find a local club — league clubs run juniors from age 5 and senior grades for every body type.",
+      "Learn the wrestle safely: grappling and play-the-ball technique under a coach before full contact.",
+      "Practice kick-catching weekly — the bomb is coming whether you like it or not.",
+      "Do your cardio homework before the first trial: repeat shuttles, not long slow runs.",
+      "Watch one NRL match counting the sets — six tackles each, and note how rarely the ball is handled twice by the same player.",
+      "Pick your position honestly: the game has a place for the fast, the tall, and the immovable."
+    ],
+    "glossary": [
+      ["Play-the-ball", "The heel-back restart after every tackle — league's signature."],
+      ["Dummy half", "The player scooting from behind the ruck, named for rugby's borrowed position."],
+      ["Set of six", "A team's six tackles — the currency of possession and field position."],
+      ["Bomb", "A towering kick into the in-goal, chased by leaping wingers."],
+      ["Offload", "A pass delivered in the tackle to keep the ball alive."],
+      ["Markers", "The two defenders standing over the play-the-ball."],
+      ["40/20", "A kick from inside your 40 into touch inside their 20 — a bonus set of six."],
+      ["Second-phase play", "Any play that continues after the tackle via an offload."],
+      ["Field goal", "The one-point drop kick, dropped from any distance and usually at a gallop — it wins tight finals."],
+      ["Origin", "State of Origin — Queensland v New South Wales, three nights a winter, no quarter asked."]
+    ],
+    "related": ["rugby-union", "touch-rugby", "australian-rules-football", "american-football"],
+    "crosslink": false
+  },
+  {
+    "slug": "american-football",
+    "name": "American Football",
+    "category": "team-ball",
+    "glyph": "🏈",
+    "tagline": "Four downs, ten yards, eleven helmets — chess at a dead sprint.",
+    "origin": "United States · 1869",
+    "tags": ["Team sport", "Full contact", "Super Bowl", "Strategic depth"],
+    "overview": [
+      "American football is 11-a-side territory warfare: the offense gets four downs — attempts — to advance the ball ten yards by running or passing; make it and the downs reset, fail and possession turns over. Scoring is a touchdown for 6, a field goal for 3, a safety for 2, with kicks and two-point tries after touchdowns. Every play begins from a snap and is a designed collision of 22 athletes.",
+      "No sport is more American or more strategic — NFL playbooks run hundreds of pages, and head coaches employ armies of coordinators. The Super Bowl is the most-watched television event in the United States every single year, college football fills 100,000-seat stadiums on Saturdays, and from Texas Friday nights to Ohio snow games, the sport is cultural bedrock.",
+      "Newcomers should watch the line of scrimmage before the snap: formations telegraph intent, and the quarterback's pre-snap reads are the opening moves. Second, live by the down counter and the yellow first-down line — they are your two best friends. The game rewards understanding more than almost any other; patient viewers become addicts within a season."
+    ],
+    "facts": [
+      ["First game", "November 6, 1869 — Rutgers beats Princeton 6-4 in the first intercollegiate contest, under soccer-derived rules"],
+      ["Governing bodies", "The NFL (founded 1920 as the APFA in Canton, Ohio); IFAF (1998) runs the international game"],
+      ["Team size", "11 a side; NFL clubs carry 53-player rosters with roughly 48 active on game day"],
+      ["Match length", "Four 15-minute quarters — stoppages stretch an NFL broadcast past three hours"],
+      ["Playing area", "100 yd x 53.3 yd (91.4 x 48.8 m) plus two 10-yd end zones; goalposts 18.5 ft wide above a 10-ft crossbar"],
+      ["Scoring", "Touchdown 6, extra point 1 or two-point try 2, field goal 3, safety 2"],
+      ["Olympic status", "Not an Olympic medal sport — its flag football cousin debuts at Los Angeles 2028"]
+    ],
+    "history": [
+      ["1869", "Rutgers and Princeton play the first intercollegiate game; handling and the carried ball soon take over."],
+      ["1880s", "Walter Camp of Yale codifies the line of scrimmage, the down-and-distance system, and 11-man sides — the game's true father."],
+      ["1920", "The American Professional Football Association forms in a Canton, Ohio car dealership with Jim Thorpe as its first president; it becomes the NFL in 1922."],
+      ["1960-70", "The rival American Football League forces a merger; the first Super Bowl is played in January 1967 (Packers over Chiefs) and the modern NFL emerges in 1970."],
+      ["1970s-2000s", "The passing revolution: rules protecting quarterbacks and receivers turn the aerial game from gambit to gospel."],
+      ["2010s-20s", "The league goes global — annual regular-season games abroad since 2007, a 17th game in 2021, and flag football joining the LA 2028 Olympics."]
+    ],
+    "formats": [
+      ["NFL", "32 clubs, 17-game regular seasons, and a 14-team playoff — the sport's pinnacle since 1920."],
+      ["College football (NCAA)", "The Saturday religion: the biggest stadiums in the sport and a 12-team playoff since the 2024-25 season."],
+      ["Canadian football (CFL)", "12 a side, three downs, and a longer, wider field — the Grey Cup has been contested since 1909."],
+      ["Arena and indoor football", "8 a side on a 50-yard field with rebound nets — the sport's arcade version."],
+      ["Flag and touch football", "The non-contact codes played by millions, and now the Olympic branch of the family."]
+    ],
+    "skills": [
+      ["Quarterback passing", "Throwing with anticipation — footwork, hip rotation, and a release that beats the receiver's break.", "Daily drops (3- and 5-step) with 100 throws to targets at varied depths, then read progressions against air and defenders."],
+      ["Route running", "Selling every stem identically and breaking on a dime — separation is created at the top of the route.", "Full-speed cone series through the route tree, 10 reps per cut; check the depth of every break on video."],
+      ["Blocking", "Hands inside, hips low, feet alive — the trade that wins no headlines and all games.", "Sled and bag work of 3 x 10 drive blocks, plus 30-second mirror drills for pass sets."],
+      ["Tackling", "Shoulder-led with the head up — see what you hit; rugby-style tackling swept the sport for safety.", "Form circuits without pads: fit position and tracking angles, 40 reps a week; never lead with the crown."],
+      ["Catching", "Plucking with the fingers away from the body, watching it in through contact.", "100 catches a day off a machine or wall at varied angles, with low, high, and over-the-shoulder balls in every session."],
+      ["Ball-carrier vision", "One cut and go — reading the second level, juking or delivering the shoulder behind blocks.", "Cone one-cut drills against a moving defender, 15 live reps a session; hesitation lives at the line, commitment past it."],
+      ["Place kicking", "Field goals and extra points — pure technique under maximum pressure.", "20-30 kicks a session with grooved steps and consistent contact, logging makes by distance plus kickoff hang time."]
+    ],
+    "rules": [
+      "The offense has four downs to gain 10 yards; a first down resets the count, and failure on third down usually means a punt.",
+      "Scoring: touchdown 6, with an extra-point kick or a two-point try from the 2-yard line; field goal 3; safety 2.",
+      "The clock stops on incomplete passes and out-of-bounds plays, and each team gets three timeouts per half.",
+      "Seven players must line up on scrimmage, and only eligible receivers may touch a forward pass — the interior linemen do the hitting, not the catching.",
+      "Penalties cost 5, 10, or 15 yards — holding, pass interference, false starts — and the offended team may accept or decline.",
+      "Every scoring play and turnover is reviewed by replay, and coaches keep challenges for the rest.",
+      "Overtime: the NFL guarantees both teams a possession unless the first drive ends in a touchdown; playoff games never end in ties."
+    ],
+    "equipment": [
+      ["Helmet", "A certified helmet ($150-400) with a position-specific facemask — the sport's most inspected piece of equipment."],
+      ["Shoulder pads", "Light shells for quarterbacks and receivers, armor for linemen; $100-300."],
+      ["Cleats", "Studs for grass, turf shoes for artificial surfaces; $60-150."],
+      ["Football", "The leather pro ball is about 28 cm long; youth and composite balls start at $20."],
+      ["Integrated padding", "Girdles with built-in hip, thigh, and knee pads, mandatory in most codes; $40-90."],
+      ["Gloves", "Sticky receiver gloves or padded lineman gloves; $30-80."],
+      ["Mouthguard", "Mandatory and cheap — $10-40, no exceptions at any sanctioned level."]
+    ],
+    "training": [
+      "Train alactic power: the average NFL play lasts about four seconds — 10-20 yard accelerations with full recovery, over and over.",
+      "The weight room is the sport's second field: trap-bar deadlifts for collision power, pressing and pulling for the constant hand-fighting.",
+      "Condition by position — linemen push sleds and wrestle; receivers and defensive backs run repeat 20-40 yard sprints with full rests.",
+      "Injury prevention centers on neck, knees, and concussions: neck-flexion protocols, landing mechanics, and modern tackling technique.",
+      "Film study is training: quarterbacks and safeties earn their living from the booth — a mental rep counts as a rep."
+    ],
+    "pathway": [
+      ["Youth leagues", "Flag football first, then Pop Warner and local tackle leagues from around age 8-10."],
+      ["High school", "Friday night varsity football and the recruiting camp-and-combine circuit."],
+      ["College", "NCAA football with 85 scholarships per top-division program — the NFL's feeder system."],
+      ["Professional", "The NFL Draft each April, then training-camp cuts; the CFL and European leagues offer parallel roads."],
+      ["International", "IFAF world championships and fast-growing national programs from Germany to Japan's X-League."]
+    ],
+    "events": [
+      ["Super Bowl", "Every February since 1967 — the NFL's championship and the most-watched US broadcast of the year, every year."],
+      ["NFL regular season and playoffs", "32 teams, 17 games each since 2021, and a 14-team bracket through January."],
+      ["College Football Playoff", "The national championship, a 12-team bracket since the 2024-25 season, atop a bowl tradition a century old."],
+      ["Grey Cup", "Canada's championship, contested since 1909 under the CFL's three-down code."],
+      ["NFL International Series", "Regular-season games abroad every year since 2007 — London, Mexico City, Frankfurt — with new markets added."]
+    ],
+    "legends": [
+      ["Jim Brown", "Cleveland Browns (1957-65) — led the NFL in rushing in eight of nine seasons and never missed a game; the most dominant runner the sport has known."],
+      ["Jerry Rice", "San Francisco 49ers — 1,549 catches, 22,895 yards, and 197 receiving touchdowns, every major record, plus three Super Bowl rings."],
+      ["Tom Brady", "Seven Super Bowl titles — six with New England and one more in Tampa — plus the sport's career passing records; the greatest winner."],
+      ["Walter Payton", "Chicago Bears — 16,726 rushing yards stood as the record for two decades, and the NFL's man-of-the-year award still bears his nickname."],
+      ["Lawrence Taylor", "New York Giants — the outside linebacker rebuilt as a weapon: three Defensive Player of the Year awards and a title in 1986."]
+    ],
+    "getting_started": [
+      "Start with a football and a patch of grass: throw daily, and learn the spiral before any pad ever fits.",
+      "Play flag football to learn the positions and rules without the collisions.",
+      "Find a local amateur or semi-pro league — adult tackle football exists, insured and officiated, in most regions.",
+      "Watch one game a week with the down-and-distance in mind; predict run or pass before the snap.",
+      "Lift for power early — cleans, deadlifts, and sprints are the game's physical currency.",
+      "Learn one position deeply on film; football rewards the specialist's eye more than any sport."
+    ],
+    "glossary": [
+      ["Down", "One play from scrimmage; four of them to make ten yards."],
+      ["Snap", "The exchange that starts every play — center to quarterback, at speed."],
+      ["Blitz", "Extra defenders rushing the passer, gambling on chaos."],
+      ["Audible", "A play changed at the line after the quarterback reads the defense."],
+      ["Pick-six", "An interception returned for a touchdown — the fastest swing in sport."],
+      ["Red zone", "Inside the opponent's 20-yard line, where the field shrinks and points are expected."],
+      ["Hail Mary", "A desperation deep pass into a crowd of receivers as time expires."],
+      ["Pancake", "A block that leaves the defender flat on the turf — an offensive lineman's trophy."],
+      ["Sack", "Tackling the quarterback behind the line of scrimmage."],
+      ["Shotgun", "The quarterback standing five yards deep to receive the snap, trading speed for protection."]
+    ],
+    "related": ["flag-football", "rugby-league", "rugby-union", "australian-rules-football"],
+    "crosslink": false
+  },
+  {
+    "slug": "flag-football",
+    "name": "Flag Football",
+    "category": "team-ball",
+    "glyph": "🚩",
+    "tagline": "American football minus the collisions: pull the flag, keep the speed.",
+    "origin": "United States · 1940s",
+    "tags": ["Team sport", "Non-contact", "Olympic 2028", "Co-ed friendly"],
+    "overview": [
+      "Flag football is American football without the collision: every player wears flags on a belt, and a ball carrier is stopped the instant an opponent pulls one away. Blocking is banned, everyone on offense is eligible to catch, and the game runs on speed and throwing. The standard international format is 5 v 5 on a short field — touchdown drives measured in seconds, not minutes.",
+      "Grown out of touch football on US military bases and recreation leagues, it is now among the fastest-growing sports on earth: millions of children in NFL FLAG leagues, national programs across dozens of countries, and an Olympic debut at Los Angeles 2028 that lit the fuse on a professional era. Mexico and the United States contest the women's summit; the men's game runs deep across the Americas and Europe.",
+      "Newcomers will find the game friendlier than it looks — no padding needed, and the barrier to entry is a belt and a ball. But respect the skill: elite flag is chess at sprint speed, with quarterbacks reading defenses before the snap and releasing in under two seconds. Learn the no-run zones and the two-minute clock rules, and you are fluent."
+    ],
+    "facts": [
+      ["Origins", "Played on US military bases in the 1940s; first national organizations in the 1960s, led by the National Touch Football League of St. Louis"],
+      ["Governing bodies", "IFAF (International Federation of American Football, founded 1998) runs the world game; NFL FLAG (launched 1996) runs the largest youth network"],
+      ["Team size", "5 v 5 is the international standard, with squads of about 10"],
+      ["Match length", "Two 20-minute halves with the clock stopped in the final two minutes of each"],
+      ["Playing area", "About 25 x 70 yards including two 10-yard end zones in NFL FLAG 5 v 5 — 50 yards of field between the goal lines"],
+      ["Olympic status", "Debuts at the Los Angeles 2028 Games — men's and women's tournaments, approved by the IOC in October 2023"],
+      ["First world championship", "2002 — IFAF's first Flag Football World Championship in Austria (Austria men, Sweden women)"]
+    ],
+    "history": [
+      ["1940s", "US military teams play touch-and-flag football through the war years — the collision-free version travels everywhere the service goes."],
+      ["1960s", "The National Touch Football League organizes in St. Louis; flag codes split from touch, the flag making every tackle objective."],
+      ["1996-98", "The NFL launches NFL FLAG as a national youth program (1996); IFAF forms in 1998 to govern the international game."],
+      ["2002", "IFAF stages the first Flag Football World Championship in Austria — the hosts win the men's title, Sweden the women's."],
+      ["2022", "Flag football appears at the World Games in Birmingham, Alabama — Mexico's women beat the USA to gold behind quarterback Diana Flores."],
+      ["2023", "The IOC approves flag football for Los Angeles 2028, and the NFL's Pro Bowl becomes a flag-format showcase in the same year."]
+    ],
+    "formats": [
+      ["5 v 5 (Olympic format)", "The international standard: short field, four downs to midfield then four to score, with no-run zones near the markers."],
+      ["NFL FLAG youth", "Co-ed leagues for ages roughly 5-17 — the entry point for more than half a million children a year."],
+      ["Adult recreational 4 v 4 and 8 v 8", "Park, corporate, and social leagues with local house rules on rushing and running."],
+      ["Women's elite", "The women's game leads the sport's growth — Mexico v the USA is its clasico, with college and pro structures scaling up for 2028."],
+      ["Elite national teams", "IFAF world championships every two years, and Olympic tournaments from 2028 — the sport's summit."]
+    ],
+    "skills": [
+      ["Flag pulling", "The sport's tackle: track the carrier's hips, mirror, and scoop the flag cleanly off the belt in the open field.", "1 v 1 pursuit drills — 10 live pulls a session at angles; close the gap in three seconds without losing contain."],
+      ["Quick-release passing", "Getting the ball out in under two seconds, because the rush arrives on a count.", "Timed drop-backs with a stopwatch: drop, read one, then two, release — 50 reps against air or a coach's count."],
+      ["Route running", "Stems sold the same, breaks sharp and timed with the quarterback's drop — precision beats pure speed.", "The full route tree against air, 10 reps each, then live versus press and off coverage."],
+      ["Defensive mirroring", "Backpedal, shadow the receiver's hips, and play the ball — with no contact allowed, feet are your hands.", "30-second shadow technique rounds against a partner, then 1 v 1 reps where the win is a flag or an incompletion."],
+      ["The snap", "Every play starts with it: a crisp exchange — direct or shotgun — under pressure.", "50 snaps a day to a target; the standard is zero bad exchanges per tournament."],
+      ["Laterals and pitches", "Backward pitches keep plays alive — flag's answer to the rugby offload, legal and lethal in the open field.", "Two-on-one read drills: pitch or keep, 15 live reps a session with the lone defender deciding."],
+      ["Reading zones", "Quarterbacks identify zone or man before the snap; receivers find the soft spots and sit or split them.", "Walk-through reads with the coverage called aloud pre-snap — 20 a practice — then verify each call with a partner scoring you."]
+    ],
+    "rules": [
+      "No contact: no blocking, tackling, or diving — the flag makes the tackle, and contact beyond the incidental is a penalty.",
+      "The ball is dead the moment a flag is pulled or the ball touches the ground — fumbles are dead balls, not scrambles.",
+      "Four downs to reach midfield for a first down, then four more to score; fail and the opponent takes over on offense.",
+      "In NFL FLAG rules the quarterback may not run the ball across the line of scrimmage — handoffs open the run game — and no-run zones sit five yards from midfield and the goal line.",
+      "Defenses may rush the passer on a set count, usually with one designated rusher, while the quarterback works against a pass clock.",
+      "Two 20-minute halves, with the clock stopped inside the final two minutes of each.",
+      "Touchdowns are worth 6 with 1- and 2-point conversions from set distances; safeties exist in most codes."
+    ],
+    "equipment": [
+      ["Flag belt", "The sport's signature — the belt and its flags, $10-25; check your league's rules for two- or three-flag sets."],
+      ["Football", "Youth or intermediate size, smaller than the pro ball; $20-60."],
+      ["Cleats", "Turf or grass shoes — the sport's biggest performance purchase at $50-120."],
+      ["Mouthguard", "Recommended — collisions are accidental but real at pace; $10-30."],
+      ["Receiver gloves", "Grip gloves for cold or wet weather, $30-70."],
+      ["Bibs and cones", "Colored pinnies and a dozen cones turn any park into a field — under $30."]
+    ],
+    "training": [
+      "The game is repeat sprints: 10-15 plays per drive — train 20-40 yard bursts off short recoveries plus change-of-direction ladders twice weekly.",
+      "Quarterbacks build arm endurance with daily volume — 100-plus balls — because flag QBs throw more per minute than any code.",
+      "Footwork is the defense: shadow and mirror drills every session; a defender who cannot move laterally cannot pull a flag.",
+      "No-contact does not mean no strength — hamstrings and groins still pay the sprinting bill, so Nordics and Copenhagen planks stay in the program.",
+      "Play tournaments: the format rewards chemistry, and route timing and defensive calls develop only through reps together."
+    ],
+    "pathway": [
+      ["Youth leagues (5-14)", "NFL FLAG and local recreation leagues — co-ed by default, and often a family's first organized sport."],
+      ["High school", "States are sanctioning girls' flag football as a varsity sport at speed, with college scholarships following."],
+      ["College", "Club circuits and a growing number of collegiate women's programs, mostly in the US."],
+      ["National teams", "Open tryouts feed IFAF world championship rosters — the current summit, with Olympic selection from 2028."],
+      ["Professional", "New professional leagues and NFL-backed competitions are launching globally ahead of LA 2028."]
+    ],
+    "events": [
+      ["IFAF Flag Football World Championship", "Every two years since 2002 — the sport's world titles; the USA, Mexico, and Austria are its historic powers."],
+      ["The World Games", "2022 in Birmingham, Alabama — flag's multisport debut, with golds to Mexico's women and the USA's men."],
+      ["Olympic Games", "Los Angeles 2028 — men's and women's 5 v 5 tournaments, the sport's moment of arrival."],
+      ["NFL FLAG championships", "Regional and national youth championships every year — the biggest youth footprint in the sport."],
+      ["NFL Pro Bowl Games", "Since 2023 the NFL's all-star weekend is flag-first — the sport's biggest advertisement each February."]
+    ],
+    "legends": [
+      ["Darrell Doucette III", "USA quarterback — IFAF world titles in 2021, 2024, and 2026 plus World Games gold in 2022; the standard for elite flag QBs and a vocal champion of the sport's own stars."],
+      ["Vanita Krouch", "USA quarterback — three world titles (2018, 2021, 2024) and a 33-1 international record; the most decorated player in the women's game."],
+      ["Diana Flores", "Mexico — the quarterback who beat the USA to World Games gold in 2022 and again in 2025, and the face the sport rode into the Olympic era."],
+      ["Troy Vincent", "A five-time Pro Bowl cornerback turned NFL executive — the game's most powerful advocate for flag's global growth, the flag-format Pro Bowl, and the LA 2028 bid."]
+    ],
+    "getting_started": [
+      "Buy a belt, a ball, and six cones — your full entry cost is under $75.",
+      "Learn to pull flags honestly: aim for the hips, not the player, and celebrate the clean pull.",
+      "Find a local rec league — flag leagues welcome beginners of every age and gender, often in the same division.",
+      "Practice quick exchanges: snaps, laterals, and pitches against a wall until they are boring.",
+      "Watch one IFAF or Pro Bowl flag game — the tempo will recalibrate what 'no contact' means.",
+      "Drill two-second reads with a friend calling coverages before you even take a snap."
+    ],
+    "glossary": [
+      ["Flag pull", "The legal tackle — removing a ball carrier's flag ends the play."],
+      ["No-run zone", "The five-yard strips before midfield and the goal line where running plays are banned in NFL FLAG codes."],
+      ["Rush count", "The set beat the defense must wait before one designated rusher crosses the line."],
+      ["Pass clock", "The count (seven seconds in NFL FLAG) the quarterback has to release the ball."],
+      ["Dead ball", "The moment a flag is pulled or the ball hits the ground — no fumble scrambles here."],
+      ["Flag guarding", "Shielding your flags with the ball or a hand — a penalty."],
+      ["Extra point", "The 1-point conversion from about the 5-yard line, or the 2-point try from farther out."],
+      ["Pursuit angle", "The defensive path that cuts off the carrier while staying in front of the flag."],
+      ["Mirror", "Defending a receiver step for step without touching them."],
+      ["Flag belt", "The sport's one mandatory uniform item — no belt, no play."]
+    ],
+    "related": ["american-football", "touch-rugby", "ultimate-frisbee"],
+    "crosslink": false
+  },
+  {
+    "slug": "touch-rugby",
+    "name": "Touch Rugby (Touch Football)",
+    "category": "team-ball",
+    "glyph": "🤲",
+    "tagline": "Rugby's fast, friendly cousin — six touches and a rollball.",
+    "origin": "Australia · 1960s",
+    "tags": ["Team sport", "Minimal contact", "Mixed format", "Social sport"],
+    "overview": [
+      "Touch keeps rugby's shape and loses its violence: teams of six advance the ball upfield, but a defender ends an attacker's run simply by touching them, and the touched player restarts play with a rollball. Six touches and possession turns over. There is no kicking, no fending, and no padding — and the game is continuous, played in men's, women's, and mixed divisions worldwide.",
+      "Born in Australian rugby league training parks in the early 1960s, touch outgrew its origins and became a global social sport: hundreds of thousands play in Australia alone, midweek competitions run in dozens of countries, and the Touch World Cup has been contested since 1988. It is the rare sport where elite internationals and Tuesday-night office teams play the same rules on the same fields.",
+      "Newcomers should master the rollball first — the quick play-the-ball is the whole game — and defenders should learn the 7-meter retreat. Substitutions come freely, so the game is cardio and it will find you out. Embrace the running; the sport's whole appeal is skill at pace without the bruises."
+    ],
+    "facts": [
+      ["Origins", "Australia, early 1960s — a low-contact training game for rugby league players; organized competitions by 1968"],
+      ["Governing body", "Federation of International Touch (FIT), formed in Melbourne in 1985; 50-plus member nations"],
+      ["Team size", "6 on the field from squads of up to 14, with unlimited rolling substitutions"],
+      ["Match length", "Two 20-minute halves — the classic 40-minute social fixture"],
+      ["Playing area", "70 m x 50 m with marked scorelines"],
+      ["Scoring", "One point per touchdown"],
+      ["Olympic status", "Not on the Olympic program — the sport's summit is the FIT Touch World Cup"],
+      ["First World Cup", "1988 — the inaugural Touch World Cup on the Gold Coast, won by Australia"]
+    ],
+    "history": [
+      ["Early 1960s", "Rugby league clubs in Sydney adopt touch football as pre-season training — all the footwork, none of the bruises."],
+      ["1968", "The first organized competitions begin in Sydney, and the game acquires laws of its own."],
+      ["1985-86", "FIT forms in Melbourne alongside the first Australia-New Zealand internationals; the international era begins."],
+      ["1988", "The first Touch World Cup on the Gold Coast — Australia wins, and the event returns roughly every four years."],
+      ["1990s-2000s", "The sport spreads through Commonwealth countries, and the mixed game becomes the world's most-played format."],
+      ["2010s-20s", "European and Pacific championships mature while Australia's National Touch League polishes the elite product; park competitions keep the sport's soul."]
+    ],
+    "formats": [
+      ["Mixed (co-ed) touch", "The world's default format: teams commonly field three men and three women, ratios set by league rules."],
+      ["Men's and women's Opens", "The elite game — blistering tempo, quick taps, wrap plays, and interchanges every few minutes."],
+      ["Masters (over-30/40/50)", "Age-graded World Cups and local leagues — the sport-for-life argument in the flesh."],
+      ["Schools and juniors", "Sanctioned school competitions, especially in Australia and New Zealand, feed the elite pathway."],
+      ["Trans-Tasman Tests", "Australia v New Zealand, the sport's oldest and fiercest international rivalry."]
+    ],
+    "skills": [
+      ["Rollball (play-the-ball)", "Restarting play instantly — the touched player rolls the ball back under a foot at the mark; speed here wins matches.", "Two-touch drills under a stopwatch: 3 x 10 quick rollballs chasing a sub-two-second turnaround from touch to dummy-half hands, then again under fatigue."],
+      ["Dummy-half running", "The receiver sniping around the ruck before the defense retreats 7 meters — noting that being touched in possession turns the ball over.", "Scoot drills of 10 per session from dummy half; only count the ones that gain five meters or force a defensive shift."],
+      ["Draw and pass", "Fixing a defender by committing them, then delivering the ball to the player they abandoned — the sport's fundamental creation skill.", "3 v 2 overload drills for 10 minutes a session; the attack learns to hold the pass until the defender's hips turn."],
+      ["Wraps and switches", "A runner crossing behind the ball carrier — the wrap — wrong-foots a set defensive line.", "Choreographed moves rehearsed at walking, jogging, then sprinting speed, 10 reps each; timing matters more than pace."],
+      ["Defensive line speed and shape", "Six defenders advancing evenly, sliding in unison, with no gaps around the ball.", "Retreat-and-advance cycles of 6 x 10 with the line resetting from 7 meters; penalize offside in training as harshly as in a match."],
+      ["The dump (quick touch)", "Taking a deliberate, controlled touch near the mark to keep the ball moving — giving yourself up quickly is a skill.", "Conditioned games where the touched player must release within three seconds of the touch; it trains everyone's decision speed."],
+      ["Finishing shape", "Draw the last defender and put a teammate over, or beat them yourself — a touchdown needs the ball simply placed over the scoreline.", "2 v 1 finishing drills, 15 reps a session; track how many overlaps become touchdowns."]
+    ],
+    "rules": [
+      "A team has six touches to score; after the sixth, possession changes at the mark of the final touch.",
+      "The touched player performs a rollball at the mark — rolling the ball back under a foot — and a teammate, usually the half, restarts from dummy half.",
+      "Defenders must retreat 7 meters at each rollball (10 meters at penalty taps) before rejoining play.",
+      "A touch on any part of the ball carrier or the ball counts; claiming a phantom touch without contact is penalized.",
+      "The ball may never be kicked.",
+      "The half acting at the rollball cannot be touched with the ball or possession is lost — good halves release it instantly.",
+      "Substitutions are unlimited and made at any time; mixed formats set gender ratios on the field, commonly three and three."
+    ],
+    "equipment": [
+      ["Ball", "A small oval ball, lighter than a rugby ball and built for quick hands; $20-60."],
+      ["Boots or trainers", "Light and grippy beats heavy and armored — grass boots or turf shoes, $50-130."],
+      ["Team bibs or shirts", "Matching shirts with numbers for competition; bib sets from $20 cover training."],
+      ["Cones", "The organizer's kit — a dozen cones and you have a field."],
+      ["Mouthguard", "Usually optional, worn by many in elite men's divisions anyway; $10-30."],
+      ["Hydration kit", "With rolling substitutions the rotations come every few minutes — plan bottles and a bench routine."]
+    ],
+    "training": [
+      "Touch is an aerobic interval game: 40-minute matches of repeated sprints — train 15-30 meter shuttles off short recoveries, plus one tempo run a week.",
+      "Change of direction is king: agility ladders, 5-10-5 pro-agility tests, and 3 v 3 small-sided games twice weekly.",
+      "Run set plays with your actual six — wraps and draws only work when the same six rehearse them at training speed, then match speed.",
+      "Hamstring insurance: Nordics and sprint progressions, because the sport's most common injury is the sprinter's tear.",
+      "Practice the last five minutes of every session with scores level — sixth-touch decisions under fatigue decide tight games."
+    ],
+    "pathway": [
+      ["Social competitions", "Tuesday-night park touch — the sport's mass base, and nobody ever really leaves."],
+      ["Local representative", "Regional trials feed state titles and national touch leagues, especially in Australia and New Zealand."],
+      ["National leagues", "Australia's National Touch League and equivalent elite circuits — where the best play weekly."],
+      ["International", "Trans-Tasman series and FIT World Cups from youth to masters; Australia and New Zealand set the standard."],
+      ["Crossover", "Elite touch skills feed rugby league and union careers — and plenty of pros return to the touch field in their 30s."]
+    ],
+    "events": [
+      ["FIT Touch World Cup", "Roughly every four years since 1988 — senior, youth, and masters divisions together, with Australia and New Zealand trading the crowns."],
+      ["Trans-Tasman Tests", "Australia v New Zealand — the sport's fiercest rivalry, played since the 1980s."],
+      ["National Touch League (Australia)", "The annual elite club carnival — the de facto domestic championship."],
+      ["European Touch Championships", "Every two years — the continental showpiece and growth engine of the European game."],
+      ["Local social competitions", "Every week, everywhere — thousands of leagues run 40-minute fixtures year-round; the sport's true World Series."]
+    ],
+    "legends": [
+      ["Kristy Judd", "Australia — the first Opens player to win five Touch World Cups (1995-2011) and undefeated across them; one of the most decorated careers in the sport."],
+      ["Gavin Shuker", "Australia — 89 caps and Men's Opens captain from 2007-10, with a joint-record 36 tries in a single World Cup (2011)."],
+      ["Bo de la Cruz", "Australia — Player of the Series at the 2003 World Cup and a pioneer for Indigenous women in the sport; a national medal bears her name."],
+      ["Louise Winchester", "Australia — 2007 World Cup MVP and long-time Opens captain (2010-15) across 65 senior caps."],
+      ["David Cheung", "Australia — the first player to 100 National Touch League tries, across four World Cup campaigns from 1995."]
+    ],
+    "getting_started": [
+      "Find your nearest social competition — touch leagues run year-round and take individuals as well as teams.",
+      "Learn the rollball before anything else; practice it alone against a wall until it needs no thought.",
+      "Get touch-fit with interval running, not long slow distance — the game is sprint, recover, sprint.",
+      "Play mixed in your first season; the format is forgiving and the standard surprisingly high.",
+      "Buy light boots or trainers — heavy rugby boots slow you down in a sport with no contact.",
+      "Watch one elite World Cup match online — the wrapping and line speed will recalibrate your Tuesday night."
+    ],
+    "glossary": [
+      ["Touch", "The legal tackle: contact on the ball carrier that ends their run."],
+      ["Rollball", "The restart — the ball rolled back under a foot at the mark."],
+      ["Dummy half (the half)", "The player who collects at the rollball and restarts play."],
+      ["Touchdown", "A score, one point, ball over the scoreline."],
+      ["Dump", "A quick, controlled touch taken deliberately to keep play moving."],
+      ["Wrap", "A supporting runner crossing behind the ball carrier."],
+      ["Ruck", "Borrowed shorthand for the play-the-ball area."],
+      ["Onside", "Behind the ball the required 7 meters at the rollball."],
+      ["Phantom touch", "Claiming a touch that never landed — a penalty and a reputation."],
+      ["Interchange", "A substitution made at any time, as often as the bench allows."]
+    ],
+    "related": ["rugby-league", "rugby-union", "flag-football", "ultimate-frisbee"],
+    "crosslink": false
+  },
+  {
+    "slug": "field-hockey",
+    "name": "Field Hockey",
+    "category": "team-ball",
+    "glyph": "🏑",
+    "tagline": "A curved stick, a 100-kph ball, and goals only from the D.",
+    "origin": "England · 1886",
+    "tags": ["Team sport", "Olympic", "Stick and ball", "Artificial turf"],
+    "overview": [
+      "Field hockey is 11-a-side hockey on turf: players drive a hard dimpled ball with the flat face of a right-handed stick — there are no left-handed sticks — and goals count only when struck from inside the scoring circle, the D that arcs 14.63 meters from goal. Matches run four 15-minute quarters at relentless pace, and the ball travels over 100 kph at the top level.",
+      "Codified in England in the 1880s, the game's center of gravity has migrated through India's golden era — six straight Olympic golds from 1928 — to the Netherlands, Australia, Argentina, Germany, and Belgium. The Dutch women are among the most dominant national teams in any sport. Played in well over a hundred countries, hockey is a fixture from Delhi's maidans to every Dutch town green.",
+      "Newcomers should know the stick is right-handed by law, so both sides of the body are played with the same stick — the reverse-stick tomahawk is a fundamental, not a flourish. Learn to trap a moving ball at pace, run the Indian dribble, and throw the jab tackle, and you will fit into any team in the world."
+    ],
+    "facts": [
+      ["First codified", "1886 — the Hockey Association forms in England, unifying the rules of earlier clubs such as Blackheath and Teddington"],
+      ["Governing body", "International Hockey Federation (FIH), founded in Paris in 1924; more than 130 member associations"],
+      ["Team size", "11 a side including a goalkeeper, with rolling substitutions from squads of 16-18"],
+      ["Match length", "Four 15-minute quarters, adopted internationally in the mid-2010s"],
+      ["Playing area", "91.4 x 55 m; goals 3.66 m wide and 2.14 m high; the scoring circle a 14.63 m arc"],
+      ["Ball", "A hard dimpled plastic ball, 156-163 g and 22.4-23.5 cm around, built to skim wet turf"],
+      ["Olympic status", "Men since 1908 (London), women since 1980 (Moscow)"],
+      ["First World Cup", "Men 1971 (won by Pakistan); women 1974"]
+    ],
+    "history": [
+      ["Ancient roots", "Stick-and-ball games run from ancient Egypt and Greece to Irish hurling — but the modern game is English and Victorian."],
+      ["1849-86", "Clubs such as Blackheath and Teddington write local rules — Teddington bans raising the stick above the shoulder — and the Hockey Association unifies the laws in 1886."],
+      ["1908-28", "Hockey joins the Olympics in London (1908); India wins the first of six straight golds in 1928, and Dhyan Chand's era begins."],
+      ["1924-27", "The FIH forms in Paris; the women's game gets its own international federation (IFWHA, 1927), later merging in."],
+      ["1971-76", "The first men's World Cup is played (1971), and artificial turf arrives at the 1976 Montreal Olympics — transforming the sport's speed and skills."],
+      ["1980-98", "Women's hockey joins the Olympics in 1980, with Australia and then the Netherlands building dynasties."],
+      ["2014-24", "Quarter-based matches, video umpiring, the Hockey Pro League (2019), and Hockey5s with its own World Cup (2024) modernize the game."]
+    ],
+    "formats": [
+      ["Eleven-a-side (turf)", "The full game: four quarters, penalty corners, and rolling substitutions — the format of the Olympics and World Cup."],
+      ["Hockey5s", "Five-a-side on a smaller court with boards, the FIH's rapid development format with its own World Cup since 2024."],
+      ["Indoor hockey", "Six-a-side on a handball-size court with side boards — a central European winter tradition where the ball never leaves play."],
+      ["Grass and social hockey", "Club hockey on grass, slower and gentler — still the sport's heartland in many countries."],
+      ["Schools and juniors", "Small-sided junior formats — such as minkey in Australia — where most of the world's internationals began."]
+    ],
+    "skills": [
+      ["Indian dribble", "Rolling the ball left and right with tiny touches to wrong-foot defenders — the signature close-control skill.", "Cone lines 10 minutes a session with the left hand alone at the top of the stick, then with vision up; test: a 10 m slalom under 6 seconds with eyes off the ball."],
+      ["Push pass", "A wristy pass with no backswing — fast, flat, and safe, the game's fundamental distributor.", "Partner passing of 100 reps at 10-15 m, then on the move; accuracy target of 8 of 10 to a moving stick."],
+      ["The hit", "A full-swing strike for shots, clearances, and long transfers — the ball leaves at match speeds above 100 kph.", "Hitting technique against a net 30 balls a session: hands apart, hips rotating, body low at contact."],
+      ["Tomahawk (reverse strike)", "Striking off the reverse side to shoot or clear from anywhere in the circle — a fundamental, not a flourish.", "Begin with a tennis ball for safety, 25 reverse strikes a session; the flat stick face at contact is everything."],
+      ["Jab tackle", "A one-handed poke at the ball without overcommitting — legal, sneaky, and effective.", "Paired rounds of 3 x 45 seconds: a defender shadows a dribbling attacker, jabbing only when the ball sits."],
+      ["3D skills", "Lifting the ball over sticks and opponents with control — the game's flourish and its most useful escape.", "50 small lifts over a stationary stick, then aerials to a target 10-15 m away; accuracy before height."],
+      ["Penalty corner drag flick", "Dragging the ball low then rising into the net from the set piece — worth roughly a third of goals at the top level.", "Flickers log daily reps of 30-50 corners, working both directions; accuracy to zones before speed."]
+    ],
+    "rules": [
+      "Field players must play the ball with the flat face (and edges) of the stick — using the rounded back side, backsticks, is a foul.",
+      "Goals count only when struck from inside the circle — the 14.63 m D in front of goal.",
+      "Dangerous play is penalized: no raising the ball at another player, and swinging near an opponent is a foul on its own.",
+      "Penalty corner: five defenders start behind the goal line, an injector pushes out from the baseline, and the attack must stop the ball outside the circle before striking — the first shot must stay below the backboard unless deflected.",
+      "A penalty stroke — one attacker against the goalkeeper from a spot 6.475 m out — is awarded when a foul stops a probable goal.",
+      "Cards: green means a two-minute suspension, yellow five minutes or more, red expulsion — teams always play short-handed.",
+      "Substitutions are rolling, with elite teams rotating dozens of times a match; the self-pass from free hits arrived in 2009 and rewired attacking play."
+    ],
+    "equipment": [
+      ["Stick", "Composite, no heavier than 737 g, flat on the left face only, in lengths from 28 to 37.5 in; $60-300."],
+      ["Ball", "A dimpled white or colored plastic ball, 156-163 g; buy a dozen for training at $10-20 each."],
+      ["Shin guards and mouthguard", "Mandatory almost everywhere — the ball does not care about your opinions; $20-60 and $10-40."],
+      ["Turf shoes and boots", "Studded boots for water-based turf and flat-soled turf shoes for sand-based — the sport's most underrated purchase, $60-150."],
+      ["Goalkeeper kit", "Helmet, kickers, leg guards, chest armor, and hand protectors — a full kit runs $400-1,200 and turns aside 100-kph balls."],
+      ["Glove and face mask", "A left glove for turf burns and a face mask for penalty-corner defense, $20-80."]
+    ],
+    "training": [
+      "Match demands run 7-9 km with repeated sprints — build an aerobic base plus 30-meter repeat sprints, because hockey never stops.",
+      "The game lives in the frontal plane: lateral lunges and Copenhagen planks for the adductors, guarding against the groin injuries the sport is famous for.",
+      "Progress every skill drill from standing to jogging to sprinting — skills that only work standing still do not count.",
+      "Set pieces decide tight matches: teams train penalty corners in daily blocks, and flickers log hundreds of reps a week.",
+      "Small-sided games — 3 v 3 and Hockey5s — multiply touches and circle entries per minute."
+    ],
+    "pathway": [
+      ["Junior club and school", "Small-sided junior formats and school hockey from about age 6-7."],
+      ["Club hockey", "The sport's backbone: weekend grades from social to premier league in more than a hundred countries."],
+      ["National league and academy", "Elite domestic leagues and national academies — Europe's club system, Australia's Hockey One, and India's revived Hockey India League."],
+      ["International", "The Pro League, World Cups, and the Olympics — the FIH circuit for the world's best."],
+      ["College hockey", "NCAA and university hockey — one of the sport's biggest participation engines, especially in the US."]
+    ],
+    "events": [
+      ["Olympic hockey", "Every four years — men since 1908, women since 1980; India won six straight golds from 1928."],
+      ["FIH Hockey World Cup", "The game's world championship — men since 1971, women since 1974, now on a compressed two-to-four-year cycle alongside the Olympics."],
+      ["FIH Hockey Pro League", "The annual home-and-away league for the best national teams, running since 2019."],
+      ["EuroHockey Championships and Euro Hockey League", "Europe's national and club championships — the EHL is club hockey's Champions League."],
+      ["Hockey India League", "India's franchise league, revived in 2024-25 with some of the sport's biggest contracts."]
+    ],
+    "legends": [
+      ["Dhyan Chand", "India — 'The Wizard': three Olympic golds (1928, 1932, 1936) and a legacy so large India's highest sporting award now bears his name."],
+      ["Ric Charlesworth", "Australia — Olympic silver-medallist striker (1976) who also played first-class cricket, then coached the Hockeyroos to gold in 1996 and 2000 and the Netherlands to the 2010 world title."],
+      ["Teun de Nooijer", "Netherlands — two Olympic golds, three FIH Player of the Year awards, and more than 450 international caps; the Dutch maestro of the modern era."],
+      ["Alyson Annan", "Australia — double Olympic champion (1996, 2000) and the engine of the greatest women's team of the 1990s; later coached the Netherlands to world and Olympic titles."],
+      ["Luciana Aymar", "Argentina — a record eight FIH Player of the Year awards and a World Cup win at home in 2010; 'La Maga' made the midfield her stage."]
+    ],
+    "getting_started": [
+      "Get a stick that reaches your hip bone and a ball — then find a wall: 20 minutes of traps and pushes daily teaches the basics.",
+      "Learn the reverse stick early; you will use it on half your touches.",
+      "Find a club — hockey clubs run social grades and always need goalkeepers (kit usually provided).",
+      "Build shins and groins before skill volume: pads on, Copenhagen planks in your week.",
+      "Watch one Pro League match focusing on off-the-ball runs — the pitch is bigger than it looks on television.",
+      "Practice the Indian dribble with the left hand only until the stick stops wobbling; it is the fastest upgrade in the sport."
+    ],
+    "glossary": [
+      ["The D", "The scoring circle — 14.63 m of arc where goals are legal."],
+      ["Penalty corner", "The set piece that decides tight matches — injector, stop, strike."],
+      ["Tomahawk", "A reverse-stick strike, named for the swinging action."],
+      ["Jab", "The one-handed poke tackle, quick and non-committal."],
+      ["Backsticks", "Playing the ball off the rounded side — a foul."],
+      ["Self-pass", "Playing a free hit to yourself, legal since 2009 — it rewired attacking play."],
+      ["Aerial", "A lifted pass over defenders, trapped dead by the receiver."],
+      ["Flyer", "The defender who sprints out at a penalty corner to block the shot."],
+      ["Scoop", "Lifting the ball over a stick or a sliding defender."],
+      ["Green card", "A two-minute suspension — hockey's yellow card is worse, and its red is final."]
+    ],
+    "related": ["ice-hockey", "lacrosse", "hurling", "bandy"],
+    "crosslink": false
+  },
+  {
+    "slug": "ice-hockey",
+    "name": "Ice Hockey",
+    "category": "team-ball",
+    "glyph": "🏒",
+    "tagline": "Six skaters, three periods, and the fastest team game on earth.",
+    "origin": "Montreal, Canada · 1875",
+    "tags": ["Team sport", "Olympic", "Stanley Cup", "Winter sport"],
+    "overview": [
+      "Ice hockey is six a side — five skaters and a goaltender — racing on steel blades across a sheet of ice to put a vulcanized rubber puck into the opponent's net. Substitutions fly over the boards every 45 seconds or so; body checking is legal in the men's game and part of the sport's physics. Three 20-minute periods, but the clock stops for everything, and the game never slows.",
+      "The first organized game was played indoors in Montreal in 1875. Today the NHL (founded 1917) is the premier league on earth, hockey is Canada's national winter sport by act of Parliament, and the game is religion in Scandinavia, Russia, Czechia, Slovakia, and the northern United States. From pond shinny to the Stanley Cup playoffs — four best-of-seven rounds — hockey's blend of speed and collision is unmatched in team sport.",
+      "Newcomers: follow the puck by watching sticks and bodies, because the play away from the puck sets up everything. Learn offside and icing — two lines that shape every rush — and embrace special teams, since power plays decide close games. Most of all, learn to skate before you learn to play: everything flows from the edges."
+    ],
+    "facts": [
+      ["First organized game", "March 3, 1875 — indoors at Montreal's Victoria Skating Rink"],
+      ["Governing bodies", "International Ice Hockey Federation (IIHF, founded 1908); the NHL (1917) runs the top professional league"],
+      ["Team size", "6 on the ice per side (5 skaters plus a goaltender); teams dress 18 skaters and 2 goalies"],
+      ["Match length", "Three 20-minute stop-clock periods — NHL games average about two and a half hours"],
+      ["Playing area", "Rinks of 60 x 30 m (IIHF) or 200 x 85 ft (NHL, about 61 x 26 m); goals 1.83 m wide and 1.22 m high"],
+      ["Puck", "Vulcanized rubber, about 170 g, frozen before games to tame its bounce"],
+      ["Olympic status", "Men since 1920 (moving to the Winter Games in 1924), women since 1998"],
+      ["First world championship", "1920 — at the Antwerp Olympics; a standalone world championship followed in 1930"]
+    ],
+    "history": [
+      ["1875", "James Creighton organizes the first recorded indoor game at Montreal's Victoria Rink, with a flat puck chosen to spare the spectators' shins."],
+      ["1893", "Lord Stanley donates a challenge cup; the Montreal Hockey Club wins the first Stanley Cup — North American sport's oldest professional trophy."],
+      ["1908-24", "The IIHF forms in Paris (1908); hockey debuts at the 1920 Olympics and joins the first Winter Games in 1924."],
+      ["1917", "The NHL forms from the remains of the National Hockey Association with a handful of Canadian clubs — and grows into the sport's center of gravity."],
+      ["1972", "The Summit Series — Canada's NHL stars against the Soviet Big Red Machine in eight games — redefines international hockey and ends with Paul Henderson's series-winning goal."],
+      ["1998", "Women's hockey debuts at Nagano with the USA taking gold, and NHL players appear at the Olympics for the first time."],
+      ["2010s-20s", "The game accelerates and globalizes: European stars win scoring titles, the NHL reaches 32 clubs, and the PWHL launches in 2024 with the world's best women."]
+    ],
+    "formats": [
+      ["Professional hockey", "6 v 6, 82-game seasons, and four best-of-seven playoff rounds — the NHL's summit, with Sweden's SHL, Finland's Liiga, and the Czech Extraliga as strong European circuits."],
+      ["International (IIHF)", "Olympic and world championship hockey on the wider IIHF rink — more space, no fighting, national styles on display."],
+      ["Women's hockey", "Olympic since 1998; the Professional Women's Hockey League (PWHL) since 2024, the first fully backed women's pro league with six founding franchises."],
+      ["Junior hockey", "The Canadian major-junior system and the under-20 World Juniors every Boxing Day — an annual national ritual north of the border."],
+      ["Shinny and beer league", "Pond hockey and midnight adult leagues — the sport's democratic soul: no checking, plenty of cardio."]
+    ],
+    "skills": [
+      ["Skating and edges", "Stride mechanics, crossovers, and edge control — players change direction at full speed on blades 3 mm wide.", "Power skating of 20-30 minutes weekly: inside and outside edges, transition turns, and stops before any stick skills; sprint with the puck only after clean feet."],
+      ["Stickhandling", "Cupping the puck with the blade in motion — soft hands, head up, reading the ice.", "Ten minutes daily of around-the-body and through-cones work with a ball or puck, then everything at skating speed."],
+      ["Wrist and snap shots", "Quick release beats raw power — the difference between a goal and a blocked puck.", "A quota of 100 pucks a day: 40 wrist, 30 snap, 30 one-timers — chase a release under half a second."],
+      ["One-timer", "Striking the pass the instant it arrives, before the goalie can set — the power-play staple.", "Chest-pass feeds from a partner, 25 one-timers a session off the wing; a flat, predictable pass comes first."],
+      ["Saucer pass", "Lifting the puck a few inches to float it over sticks and sliding defenders, landing flat on a teammate's blade.", "20 passes a session over an obstacle into a small target area; the landing matters more than the flight."],
+      ["Angling", "Taking away the ice you do not want the carrier to use — steering them into the boards or a teammate without losing body position.", "1 v 1 corner drills: defenders ride the angle rather than chase the body, 10 reps a session; the angle does the work."],
+      ["Goaltending basics", "Depth, angles, and the butterfly — taking away net by geometry rather than reflex.", "Fifty shots a session in the crease with footwork and recovery drills, plus wall-ball reaction work for the hands."]
+    ],
+    "rules": [
+      "Six per side — five skaters and a goalie — with line changes on the fly, dozens of times a period.",
+      "Offside: an attacker may not cross the attacking blue line before the puck; tag-up offside lets players reset and re-enter.",
+      "Icing: shooting the puck from behind center ice the length of the rink untouched brings it back for a defensive-zone faceoff, with hybrid icing protecting the race.",
+      "Minor penalties — two minutes for tripping, hooking, holding, and the rest — put the offender in the box and the team shorthanded.",
+      "Fighting draws five-minute majors in the NHL, while head contact and hits from behind are severely punished everywhere.",
+      "A goal counts when the puck fully crosses the line; goalies may freeze the puck for a faceoff.",
+      "Tied games go to sudden-death 3-on-3 overtime and a shootout in the NHL regular season; playoffs play full-strength overtimes until someone scores."
+    ],
+    "equipment": [
+      ["Skates", "The sport's foundation and most important purchase — fit and sharpening matter; $100-500 for amateur pairs."],
+      ["Stick", "Composite, cut to height with a flex matched to the shooter; $50-250, with curve and lie as personal as a signature."],
+      ["Helmet and cage", "A certified helmet with a full cage or visor, mandatory everywhere; $60-200."],
+      ["Protective set", "Shoulder pads, elbow pads, shin guards, pants, and gloves — an entry set runs $300-800; air the gear out."],
+      ["Neck and mouth protection", "Neck guards mandated by many federations, plus mouthguards; $15-50."],
+      ["Goaltender gear", "Leg pads, blocker, catcher, mask, and chest protector — $1,500-4,000 for the most armored athlete in sport."],
+      ["Pucks", "Vulcanized rubber, about 170 g, frozen before games; a dozen for $20."]
+    ],
+    "training": [
+      "No off-ice work replaces ice time — but slide boards and sprint intervals protect skating fitness between sessions.",
+      "Train the shift: 30-50 seconds all-out with long rests, because that is the exact energy demand of a hockey shift.",
+      "Hockey groins are famous for a reason — Copenhagen planks, adductor strength, and hip mobility are the sport's injury insurance.",
+      "Shoot pucks daily off-ice: a net in the driveway and 100 shots a day build a scorer's hands.",
+      "Small-area 3 v 3 games develop everything at once — edges, decisions, battle skill — and every good practice ends with them."
+    ],
+    "pathway": [
+      ["Learn to skate", "Learn-to-skate and intro-to-hockey programs from about age 4-6 — the sport's front door in 80 countries."],
+      ["Minor hockey", "Youth associations running house league and rep hockey across Canada and the northern US."],
+      ["Junior and college", "Major junior (CHL), US junior leagues, or NCAA college hockey — the two great routes toward the draft."],
+      ["Professional", "The NHL Entry Draft each June, the AHL and ECHL farm systems, and strong professional leagues across Europe."],
+      ["International", "World Juniors, world championships, and the Olympics — plus the PWHL for the world's best women."]
+    ],
+    "events": [
+      ["Stanley Cup playoffs", "Every spring — 16 teams, four best-of-seven rounds, and the hardest trophy in sport to win; the Cup itself dates to 1893."],
+      ["IIHF World Championship", "Every May since 1930 — 16 nations playing while the NHL playoffs run, Europe's spring ritual."],
+      ["Olympic hockey", "Men since 1920, women since 1998 — the 1980 Miracle on Ice is its most famous chapter, and Canada-USA defines the women's final."],
+      ["World Junior Championship", "Every late December since 1977 — under-20 national teams in the tournament that stops Canada each Boxing Day."],
+      ["PWHL and women's worlds", "The Professional Women's Hockey League (since 2024) and annual women's world championships (since 1990) — the game's fastest-growing corner."]
+    ],
+    "legends": [
+      ["Wayne Gretzky", "Canada — The Great One: 2,857 NHL points, including 894 goals and 1,963 assists, records no one approaches, plus four Cups and nine MVPs."],
+      ["Bobby Orr", "Canada — the defenseman who changed the position: eight straight Norris Trophies, two scoring titles, the flying 1970 Cup-winning goal, and a plus-124 season that still stands."],
+      ["Hayley Wickenheiser", "Canada — four Olympic golds and the greatest women's player of her era; Hockey Hall of Famer (2019) and now a senior executive in an NHL front office."],
+      ["Connor McDavid", "Canada — Edmonton's captain and the game's fastest player: five scoring titles, a 100-assist season in 2023-24, and a playoff MVP award won in defeat."],
+      ["Marie-Philip Poulin", "Canada — Captain Clutch: scored the gold-medal-winning goals in both the 2010 and 2014 Olympic finals and captained the national team for a decade."]
+    ],
+    "getting_started": [
+      "Take skating lessons before hockey lessons — everything else is built on edges and stops.",
+      "Rent or buy used gear for the first season; growing players burn through sizes, not equipment.",
+      "Find a stick-and-puck session and learn to shoot in skates, not shoes.",
+      "Watch one NHL game tracking a single defenseman — position play teaches the sport's geometry.",
+      "Start a puck-and-stick habit at home: stickhandling 10 minutes daily beats one weekly practice.",
+      "Join a beginner or novice adult league when ready; beer league hockey is the world's friendliest cardio cult."
+    ],
+    "glossary": [
+      ["Deke", "Deceiving a defender or goalie with the body or stick — short for 'decoy.'"],
+      ["One-timer", "A shot struck the instant the pass arrives, in one motion."],
+      ["Hat trick", "Three goals by one player — hats rain onto the ice."],
+      ["Gordie Howe hat trick", "A goal, an assist, and a fight in the same game."],
+      ["Pulling the goalie", "Sending the keeper off for an extra attacker in desperation, usually with a minute left."],
+      ["Zamboni", "The ice-resurfacing machine — the sport's beloved intermission parade."],
+      ["Crease", "The blue paint in front of the net where the goalie is protected."],
+      ["Dump and chase", "Putting the puck deep and forechecking it back — honest, grinding hockey."],
+      ["Original Six", "The six franchises of the 1942-67 NHL: Bruins, Blackhawks, Canadiens, Maple Leafs, Rangers, and Red Wings."],
+      ["Shootout", "The breakaway contest deciding tied regular-season games — playoff hockey spares us."]
+    ],
+    "related": ["field-hockey", "bandy", "floorball", "lacrosse"],
+    "crosslink": false
+  }
+]

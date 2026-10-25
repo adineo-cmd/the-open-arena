@@ -1,0 +1,3102 @@
+[
+  {
+    "slug": "road-cycling",
+    "name": "Road Cycling",
+    "category": "cycling-motor",
+    "glyph": "🚴",
+    "tagline": "The peloton's long war — three weeks of Tour, one yellow jersey, endless mountains.",
+    "origin": "France · Tour de France 1903 · UCI 1900",
+    "tags": [
+      "Grand Tours",
+      "Endurance sport",
+      "Team tactics",
+      "UCI WorldTour"
+    ],
+    "overview": [
+      "Road cycling races bicycles over public roads in the sport's great formats: one-day classics (Paris-Roubaix's cobbles, Liège-Bastogne-Liège's hills) and the three-week Grand Tours (the Tour de France, Giro d'Italia, and Vuelta a España), where overall champions are decided by seconds across thousands of kilometers. It is the only major endurance sport raced as a team yet won by an individual — the domestique's sacrifice is the genre's defining drama.",
+      "The sport's modern structure runs on the UCI WorldTour: nineteen teams of professional riders, the Monument classics' century-old prestige, and the Tour's yellow jersey as sport's most famous garment. Legends define eras — Merckx's five Tours, Hinault's aggression, Induráin's time-trial dominance, and the Armstrong scandal's long shadow that reform-era cycling now lives under — while Tadej Pogačar's era and women's Tour de France (revived 2022) write the current chapters.",
+      "Newcomers should start with a road bike fitted properly and group rides: cycling's social structure (clubs, chaingangs, sportives) is the sport's real door. Learn to draft (30% energy savings), climb with rhythm rather than pride, and ride often — the sport rewards accumulated kilometers like almost nothing else."
+    ],
+    "facts": [
+      [
+        "Modern founding",
+        "1903 — the Tour de France founded by L'Auto newspaper (Henri Desgrange); UCI founded 1900 in Paris"
+      ],
+      [
+        "Governing body",
+        "Union Cycliste Internationale (UCI); WorldTour teams, ProSeries, and continental circuits"
+      ],
+      [
+        "The Grand Tours",
+        "Tour de France (~3,400 km, 21 stages, July), Giro d'Italia (May), Vuelta a España (August-September)"
+      ],
+      [
+        "The Monuments",
+        "Milan-San Remo, Tour of Flanders, Paris-Roubaix, Liège-Bastogne-Liège, Il Lombardia — cycling's five classics"
+      ],
+      [
+        "Jerseys & classifications",
+        "Yellow (overall leader), green (points), polka-dot (mountains), white (best young rider); the combativity prize and stage wins"
+      ],
+      [
+        "Modern tech",
+        "Power meters, aerodynamic frames, and electronic shifting; distance per Grand Tour ~3,400 km at 40+ km/h averages"
+      ]
+    ],
+    "history": [
+      [
+        "1868-1903",
+        "The first recorded races (1868 Paris) and the Bordeaux-Paris era; Desgrange's Tour launches as a newspaper circulation war."
+      ],
+      [
+        "1903-1930s",
+        "Heroic-era riding: single gears, mountain Pyrenees first crossed (1910), riders repairing their own bikes — the myth's foundation."
+      ],
+      [
+        "1950s-1980s",
+        "Fausto Coppi and Gino Bartali's Italian rivalry; Merckx's cannibal era (five Tours, eleven Grand Tours total); Hinault's five."
+      ],
+      [
+        "1990s-2000s",
+        "Induráin's five Tours; the EPO era culminating in the Armstrong scandal — cycling's institutional crisis and its reform."
+      ],
+      [
+        "2010s-2020s",
+        "Froemian British Sky era (Froome's four Tours), Pogačar-Vingegaard's generational duel, and the women's Tour de France Femmes revived (2022)."
+      ]
+    ],
+    "formats": [
+      [
+        "Grand Tours",
+        "21-stage races: summit finishes, time trials, and mountain chains deciding three weeks of racing."
+      ],
+      [
+        "Monument classics",
+        "One-day races of 250-300 km: Flanders' cobbles, Roubaix's pavé, Liège's Ardennes — style-defining events."
+      ],
+      [
+        "Stage races & week-long tours",
+        "Tour Down Under, Paris-Nice, Tirreno: the season's build-up races."
+      ],
+      [
+        "Time trials",
+        "Individual (ITT) and team (TTT) races against the clock — the race of truth."
+      ],
+      [
+        "Women's WorldTour",
+        "The growing elite calendar: Tour de France Femmes, Giro Donne, and the classics' women's editions."
+      ]
+    ],
+    "skills": [
+      [
+        "Drafting & group riding",
+        "Riding close behind wheels: 20-40% energy savings, trust, and smooth predictable lines — the peloton's social contract.",
+        "Chaingang drills with a club (rotating pace lines); wheel-following confidence built gradually; bumping drills on grass."
+      ],
+      [
+        "Climbing",
+        "Watts per kilogram win mountains: sustained power, seated rhythm, and pacing by effort not hope.",
+        "Hill repeats (5×5 min at threshold); sweet-spot training blocks; weight management as the honest performance lever."
+      ],
+      [
+        "Time trialing",
+        "The race of truth: aerodynamic position, constant power, and pacing that saves nothing for the finish line.",
+        "TT intervals (2×20 min at threshold power); position fitting on the aero bars; cadence and power discipline."
+      ],
+      [
+        "Sprinting",
+        "The sprint train's choreography: lead-outs, positioning in the last kilometer, and the 200-meter explosion.",
+        "Sprint drills (jump sprints from rolling pace); high-cadence leg speed work; sprint-train practice with teammates."
+      ],
+      [
+        "Descending & cornering",
+        "The free speed: confidence through corners, braking before not during, and the drops' low center of gravity.",
+        "Cornering drills in parking lots; descending technique with experienced riders; brake-management practice on known descents."
+      ],
+      [
+        "Race craft & tactics",
+        "Reading races: when to pull, when to sit, breakaway math (time gaps, chasing teams' interests), and the peloton's politics.",
+        "Race simulation with club mates; post-race debriefs; watching worldTour race analysis for decision patterns."
+      ]
+    ],
+    "rules": [
+      "UCI racing rules: drafting legal (except in time trials); neutralized zones and feeder rules govern the day's structure.",
+      "General classification: cumulative stage times decide the overall; time bonuses for stage wins sprints (10-6-4 seconds at Tour, by event).",
+      "Stage types: mass-start stages, individual and team time trials; summit finishes award the same time as the line (no gaps in the by rules).",
+      "The peloton's law: no overtaking on the wrong side in sprints, holding lines, and the commissaire's authority — dangerous riding is penalized.",
+      "Equipment: UCI weight minimum (6.8 kg), frame geometry limits, and the 3:3-to-1 dimension rule — the institution's engineering law.",
+      "Doping: the biological passport era (since 2009) and the sport's post-Armstrong reform framework — the hardest-won credibility.",
+      "Jersey and jersey-holder rules: the leader's jersey is worn in full (no modifications); world and national champions wear their stripes for the year."
+    ],
+    "equipment": [
+      [
+        "Road bike",
+        "Endurance or race geometry, electronic or mechanical shifting: $1,200-4,000 honest range; fit matters more than carbon."
+      ],
+      [
+        "Power meter",
+        "The training revolution's tool ($200-800): watts replace feelings and progress becomes data."
+      ],
+      [
+        "Cycling computer & sensors",
+        "GPS head unit with maps, heart rate, and cadence ($150-400)."
+      ],
+      [
+        "Kit",
+        "Padded bib shorts (chamois is everything, $80-200), jerseys, and seasonal layers."
+      ],
+      [
+        "Shoes & pedals",
+        "Clipless system (road 3-bolt): $150-350 — the connection that makes every watt count."
+      ],
+      [
+        "Maintenance kit",
+        "Track pump, mini pump, tubes, multitool, chain lube — the $100 that keeps you riding."
+      ]
+    ],
+    "training": [
+      "The cycling week: 3-5 rides mixing endurance (long, easy), intervals (threshold and VO2), and group rides for race craft.",
+      "Build the aerobic base: most weeks should be 80% easy — the sport's famous 80/20 truth.",
+      "Climb deliberately: sustained climbs at threshold teach the pacing that wins mountains.",
+      "Strength without the gym: big-gear work on climbs and standing starts; core work for the bike's platform.",
+      "Fuel the work: 60-90 g carbs per hour on rides over two hours — the sport's performance is an eating discipline."
+    ],
+    "pathway": [
+      [
+        "Club rides & sportives",
+        "Group riding and long-distance events (sportives): the sport's welcoming mass culture."
+      ],
+      [
+        "Racing license & local racing",
+        "Category 5 to Cat 1 (US) or regional license systems: the competitive ladder."
+      ],
+      [
+        "Domestic elite teams",
+        "National racing circuits and continental teams — the professional bridge."
+      ],
+      [
+        "WorldTour & pro contracts",
+        "The 19-team elite: salaries, Grand Tour rosters, and Monument campaigns."
+      ],
+      [
+        "The summit",
+        "Yellow jerseys, rainbow jerseys (world champion), and Monument victories — cycling's immortality."
+      ]
+    ],
+    "events": [
+      [
+        "Tour de France",
+        "Since 1903: three weeks, the yellow jersey, and the Champs-Élysées finish — sport's greatest annual event."
+      ],
+      [
+        "Giro d'Italia & Vuelta a España",
+        "May's pink jersey in the mountains and September's red jersey through Spain — the other two weeks of truth."
+      ],
+      [
+        "The Monuments",
+        "Milan-San Remo's long day, Roubaix's cobbles, Flanders' climbs, Liège's hills, Lombardy's autumn — the five classics."
+      ],
+      [
+        "UCI World Championships",
+        "The rainbow jersey: one-day worlds for elite men and women, plus time trials."
+      ],
+      [
+        "Tour de France Femmes",
+        "Revived 2022: the women's Tour on the sport's biggest stage."
+      ]
+    ],
+    "legends": [
+      [
+        "Eddy Merckx",
+        "Belgium — the Cannibal: five Tours, eleven Grand Tours, nineteen Monuments; the most complete cyclist ever."
+      ],
+      [
+        "Fausto Coppi & Gino Bartali",
+        "Italy — rivals who defined the sport's golden romance (and Bartali's wartime rescue work)."
+      ],
+      [
+        "Bernard Hinault",
+        "France — the Badger: five Tours and a reign of pure aggression."
+      ],
+      [
+        "Miguel Induráin",
+        "Spain — five consecutive Tours (1991-95) won on time-trial dominance."
+      ],
+      [
+        "Tadej Pogačar",
+        "Slovenia — multiple Tours before 26; the generational talent redefining what a Grand Tour winner looks like."
+      ]
+    ],
+    "getting_started": [
+      "Get a professional bike fit early ($100-200): comfort decides whether you ride 50 km or 5,000 a year.",
+      "Join a club ride within a month: drafting and group confidence are learned with people, not solo.",
+      "Buy bib shorts before upgrading anything else: the chamois is the sport's real luxury.",
+      "Ride one long sportive in your first season: 100 km with rest stops teaches fueling and endurance honestly.",
+      "Learn basic maintenance (puncture repair, chain care): independence is the sport's freedom.",
+      "Watch one Monument or Tour mountain stage: the tactics make sense once you've suffered one climb yourself."
+    ],
+    "glossary": [
+      [
+        "Peloton",
+        "The main field of riders — the sport's beating heart."
+      ],
+      [
+        "Drafting / wheelsucking",
+        "Riding behind another rider to save energy; the peloton's currency."
+      ],
+      [
+        "Domestique",
+        "The team rider who works for the leader — water carrier, wind breaker, hero."
+      ],
+      [
+        "Breakaway (échapée)",
+        "The escape group; the peloton's calculus decides its fate."
+      ],
+      [
+        "Gruppetto",
+        "The sprinters' and heavies' group rolling in together on mountains."
+      ],
+      [
+        "Bonk / hunger knock",
+        "Glycogen's cliff — avoided by eating, feared by all."
+      ],
+      [
+        "Pavé",
+        "The cobblestone sectors of Roubaix and Flanders."
+      ],
+      [
+        "Watts per kilo",
+        "The climbing currency: power divided by body weight."
+      ],
+      [
+        "Bonk-Ø No — 'Maillot jaune'",
+        "The yellow jersey: the overall leader's garment since 1919."
+      ],
+      [
+        "Rainbow jersey",
+        "The world champion's bands, worn for the year."
+      ]
+    ],
+    "related": [
+      "track-cycling",
+      "cyclocross",
+      "mountain-biking",
+      "triathlon",
+      "cross-country-skiing"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "track-cycling",
+    "name": "Track Cycling",
+    "category": "cycling-motor",
+    "glyph": "🏁",
+    "tagline": "Velodrome warfare — banked ovals, fixed gears, and races decided in meters.",
+    "origin": "England · 1870s indoor era · Olympic since 1896",
+    "tags": [
+      "Olympic",
+      "Velodrome",
+      "Sprint & endurance",
+      "Fixed gear"
+    ],
+    "overview": [
+      "Track cycling races fixed-gear, brakeless bicycles on banked oval velodromes (250 m standard, 42° banked corners): sprints of pure power (team sprint, match sprint, keirin) and endurance events of tactical depth (team pursuit, madison, omnium). It has been Olympic since the first modern Games and produces cycling's most explosive athletes — riders who generate 2,000+ watt peaks in events decided by hundredths.",
+      "The sport's theater is unique: boxy velodromes with crowds close enough to hear breathing, the match sprint's cat-and-mouse track stand, and the madison's relay chaos. Britain's Olympic factory (Hoy, Kenny, Trott, and the investment era) rewrote the record books through the 2000s-2010s; the Dutch sprint machine and Australia's endurance programs carry the modern rivalry.",
+      "Newcomers should find a velodrome's beginner session: track bikes are simpler than road bikes (no brakes, no gears) and the fixed gear teaches pedaling fluency road riding never will. Track racing's entry is genuinely cheap — velodromes lend bikes — and the skills transfer upward into every cycling discipline."
+    ],
+    "facts": [
+      [
+        "Modern origins",
+        "1870s — the six-day era begins in English and American velodromes; Olympic track cycling since Athens 1896"
+      ],
+      [
+        "Governing body",
+        "UCI track commission; World Championships and Nations Cup series; national federations"
+      ],
+      [
+        "The velodrome",
+        "250 m standard (Olympic spec), 42° max banking; wooden or concrete surfaces; fixed gear, no brakes"
+      ],
+      [
+        "Olympic events",
+        "Team sprint, sprint, keirin, team pursuit, madison, omnium — twelve medal by cycle (Paris 2024: twelve)"
+      ],
+      [
+        "Speed reality",
+        "Elite sprinters exceed 70-80 km/h; world records in team pursuit approach 55 km/h average for 4 km"
+      ],
+      [
+        "Gear & cadence",
+        "Fixed gears around 94-100 inches (sprinters larger); cadences above 150 rpm in sprints"
+      ]
+    ],
+    "history": [
+      [
+        "1870s-1890s",
+        "The velodrome boom: six-day races, wooden ovals, and cycling's first professional superstars."
+      ],
+      [
+        "1896-1950s",
+        "Olympic track cycling from the first Games; the match sprint's theater becomes a fixture."
+      ],
+      [
+        "1950s-1980s",
+        "The six-day circuit's European heyday; pursuit's technical evolution; aerodynamic experimentation begins."
+      ],
+      [
+        "1990s-2000s",
+        "Graeme Obree's homebuilt records and the superman position (then banned); Britain's Olympic investment era begins."
+      ],
+      [
+        "2000s-2010s",
+        "Hoy, Pendleton, Kenny, and Trott's gold rush; the team pursuit's record-breaking progression under Dave Brailsford's marginal gains."
+      ],
+      [
+        "2020s",
+        "Harrie Lavreysen's sprint dynasty and the Dutch machine; track's Olympic program stabilized; para-cycling track grows alongside."
+      ]
+    ],
+    "formats": [
+      [
+        "Sprint events",
+        "Team sprint (3 riders, 3 laps relay), match sprint (1v1 best of 3), keirin (paced by a derny motorcycle) — pure power."
+      ],
+      [
+        "Endurance events",
+        "Team pursuit (4 riders, 4 km), madison (2 riders, relay sprints), omnium (4-race all-rounder), elimination race."
+      ],
+      [
+        "Points & scratch races",
+        "Mass-start races scored by sprints (points) or pure first-across (scratch)."
+      ],
+      [
+        "Six-day racing",
+        "The heritage format: six nights of continuous mixed events with a partner — track cycling's festival."
+      ]
+    ],
+    "skills": [
+      [
+        "Track craft",
+        "Banking, lines (the black measurement line, blue stayer's line), and reading the track's short-cuts.",
+        "Velodrome accreditation sessions (the mandatory beginner courses); line discipline until automatic; banking confidence built with a coach."
+      ],
+      [
+        "Standing starts",
+        "The gate launch: explosive first pedal strokes that set sprint events' tone.",
+        "Start practice (10 per session); gate work with resistance; power development (squats, heavy gear starts)."
+      ],
+      [
+        "Match sprint tactics",
+        "The cat-and-mouse: slow riding, track stands, and the sudden launch — track cycling's chess.",
+        "Match-sprint practice with a coach; track-stand sessions; watch-and-learn film study of six-day champions."
+      ],
+      [
+        "Pursuit pacing",
+        "The four-kilometer effort: even power, smooth changes (the drop-back-and-swing relay), and the aero tuck.",
+        "Pursuit practice with split timing; change technique drilled until seamless; pacing by power targets."
+      ],
+      [
+        "Madison craft",
+        "The relay chaos: slingshot changes every lap-and-a-half, race-reading, and the sprint-jumping game.",
+        "Madison sessions with a partner; change timing drills; points-race simulations."
+      ],
+      [
+        "Power & sprint conditioning",
+        "The gym's role: heavy squats and jump work build the 2,000-watt engine sprints demand.",
+        "Gym blocks (squats, cleans) in winter; on-track sprint sessions with power measurement; leg-speed work (high cadence, low gear)."
+      ]
+    ],
+    "rules": [
+      "Fixed gear, no brakes: the fundamental law — riders slow by resisting the pedals.",
+      "Match sprint: best of three heats; the slow-riding phase is legal (track stands included); relegation for forcing opponents up the banking.",
+      "Team pursuit: two teams start opposite; caught the faster team wins by catching (or by time); the drop-and-swing relay must third rider sets the time (the front rider pulls off).",
+      "Keirin: riders pace behind a derny (motorized bike) building to 50 km/h before the sprint's free-for-all.",
+      "Madison: pairs relay with slingshot changes; sprints every 20 laps score points; laps gained subtract 20 points.",
+      "Omnium: four events (scratch, tempo, elimination, points) scored cumulatively — track cycling's decathlon.",
+      "Equipment law: UCI-approved frames and wheels; spoke counts and disc wheels by event; handlebar extensions banned in mass-start events."
+    ],
+    "equipment": [
+      [
+        "Track bike",
+        "Fixed-gear frame, no brakes, steep geometry: velodrome hire for beginners ($20-40 per session), own bike $1,500-4,000."
+      ],
+      [
+        "Disc wheel & aero kit",
+        "The pursuit and sprint arsenal: disc rear wheels, aero bars (pursuit only), skinsuits ($500-2,000)."
+      ],
+      [
+        "Shoes & pedals",
+        "Track-specific stiff soles and pedals ($150-250)."
+      ],
+      [
+        "Gloves & kit",
+        "Skinsuits for racing, mitts for the fixed-gear's demands."
+      ],
+      [
+        "Home trainer & gym",
+        "Rollers for track-specific leg speed, plus the squat rack — sprint cycling is a gym sport too."
+      ]
+    ],
+    "training": [
+      "Gym + track: the sprint events demand maximal strength (squats, cleans) converted to power on the banking.",
+      "Endurance riders: long road rides build the base; track sessions sharpen the top end.",
+      "Track sessions weekly: accreditation, skills, then race-specific efforts (starts, pursuit splits, sprint battles).",
+      "Leg speed work: high-cadence roller sessions and small-gear spinning build the 150-rpm capacity.",
+      "Race simulation: omnium-style multiple-event days train the recovery between formats."
+    ],
+    "pathway": [
+      [
+        "Velodrome accreditation",
+        "The beginner sessions every track requires: safety, lines, and basic drills."
+      ],
+      [
+        "Local track leagues",
+        "Weekly racing at regional velodromes — cheap, fast, addictive."
+      ],
+      [
+        "National championships & talent squads",
+        "National titles and federation talent programs (the British model)."
+      ],
+      [
+        "UCI track circuit",
+        "Nations Cup events and world championships by discipline."
+      ],
+      [
+        "Olympic Games & Six Days",
+        "Track's twin summits: the Games' twelve events and the six-day circuit's heritage."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic track cycling",
+        "Twelve events since the modern consolidation: the sport's four-yearly peak."
+      ],
+      [
+        "UCI Track World Championships",
+        "Annual across all events — the rainbow jerseys of the banking."
+      ],
+      [
+        "Nations Cup series",
+        "The qualification circuit for Olympic slots."
+      ],
+      [
+        "Six-day circuit",
+        "Rotterdam, Gent, Berlin's heritage festivals — the sport's party branch."
+      ],
+      [
+        "National & league racing",
+        "Every velodrome's weekly league — where every champion started."
+      ]
+    ],
+    "legends": [
+      [
+        "Chris Hoy",
+        "Great Britain — six Olympic golds (sprint and keirin); the sprint era's benchmark."
+      ],
+      [
+        "Anna Meares",
+        "Australia — two Olympic golds across four Games; sprint cycling's iron woman."
+      ],
+      [
+        "Bradley Wiggins",
+        "Great Britain — pursuit champion turned Tour winner; the endurance-to-road bridge."
+      ],
+      [
+        "Harrie Lavreysen",
+        "Netherlands — the current sprint king: multiple world titles and Olympic golds."
+      ],
+      [
+        "Graeme Obree",
+        "Scotland — the homebuilt legend: hour records on a washing-machine-parts bike and two world titles."
+      ]
+    ],
+    "getting_started": [
+      "Book a velodrome beginner session: bikes are lent, coaches are present, and the first hour converts most people.",
+      "Learn to ride fixed gear on the road first (or on the track's apron): the pedals teach honesty.",
+      "Buy track shoes before a track bike: the shoe-pedal interface matters most.",
+      "Ride the weekly league once accredited: track racing's learning curve is fast and fun.",
+      "Add gym strength if you chase sprints: squats are track cycling's secret weapon.",
+      "Watch one madison race: track cycling's most chaotic, beautiful format."
+    ],
+    "glossary": [
+      [
+        "Banking",
+        "The velodrome's corners — 42° of fear that becomes free speed."
+      ],
+      [
+        "Fixed gear",
+        "One gear, no coasting, no brakes: the track's law."
+      ],
+      [
+        "Derny",
+        "The pacing motorcycle of the keirin."
+      ],
+      [
+        "Track stand",
+        "The sprint's frozen standoff — balance as psychological warfare."
+      ],
+      [
+        "Slingshot",
+        "The madison's relay change: the incoming rider's hand-sling into speed."
+      ],
+      [
+        "Pursuit line",
+        "The measured black line — the track's meter rule."
+      ],
+      [
+        "Omnium",
+        "The four-event all-rounder championship."
+      ],
+      [
+        "Drop-and-swing",
+        "The pursuit relay's change technique."
+      ],
+      [
+        "Repechage",
+        "The second-chance rounds of sprint brackets."
+      ],
+      [
+        "Six-day",
+        "The heritage festival format: six nights of racing with a partner."
+      ]
+    ],
+    "related": [
+      "road-cycling",
+      "bmx-racing",
+      "short-track-speed-skating",
+      "cyclocross",
+      "mountain-biking"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "mountain-biking",
+    "name": "Mountain Biking",
+    "category": "cycling-motor",
+    "glyph": "🚵",
+    "tagline": "Gravity's playground — rock gardens, singletrack, and the sport born on Marin's slopes.",
+    "origin": "USA (Marin County) · 1970s klunker era · UCI worlds 1990",
+    "tags": [
+      "Off-road",
+      "Olympic XC",
+      "Downhill & enduro",
+      "Trail culture"
+    ],
+    "overview": [
+      "Mountain biking races and rides off-road: cross-country (XC) Olympic laps on climbs and singletrack, downhill's gravity-fed runs against the clock, enduro's stage-race format mixing both, and the freeride/trail culture that built the sport's soul. Born when 1970s Marin County riders bombed fire roads on beach-cruiser 'klunkers', it became an Olympic sport (XC, Atlanta 1996) and the most participatory branch of cycling — millions ride trails that exist because mountain bikers built them.",
+      "The UCI governs the elite disciplines (world championships since 1990), with Nino Schurter's XC dynasty, Rachel Atherton and Greg Minnaar's downhill eras, and the Enduro World Series defining the competitive map. Beneath the elite runs the sport's real economy: trail associations, bike parks, and a gear industry (full-suspension, dropper posts, tubeless tires) that rewrites itself every few years.",
+      "Newcomers should start with a hardtail and local green trails: mountain biking's entry is a skill ladder (body position, braking, cornering) learned by riding, and the community's group-ride culture welcomes every level. Respect trail etiquette (don't skid, yield correctly) and wear the helmet — the sport's one non-negotiable."
+    ],
+    "facts": [
+      [
+        "Founding era",
+        "1970s — Marin County's Repack downhill races on modified cruisers (Gary Fisher, Joe Breeze, the klunker era); first purpose-built MTB (Breeze's 1977-78 designs)"
+      ],
+      [
+        "Governing body",
+        "UCI (world championships since 1990; World Cups in XC and downhill); Enduro World Series (now EDR) for enduro"
+      ],
+      [
+        "Olympic status",
+        "Cross-country Olympic (XCO) since Atlanta 1996; short-track XC added Tokyo 2020-era; marathon XC at worlds"
+      ],
+      [
+        "Disciplines",
+        "XCO (cross-country olympic), downhill (DHI), enduro (EDR), marathon, four-cross, pumptrack; freeride and slopestyle events"
+      ],
+      [
+        "The bike",
+        "Full-suspension (120-170 mm travel by discipline), 29-inch wheels dominant, dropper posts standard, tubeless tires"
+      ],
+      [
+        "Scale",
+        "One of cycling's largest participation bases; trail networks worldwide; bike parks from Whistler to Finale Ligure"
+      ]
+    ],
+    "history": [
+      [
+        "1970s",
+        "Repack races down Marin's fire roads; the purpose-built mountain bike is born (Breeze, Fisher, Kelly's early frames)."
+      ],
+      [
+        "1980s",
+        "The industry explodes: Specialized Stumpjumper (1981) mass-produces the category; NORBA racing organizes."
+      ],
+      [
+        "1990-1996",
+        "UCI world championships begin (1990); XC's Olympic debut (Atlanta 1996); downhill's World Cup circuit matures."
+      ],
+      [
+        "2000s",
+        "Suspension and wheel-size revolutions; 29ers arrive; the Enduro World Series founds (2013) and reshapes racing."
+      ],
+      [
+        "2010s-2020s",
+        "Dropper posts and geometry revolution; E-bikes create a parallel market; short-track XC's Olympic addition and gravel's cousin boom."
+      ]
+    ],
+    "formats": [
+      [
+        "Cross-country (XCO)",
+        "Olympic laps of 4-6 km: climbs, singletrack, and technical features against the against the field."
+      ],
+      [
+        "Downhill (DHI)",
+        "Gravity runs of 2-3 km at world-cup venues: full-face helmets, 200 mm travel bikes, and the sport's most dangerous theater."
+      ],
+      [
+        "Enduro (EDR)",
+        "Multi-stage races: timed descents, untimed transfers — the all-rounder's format."
+      ],
+      [
+        "Marathon & ultra",
+        "Point-to-point endurance events (50-160 km): the sport's aerobic branch."
+      ],
+      [
+        "Freeride & slopestyle",
+        "Judged big-mountain lines and jump competitions — the sport's aerial circus."
+      ]
+    ],
+    "skills": [
+      [
+        "Body position & the attack position",
+        "Level pedals, unweighted feet, eyes ahead: the neutral platform every skill builds on.",
+        "Flat-parking drills (body position laps); attack-position holds over obstacles; video from the side monthly."
+      ],
+      [
+        "Braking & traction",
+        "One-finger braking, weight center, and the front brake's honest 70%: traction is the sport's physics.",
+        "Braking drills (emergency stops both wheels); rear-brake slides on gravel (controlled); front-brake confidence circuits."
+      ],
+      [
+        "Cornering",
+        "Lean the bike, not just the body: outside-foot weighting, look-through-exit, and berm confidence.",
+        "Corner drills (figure-eights, one-cone circles); berm sessions at a bike park; speed built in increments with the same corner."
+      ],
+      [
+        "Climbing & power",
+        "XC's engine: seated rhythm, traction management, and pacing by effort on steep grades.",
+        "Hill repeats on dirt; cadence discipline; strength work (squats, deadlifts) off the bike."
+      ],
+      [
+        "Technical riding",
+        "Rock gardens, roots, and drops: the line-choice eye and the suspension's active use.",
+        "Skills courses and coaching sessions; drop progressions (small to large); rock-garden laps repeated deliberately."
+      ],
+      [
+        "Enduro & downhill race craft",
+        "Pacing the stages, walking course inspection, and the run's mental script.",
+        "Stage-simulation runs; course-walk discipline; helmet-cam review of lines."
+      ]
+    ],
+    "rules": [
+      "Racing rules by discipline: XCO mass-start laps (fixed laps by category), DHI timed runs (two runs, best counts at most by event), EDR cumulative stage times.",
+      "Course and equipment: UCI specs on travel, equipment by discipline; full-face helmets mandatory in downhill; XC uses open-helmet rules by event.",
+      [
+        "Trail etiquette (the sport's real law): yield to uphill riders and hikers, don't skid (it erodes), stay on trails, and leave no trace — the IMBA code every rider should know."
+      ],
+      "Groups and passing: call your passes, ride in control, and respect closures — access depends on behavior.",
+      "E-bike classes: separate categories (pedal-assist limits by region); racing integration evolving.",
+      "Anti-doping applies at UCI level; insurance and event licensing govern mass-participation events.",
+      "Bike park rules: feature difficulty ratings honored, one rider per jump-line etiquette."
+    ],
+    "equipment": [
+      [
+        "Trail/XC bike",
+        "Hardtail to start ($800-1,800) or full-suspension trail bike (120-140 mm, $2,000-4,500)."
+      ],
+      [
+        "Helmet",
+        "Quality open-face for trail/XC; full-face for park and downhill ($60-300) — the one non-negotiable."
+      ],
+      [
+        "Protection & kit",
+        "Gloves, knee pads (increasingly standard), eye protection; hydration pack or bottles."
+      ],
+      [
+        "Maintenance",
+        "Tubeless setup, chain tools, and shock pumps — the sport's weekend ritual ($100-200 kit)."
+      ],
+      [
+        "Skills coaching",
+        "A day with a qualified coach teaches more than a year of guessing ($80-200) — the best upgrade money buys."
+      ]
+    ],
+    "training": [
+      "Ride twice weekly minimum: skills sessions (drills) and endurance rides (distance) balanced.",
+      "Build the engine off-road: hill repeats and intervals on trails beat road boredom for MTB fitness.",
+      "Strength and core: squats, deadlifts, and planks — the bike's platform is the body.",
+      "Skills coaching annually: one professional session resets bad habits before they calcify.",
+      "Practice falling deliberately (skills courses teach it): the sport's confidence is built by managed exposure."
+    ],
+    "pathway": [
+      [
+        "Local trails & group rides",
+        "Green-to-blue trails and club rides: the sport's social base."
+      ],
+      [
+        "Skills coaching & progression",
+        "Structured lessons and bike park sessions."
+      ],
+      [
+        "Local racing",
+        "Regional XC series, enduro events, and super-grassroots formats."
+      ],
+      [
+        "National championships & UCI races",
+        "National titles and the world cup feeder events."
+      ],
+      [
+        "World Cup & EDR elite",
+        "The XCO and downhill world cups, enduro world series — the sport's summits."
+      ]
+    ],
+    "events": [
+      [
+        "UCI Mountain Bike World Cups",
+        "XCO and downhill's world cup circuits (Nove Mesto, Val di Sole, Les Gets)."
+      ],
+      [
+        "UCI World Championships",
+        "The rainbow jerseys across all disciplines, annual."
+      ],
+      [
+        "Olympic XCO",
+        "Since Atlanta 1996: the sport's four-yearly summit."
+      ],
+      [
+        "Enduro World Series (EDR)",
+        "The global enduro tour's stage races."
+      ],
+      [
+        "Marathon & mass events",
+        "Cape Epic's stage-race legend and every region's marathon series — the sport's participatory heart."
+      ]
+    ],
+    "legends": [
+      [
+        "Gary Fisher & Joe Breeze",
+        "USA — the founding fathers: the klunker-to-industry bridge that invented the bike."
+      ],
+      [
+        "Nino Schurter",
+        "Switzerland — the greatest XC racer: multiple world titles and Olympic golds across three eras."
+      ],
+      [
+        "Greg Minnaar",
+        "South Africa — the downhill GOAT: world cup wins across two decades and multiple world titles."
+      ],
+      [
+        "Rachel Atherton",
+        "Great Britain — downhill's dominant champion: multiple world titles and perfect seasons."
+      ],
+      [
+        "Jolanda Neff & Pauline Ferrand-Prévot",
+        "Switzerland/France — the women's XC era's champions (Olympic golds and world titles between them)."
+      ]
+    ],
+    "getting_started": [
+      "Buy a hardtail and a good helmet first; upgrade to full suspension when you know what you want it for.",
+      "Take one skills coaching session: body position and braking drills change everything.",
+      "Ride green trails until blue feels easy: the progression is honest and fast.",
+      "Learn trail etiquette immediately: the sport's access depends on every rider's behavior.",
+      "Join a group ride: lines, pace, and confidence transfer from watching better riders.",
+      "Try one local race (any format): MTB racing's community is famously un-snobby."
+    ],
+    "glossary": [
+      [
+        "Singletrack",
+        "The trail-width soul of the sport."
+      ],
+      [
+        "Rock garden",
+        "A technical section of rocks and lines."
+      ],
+      [
+        "Attack position",
+        "The ready stance: level pedals, low center, eyes ahead."
+      ],
+      [
+        "Dropper post",
+        "The seatpost that drops for descents — the modern era's gift."
+      ],
+      [
+        "Berm",
+        "The banked corner of bike parks and trails."
+      ],
+      [
+        "Send it",
+        "The cultural commandment: commit fully to the feature."
+      ],
+      [
+        "Wash out",
+        "Losing the front wheel — every rider's tuition."
+      ],
+      [
+        "Enduro transfer",
+        "The untimed climb between timed stages."
+      ],
+      [
+        "Klunker",
+        "The 1970s beach cruiser that started it all."
+      ],
+      [
+        "'Widowmaker'",
+        "A trail's affectionate warning name; every network has one."
+      ]
+    ],
+    "related": [
+      "road-cycling",
+      "cyclocross",
+      "bmx-racing",
+      "bmx-freestyle",
+      "sport-climbing"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "cyclocross",
+    "name": "Cyclocross",
+    "category": "cycling-motor",
+    "glyph": "🍂",
+    "tagline": "The mud, the barriers, the beer handups — cycling's off-season festival of suffering.",
+    "origin": "Belgium/France · 1900s · world championships 1950",
+    "tags": [
+      "Off-road",
+      "Winter sport",
+      "Barriers & run-ups",
+      "Belgian soul"
+    ],
+    "overview": [
+      "Cyclocross races road-style bikes with knobby tires over short laps (45-60 minutes elite) of mixed terrain: grass, mud, sand pits, stairs, and the sport's signature wooden barrier sections that force dismount-and-carry. It is cycling's winter sport — October through January, mostly in Flanders' rain — and its atmosphere (music, beer handups, mud-encrusted everything) makes it the most festival-like discipline in bike racing.",
+      "Born from Belgian and French road riders racing between villages in winter (the first French championships 1902-era, world championships from 1950), cyclocross built its own religion in Flanders: the Koppenbergcross, Superprestige and World Cup series, and the sport's strange, wonderful ritual where spectators hand riders beer and frites mid-race. The modern era belongs to Mathieu van der Poel and Wout van Aert's rivalry — two generational talents who grew up in 'cross mud and conquered road racing.",
+      "Newcomers can start with any bike that takes knobby tires: local 'cross races welcome everyone, and the skills (dismounting, shouldering, remounting, sand riding) are learnable in a season. The sport's entry cost is low, its community warm, and its winter fitness is the secret weapon of every road cyclist who races 'cross."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "Early 1900s France/Belgium — road riders' winter games; first world championships 1950 (Paris)"
+      ],
+      [
+        "Governing body",
+        "UCI cyclo-cross commission: World Cup, Superprestige, X²O Badkamers Trophy (Belgium's series)"
+      ],
+      [
+        "Course format",
+        "Laps of 2.5-3.5 km, 45-60 min elite men, 40-50 min women; barriers (4 consecutive), stairs, sand pits, run-ups"
+      ],
+      [
+        "The season",
+        "October-January: the world championships in late January/early February cap the winter"
+      ],
+      [
+        "Equipment",
+        "'Cross bikes: drop bars, 33 mm tire max (UCI), disc brakes; road riders race on their road bikes with wider tires"
+      ],
+      [
+        "Belgian soul",
+        "The sport's heartland: Flanders' 100+ races a winter and the Koppenbergcross's famous hill"
+      ]
+    ],
+    "history": [
+      [
+        "1900s-1950",
+        "Octave Lapize-era French riders race cross-country in winter; the first worlds (1950) crown Jean the early champions."
+      ],
+      [
+        "1950s-1980s",
+        "The Belgian golden eras: Eric De Vlaeminck's consecutive titles, Albert Zweifel's Swiss dynasty."
+      ],
+      [
+        "1990s-2000s",
+        "Bart Wellens, Sven Nys' dominance era; the sport professionalizes with the World Cup's growth."
+      ],
+      [
+        "2010s-2020s",
+        "The van der Poel - van Aert rivalry lifts the sport's global profile; Wout's world titles and Mathieu's shows; women's fields grow to full parity on the calendar."
+      ]
+    ],
+    "formats": [
+      [
+        "UCI World Cup",
+        "The global series (Tabor, Koksijde, Namur): elite racing's spine."
+      ],
+      [
+        "Superprestige & X²O Trophy",
+        "Belgium's classic series: the sport's weekly heartbeat."
+      ],
+      [
+        "World championships",
+        "Late January: the rainbow jersey on mud."
+      ],
+      [
+        "Local leagues & winter series",
+        "Every region's Saturday races: the sport's entry point and its soul."
+      ]
+    ],
+    "skills": [
+      [
+        "Dismount & remount",
+        "The barrier technique: unclip, step through, shoulder the bike, remount at speed without breaking rhythm.",
+        "Barrier drills (10 passes per session); remount practice (step-on-the-pedal, not hop); shouldering technique for run-ups."
+      ],
+      [
+        "Running with the bike",
+        "The carry: bike on shoulder for stairs and steep run-ups, pushed by the saddle for barriers — efficiency over heroics.",
+        "Run-up repeats (find stairs); shouldered-carry intervals; shoe choice and cleat management."
+      ],
+      [
+        "Sand riding",
+        "The pit's technique: momentum, low high cadence, weight back, and committed lines.",
+        "Sand practice at a beach or pit; line memorization; momentum discipline (slow is sunk)."
+      ],
+      [
+        "Cornering in mud",
+        "The slide: front-weight management, feathered brakes, and trusting the knob.",
+        "Grass corner drills; mud sessions in bad weather (deliberately); tire pressure experiments logged."
+      ],
+      [
+        "Race pacing",
+        "45 minutes of intervals with obstacles: red-line efforts between technical sections.",
+        "Interval sessions matching race effort; lap-time discipline; rehearsing the start sprint."
+      ],
+      [
+        "Bike handling economy",
+        "The total package: mounting, carrying, cornering, and pedaling as one continuous flow — the champions' signature.",
+        "Full-course simulations; video comparison with elite lines; flow over speed as the training cue."
+      ]
+    ],
+    "rules": [
+      "Course: laps with marked barriers (four wooden boards), sections run-ups and descents; pits for bike exchanges (equipment changes legal in designated zones).",
+      "Duration: elite men 60 min, women 50 min (plus one by rules); juniors and amateurs shorter.",
+      "Bikes: UCI rules — drop bars required, tires max 33 mm, no bar additions; road bikes legal at local level.",
+      "Rider conduct: cutting the course, shortcuts, and unsporting behavior penalized; being lapped rules vary by event.",
+      "Pits and mechanicals: bike swaps in designated pits; repairs on course allowed with the bike on foot only.",
+      "Categories by age and gender; masters' racing is huge in Belgium and the US.",
+      "Winter conditions are the sport's identity: races run in rain, snow, and frost — no fair-weather clause."
+    ],
+    "equipment": [
+      [
+        "'Cross bike",
+        "Drop-bar bike with clearance for 33+ mm knobbies ($1,200-3,500); many riders use their road bike with winter wheels."
+      ],
+      [
+        "Tires",
+        "The mud-reading toolkit: tread patterns by condition ($50-80 each; bring two wheelsets by weather)."
+      ],
+      [
+        "Pedals & shoes",
+        "MTB-style two-bolt pedals and 'cross shoes (runnable, grippy): $150-300 — the sport's specific kit."
+      ],
+      [
+        "Barriers (training)",
+        "A set of practice barriers for the garden or park ($80-200 or DIY)."
+      ],
+      [
+        "Winter kit",
+        "Deep-embrocation, gloves, and layers — Belgian winters do not negotiate."
+      ]
+    ],
+    "training": [
+      "Practice the skills weekly: barriers, sand, and remounts are technique sports within the sport.",
+      "Race-pace intervals: 45-60 minutes of varied intensity matches the format exactly.",
+      "Run regularly: the barriers and run-ups demand running legs most roadies lack.",
+      "Race every weekend October-January: 'cross fitness is built by racing more than by training.",
+      "Ride in bad weather on purpose: the champions train in exactly the conditions races are held in."
+    ],
+    "pathway": [
+      [
+        "Local winter series",
+        "Saturday leagues welcome every bike and every level — the sport's warm front door."
+      ],
+      [
+        "Regional championships",
+        "Regional titles and the national series' feeder races."
+      ],
+      [
+        "National championships",
+        "National titles by category (elite, U23, masters)."
+      ],
+      [
+        "UCI World Cup & majors",
+        "The elite circuit: European stops and the world championship in January."
+      ],
+      [
+        "Belgium's winter",
+        "The Superprestige and X²O series: cyclocross's heartland and its true summit."
+      ]
+    ],
+    "events": [
+      [
+        "UCI Cyclo-cross World Championships",
+        "Late January: the rainbow jersey decided on mud."
+      ],
+      [
+        "UCI World Cup series",
+        "The global elite series across Europe (and now US stops)."
+      ],
+      [
+        "Superprestige & X²O Trophy",
+        "Belgium's twin series: the sport's weekly theater."
+      ],
+      [
+        "Koppenbergcross & the classics",
+        "The famous single races that define the calendar."
+      ],
+      [
+        "Local leagues worldwide",
+        "Every winter Saturday: the sport's true base."
+      ]
+    ],
+    "legends": [
+      [
+        "Eric De Vlaeminck",
+        "Belgium — four consecutive world titles (1966-1973 four consecutive professional titles): 'cross royalty."
+      ],
+      [
+        "Sven Nys",
+        "Belgium — the sport's greatest professional: two world titles and a decade of dominance."
+      ],
+      [
+        "Wout van Aert",
+        "Belgium — three world titles (2016-2018 era) before conquering road cycling's classics."
+      ],
+      [
+        "Mathieu van der Poel",
+        "Netherlands — multiple world titles across 'cross, road, and MTB: the most complete cyclist of his generation."
+      ],
+      [
+        "Pauline Ferrand-Prévot & the women's greats",
+        "France — world titles across three disciplines; and Sanne Cant's decade of Belgian dominance."
+      ]
+    ],
+    "getting_started": [
+      "Find your local winter series: any drop-bar bike with knobby tires is legal at most local races.",
+      "Practice dismounts and remounts in a park before your first race: ten sessions make it automatic.",
+      "Buy 'cross shoes and two-bolt pedals: runnability matters more than weight.",
+      "Race every weekend of the season: 'cross fitness comes from racing.",
+      "Learn tire pressure by feel: lower pressure and wider tires fix most mud problems.",
+      "Enjoy the culture: the beer handups are optional; the mud is not."
+    ],
+    "glossary": [
+      [
+        "Barriers",
+        "The four wooden boards every lap demands you carry the bike over."
+      ],
+      [
+        "Run-up",
+        "The stairs or bank ridden until impossible, then shouldered."
+      ],
+      [
+        "Sand pit",
+        "The beach section: momentum or sink."
+      ],
+      [
+        "Remount",
+        "The art of stepping back on at speed without breaking flow."
+      ],
+      [
+        "Shoulder carry",
+        "Bike on the shoulder for the steep stuff."
+      ],
+      [
+        "Pit",
+        "The equipment-exchange zone: a second bike is 'cross luxury."
+      ],
+      [
+        "Handups",
+        "The spectators' beer and frites offered mid-race — the sport's famous culture."
+      ],
+      [
+        "Belgian winter",
+        "The weather condition the sport was built for."
+      ],
+      [
+        "Koppenbergcross",
+        "The season's iconic race on the road classic's famous cobbled hill."
+      ],
+      [
+        "'Krometer' no; 'Wattengooier'",
+        "The Dutch-Belgian affectionate name for the power throwers of the sport."
+      ]
+    ],
+    "related": [
+      "road-cycling",
+      "mountain-biking",
+      "cross-country-skiing",
+      "track-and-field",
+      "orienteering"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "bmx-racing",
+    "name": "BMX Racing",
+    "category": "cycling-motor",
+    "glyph": "🚲",
+    "tagline": "Eight riders, one hill, forty seconds — the Olympic sprint on two small wheels.",
+    "origin": "USA (California) · early 1970s · Olympic 2008",
+    "tags": [
+      "Olympic",
+      "Gate sprints",
+      "20-inch wheels",
+      "Supercross tracks"
+    ],
+    "overview": [
+      "BMX racing sends eight riders down a starting gate onto a 350-450 meter track of jumps, rollers, and bermed turns — a 30-45 second sprint of pedaling, pumping, and positioning won by the front wheel at the line. Born when 1970s California kids imitated motocross on their Sting-Rays, it became an Olympic sport in Beijing 2008 and runs a professional world under the UCI with a world championship every year.",
+      "The sport's modern structure: USA BMX's national circuit (the sport's deepest domestic series), the UCI's world cups and worlds, and the Olympic Games' gate. The skills are brutally specific — gate timing, manualing (riding on the back wheel over rollers), and the first-straight battle for the inside line — and the athletes are sprinters: 1,500+ watt efforts with full-body bike control.",
+      "Newcomers should start at a local track's beginner day: tracks lend or rent bikes, the learning curve is gate-to-gate fun, and the sport's family culture (it began as a kids' sport and keeps its welcome) makes the entry easy. Learn to pump before you learn to jump: the track's rhythm is the actual skill."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "Early 1970s — California kids race Sting-Rays on dirt (Scot the Magazine era: Bicycle Motocross named by Scot commonly credited to Breithaupt's NBA-era organizing, 1970s)"
+      ],
+      [
+        "Governing body",
+        "UCI BMX racing commission (world championships annually); USA BMX runs the domestic giant; Olympic since Beijing 2008"
+      ],
+      [
+        "The track",
+        "350-450 m, 5 m start hill (supercross spec), pro sections, turns by design; 8 riders per moto"
+      ],
+      [
+        "The gate",
+        "The starting gate's cadence: 'riders watch the lights' — random-hold timing kills anticipation"
+      ],
+      [
+        "Olympic format",
+        "Moto heats into knockouts to the final: eight riders, one 40-second race for medals"
+      ],
+      [
+        "Wheels & bikes",
+        "20-inch wheels (class and pro sizes), chromoly or carbon frames, single speed ~44-55T gearing"
+      ]
+    ],
+    "history": [
+      [
+        "1970s",
+        "The garage-era boom: Schwinn Sting-Rays, backyard tracks, and the first organizations (NBA, NBL, ABA's founding 1977)."
+      ],
+      [
+        "1980s",
+        "The boom era: freestyle splits off, racing professionalizes (the ABA/NBL nationals), and the bikes' technology matures."
+      ],
+      [
+        "1990s-2000s",
+        "Olympic lobbying succeeds: Beijing 2008 includes BMX racing; the supercross track spec (5 m hills) arrives."
+      ],
+      [
+        "2008-2016",
+        "The Olympic era: Maris Strombergs' double golds (2008, 2012), Connor Fields' rise; the sport's national programs professionalize."
+      ],
+      [
+        "2020s",
+        "Bethany Shriever's shock Tokyo gold (2021, crowdfunded); Joris Daudet and the French machine; the sport's junior pipelines thrive."
+      ]
+    ],
+    "formats": [
+      [
+        "Moto racing",
+        "The heat structure: motos (three heats scored) into knockouts to the main — local to Olympic, same structure."
+      ],
+      [
+        "UCI world championships & world cups",
+        "The annual worlds and the supercross world cup series (5 m hill tracks)."
+      ],
+      [
+        "USA BMX nationals",
+        "The domestic giant: hundreds of races a year across the US."
+      ],
+      [
+        "Age group & cruiser classes",
+        "The sport's famous breadth: 5-year-olds to 50+ masters, 20-inch and 24-inch cruiser classes."
+      ]
+    ],
+    "skills": [
+      [
+        "Gate start",
+        "The race's first decider: explosive first three pedals, timing the gate's drop, and the snap into the first straight.",
+        "Gate practice (20 starts per session); reaction timing with the cadence; sprint power (track stands into efforts)."
+      ],
+      [
+        "Pumping",
+        "The free speed: driving through rollers and jumps with legs, not pedals — the track's rhythm skill.",
+        "Pump-track sessions (the best training in the sport); roller pumping on local tracks; timing drills till automatic."
+      ],
+      [
+        "Manualing",
+        "Riding on the back wheel over features: keeps momentum where pedaling would bog.",
+        "Manual drills on flat ground then rollers; balance-point practice; track-specific manual lines."
+      ],
+      [
+        "Jumps & pro sections",
+        "The big features: takeoff timing, in-air stability, and landing with drive.",
+        "Progressive jumps (small table-tops first); air awareness on foam pits where available; confidence built in increments."
+      ],
+      [
+        "First-straight positioning",
+        "The war for the inside line: elbows, angles, and the legal art of holding your lane.",
+        "Group gate practice; line-reading on local tracks; contact confidence in controlled drills."
+      ],
+      [
+        "Sprint conditioning",
+        "40 seconds at threshold-plus: BMX's engine is alactic power with repeat-effort capacity.",
+        "Sprint intervals (30 s on/90 s off); gym strength (squats, jumps); moto simulations with full recovery."
+      ]
+    ],
+    "rules": [
+      "Motos: eight riders per gate; three motos scored by finish places into mains (by class size); knockouts at championship events.",
+      "The gate: random-hold start (no rhythm gaming); false gate violations restart the moto.",
+      "Track conduct: staying on the track, no cutting course, and downed-rider protocols; interference can draw relegation or DQ.",
+      "Equipment: 20-inch wheels (pro classes), helmets full-face at by rules, gloves, long sleeves/pants by class rules; bikes inspected.",
+      "Age and skill classes: novice, intermediate, expert (the US ladder), plus age groups to 50+ and cruiser (24-inch) classes.",
+      "UCI world cup and worlds: license requirements, team structures, and the Olympic quota path through rankings.",
+      "Safety culture: track walks before racing, obstacle flag rules, and the sport's family-first etiquette."
+    ],
+    "equipment": [
+      [
+        "Race bike",
+        "20-inch BMX race bike (chromoly or carbon): $600-2,500 for honest competitive gear."
+      ],
+      [
+        "Helmet",
+        "Full-face BMX helmet ($80-300): non-negotiable at every track."
+      ],
+      [
+        "Protection",
+        "Gloves, long sleeves, knee and elbow pads by class rules ($80-150)."
+      ],
+      [
+        "Clips (later)",
+        "Clipless pedals once fundamentals are solid ($100-200) — most beginners start flat."
+      ],
+      [
+        "Track membership",
+        "Local track and USA BMX/UCI licenses ($50-150 yearly): the sport's entry fee."
+      ]
+    ],
+    "training": [
+      "Gate starts and sprints: the sport's first currency — practice starts and 30-second sprint intervals weekly.",
+      "Pump tracks as the gym: riding them builds the skill and the legs simultaneously.",
+      "Track time over everything: local practice nights two or three times weekly beat any home workout.",
+      "Gym strength: squats, hip hinges, and jump work for the gate and the first straight.",
+      "Watch one pro main event per week: lines and passing choices teach faster than laps alone."
+    ],
+    "pathway": [
+      [
+        "Local track & novice class",
+        "Beginner days, loaner bikes, and the novice ladder."
+      ],
+      [
+        "District & national racing",
+        "USA BMX district points to national events (or national federations abroad)."
+      ],
+      [
+        "Expert & junior development",
+        "Expert classes, junior devo teams, and camp circuits."
+      ],
+      [
+        "UCI & professional racing",
+        "World cups, world championships, and professional team contracts."
+      ],
+      [
+        "Olympic Games",
+        "Eight-rider finals for gold: the sport's four-yearly summit."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic BMX racing",
+        "Since Beijing 2008: the gate, eight riders, one medal race."
+      ],
+      [
+        "UCI BMX World Championships",
+        "Annual: the rainbow jersey across age classes and elite."
+      ],
+      [
+        "UCI BMX Supercross World Cup",
+        "The 5-meter-hill pro series: the sport's elite circuit."
+      ],
+      [
+        "USA BMX Grand National & nationals",
+        "The domestic giant's season finale and calendar."
+      ],
+      [
+        "Regional & state championships",
+        "The ladder's local legs — where every Olympian began."
+      ]
+    ],
+    "legends": [
+      [
+        "Maris Strombergs",
+        "Latvia — double Olympic gold (2008, 2012): the Machine's era."
+      ],
+      [
+        "Connor Fields",
+        "USA — 2016 Olympic champion and world titles; the American program's standard."
+      ],
+      [
+        "Bethany Shriever",
+        "Great Britain — Tokyo 2021 gold on a self-funded campaign: the sport's modern folk hero."
+      ],
+      [
+        "Joris Daudet & the French machine",
+        "France — world titles and Olympic medals (Daudet's 2024 gold at 33); the deepest program in the sport."
+      ],
+      [
+        "Alise Willoughby",
+        "USA — multiple world titles and Olympic medals across a decade at the top."
+      ]
+    ],
+    "getting_started": [
+      "Find your local track's beginner day: loaner bikes and coaching are standard.",
+      "Learn to pump before you jump: rollers and pump tracks build the sport's real skill.",
+      "Buy a full-face helmet first: every track requires one from lap one.",
+      "Race novice class immediately: the learning happens in motos, not practice laps.",
+      "Add sprints and gym strength once hooked: the gate rewards power.",
+      "Watch one UCI main event: the first-straight battles teach positioning instantly."
+    ],
+    "glossary": [
+      [
+        "Gate",
+        "The starting ramp's hinged door — the sport's moment of truth."
+      ],
+      [
+        "Moto",
+        "A heat race of eight riders."
+      ],
+      [
+        "Roller",
+        "The small rhythm bumps pumped for speed."
+      ],
+      [
+        "Pro section",
+        "The big jumps reserved for faster classes."
+      ],
+      [
+        "Manual",
+        "Riding on the back wheel through features."
+      ],
+      [
+        "Berm",
+        "The banked turn — carry speed or lose the race."
+      ],
+      [
+        "Cruiser",
+        "The 24-inch-wheel class (typically for bigger or older riders)."
+      ],
+      [
+        "Holeshot",
+        "The first turn's lead — worth seconds."
+      ],
+      [
+        "'Pull up'",
+        "The the gate cadence's final command."
+      ],
+      [
+        "Tabletop",
+        "The beginner-friendly jump with a flat top."
+      ]
+    ],
+    "related": [
+      "bmx-freestyle",
+      "mountain-biking",
+      "track-cycling",
+      "road-cycling",
+      "karting"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "bmx-freestyle",
+    "name": "BMX Freestyle",
+    "category": "cycling-motor",
+    "glyph": "🛹",
+    "tagline": "A bike as a paintbrush — parks, streets, and the aerial revolution of two small wheels.",
+    "origin": "USA · 1980s (flatland era) · Olympic 2020",
+    "tags": [
+      "Olympic (park)",
+      "Street & vert",
+      "Judged tricks",
+      "Creative sport"
+    ],
+    "overview": [
+      "BMX freestyle is cycling as creative expression: riders perform tricks — airs, spins, grinds, and flips — judged on difficulty, execution, and style across disciplines. Park (the Olympic format: concrete bowls and quarter pipes in 60-second runs), street (urban architecture as the playground), vert (the 13-foot halfpipe's big air), flatland (ground choreography on flat concrete), and dirt (trails' jump lines) form the family.",
+      "The sport grew from 1980s Southern California (the ramp-and-flatland era of Bob Haro's designs) through the X Games explosion (1995+) and the video-part culture that made riders like Dave Mirra and Ryan Nyquist icons. Olympic park competition arrived at Tokyo 2020 (held 2021), won by Australia's Logan Martin and Great Britain's Charlotte Worthington, and the sport's professional scene now spans contest circuits, video parts, and the Olympics.",
+      "Newcomers should expect a skateboard-culture welcome and a long skill arc: learning to bunny hop, then jump, then grind takes months, and every trick has a progression. Ride parks with a helmet, follow session etiquette (drop-in order), and film everything — freestyle's culture is built on clips."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "1980s — Bob Haro's freestyle designs and the flatland/ramp boom; the American Freestyle Association organizes (1980s)"
+      ],
+      [
+        "Governing body",
+        "UCI BMX freestyle (park Olympic format); World UCI for Olympic qualification; contest circuits (X Games, Simple Session, Vans Rebel Jam lineage)"
+      ],
+      [
+        "Olympic debut",
+        "Tokyo 2020 (park): men's and women's park events; Paris 2024 continued the program"
+      ],
+      [
+        "Disciplines",
+        "Park (Olympic), street, vert, flatland, dirt jumping — five families, one culture"
+      ],
+      [
+        "Judging",
+        "Park runs: 60 seconds, scored on difficulty, amplitude, execution, and style by panels"
+      ],
+      [
+        "Trick vocabulary",
+        "Air tricks (tailwhips, flairs, 1080s), grinds (feeble, crooked), and the flatland dictionary (decade, hitchhiker)"
+      ]
+    ],
+    "history": [
+      [
+        "1980s",
+        "Haro's freestyle bikes, the AFA's contests, flatland's golden era (R.L. Osborn, Mike Dominguez), and the ramps of Southern California."
+      ],
+      [
+        "1990s",
+        "The X Games launch (1995): Dave Mirra's multiple X Games medals, vert's big-air era, and the media economy."
+      ],
+      [
+        "2000s",
+        "Street's rise and the video-part era; the props BMX video culture builds the sport's canon; park concrete booms worldwide."
+      ],
+      [
+        "2010s",
+        "Olympic campaign succeeds (park, Tokyo); competition formats standardize; women's freestyle grows rapidly."
+      ],
+      [
+        "2020s",
+        "Olympic era: Logan Martin and Charlotte Worthington's Tokyo golds; Paris 2024's park program; street's video culture thrives alongside."
+      ]
+    ],
+    "formats": [
+      [
+        "Park (Olympic)",
+        "60-second runs in concrete courses: bowls, quarters, and rails judged by panels."
+      ],
+      [
+        "Street",
+        "Video parts and contest runs through real and built urban terrain — the culture's heart."
+      ],
+      [
+        "Vert",
+        "The 13.5-big halfpipe: airs, spins, and flips at the sport's highest amplitude."
+      ],
+      [
+        "Flatland",
+        "Ground tricks on flat concrete: balance choreography with no ramps at all."
+      ],
+      [
+        "Dirt jumping",
+        "Trail jump lines judged or sessioned: the sport's earthen branch."
+      ]
+    ],
+    "skills": [
+      [
+        "Fundamentals",
+        "Bunny hop, manual, and the fakie (backward riding): freestyle's alphabet.",
+        "Flat-ground drills daily (bunny hop height, manual distance); rolling fakie practice; 180s onto banks."
+      ],
+      [
+        "Air awareness",
+        "Jumping, spinning, and landing: the quarter pipe's grammar built in increments.",
+        "Small-quarter sessions; hop-to-airs progression; foam resi training where available."
+      ],
+      [
+        "Trick progression",
+        "The ladder: tailwhip before flair, 360 before 540 — every trick has a safe path.",
+        "Progression planning (one trick per month); video analysis; coaching at camps and parks."
+      ],
+      [
+        "Grinds & street craft",
+        "Pegs on rails and ledges: feeble, crooked, and icepick grinds — street's technical half.",
+        "Ledge and rail progressions (waxed low ledges first); grind balance drills; speed calibration."
+      ],
+      [
+        "Run-building & style",
+        "The judged format: linking lines through a park with flow, amplitude, and variety.",
+        "Run rehearsals (write the line, ride it); style study of pros' parts; contest-simulation runs."
+      ],
+      [
+        "Falls & resilience",
+        "The sport's tuition: falling technique, protection, and the patience to repeat.",
+        "Protective gear always; controlled-fall practice; session discipline (quit tricks at the right frustration point)."
+      ]
+    ],
+    "rules": [
+      "Park runs: 60 seconds (two best run scores at most events), judged on difficulty, amplitude, execution, variety, and style — no falls in the counted run.",
+      "Olympic format: qualification runs into finals; scoring panels and ranked runs; crash rules by event.",
+      "Street: no formal rules — video parts and contest runs judged by panels or culture.",
+      "Session etiquette: drop-in order (the rider in the air has the landing zone), call your runs, and clear the landing zone — the parks' real law.",
+      "Equipment: 20-inch freestyle bikes with pegs, helmets mandatory, pads by venue.",
+      "Judging panels: professional riders score at majors; transparency improving through the Olympic era.",
+      "Safety: helmets everywhere, full-face and pads at big air sessions — the sport's survival rule."
+    ],
+    "equipment": [
+      [
+        "Freestyle bike",
+        "20-inch BMX with 4130 chromoly frame, pegs, and brakes-brakeless or brake setup by style: $400-1,500."
+      ],
+      [
+        "Helmet",
+        "Skate-style or full-face by discipline ($50-200): mandatory at parks."
+      ],
+      [
+        "Pegs & parts",
+        "Replacement cranks, sprockets, and grips — the sport's consumable culture ($50-150)."
+      ],
+      [
+        "Pads (progression)",
+        "Knee and elbow pads for learning; wrist guards for flatland."
+      ],
+      [
+        "Camera & tripod",
+        "The culture's tool: every rider films ($100-300 for a phone setup)."
+      ]
+    ],
+    "training": [
+      "Ride parks 2-3× weekly: freestyle is learned in repetitions across months.",
+      "Flat ground daily: bunny hops, manuals, and fakies need no park.",
+      "Progress one trick at a time: the ladder approach keeps progression safe and steady.",
+      "Cross-train strength and mobility: core and shoulder strength protect the wrists and collarbones.",
+      "Film and review: the clip is the coach; compare your lines to pros' runs weekly."
+    ],
+    "pathway": [
+      [
+        "Local parks & sessions",
+        "Concrete parks everywhere: the sport's open front door."
+      ],
+      [
+        "Local contests & jams",
+        "Shop jams, park series, and amateur contests."
+      ],
+      [
+        "National amateur circuit",
+        "National championships and qualification events."
+      ],
+      [
+        "UCI & pro contests",
+        "Simple Session, X Games-style events, and world cup park events."
+      ],
+      [
+        "Olympics & video careers",
+        "The Games' park golds and the video-part professional path — freestyle's twin summits."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic BMX freestyle (park)",
+        "Since Tokyo 2021: the sport's Games era — Logan Martin and Charlotte Worthington's first golds."
+      ],
+      [
+        "UCI BMX Freestyle World Championships",
+        "Park's world titles, annual."
+      ],
+      [
+        "X Games & contest circuit",
+        "The action-sports flagship's BMX disciplines."
+      ],
+      [
+        "Simple Session & European majors",
+        "Tallinn's famous contest and the European park circuit."
+      ],
+      [
+        "Video culture",
+        "The parts and edits that define careers — freestyle's other scoreboard."
+      ]
+    ],
+    "legends": [
+      [
+        "Bob Haro",
+        "USA — the sport's founding designer: freestyle bikes, flatland's first era, and the culture's blueprint."
+      ],
+      [
+        "Dave Mirra",
+        "USA — the X Games era's king: 14 X Games medals in BMX; vert and park's defining champion."
+      ],
+      [
+        "Mat Hoffman",
+        "USA — vert's pioneer: the 900-era big air and the sport's engineering mind."
+      ],
+      [
+        "Logan Martin",
+        "Australia — Tokyo 2021's first Olympic park champion; the modern format's standard."
+      ],
+      [
+        "Charlotte Worthington",
+        "Great Britain — Tokyo's women's gold (with the 360 the Games' first 360 backflip): the women's era's icon."
+      ]
+    ],
+    "getting_started": [
+      "Ride your local concrete park with a helmet: flat bowls first, small quarters second.",
+      "Learn the bunny hop and fakie at home: two weeks of flat-ground work before features.",
+      "Follow park etiquette: drop-in order and clearing the landing zone earn you session respect.",
+      "Film yourself from week one: freestyle improves through the replay.",
+      "Progress one trick monthly: tailwhips, then barspins, then the bigger spins.",
+      "Watch one video part per week: style is learned by watching the culture's best."
+    ],
+    "glossary": [
+      [
+        "Air",
+        "The quarter pipe's launch — amplitude is scored."
+      ],
+      [
+        "Tailwhip",
+        "The bike spins under the rider — freestyle's signature trick."
+      ],
+      [
+        "Feeble grind",
+        "The rear peg grind with the front wheel on the obstacle."
+      ],
+      [
+        "Fakie",
+        "Riding backward — and the setup for half the tricks."
+      ],
+      [
+        "Drop-in",
+        "The commitment to a run — and the session's queue law."
+      ],
+      [
+        "Run",
+        "The 60-second judged sequence in park."
+      ],
+      [
+        "Flair",
+        "The backflip 180 on a quarter — the modern park's crown trick."
+      ],
+      [
+        "Street",
+        "Riding the city: ledges, rails, and architecture as features."
+      ],
+      [
+        "Flatland",
+        "Ground tricks on flat concrete — the sport's chess."
+      ],
+      [
+        "Video part",
+        "The culture's portfolio: the edit that defines a career."
+      ]
+    ],
+    "related": [
+      "skateboarding",
+      "bmx-racing",
+      "parkour",
+      "mountain-biking",
+      "breaking"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "formula-1",
+    "name": "Formula 1",
+    "category": "cycling-motor",
+    "glyph": "🏎️",
+    "tagline": "The pinnacle of motorsport — 1,000-horsepower chess at 350 km/h.",
+    "origin": "Europe · 1950 (first championship) · FIA",
+    "tags": [
+      "Motorsport pinnacle",
+      "Grand Prix",
+      "Engineering sport",
+      "Global calendar"
+    ],
+    "overview": [
+      "Formula 1 is the world championship of open-wheel single-seater racing: twenty drivers in 1,000-horsepower hybrid machines race on circuits from Monaco's harbor walls to Suzuka's figure-eight, across a 24-race global calendar. It is motorsport's technological pinnacle — each team designs and builds its own car within a dense rulebook (the 'formula'), and races are decided by the compound product of driver, machine, strategy, and the pit wall's split-second decisions.",
+      "The championship began in 1950 at Silverstone; its lineage runs through Fangio's artistry, Senna-Prost's war, Schumacher's Ferrari dynasty, Hamilton's records, and Verstappen's current era. The sport's modern scale is enormous: 1.5 billion cumulative broadcast viewers, Liberty Media's Drive to Survive-fueled audience boom, and budgets capped at $135 million a season — making F1 simultaneously sport, technology laboratory, and global entertainment product.",
+      "Newcomers should watch one full race weekend before judging the sport: qualifying's one-lap drama, the race's strategy layer (tires, pit stops, undercut battles), and the radio traffic between driver and engineer make F1 the most narrated sport on television. The fandom's entry point is free-to-air highlights plus one deep-dive — and the sport rewards obsession like no other."
+    ],
+    "facts": [
+      [
+        "First championship",
+        "13 May 1950 — Silverstone, British Grand Prix (Giuseppe Farina the first champion)"
+      ],
+      [
+        "Governing body",
+        "FIA (Fédération Internationale de l'Automobile); Formula One Group (commercial rights, Liberty Media)"
+      ],
+      [
+        "The formula",
+        "1.6-liter turbo-hybrid V6 power units (~1,000 hp), minimum weight 798 kg, ground-effect aerodynamics (2022 rules era), budget cap $135 M"
+      ],
+      [
+        "The calendar",
+        "24 races across five continents: Monaco, Monza, Spa, Suzuka, Las Vegas — the championship's cathedral venues"
+      ],
+      [
+        "Speed reality",
+        "Top speeds 350+ km/h; cornering at 5-6 g; braking from 300 km/h to 100 in under two seconds"
+      ],
+      [
+        "Points & titles",
+        "25-18-points per race (fastest lap's bonus removed 2025-era); the Drivers' and Constructors' Championships decided over the season"
+      ]
+    ],
+    "history": [
+      [
+        "1950-1960s",
+        "The championship's founding era: Farina, Fangio's five titles, and the front-engine-to-mid-engine revolution (Cooper 1959)."
+      ],
+      [
+        "1970s-1980s",
+        "Ground effect, wings, and danger: Stewart's safety revolution, Lauda's comeback, and Senna-Prost's defining war (1988-91)."
+      ],
+      [
+        "1994-2000s",
+        "Imola's tragedy forces safety reform; Schumacher's Ferrari dynasty (five consecutive titles 2000-04); the technological arms race peaks."
+      ],
+      [
+        "2010s",
+        "The hybrid era: Vettel's Red Bull years, Hamilton-Mercedes' six consecutive doubles, and the sport's engineering summit."
+      ],
+      [
+        "2017-2021",
+        "Liberty Media's takeover: Drive to Survive's streaming boom, the budget cap's arrival, and the Hamilton-Verstappen title war (2021's Abu Dhabi finale)."
+      ],
+      [
+        "2022-2020s",
+        "The ground-effect rules era: Verstappen's championship run, the calendar's 24-race scale, and Cadillac-era grid expansion debates."
+      ]
+    ],
+    "formats": [
+      [
+        "Grand Prix weekend",
+        "Practice sessions, qualifying (the one-lap fight for pole), and the Grand Prix (305 km or two hours minimum)."
+      ],
+      [
+        "Sprint weekends",
+        "selected rounds with a Saturday sprint race awarding points — the format's television-era addition."
+      ],
+      [
+        "The championships",
+        "Drivers' title (25-18-15-12-10-8-6-4-2-1 points) and Constructors' title (both cars' points summed) over 24 races."
+      ],
+      [
+        "Testing & development",
+        "Pre-season testing, in-season development within the budget cap, and the wind-tunnel allocation rules."
+      ],
+      [
+        "Feeder series",
+        "F2 and F3 as the ladder: the paddock's official development pathway."
+      ]
+    ],
+    "skills": [
+      [
+        "Car control at the limit",
+        "Driving at 5 g lateral with millimeter margins: the feel that separates drivers from very fast tourists.",
+        "Simulator training (teams run thousands of virtual laps); karting's permanent relevance; fitness for 5 g cornering loads (neck training, G-force conditioning)."
+      ],
+      [
+        "Racecraft & wheel-to-wheel",
+        "The duel: braking zones, the inside line, and the etiquette of contact.",
+        "Kart racing's wheel-to-wheel school; race starts (launch control management); overtaking analysis in debriefs."
+      ],
+      [
+        "Tire & energy management",
+        "The modern race is a tire conversation: degradation management, out-pace selection, and the pit window's math.",
+        "Long-run simulator work; tire-model study with engineers; pace-variation discipline (push, manage, push)."
+      ],
+      [
+        "Strategy partnership",
+        "The pit wall relationship: radio communication, plan-B readiness, and trusting the call under pressure.",
+        "Strategy simulations with the engineering team; radio rehearsal; post-race decision reviews."
+      ],
+      [
+        "Qualifying craft",
+        "The one-lap one-lap peak: tire preparation, the out-lap, and the perfect lap's assembly.",
+        "Qualifying simulation runs; track evolution reading; peak-performance psychology under one-lap pressure."
+      ],
+      [
+        "Physical preparation",
+        "The cockpit's demands: 40°C heat, 5 g loads, and two-hour heart rates of 170+.",
+        "Neck training (the sport's signature), heat acclimation, and cardio base — F1 drivers are endurance athletes with fighter-pilot necks."
+      ]
+    ],
+    "rules": [
+      "Weekend format: free practice (FP1-3), qualifying (Q1-Q3 knockout to pole), race distance 305 km minimum or two hours; sprint weekends add a Saturday race.",
+      "Points: 25-18-15-12-10-8-6-4-2-1 per race; Constructors' title from both cars; the fastest-lap bonus removed (2025).",
+      "The car: 1.6 L turbo-hybrid V6, 798 kg minimum, ground-effect aero (2022 rules), budget cap $135 M (engines and drivers excluded).",
+      "Tires: Pirelli's compounds (softs, mediums, hards, inters, wets); two at least two dry compounds per race (unless wet); tire allocations per weekend.",
+      "Penalties: grid drops (engine changes), time penalties (track limits, incidents), and drive-throughs — the stewards' authority via the decisions system.",
+      [
+        "Flags: yellow (no overtaking), red (stop), blue (move over), and the safety car's procedures — the race's traffic law."
+      ],
+      "Testing limits and engine allocation: annual mileage caps and engine pools — reliability is engineered under law.",
+      "Sporting conduct: the racing-etiquette guidelines (the stewards' contact doctrine), and the FIA's disciplinary system."
+    ],
+    "equipment": [
+      [
+        "The car",
+        "A $15-20 million machine built by each team: chassis, gearbox, and the power unit built by manufacturers."
+      ],
+      [
+        "The driver's kit",
+        "Fireproof suit, HANS device, and custom seat: the survival cocoon that made 2020s crashes walk-away events."
+      ],
+      [
+        "Steering wheel",
+        "A $50,five-figure interface: differential, engine modes, and the radio — the driver's cockpit computer."
+      ],
+      [
+        "Simulator",
+        "Teams' and drivers' most-used tool: thousands of virtual kilometers before a wheel turns."
+      ],
+      [
+        "Fan's kit",
+        "A team scarf and a streaming subscription — the sport's real entry fee."
+      ]
+    ],
+    "training": [
+      "Drivers: neck and G-training (the machines' loads are brutal), heat acclimation, reaction training, and thousands of simulator hours.",
+      "Karting remains the sport's root: every champion's reflexes were built in rental and junior karts.",
+      "Fitness as career infrastructure: F1 drivers hold fighter-pilot-grade cardiovascular standards.",
+      "The mental game: sports psychology for qualifying pressure and race-craft decision-making.",
+      "Engineering literacy: modern drivers debrief telemetry — the sport rewards drivers who understand their machine."
+    ],
+    "pathway": [
+      [
+        "Karting",
+        "Every F1 driver's root: national karting ladders from age 8."
+      ],
+      [
+        "Formula 4 → F3 → F2",
+        "The sanctioned ladder: junior championships, driver academies, and the superlicense points system."
+      ],
+      [
+        "Academies & junior programs",
+        "Red Bull, Ferrari, and Mercedes academies fund the ladder's best."
+      ],
+      [
+        "F1 seat & career",
+        "Test and reserve roles, then race seats: twenty drivers, one world."
+      ],
+      [
+        "Championship eras",
+        "Titles define legacies; the sport's history is written in championship counts."
+      ]
+    ],
+    "events": [
+      [
+        "The Monaco Grand Prix",
+        "Since 1929: the harbor walls, the glamour, and the slowest race on the calendar."
+      ],
+      [
+        "The British Grand Prix (Silverstone)",
+        "The championship's birthplace and its fastest flowing circuit."
+      ],
+      [
+        "Monza & Spa-Francorchamps",
+        "Italy's Temple of Speed and Belgium's Ardennes rollercoaster — the calendar's cathedrals."
+      ],
+      [
+        "The Las Vegas Grand Prix",
+        "The 2023-era spectacle: the Strip at 340 km/h."
+      ],
+      [
+        "Season finale & title deciders",
+        "The calendar's final races that crown champions — Abu Dhabi's modern theater."
+      ]
+    ],
+    "legends": [
+      [
+        "Juan Manuel Fangio",
+        "Argentina — five titles in the 1950s; the sport's first benchmark and gentleman-legend."
+      ],
+      [
+        "Ayrton Senna",
+        "Brazil — three titles and Monaco's six mastery; the sport's spiritual figure."
+      ],
+      [
+        "Michael Schumacher",
+        "Germany — seven titles and the Ferrari dynasty (2000-04); the modern era's first empire."
+      ],
+      [
+        "Lewis Hamilton",
+        "Great Britain — seven titles and 100+ wins: the sport's most statistically decorated driver."
+      ],
+      [
+        "Max Verstappen",
+        "Netherlands — the current era's champion: multiple consecutive titles and the ground-effect rules' master."
+      ]
+    ],
+    "getting_started": [
+      "Watch one full race weekend (qualifying plus race): the sport's layers reveal themselves in sequence.",
+      "Learn the tire story: degradation and pit windows are F1's hidden chessboard.",
+      "Follow one team's radio and strategy all season: the sport rewards deep fandom over casual viewing.",
+      "Try karting yourself: every fan's respect doubles after one session.",
+      "Read one season review or documentary (Drive to Survive works as a door): the personalities are the sport's engine.",
+      "Pick your era to explore backward: Senna's 1988, Schumacher's 2004, Hamilton's 2019 — the archives reward obsession."
+    ],
+    "glossary": [
+      [
+        "Pole position",
+        "Qualifying's first grid slot — earned by the single fastest lap."
+      ],
+      [
+        "Undercut / overcut",
+        "Pit-strategy weapons: pitting early for fresh-tire pace, or staying out for track position."
+      ],
+      [
+        "DRS",
+        "The drag reduction system: the overtaking aid's rear-wing flap."
+      ],
+      [
+        "Dirty air",
+        "The aerodynamic wake that punishes the following car — the 2022 rules' target."
+      ],
+      [
+        "Porpoising",
+        "The ground-effect era's bouncing — engineering's visible drama."
+      ],
+      [
+        "The pit wall",
+        "The strategists' command post: every race is co-driven from there."
+      ],
+      [
+        "Halo",
+        "The cockpit protection that saved Grosjean in 2020 — safety's quiet revolution."
+      ],
+      [
+        "Parc fermé",
+        "The impounded car condition between qualifying and race."
+      ],
+      [
+        "Safety car",
+        "The neutralization that reshapes every strategy."
+      ],
+      [
+        "Constructors' championship",
+        "The teams' title: engineering's scoreboard."
+      ]
+    ],
+    "related": [
+      "rallying",
+      "motogp",
+      "karting",
+      "motocross",
+      "track-cycling"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "rallying",
+    "name": "Rallying",
+    "category": "cycling-motor",
+    "glyph": "🚙",
+    "tagline": "Flat out on gravel, snow, and tarmac — the motorsport of the world's worst roads.",
+    "origin": "Monte Carlo 1911 · WRC 1973",
+    "tags": [
+      "Motorsport",
+      "Stage rallying",
+      "Pace notes",
+      "All-weather"
+    ],
+    "overview": [
+      "Rallying races production-based cars against the clock on closed public roads: stages of gravel, snow, and tarmac linked by transit sections, with co-drivers reading pace notes that describe every corner before it arrives. The World Rally Championship (since 1973) crowns drivers and manufacturers across a global calendar — Monte's night ice, Finland's flying crests, Kenya's safari dust — and it is motorsport's most complete test: every surface, every weather, every condition.",
+      "The sport's lineage runs from the Monte Carlo Rally (1911) through the Group B madness (the 1980s' 500-horsepower fire-breathing era, ended by tragedy), to the modern Rally1 hybrid era. Legends define it: Walter Röhrl's precision, the four multiple Scandinavian titles, Sébastien Loeb's nine, Sébastien Ogier's and the co-driver's art (the notes of Derek Ringer, Julien Ingrassia) as the sport's invisible half.",
+      "Newcomers should experience one stage on board (in-car cameras with pace notes are the sport's genius) before watching from outside: rallying's appeal is the co-driver's voice and the sheer commitment on surfaces no circuit would allow. Club rallying exists everywhere — navigational rallies and stage rallies on a local scale are the sport's broad base."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "1911 — the Monte Carlo Rally's first running; the World Rally Championship for manufacturers since 1973"
+      ],
+      [
+        "Governing body",
+        "FIA world rally commission; WRC Promoter (commercial); national championships everywhere"
+      ],
+      [
+        "The format",
+        "Stages (10-30 km) against the clock, transit roads between, cumulative time decides; 15-20 stages per rally, 3-4 days"
+      ],
+      [
+        "The car (Rally1)",
+        "Hybrid 500+ horsepower all-wheel-drive machines (2022 rules): safety cells, spec chassis elements with manufacturer bodyshells"
+      ],
+      [
+        "Surfaces",
+        "Gravel, snow/ice, and tarmac rounds; Monte Carlo's mixed conditions are the season opener"
+      ],
+      [
+        "Pace notes",
+        "The co-driver's pre-recited description of every corner — the sport's signature skill"
+      ]
+    ],
+    "history": [
+      [
+        "1911-1950s",
+        "The Monte's era and the great long-distance rallies (Alpine, RAC): reliability trials become speed events."
+      ],
+      [
+        "1960s-1970s",
+        "The WRC's founding (1973); the Alpine A110 and Lancia Stratos era; safari's legends."
+      ],
+      [
+        "1980s",
+        "Group B: the 500-hp era of the Quattro, 037, Delta S4 and T16 — the fastest, most dangerous rally cars ever, ended after 1986's tragedies."
+      ],
+      [
+        "1990s-2000s",
+        "The Group A and Subaru-Mitsubishi-Ford duels: McRae, Mäkinen (four consecutive titles), Grönholm; Loeb's Citroën dynasty begins (2004)."
+      ],
+      [
+        "2010s-2020s",
+        "Ogier's eight, Neuville and Rovanperä's new era, and the Rally1 hybrid rules' arrival (2022)."
+      ]
+    ],
+    "formats": [
+      [
+        "World Rally Championship",
+        "13-14 rounds: Monte, Sweden, Safari (Kenya), Finland, and the global calendar."
+      ],
+      [
+        "National championships",
+        "Deep domestic series (British every rally nation) — the sport's base."
+      ],
+      [
+        "Rally2/Rally3 categories",
+        "The customer-racing classes feeding the top level."
+      ],
+      [
+        "Historic & classic rallying",
+        "The heritage cars' events and long-distance classic rallies."
+      ]
+    ],
+    "skills": [
+      [
+        "Car control on every surface",
+        "The sport's root: drifting gravel, ice driving's patience, and tarmac commitment — trained separately per surface.",
+        "Ice driving schools (the Finnish tradition); gravel courses; skid surface-specific schools are the sport's university."
+      ],
+      [
+        "Pace notes & the co-driver art",
+        "Reading the road before it exists: note systems (numerical or descriptive), rhythm, and trust between the crew.",
+        "Note-writing on recce runs; co-driver rehearsal (call the notes aloud); navigation rallies as the entry school."
+      ],
+      [
+        "Stage pacing & risk management",
+        "Flat out is not always fastest: the championship's math (points vs glory) and the stage strategy.",
+        "Simulated stage debriefs; sector-time analysis; risk-budget discipline across a rally."
+      ],
+      [
+        "Recce & setup",
+        "The two practice passes where notes are written and the car's setup is chosen.",
+        "Recce discipline (accurate notes beat fast laps); setup sheets per surface; damper and differential choices."
+      ],
+      [
+        "Mechanical sympathy",
+        "Rallies punish abuse: managing the car across 20 stages is engineering restraint.",
+        "Telemetry review per stage; failure-mode study; the service park's discipline."
+      ],
+      [
+        "Fitness & focus",
+        "The cockpit's workload: heat, g-forces, and three days of sustained concentration.",
+        "Cardio and neck training; hydration systems in the car; co-drivers' cognitive endurance training."
+      ]
+    ],
+    "rules": [
+      "Format: stages timed to the tenth; cumulative time decides; penalties for lateness at time controls.",
+      "The recce: two passes at road speed writing pace notes — the only practice allowed.",
+      "Service parks: scheduled service windows (30-45 min); the crew's mechanical work by regulations.",
+      "Safety: roll cages, HANS, and the FIA's safety cell standards; spectators' zones policed after Group B's lessons.",
+      "Cars: Rally1 hybrid class at the top; Rally2 as the customer ladder; homologation rules bind cars to road-car DNA.",
+      "Tires: limited allocations per surface; choice management is a strategic layer.",
+      [
+        "Championships: driver and co-driver titles, plus manufacturers'; power stages award bonus points (5-4-3-2-1)."
+      ]
+    ],
+    "equipment": [
+      [
+        "Rally car",
+        "Rally2 customer cars ($200-400 k to run a season) to Rally1 hybrids at the top."
+      ],
+      [
+        "Safety cell & seats",
+        "FIA-spec roll cages, bucket seats, and harnesses — the sport's survival engineering."
+      ],
+      [
+        "Pace note systems",
+        "The intercom and the note book: the crew's shared language."
+      ],
+      [
+        "Tires & wheels",
+        "Gravel, snow (studs), and tarmac compounds by round ($1,000+ per set)."
+      ],
+      [
+        "Club rally kit",
+        "A road-legal rally car and a license: club rallying's honest entry ($10,000-30,000 used)."
+      ]
+    ],
+    "training": [
+      "Surface schools first: ice driving in Finland or Sweden teaches what no simulator can.",
+      "Navigational rallies as the entry: time-speed-distance events teach precision and notes.",
+      "Co-driving experience before driving: sitting in the right seat teaches the discipline's rhythm.",
+      "Fitness for the cockpit: heat, g-load, and three-day concentration — training matters.",
+      "Study pace-note systems: learn one notation deeply before inventing your own."
+    ],
+    "pathway": [
+      [
+        "Navigational & club rallies",
+        "Road-legal events teaching precision: the sport's broad door."
+      ],
+      [
+        "Single-venue & stage rallies",
+        "Local stage rallies in Rally4/Rally5 cars."
+      ],
+      [
+        "National championships",
+        "The domestic series in Rally2 machinery."
+      ],
+      [
+        "WRC2 & the world feeder",
+        "The customer class's world championship."
+      ],
+      [
+        "WRC Rally1",
+        "The world championship's top class: the sport's summit."
+      ]
+    ],
+    "events": [
+      [
+        "Rallye Monte-Carlo",
+        "Since 1911: night ice, mixed surfaces, and the season's unpredictable opener."
+      ],
+      [
+        "Rally Sweden & Rally Finland",
+        "Snow banks and the flying crests of Finland — the sport's fastest, most distinctive rounds."
+      ],
+      [
+        "Safari Rally Kenya",
+        "The safari's dust, wildlife, and endurance legacy."
+      ],
+      [
+        "Rally de Portugal & the gravel rounds",
+        "The European gravel heartland's rough classics."
+      ],
+      [
+        "National championship calendars",
+        "Every rally nation's series — the sport's true base."
+      ]
+    ],
+    "legends": [
+      [
+        "Sébastien Loeb",
+        "France — nine consecutive world titles (2004-2012): the sport's most dominant record."
+      ],
+      [
+        "Sébastien Ogier",
+        "France — eight titles across two eras and multiple teams."
+      ],
+      [
+        "Walter Röhrl",
+        "Germany — the two-time champion and the sport's precision philosopher."
+      ],
+      [
+        "Juha Kankkunen & Tommi Mäkinen",
+        "Finland — the four-title champions of the Group A and Mitsubishi eras."
+      ],
+      [
+        "Michèle Mouton",
+        "France — the Group B pioneer: four wins and the sport's first great woman, now FIA safety leader."
+      ]
+    ],
+    "getting_started": [
+      "Watch one onboard stage with pace notes: the co-driver's voice is the sport's door.",
+      "Try a navigational rally or rallysprint in a road-legal car: club rallying welcomes beginners.",
+      "Take an ice or gravel driving course: surface skills are the sport's foundation.",
+      "Co-drive first if you can: the right seat teaches the sport's rhythm cheaply.",
+      "Attend one live WRC round: the forest atmosphere is motorsport's most social.",
+      "Study Loeb's onboard footage: the reference standard for pace, precision, and calm."
+    ],
+    "glossary": [
+      [
+        "Stage",
+        "The timed competitive section — the rally's atom."
+      ],
+      [
+        "Pace notes",
+        "The co-driver's pre-written description of every corner."
+      ],
+      [
+        "Recce",
+        "The reconnaissance passes where notes are written."
+      ],
+      [
+        "Crest",
+        "The blind rise where Finland's jumps live."
+      ],
+      [
+        "Hairpin",
+        "The tightest corner — tarmac rounds' theater."
+      ],
+      [
+        "Service park",
+        "The maintenance zone between loops of stages."
+      ],
+      [
+        "Flying finish",
+        "The stage's end, timed at speed."
+      ],
+      [
+        "Group B",
+        "The 1980s' 500-hp era: magnificent, and ended by tragedy."
+      ],
+      [
+        "Power stage",
+        "The final stage awarding bonus championship points."
+      ],
+      [
+        "Co-driver",
+        "The sport's invisible athlete: notes, timing, and calm."
+      ]
+    ],
+    "related": [
+      "formula-1",
+      "motogp",
+      "motocross",
+      "karting",
+      "mountain-biking"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "motogp",
+    "name": "MotoGP",
+    "category": "cycling-motor",
+    "glyph": "🏍️",
+    "tagline": "Motorcycles at the physical limit — 365 km/h, 60° of lean, and the bravest show on Earth.",
+    "origin": "Isle of Man TT 1907 · world championship 1949 · MotoGP era 2002",
+    "tags": [
+      "Motorcycle pinnacle",
+      "Grand Prix racing",
+      "Prototype machines",
+      "Lean angle sport"
+    ],
+    "overview": [
+      "MotoGP is the world championship of prototype motorcycle road racing: 1,000cc prototypes producing 300+ horsepower, ridden at lean angles past 60 degrees and speeds beyond 360 km/h, over a 20-round global calendar. It is motorcycle racing's summit — faster than World Superbike, more specialized than any production-based series — and its heroes (Agostini, Doohan, Rossi, Márquez) are motorcycling's global icons.",
+      "The world championship began in 1949 (the FIM's oldest world championship), and the MotoGP era (four-stroke prototypes from 2002) defined the modern age: Rossi's nine titles across classes, Márquez's eight and his recovery saga, and the current era's Ducati dominance. The format weekend — free practice, qualifying, the sprint race (2023 addition), and Sunday's Grand Prix — packs the sport's full drama into three days.",
+      "Newcomers should watch one full race at Mugello or Phillip Island before anything else: the sport's appeal is visceral — the lean angles, the overtakes at 300 km/h, the sound — and the lore (the Rossi-Márquez wars, Doohan's five) is the richest in motorsport. Track-day riding and club racing are the fan-to-rider bridge, and the sport's safety revolution (airbags, tracks' run-off) makes its risks more managed than ever."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "1949 — the FIM Road Racing World Championship's first season (350cc and 500cc classes); MotoGP era from 2002 (990cc, then 800cc, then 1000cc)"
+      ],
+      [
+        "Governing body",
+        "FIM (Fédération Internationale de Motocyclisme); Dorna Sports (commercial rights)"
+      ],
+      [
+        "The machine",
+        "1000cc prototype four-strokes (~300 hp), carbon brakes, minimal electronics aids (anti-wheelie, traction control by spec evolution), minimum weight 157 kg"
+      ],
+      [
+        "The weekend",
+        "Practice, qualifying (Q1/Q2), Saturday sprint (half-distance), Sunday Grand Prix; points 25-20-and sprints scoring half"
+      ],
+      [
+        "Speed & lean",
+        "Top speeds 366+ km/h (record runs); lean angles beyond 60°; braking g-forces near 1.5 g"
+      ],
+      [
+        "The calendar",
+        "20 rounds across five continents: Mugello, Phillip Island, and Assen among the cathedrals"
+      ]
+    ],
+    "history": [
+      [
+        "1907-1949",
+        "The Isle of Man TT's founding (1907) and the world championship's birth (1949): road racing's roots."
+      ],
+      [
+        "1950s-1970s",
+        "The MV Agusta era: Agostini's consecutive 500cc titles and the two-stroke dawn."
+      ],
+      [
+        "1980s-1990s",
+        "The two-stroke wars: Schwantz-Rainey's rivalry, Doohan's five (1994-98), and Honda-Yamaha's engineering duels."
+      ],
+      [
+        "2002-2015",
+        "The MotoGP era: Rossi's nine world titles across classes, the Lorenzo era, and Márquez's 2013 arrival."
+      ],
+      [
+        "2013-2020s",
+        "Márquez's eight titles and the injury saga; Ducati's dominance (Bagnaia's titles); the sprint race's addition (2023)."
+      ],
+      [
+        "2020s",
+        "The Marquez brothers' era (both on factory bikes by 2025), the record speeds, and the sport's Indian and Kazakh calendar expansion."
+      ]
+    ],
+    "formats": [
+      [
+        "Grand Prix weekend",
+        "Practice sessions, qualifying, Saturday's sprint (half-distance, half points), Sunday's feature race."
+      ],
+      [
+        "The championships",
+        "Riders' and constructors' titles over 20 rounds; teams' honors alongside."
+      ],
+      [
+        "Moto2 & Moto3",
+        "The feeder classes: spec-engine intermediates and production-based entry."
+      ],
+      [
+        "Testing & development",
+        "Official tests and private development within spec rules."
+      ]
+    ],
+    "skills": [
+      [
+        "Corner speed & lean",
+        "The sport's signature: carrying maximum speed through corners at 60° lean on the edge of grip.",
+        "Track days and coaching (the lean-angle ladder); knee-down progressions; body-position schools."
+      ],
+      [
+        "Braking & entry",
+        "The stoppie's art: front-brake loading, trail braking, and entry speed that sets the exit.",
+        "Braking drills (marker boards); trail-braking practice with a coach; braking-g-fitness (the arms and core take the load)."
+      ],
+      [
+        "Throttle & exit",
+        "The drive: picking the bike up smoothly, traction management, and exit speed as the lap's currency.",
+        "Exit-speed analysis per corner; throttle-control drills; data review (throttle traces vs elite laps)."
+      ],
+      [
+        "Racecraft & overtaking",
+        "The draft and the cut-back: MotoGP's passes happen at closing speeds cars never see.",
+        "Club racing's wheel-to-wheel school; slipstream practice; overtaking-line study per circuit."
+      ],
+      [
+        "Fitness & the physical load",
+        "300+ hp through the arms, 60° leans through the neck: the sport's physicality is total.",
+        "Neck and core training (the sport's signature gym work); heat acclimation for 25-lap sprints; reaction and balance training."
+      ],
+      [
+        "Data & engineering literacy",
+        "The modern rider debriefs telemetry: brake pressures, lean traces, and throttle maps.",
+        "Telemetry study with engineers; setup vocabulary (geometry, suspension); simulator work where available."
+      ]
+    ],
+    "rules": [
+      "Machines: 1000cc prototype four-strokes, 157 kg minimum, controlled electronics by class rules; tire allocation (spec Michelin) limited per weekend.",
+      "Weekend: practice, Q1-Q2 qualifying, Saturday sprint (half points), Sunday's Grand Prix (25-20-points scale).",
+      "Flags and penalties: yellow (no passing), long-lap penalties for track infractions, and ride-stop-and-go by offense.",
+      "Safety: airbag suits mandatory, tracks graded by FIM standards, and the car system — the sport's modern safety net.",
+      "Engine allocation: seasonal engine quotas per manufacturer; reliability engineered under law.",
+      "Conduct: the stewards' panel governs contact and red-restart protocols.",
+      "Championships: riders', constructors', and teams' titles across MotoGP, Moto2, Moto3."
+    ],
+    "equipment": [
+      [
+        "The prototype",
+        "$2-4 million per bike at factory level: the pinnacle of two-wheel engineering."
+      ],
+      [
+        "Leathers & airbag suit",
+        "The protection system: multi-airbag suits ($3,000-5,000) and back protectors."
+      ],
+      [
+        "Helmet",
+        "FIM-homologated carbon helmets ($1,000-2,500) — the rider's most personal engineering."
+      ],
+      [
+        "Track-day bike & kit",
+        "The rider's route in: a supersport or superbike ($8,000-20,000) plus leathers, boots, and gloves."
+      ],
+      [
+        "Data kit",
+        "Lap timers, telemetry apps, and action cameras — the amateur's pit wall."
+      ]
+    ],
+    "training": [
+      "Track days with coaching: corner speed and body position are learned with eyes on you.",
+      "Gym as infrastructure: neck, core, and grip strength for the bike's loads (the sport's gym work is famous).",
+      "Road racing's ladder: club racing, national series, then the international feeder classes.",
+      "Data-driven improvement: lap timers and throttle traces make practice honest.",
+      "Study the greats' onboard laps (Rossi at Catalunya, Márquez at COTA): the references live on video."
+    ],
+    "pathway": [
+      [
+        "Mini bikes & track days",
+        "MiniGP series and track-day culture: the sport's entry."
+      ],
+      [
+        "Club & national racing",
+        "National superbike/supersport championships."
+      ],
+      [
+        "Red Bull Rookies & junior cups",
+        "The feeder's organized ladders (Rookies Cup, Moto3's farm system)."
+      ],
+      [
+        "Moto3 → Moto2 → MotoGP",
+        "The world championship's official ladder."
+      ],
+      [
+        "Titles & legends",
+        "Championships across classes define the greats."
+      ]
+    ],
+    "events": [
+      [
+        "MotoGP Grand Prix calendar",
+        "20 rounds: Mugello, Assen, Phillip Island, Catalunya — the sport's cathedrals."
+      ],
+      [
+        "The Isle of Man TT",
+        "Road racing's separate summit: 37.7 miles of public roads at 135+ mph averages."
+      ],
+      [
+        "Moto2 & Moto3 championships",
+        "The feeder classes' world titles."
+      ],
+      [
+        "Sprint races & Saturday drama",
+        "The 2023-era format addition."
+      ],
+      [
+        "National superbike series",
+        "Every racing nation's domestic championship — the talent's home."
+      ]
+    ],
+    "legends": [
+      [
+        "Giacomo Agostini",
+        "Italy — fifteen world titles in the MV Agusta era; motorcycling's first global superstar."
+      ],
+      [
+        "Valentino Rossi",
+        "Italy — nine titles across all classes and the sport's greatest showman; The Doctor's two-decade reign."
+      ],
+      [
+        "Mick Doohan",
+        "Australia — five consecutive 500cc titles (1994-98); the recovery story behind them."
+      ],
+      [
+        "Marc Márquez",
+        "Spain — eight titles and the comeback saga; the most physically spectacular rider of the era."
+      ],
+      [
+        "Kenny Roberts & Wayne Rainey",
+        "USA — the American school's champions who took dirt-track skills to the world."
+      ]
+    ],
+    "getting_started": [
+      "Watch one full Grand Prix at a fast circuit (Phillip Island): the sport's essence arrives in one race.",
+      "Take a track day on your road bike: the lean-angle ladder starts wherever you are.",
+      "Get proper leathers and a good helmet before speed: the kit is the sport's respect.",
+      "Join a racing school or coaching day: corner speed is taught, not hoped for.",
+      "Learn the legends' laps on video: Rossi's Catalunya lap is the sport's textbook.",
+      "Follow one rider's season: the narrative makes every round matter."
+    ],
+    "glossary": [
+      [
+        "Lean angle",
+        "The bike's tilt past 60°: the sport's visual signature."
+      ],
+      [
+        "Tuck / slipstream",
+        "The draft that closes overtaking gaps."
+      ],
+      [
+        "Sprint (Saturday)",
+        "The half-distance race with half points — 2023's addition."
+      ],
+      [
+        "Long-lap penalty",
+        "The ride-around for track-limit sins."
+      ],
+      [
+        "Highside / lowside",
+        "The two crash families: the highside's violence is the sport's most feared."
+      ],
+      [
+        "Holeshot",
+        "The first corner's lead."
+      ],
+      [
+        "Cathedral of speed",
+        "Assen's nickname — the only circuit to host every season since 1949."
+      ],
+      [
+        "Factory bike",
+        "The manufacturer's full-spec machine versus satellite teams' spec."
+      ],
+      [
+        "Flick",
+        "The rapid side-to-side transition — the sport's ballet step."
+      ],
+      [
+        "Isle of Man TT",
+        "Road racing's Everest: 37.7 miles, 200+ corners, the sport's bravest hour."
+      ]
+    ],
+    "related": [
+      "formula-1",
+      "rallying",
+      "motocross",
+      "karting",
+      "road-cycling"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "motocross",
+    "name": "Motocross",
+    "category": "cycling-motor",
+    "glyph": "🏍️",
+    "tagline": "Full-throttle dirt — whoops, whips, and the sport where every second is a fight.",
+    "origin": "UK/Europe (scrambles) · 1920s-1950s · FIM worlds 1957",
+    "tags": [
+      "Off-road motorcycles",
+      "MXGP",
+      "Supercross sibling",
+      "Dirt sport"
+    ],
+    "overview": [
+      "Motocross races motorcycles on closed dirt circuits of jumps, whoops (rhythmic bumps), and berms: 30-minute-plus-two-lap motos (the sport's brutal format) with two races per round deciding overall victories. It is the roots of modern off-road motorcycling — the FIM world championship (MXGP) since 1957, the American AMA system, and Supercross (the stadium's indoor sibling) as its spectacular cousin.",
+      "The sport's mythology runs through Roger De Coster's five 500cc titles, the American era's dominance (Hannah, Bailey, McGrath's seven supercross the sport's American golden age), and the modern stars: Antonio Cairoli's nine titles, Jeffrey Herlings' speed, and Eli Tomac's longevity. Beneath the elites, motocross is one of motorsport's most participatory sports: local tracks everywhere, family paddocks, and a youth pipeline (50cc bikes at age 5) that feeds everything.",
+      "Newcomers should take a beginner day at a track: loaner or rental bikes exist, the learning arc (clutch control, standing position, corner lines) is fast, and the sport's community — part paddock, part family reunion — is famously welcoming. The gear list is serious (boots, knee braces, helmet, chest protector): motocross respects its own violence."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "1920s-1950s — British 'scrambles' formalize into the FIM world championship (1957); AMA motocross grows in the US from the 1960s"
+      ],
+      [
+        "Governing body",
+        "FIM (MXGP/MX2 world championships); AMA (US nationals and supercross); national federations"
+      ],
+      [
+        "The format",
+        "Two motos (30 minutes + 2 laps) per class; combined results decide the round; MXGP (450cc) and MX2 (250cc) world classes"
+      ],
+      [
+        "The bike",
+        "450cc four-stroke motocrossers (~60 hp, ~100 kg wet): suspension travel 300 mm, and the industry's annual model years"
+      ],
+      [
+        "Supercross (SX)",
+        "The stadium sibling: short, tight indoor tracks with rhythm sections — the sport's television spectacle"
+      ],
+      [
+        "US pipeline",
+        "50cc bikes at age 4-5: the sport's famous youth development ladder"
+      ]
+    ],
+    "history": [
+      [
+        "1920s-1957",
+        "British scrambles to European championship to world championship (1957): the sport's institutional arc."
+      ],
+      [
+        "1960s-1970s",
+        "The Swedish and Belgian golden eras: Torsten Hallman, Joël Robert, Roger De Coster's five 500cc titles."
+      ],
+      [
+        "1980s-1990s",
+        "The American invasion: Bob Hannah, Rick Johnson, Jeremy McGrath's supercross showmanship — the sport's US golden age."
+      ],
+      [
+        "2000s-2010s",
+        "Cairoli's nine world titles, Ryan Villopoto's dominance, and the two-stroke-to-four-stroke transition."
+      ],
+      [
+        "2020s",
+        "Herlings' speed records, Tomac's longevity, Jorge Prado's titles, and the sport's global calendar growth."
+      ]
+    ],
+    "formats": [
+      [
+        "MXGP & MX2 world championships",
+        "The FIM world series: two motos per round, 20 rounds ~20 rounds worldwide."
+      ],
+      [
+        "AMA nationals & supercross",
+        "The US's outdoor nationals (the Pro Motocross championship) and Monster Energy Supercross's stadium series."
+      ],
+      [
+        "National & regional racing",
+        "Every country's amateur and pro-am ladders."
+      ],
+      [
+        "Youth & minibikes",
+        "The 50cc-85cc development classes: the sport's famous pipeline."
+      ]
+    ],
+    "skills": [
+      [
+        "Standing position & clutch",
+        "The sport's base: riding on the pegs, attack position, and clutch-feathered throttle everywhere.",
+        "Riding drills (standing laps only); clutch-control exercises; flat-parking-lot drills for balance."
+      ],
+      [
+        "Cornering lines & berms",
+        "The ruts and berms: inside lines, drive out of the corner, and the same-line discipline.",
+        "Corner drills (same berm, twenty laps); rut-riding practice; body-position schools with a coach."
+      ],
+      [
+        "Jumps & whoops",
+        "Takeoff timing, in-air body control, and the whoops' rhythm — the sport's signature sections.",
+        "Small-jump progressions; whoop drills (start small sections); scrub technique learned later, safely."
+      ],
+      [
+        "Starts (the holeshot)",
+        "The 30-second war: clutch dump, first-gear drive, and the holeshot's worth of clean air.",
+        "Start drills (20 per session); reaction practice; launch technique per bike setup."
+      ],
+      [
+        "Race pace & fitness",
+        "The moto's tax: 35 minutes at race pace demands motocross-specific conditioning — grip, legs, and heat.",
+        "Moto-length training rides; cardio and grip endurance; hydration for the heat loads."
+      ],
+      [
+        "Maintenance & setup",
+        "The sport's other half: suspension settings, tire choice, and chain care — the bike is a tuning project.",
+        "Suspension education (sag, clickers); tire compounds by track; pre-ride check rituals."
+      ]
+    ],
+    "rules": [
+      "Format: two motos per class (30 min + 2 laps); combined points decide the overall; 25-22-points scale.",
+      "Classes: MXGP (450cc) and MX2 (250cc) at world level; age and skill classes nationally; women's MX world championship alongside.",
+      "Track: closed circuits of 1.5-2 km with jumps, whoops, and berms; track inspections before racing.",
+      "Conduct: the blue-flag rules (lapping), course cutting penalties, and rough-riding sanctions.",
+      "Equipment: helmets, boots, knee braces (standard among pros), chest protectors, and goggles — the sport's dress code is armor.",
+      "Bikes: production-based with controlled modifications; fuel rules; age-class displacement caps.",
+      "Medical: on-site medical teams and the red-injury protocols at every round."
+    ],
+    "equipment": [
+      [
+        "Race bike",
+        "450cc motocrosser ($8,000-11,000 new; used 250Fs for learners $3,000-6,000)."
+      ],
+      [
+        "Boots & braces",
+        "MX boots ($300-600) and knee braces ($500-1,000): the sport's signature protection."
+      ],
+      [
+        "Helmet & neck brace",
+        "Full-face MX helmets ($300-800) and optional neck braces."
+      ],
+      [
+        "Gear set",
+        "Jersey, pants, gloves, chest protector, goggles ($300-600)."
+      ],
+      [
+        "Maintenance",
+        "Chain tools, air filters (daily cleaning), and suspension tuning — the sport's garage ritual."
+      ]
+    ],
+    "training": [
+      "Ride 2-3× weekly at tracks: the sport is learned on dirt, not in gyms.",
+      "Moto-fitness: grip endurance, leg strength, and cardio for 35-minute races at race pace.",
+      "Corner and jump drills every session: technique sports within the sport.",
+      "Bike setup as training: suspension tuned to your weight doubles your speed.",
+      "Watch one MXGP moto per week: lines and whoop technique transfer directly."
+    ],
+    "pathway": [
+      [
+        "Local track & beginner days",
+        "Track memberships and coaching days: the sport's door."
+      ],
+      [
+        "Regional & amateur racing",
+        "Local series and amateur nationals (Loretta Lynn's in the US)."
+      ],
+      [
+        "National pro-am & juniors",
+        "Youth nationals and the pro-am bridge."
+      ],
+      [
+        "National championships & MXGP/MX2",
+        "The world championship's entry and the AMA nationals."
+      ],
+      [
+        "Factory contracts & titles",
+        "The sport's summit: factory rides and world titles."
+      ]
+    ],
+    "events": [
+      [
+        "MXGP World Championship",
+        "The FIM world series across ~20 rounds worldwide."
+      ],
+      [
+        "AMA Pro Motocross nationals",
+        "The US outdoor championship: Hangtown to Ironman's summer series."
+      ],
+      [
+        "Monster Energy Supercross",
+        "The stadium series: 17 indoor rounds, the sport's TV spectacle."
+      ],
+      [
+        "Motocross of Nations",
+        "The national-team world cup: the sport's Olympics."
+      ],
+      [
+        "Youth nationals & regional series",
+        "The pipeline's foundations everywhere."
+      ]
+    ],
+    "legends": [
+      [
+        "Roger De Coster",
+        "Belgium — five 500cc world titles (the Man); the sport's gentleman benchmark, now a team manager."
+      ],
+      [
+        "Jeremy McGrath",
+        "USA — seven supercross titles and the sport's showman era: Showtime's dominance defined the 1990s."
+      ],
+      [
+        "Antonio Cairoli",
+        "Italy — nine world titles across classes; the European era's greatest."
+      ],
+      [
+        "Ryan Villopoto & Eli Tomac",
+        "USA — the modern American standard: multiple supercross titles each, Tomac's longevity across eras."
+      ],
+      [
+        "Jeffrey Herlings",
+        "Netherlands — multiple world titles and the record speed: the Dutch Bullet's era."
+      ]
+    ],
+    "getting_started": [
+      "Take a beginner day at a motocross track: rental bikes and coaching exist at most venues.",
+      "Buy the gear before the bike: boots, helmet, and knee protection first — the sport respects armor.",
+      "Learn standing position and clutch control before chasing jumps: the fundamentals pay forever.",
+      "Ride the same track repeatedly: lines and rhythm only come with repetition.",
+      "Maintain the bike religiously: air filters and chain care are daily rituals.",
+      "Watch one SX main event: the whoops and rhythm sections teach pacing instantly."
+    ],
+    "glossary": [
+      [
+        "Moto",
+        "One race: 30 minutes plus two laps of everything you have."
+      ],
+      [
+        "Whoops",
+        "The rhythmic bump section — the sport's signature test."
+      ],
+      [
+        "Berm",
+        "The banked turn."
+      ],
+      [
+        "Holeshot",
+        "The first-corner lead."
+      ],
+      [
+        "Whip / scrub",
+        "The in-air styles: flat and stylish versus flat and fast."
+      ],
+      [
+        "Rut",
+        "The groove carved by tires — ride it or fight it."
+      ],
+      [
+        "SX",
+        "Supercross: the stadium sibling."
+      ],
+      [
+        "'Holeshot device'",
+        "The launch gadget that drops the lowers the bike for the start."
+      ],
+      [
+        "'red flag'",
+        "The stoppage call after crashes."
+      ],
+      [
+        "Factory ride",
+        "The manufacturer's contract: the sport's promised land."
+      ]
+    ],
+    "related": [
+      "motogp",
+      "rallying",
+      "mountain-biking",
+      "bmx-racing",
+      "formula-1"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "karting",
+    "name": "Karting",
+    "category": "cycling-motor",
+    "glyph": "🏎️",
+    "tagline": "Motorsport's root system — every world champion started on a kart.",
+    "origin": "USA (1950s) · FIA Karting world era",
+    "tags": [
+      "Motorsport entry",
+      "Sprint racing",
+      "Chassis craft",
+      "Junior ladders"
+    ],
+    "overview": [
+      "Karting races small open-wheel machines (karts) on sprint circuits: no suspension, no differential, direct steering — the purest driver-development machine in motorsport. Every Formula 1 world champion and most of the world's professional drivers came through karting's ladders, and the sport runs its own world championships under the FIA with classes from age 5 (kid karts) to senior KZ shifter karts reaching 160 km/h.",
+      "The sport's genius is accessibility married to depth: rental karting is the world's most popular motorsport participation (business parks and indoor tracks everywhere), while competition karting is a serious technical discipline — chassis tuning, tire management, and race craft at wheel-to-wheel proximity. The FIA Karting World Championship's classes (OK, OK-Junior, KZ) and the national series (SKUSA in the US, the British and Italian championships) form the ladder every racing career climbs.",
+      "Newcomers can start the same weekend: rental karting sessions teach the racing line's basics, and club racing with used equipment is motorsport's cheapest serious entry ($3,000-8,000 for a competitive used kart package). The skills — weight management, braking discipline, and wheel-to-wheel confidence — transfer to every form of motorsport above it."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "Late 1950s USA — Art Ingels builds the first go-kart (1956); the sport spreads globally through the 1960s"
+      ],
+      [
+        "Governing body",
+        "FIA Karting (world championships: OK, OK-Junior, KZ classes); SKUSA and national federations; rental leagues (worldwide series)"
+      ],
+      [
+        "The kart",
+        "No suspension, no differential, rear axle front and rear brakes in shifters; chassis flex is the 'suspension' — tuning is geometry"
+      ],
+      [
+        "Classes",
+        "Kid kart (5-7), Cadet (8-12), Junior, Senior (OK direct-drive), KZ shifter (125cc six-speed, 160 km/h); rental leagues for everyone"
+      ],
+      [
+        "Speed reality",
+        "Sprint karts corner at 3+ g lateral; shifter karts out-accelerate most sports cars; the physicality surprises everyone"
+      ],
+      [
+        "Pro pathway",
+        "The FIA's karting-to-F1 ladder: national karting → international → F4 and beyond"
+      ]
+    ],
+    "history": [
+      [
+        "1956-1960s",
+        "Art Ingels' first kart in a Glendale garage; the sport explodes across America, then Europe."
+      ],
+      [
+        "1970s-1980s",
+        "The world championships organize; the junior ladders formalize; karting becomes motorsport's recognized root."
+      ],
+      [
+        "1990s-2000s",
+        "The academy era: F1 teams fund junior karting; the FIA's superlicense system formalizes karting's role."
+      ],
+      [
+        "2010s-2020s",
+        "Rental karting's explosion (SWS global leagues); shifter classes' peak performance; electric karting's arrival."
+      ]
+    ],
+    "formats": [
+      [
+        "Sprint racing",
+        "Heat races into finals: the standard club and national format (10-20 lap finals)."
+      ],
+      [
+        "Endurance karting",
+        "Team races of 1-24 hours (rental karts): the corporate and club favorite."
+      ],
+      [
+        "FIA world & continental championships",
+        "OK, OK-Junior, and KZ world titles: the elite ladder."
+      ],
+      [
+        "Rental leagues",
+        "Arrive-and-drive championships worldwide: the sport's mass base."
+      ]
+    ],
+    "skills": [
+      [
+        "The racing line & braking",
+        "Karting's first lessons: apex discipline, late braking, and the corner-exit priority.",
+        "Rental sessions with lap-time focus; brake-point drills; follow a fast driver for one session."
+      ],
+      [
+        "Weight management",
+        "The kart's secret suspension: leaning into corners, seating position, and the hips' role.",
+        "Seat-time with position awareness; video of body position; core strength for the loads."
+      ],
+      [
+        "Chassis tuning",
+        "The engineering half: tire pressures, seat position, axle stiffness, and caster — the kart responds to everything.",
+        "Tuning logs per track; a mentor or tuner's guidance; one variable changed at a time."
+      ],
+      [
+        "Wheel-to-wheel racing",
+        "The proximity sport: clean contact-light racing, defending, and the psychology of mirrors.",
+        "Heat-race experience (the teacher); racecraft study; respect-first etiquette."
+      ],
+      [
+        "Fitness for g-forces",
+        "3 g corners through the neck and ribs: kart fitness surprises every newcomer.",
+        "Neck and core training; cardio base; hydration for hot sessions."
+      ],
+      [
+        "Race craft & starts",
+        "The rolling start's art and the first-lap survival: kart racing's most important five seconds.",
+        "Start drills at club races; first-lap positioning study; patience as a trained skill."
+      ]
+    ],
+    "rules": [
+      "Racing format: practice, heats (points), prefinal, final (the standard club structure); FIA classes have qualifying laps and heats.",
+      "Classes by age and engine: kid kart through KZ shifter; weight minimums per class (with ballast).",
+      "Conduct: blocking one defensive move, contact penalties by the clerk of the course, and flags' law (yellow, blue, black).",
+      "Equipment: helmets (FIA-approved), suits, gloves; engine and tire specs per class; tech inspection after finals.",
+      "Rental karting rules: venue-specific but universal in spirit — no deliberate contact, respect the flags, and weight classes in serious leagues.",
+      "Licensing: club membership and licenses by federation; FIA licenses for international racing.",
+      "Safety: full track design standards, karts inspected, and the sport's junior-safety emphasis everywhere."
+    ],
+    "equipment": [
+      [
+        "Racing kart",
+        "Chassis + engine package: $3,000-8,000 used competitive; new $6,000-12,000 (by class)."
+      ],
+      [
+        "Helmet & suit",
+        "Approved helmet ($200-600), karting suit, gloves, boots ($150-400)."
+      ],
+      [
+        "Rib protector",
+        "Mandatory in most classes ($60-150): the sport's specific armor."
+      ],
+      [
+        "Tools & spares",
+        "The kart's toolkit: chains, sprockets, tire gauges, and a stand ($200-400)."
+      ],
+      [
+        "Rental sessions",
+        "The zero-equipment entry: $20-50 per session at commercial tracks."
+      ]
+    ],
+    "training": [
+      "Seat time above all: two sessions weekly beat any simulation; karting rewards volume.",
+      "Lap-time discipline: practice with a timer, chase consistency before raw pace.",
+      "Fitness for the loads: neck, ribs, and core — karting's physical tax is real.",
+      "Tuning education: learn one system (tires first) deeply with a mentor.",
+      "Watch national finals on video: the line choices and racecraft transfer directly."
+    ],
+    "pathway": [
+      [
+        "Rental karting",
+        "Arrive-and-drive leagues: the sport's universal first step."
+      ],
+      [
+        "Club racing",
+        "Used equipment and local series: the competitive door."
+      ],
+      [
+        "Regional & national championships",
+        "The cadet-to-senior ladder in your federation."
+      ],
+      [
+        "FIA international karting",
+        "European championships and world championships (OK, KZ)."
+      ],
+      [
+        "Car racing ladder",
+        "F4, F3 and beyond: karting is the root of every racing tree."
+      ]
+    ],
+    "events": [
+      [
+        "FIA Karting World Championship",
+        "The elite classes' world titles: OK, OK-Junior, KZ."
+      ],
+      [
+        "National championships",
+        "Every karting nation's series (the British, Italian, US SKUSA systems)."
+      ],
+      [
+        "Rotax & SWS global leagues",
+        "The arrive-and-drive world championships of rental karting."
+      ],
+      [
+        "Endurance karting events",
+        "The 24-hour team races (Dubai, Cremona's traditions)."
+      ],
+      [
+        "Club race days",
+        "Every weekend somewhere: the sport's true calendar."
+      ]
+    ],
+    "legends": [
+      [
+        "Art Ingels",
+        "USA — the first kart's builder (1956): the sport's garage-born founder."
+      ],
+      [
+        "Every F1 champion",
+        "From Senna to Verstappen: karting's alumni list is motorsport's complete honor roll."
+      ],
+      [
+        "Ayrton Senna's kart roots",
+        "The Brazilian's karting years in the early 1970s-80s are the sport's most famous apprenticeship."
+      ],
+      [
+        "Max Verstappen's junior era",
+        "The youngest F1 winner's karting résumé (national titles at 8-12) — the modern academy model's proof."
+      ],
+      [
+        "The tuner-mentors",
+        "The sport's unsung teachers: the chassis gurus every champion thanks first."
+      ]
+    ],
+    "getting_started": [
+      "Do three rental sessions at a serious track: learn the line before buying anything.",
+      "Join a club race as a spectator once: the paddock teaches the sport's culture fast.",
+      "Buy used for your first kart: $3,000-5,000 gets you racing honestly.",
+      "Take a rib protector and good helmet: the gear list is short and strict.",
+      "Find a mentor or tuner: karting's knowledge transfers person-to-person.",
+      "Race the club season before upgrading anything: experience beats equipment every time."
+    ],
+    "glossary": [
+      [
+        "Chassis",
+        "The kart's frame — its flex IS the suspension."
+      ],
+      [
+        "Shifter (KZ)",
+        "The six-speed, clutch-equipped top class: 160 km/h of violence."
+      ],
+      [
+        "Sprocket & gear ratio",
+        "The gearing math of every track."
+      ],
+      [
+        "Apex & exit",
+        "The line's grammar: slow in, fast out."
+      ],
+      [
+        "Rib protector",
+        "The sport's signature armor."
+      ],
+      [
+        "Heat",
+        "A preliminary race scored into the final."
+      ],
+      [
+        "Kid kart",
+        "The 5-year-olds' entry class: the sport's famous pipeline."
+      ],
+      [
+        "'Pre-grid'",
+        "The formation before the start."
+      ],
+      [
+        "'Scale' (weigh-in)",
+        "The post-race weight check every kart and driver must make."
+      ],
+      [
+        "Arrive-and-drive",
+        "The rental format: no equipment, all racing."
+      ]
+    ],
+    "related": [
+      "formula-1",
+      "motogp",
+      "rallying",
+      "motocross",
+      "bmx-racing"
+    ],
+    "crosslink": false
+  }
+]

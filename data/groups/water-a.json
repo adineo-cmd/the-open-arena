@@ -1,0 +1,1995 @@
+[
+  {
+    "slug": "swimming",
+    "name": "Swimming",
+    "category": "water",
+    "glyph": "🏊",
+    "tagline": "The only sport where the arena is trying to slow you down — four strokes, one clock.",
+    "origin": "England · 1837 (competitive era) · Olympic 1896",
+    "tags": [
+      "Olympic core",
+      "Four strokes",
+      "Technique sport",
+      "Life skill"
+    ],
+    "overview": [
+      "Competitive swimming races four strokes — freestyle (front crawl by universal choice), backstroke, breaststroke, and butterfly — over distances from 50 to 1500 meters, plus medley events that combine all four. Because water is roughly 800 times denser than air, the sport is decided less by power than by the shape you push through it: stroke mechanics, body line, and drag reduction are the true engines.",
+      "Swimming has been on every modern Olympic program since Athens 1896, and its champions are among the most decorated athletes in Games history — Michael Phelps' 23 golds and Katie Ledecky's distance dynasty are the headline numbers of an event pool that now awards 35+ golds per Games. Beyond medals, it is the world's most useful sport: the life skill that every water discipline (and every survival situation) is built on.",
+      "Newcomers should chase technique before fitness: a single session with a coach on body position and catch saves months of grinding bad habits. Count strokes per length — efficiency, not effort, is the sport's honest scoreboard — and learn all four strokes even if you race one; each one teaches the others something."
+    ],
+    "facts": [
+      [
+        "Competitive origins",
+        "England 1837 (first indoor races, National Swimming Society); ASA founded 1869; first modern Olympic swimming 1896 (Athens, in open sea)"
+      ],
+      [
+        "Governing body",
+        "World Aquatics (FINA 1908-2022, renamed 2023); 200+ national federations"
+      ],
+      [
+        "Olympic pool",
+        "50 m long-course (10 lanes); short-course 25 m season in winter; depth 2-3 m for wave-damping"
+      ],
+      [
+        "Strokes & events",
+        "Freestyle 50-1500 m, backstroke 100-200 m, breaststroke 100-200 m, butterfly 100-200 m, IM 200-400 m, plus 7 relays; marathon 10 km in open water"
+      ],
+      [
+        "Records & timing",
+        "Electronic timing to 0.01 s; world records need WASA-approved pools and anti-doping standards"
+      ],
+      [
+        "Participation",
+        "Among the most participated sports globally; masters swimming runs 25-100+ age groups"
+      ]
+    ],
+    "history": [
+      [
+        "Prehistory-1800s",
+        "Humans swim for survival and ritual from antiquity (Egyptian hieroglyphs, Japanese suijutsu schools); England's 19th-century baths make it a sport."
+      ],
+      [
+        "1844",
+        "The Flying Gull and Tobacco, two Ojibwe swimmers, demonstrate the front crawl in London — nearly doubling the breaststroke speeds of the day; the British find it splashy and improper."
+      ],
+      [
+        "1873-1902",
+        "Trudgen stroke (arm crawl, scissors kick) then Cavill's Australian crawl standardize freestyle; the modern engine arrives."
+      ],
+      [
+        "1896-1912",
+        "Olympic debut in the Bay of Zea (1896); women's events from Stockholm 1912; Duke Kahanamoku's Olympic titles spread swimming's gospel."
+      ],
+      [
+        "1930s-1950s",
+        "Butterfly evolves within breaststroke rules (1935-1952) before becoming its own stroke; flip turns appear; Japan and the US trade dynasties."
+      ],
+      [
+        "1972-2008",
+        "Mark Spitz's seven Munich golds; the East German program's tainted dominance; suit-tech wars (2008 polyurethane era) force the 2010 textile-only rule."
+      ],
+      [
+        "2004-2020s",
+        "Phelps' 23-Olympic-gold era, Ledecky's four-Games distance reign, and Paris 2024's 50-event program — swimming's widest Olympic stage yet."
+      ]
+    ],
+    "formats": [
+      [
+        "Long course (50 m)",
+        "The Olympic format: 50 m pools, summer championships, the sport's headline times."
+      ],
+      [
+        "Short course (25 m)",
+        "Faster winter format: extra turns reward underwater work; its own world championships."
+      ],
+      [
+        "Masters swimming",
+        "25-100+ five-year age groups, full event program, worlds every two years — the sport's lifetime promise, genuinely kept."
+      ],
+      [
+        "Open water & marathon",
+        "5-10 km and 25 km races in lakes, rivers, and sea — the sport's endurance frontier (see open-water-swimming)."
+      ]
+    ],
+    "skills": [
+      [
+        "Freestyle (front crawl)",
+        "The efficiency standard: high-elbow catch, body rotation along the long axis, two-beat or six-beat kick, breathing in the bow wave's trough.",
+        "Drill progression: catch-up drill for stroke length, 6-1-6 side-kick for rotation, fingertip drag for recovery; count strokes per 50 m and cut them without losing time."
+      ],
+      [
+        "Backstroke",
+        "Upside-down freestyle: steady head, shoulder rotation, straight-arm recovery, dolphin-driven starts off the wall.",
+        "Kick-with-board-on-chest drill, single-arm backstroke, spin drills for tempo; 10×50 m descending sets on tight rest."
+      ],
+      [
+        "Breaststroke",
+        "The technical tyrant: symmetrical kick (whip, not scissors), streamline glide, and a pull that must obey turn rules to the millimeter.",
+        "Kick isolation with a board; two-kicks-one-pull for timing; pullout practice off every wall with legal one dolphin-kick timing."
+      ],
+      [
+        "Butterfly",
+        "The power stroke: dolphin kick from the core, both arms recovering together over the water, breath forward without lifting.",
+        "Body-dolphin drills (8 kicks on front/side/back), one-arm fly, 3-3-3 patterns; short repetitions (25 m) at race pace with full rest."
+      ],
+      [
+        "Starts & turns",
+        "Races are won on walls: reaction-dive mechanics, underwater dolphin speed (15 m limit), open and flip turns with legal touches.",
+        "Dive rehearsals weekly (reaction + entry through one hole); push-off streamline counts; turn speed sets: 10×25 m from push, half underwater."
+      ],
+      [
+        "Pacing & race craft",
+        "Even splitting for distance, front-end control for sprints; lane awareness in championship racing.",
+        "Pace sets with the clock: 8×100 m holding target stroke count and split; broken swims (4×50 with :10 rest) to rehearse race pace."
+      ]
+    ],
+    "rules": [
+      "Freestyle means any stroke (crawl by choice); in medley events it must be anything but butterfly, backstroke, or breaststroke.",
+      "Breaststroke and butterfly require simultaneous two-arm/two-leg motions; single-cycle violations are disqualifications.",
+      "Backstroke starts in the water; finishes on the back. Butterfly and breaststroke finish with a two-hand simultaneous touch.",
+      "Underwater limits: 15 m off every start and turn (all strokes); breaststroke allows one dolphin kick in the pullout.",
+      "False start: one false start disqualifies (since 1998); relays require the incoming swimmer's touch before the next start.",
+      "Turns: freestyle and backstroke use tumble turns (feet-only contact needed); breast/butterfly require two-hand touches.",
+      "Tech-suit rule (since 2010): textile-only, FINA-approved models; no zippers or fastening systems beyond shoulder straps."
+    ],
+    "equipment": [
+      [
+        "Swimsuit & cap",
+        "Textile jammers/racers for training and approved race suits ($20-80 training; $200-450 racing 'tech suits' legal for age-group rules); silicone caps ($8-15)."
+      ],
+      [
+        "Goggles",
+        "Training pairs (Swedish or mirrored, $10-30) plus a low-profile race pair tested under starts; two pairs in the bag, always."
+      ],
+      [
+        "Training tools",
+        "Kickboard, pull buoy, short fins, paddles (use small), snorkel for technique work — $80 for the full kit that lasts years."
+      ],
+      [
+        "Pace clock & watch",
+        "The pool's big clock is the sport's metronome; a training watch with interval mode for open water."
+      ],
+      [
+        "Dryland kit",
+        "Stretch cords for stroke-pattern strength, foam roller, and the humility to do mobility work daily — shoulders are the sport's currency."
+      ]
+    ],
+    "training": [
+      "Technique-first volume: 3-4 quality sessions beat 7 sloppy ones at every level below elite; stroke count is your coach in the water.",
+      "A balanced racing week: aerobic base sets, threshold (100s-200s) main, speed (25s-50s race pace) sharpener, and one kick-dominant session.",
+      "Dryland 2-3× weekly: pull-up patterns, rotator-cuff band work daily, core anti-rotation — the shoulder-saving program is not optional.",
+      "Masters clubs welcome every level: structured practices, lane mates at your speed, and the sport's famously kind community.",
+      "Recovery is training: sleep and nutrition decide adaptation; naps are a legitimate swimmer's supplement."
+    ],
+    "pathway": [
+      [
+        "Learn-to-swim",
+        "The first rung is a life skill: water confidence, all four strokes' basics, and the club's youngest squads."
+      ],
+      [
+        "Age-group swimming",
+        "Club squads by ability (not just age); regional qualifying times, state/national age championships."
+      ],
+      [
+        "Junior international",
+        "National junior teams, European Junior Worlds; the US collegiate system (NCAA) is the world's largest development platform."
+      ],
+      [
+        "Elite & pro",
+        "National teams, World Aquatics Championships (LC/SC), the World Cup circuit, and professional leagues (ISL era experiments)."
+      ],
+      [
+        "Olympic Games",
+        "The four-yearly summit: ~854 swimmers, 41 events (Paris 2024), qualification by time and relay."
+      ],
+      [
+        "Masters",
+        "From 25 up: world masters championships, records in five-year bands — the sport never retires you."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic Games",
+        "Since 1896; 41 events (Paris 2024) across strokes, distances, IM, and relays — aquatics' fortnight."
+      ],
+      [
+        "World Aquatics Championships",
+        "Every two years (and odd years now): 42+ pool events plus open water, diving, artistic, and water polo in one festival."
+      ],
+      [
+        "World Swimming Championships (25 m)",
+        "The short-course worlds every even year — turn-heavy, record-friendly."
+      ],
+      [
+        "Continental & national championships",
+        "Europeans, Pan-Pacs' successor circuits, US Trials (the deepest single meet in sport) — qualification theater at its finest."
+      ],
+      [
+        "Masters worlds & open water circuit",
+        "Biennial masters worlds and the 10 km World Cup series — the sport's lifelong and wild-water branches."
+      ]
+    ],
+    "legends": [
+      [
+        "Michael Phelps",
+        "USA — 28 Olympic medals, 23 gold: the most decorated Olympian in any sport, across five Games (2000-2016)."
+      ],
+      [
+        "Katie Ledecky",
+        "USA — the distance dynasty: world records from 400 to 1500 m freestyle and Olympic golds across four Games (2012-2024)."
+      ],
+      [
+        "Mark Spitz",
+        "USA — seven golds, seven world records at Munich 1972; the standard Phelps chased for a generation."
+      ],
+      [
+        "Dawn Fraser",
+        "Australia — three consecutive 100 m freestyle Olympic golds (1956-1964); the first great sprint queen and a personality to match."
+      ],
+      [
+        "Ian Thorpe",
+        "Australia — 'the Thorpedo': five Olympic golds and freestyle world records that held through the fast-suit era's dawn."
+      ]
+    ],
+    "getting_started": [
+      "Take one coached technique block (6-8 weeks) before chasing fitness — swimming rewards good shapes, not hard grinding.",
+      "Join a masters club or triathlon swim squad: structured sessions and lane discipline will triple your improvement rate.",
+      "Count strokes per length from week one; efficiency gains are the beginner's superpower.",
+      "Learn legal turns early: practicing open turns at the wall from day one prevents years of bad habits.",
+      "Get a proper suit, two pairs of goggles, and a swimmer's snorkel — a $60 kit that unlocks every drill.",
+      "Swim three times weekly minimum: the water forgets you quickly; consistency is the sport's whole secret."
+    ],
+    "glossary": [
+      [
+        "Long course / short course",
+        "50 m vs 25 m pools — the sport's two seasons and record books."
+      ],
+      [
+        "IM (individual medley)",
+        "Butterfly, backstroke, breaststroke, freestyle in that order — four strokes, one athlete."
+      ],
+      [
+        "Catch",
+        "The moment the hand anchors in the water and the body passes it by — freestyle's holy grail."
+      ],
+      [
+        "Streamline",
+        "The locked-arms, pointed-toes push-off shape; the fastest a swimmer ever travels is off the wall."
+      ],
+      [
+        "Split",
+        "An intermediate time; negative splits (faster second half) are distance racing's ideal shape."
+      ],
+      [
+        "Taper",
+        "The championship-season volume drop that leaves you rested, springy, and slightly insane."
+      ],
+      [
+        "Dolphin kick",
+        "The whip from core to feet powering butterfly and every underwater phase — swimming's fifth stroke."
+      ],
+      [
+        "DQ (disqualification)",
+        "The stroke judge's verdict for technical violations; every swimmer has a story."
+      ],
+      [
+        "Tech suit",
+        "The approved racing suit era's carbon of choice — pricey, legal, and worth seconds."
+      ],
+      [
+        "LCM / SCM",
+        "Long course meters / short course meters — the alphabet soup on every time standard."
+      ]
+    ],
+    "related": [
+      "open-water-swimming",
+      "artistic-swimming",
+      "diving",
+      "triathlon",
+      "water-polo"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "open-water-swimming",
+    "name": "Open Water Swimming",
+    "category": "water",
+    "glyph": "🌊",
+    "tagline": "No lanes, no walls, no black line — just a horizon, a cap color, and navigation.",
+    "origin": "England · 1875 (Channel era) · Olympic 10 km 2008",
+    "tags": [
+      "Marathon swimming",
+      "Olympic 10 km",
+      "Channel swimming",
+      "Wetsuit-optional"
+    ],
+    "overview": [
+      "Open water swimming is racing (or completing) swims in lakes, rivers, and seas — from 1-5 km amateur races to the Olympic 10 km marathon and multi-channel expeditions. The craft is different from pool swimming: you navigate by sighting, draft by feel, feed from boats and pontoons, and race a course of buoys where the field's contact is part of the game.",
+      "The sport's founding legend is Matthew Webb's 1875 English Channel crossing (21 hours, breaststroke, brandy and grease); its modern calendar runs World Aquatics' 10 km world cup circuit to the Olympic marathon swim, while solo channel swimming keeps its own subculture of pilots, rules, and records — the Triple Crown (Channel, Manhattan, Catalina) and the Oceans Seven.",
+      "Newcomers should start with a wetsoit-legal local race of 1-2 km, learn sighting (every 6-12 strokes) in the pool first, and never swim open water alone: clubs, kayakers, and lifeguarded events are the sport's infrastructure. Cold acclimation, feeding strategy, and navigation are the three new disciplines stacked on your pool engine."
+    ],
+    "facts": [
+      [
+        "Founding feat",
+        "Matthew Webb swims the English Channel, 1875 (21 h 45 min); first woman Gertrude Ederle 1926 (14 h 31 min, breaking the men's record)"
+      ],
+      [
+        "Governing body",
+        "World Aquatics (marathon swim worlds since 1991, world cup era from the 2000s; Olympic 10 km since Beijing 2008); Channel Swimming Association et al. for solo rules"
+      ],
+      [
+        "Olympic event",
+        "10 km marathon swim, men and women, since 2008; four loops, feeding pontoons, no wetsuits above 20 °C (elite)"
+      ],
+      [
+        "Distances",
+        "1 km, 2 km, 5 km, 7.5 km, 10 km, 25 km worlds; channel swims 21-33 km; stage swims longer"
+      ],
+      [
+        "Wetsuit rules",
+        "Elite marathon: no wetsuits above 20 °C water (and below 18 °C required); amateur events often wetsuit-optional divisions"
+      ],
+      [
+        "Major challenges",
+        "English Channel, Catalina, Manhattan Island (Triple Crown); Oceans Seven channels; Ice swimming (below 5 °C, IISA)"
+      ]
+    ],
+    "history": [
+      [
+        "1875",
+        "Webb's Channel crossing — endurance sport's first mass-media superstar event."
+      ],
+      [
+        "1926",
+        "Gertrude Ederle's Channel record obliterates the men's mark; open water leads swimming's equality by a century."
+      ],
+      [
+        "1927-1950s",
+        "Channel rules standardize (no touching the boat, one suit, cap, goggles); the solo culture and its pilots' registry are born."
+      ],
+      [
+        "1980s-1990s",
+        "Professional marathon circuits (Atlantic City, lac St-Jean's 32 km races) keep the flame; World Aquatics embraces open water worlds (first official in 1991, the 5 km from 1998, and the 10 km in the 2000s)."
+      ],
+      [
+        "2008",
+        "The 10 km marathon swim debuts at the Beijing Olympics in a rowing basin — open water joins the family."
+      ],
+      [
+        "2010s-2020s",
+        "Oceans Seven completes (2008 list, first finisher 2012); Paris 2024's Seine marathon marks the event's urban era; Ice swimming establishes its own world championships."
+      ]
+    ],
+    "formats": [
+      [
+        "Olympic/elite marathon 10 km",
+        "Four-loop courses, feeding platforms, no wetsuits at elite temperature rules — the sport's summit format."
+      ],
+      [
+        "Worlds distances",
+        "5 km, 10 km, 25 km (and mixed-team relay 4×1.5 km since 2011): the world championship program."
+      ],
+      [
+        "Mass-participation races",
+        "1-5 km events (wetsuit divisions) — the sport's social heart from parkrun-style series to Great Swim festivals."
+      ],
+      [
+        "Channel & solo swims",
+        "Pilot-escorted solo crossings under association rules: one suit, cap, goggles; no touching; observer-verified."
+      ],
+      [
+        "Winter/Ice swimming",
+        "IISA categories below 5 °C (ice mile, ice km) — the cold frontier with its own medical protocols."
+      ]
+    ],
+    "skills": [
+      [
+        "Sighting",
+        "Lifting the eyes every 6-12 strokes to navigate buoys without breaking rhythm — the sport's defining technique.",
+        "Pool sighting drills: 8×50 m with 3 lifts per length; open water practice swimming point-to-point with landmarks."
+      ],
+      [
+        "Drafting & pack positioning",
+        "Riding hips and feet saves 10-20% energy; contact is constant — position on the buoy line is tactical gold.",
+        "Group swims with rotating leaders; practiced buoy turns at race pace with 3-5 swimmers side by side."
+      ],
+      [
+        "Feeding strategy",
+        "Gel + carbohydrate drink from pontoons or kayaks every 20-30 min on long swims; the skill of eating horizontal.",
+        "Rehearse feeds in training: kayak or float stops, exactly the race plan's intervals; log what the stomach accepts cold."
+      ],
+      [
+        "Cold acclimation",
+        "Cold-water adaptation, from 2-3 minute dips to hour-long 15 °C swims — built gradually, with shiver-safety protocols.",
+        "Progressive cold exposure (2× weekly, shortening times tracked); afterdrop knowledge; never cold-swim alone."
+      ],
+      [
+        "Navigation & race tactics",
+        "Course lines between buoys, current use (Channel's tidal windows), sprint positioning into the final turn.",
+        "Study course maps; practice straight-line swimming eyes-closed (count stroke drift); finish sprints from the last buoy."
+      ],
+      [
+        "Wetsuit swimming",
+        "Different buoyancy and shoulder restriction: adapted stroke, quick-release familiarity.",
+        "Train in the suit before racing it: 6+ sessions; practice zip-down exits in transition-style rehearsals."
+      ]
+    ],
+    "rules": [
+      "Elite marathon (World Aquatics): no wetsuits when water exceeds 20 °C (wetsuits mandatory below 18 °C per current rules); suits max 5 mm.",
+      "Course: marked buoys, intentional cutting or contact can draw yellow/red card penalties (two yellows or a red = DQ).",
+      "Feeding only from approved platforms/boats; no propulsion assistance; touching the escort craft means disqualification in elite races.",
+      "Channel associations: one swimsuit, cap, goggles, earplugs; no touching boat or crew; observer log ratifies the swim; forward progress unassisted.",
+      "Water temperature and medical checks govern ice swimming (IISA): certified courses, medical teams, post-swim core-temperature protocols.",
+      "Mass events: wetsuit and non-wetsuit divisions scored separately; tow-floats increasingly standard."
+    ],
+    "equipment": [
+      [
+        "Wetsuit",
+        "Open-water specific (flexible shoulders, 3-5 mm; $150-600); fit is everything — a rental for race one, your own by race three."
+      ],
+      [
+        "Swim cap & goggles",
+        "Bright cap (visibility rules), wide-vision goggles for navigation (and mirrored lenses for sun); anti-fog ritual learned early."
+      ],
+      [
+        "Tow float",
+        "The bright inflatable buoy ($30-50): visibility to boats, dry-bag for keys, and legal in most amateur events."
+      ],
+      [
+        "Feed kit",
+        "Gels, carb bottles, a feed belt or kayaker plan — long-course logistics ($20-40)."
+      ],
+      [
+        "Grease & skin care",
+        "Anti-chafe (Channel traditions of lanolin live on), Vaseline at suit lines, and sunscreen that survives two hours of water."
+      ]
+    ],
+    "training": [
+      "Keep the pool as your engine: 2-3 pool sessions (technique, threshold, speed) plus 1-2 open water sessions weekly in season.",
+      "Acquire open-water skills deliberately: sighting, pack swimming, and turning done as drills, not hoped for on race day.",
+      "Long swim progression: build one weekly continuous swim to 60-90 min; longer for channel projects (with feeding rehearsal).",
+      "Cold acclimation is a slow project: months, not weeks; pair with safety knowledge (swim with clubs, know afterdrop).",
+      "Strength and mobility: shoulders and lats for hours of catch; bands and stretch cords 3× weekly."
+    ],
+    "pathway": [
+      [
+        "Pool to park swim",
+        "First 1-2 km mass swims (wetsuit fine) — the sport's front door and its festival culture."
+      ],
+      [
+        "5 km & age-group racing",
+        "National open water championships, world cup age events; qualifying ladders by federation."
+      ],
+      [
+        "10 km elite marathon",
+        "National teams, World Aquatics series, world championship and Olympic selection."
+      ],
+      [
+        "Solo channel swimming",
+        "Thepiloted classics: Channel bookings 1-2 years out, pilot fees, training swims logged, observer ratification."
+      ],
+      [
+        "Challenge collections",
+        "Triple Crown, Oceans Seven, ice miles — the sport's mountaineering-style tick lists."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic 10 km marathon swim",
+        "Since Beijing 2008: four loops, pontoons, and the tightest packs in swimming — Paris 2024 in the Seine its most famous edition."
+      ],
+      [
+        "World Aquatics open water worlds",
+        "5/10/25 km and the relay, biennial within the world championships festival."
+      ],
+      [
+        "World Aquatics World Cup circuit",
+        "City-hopping 10 km races (Setubal, Nantou, and more) deciding series titles."
+      ],
+      [
+        "English Channel solo season",
+        "The pilot-escorted season (June-September): ~80-100 solo successes a year under CSA/CS&PF rules."
+      ],
+      [
+        "Great Swim & mass series",
+        "The UK-born mass open water festivals (and their worldwide imitators): thousands per event, wetsuits welcome."
+      ]
+    ],
+    "legends": [
+      [
+        "Matthew Webb",
+        "Great Britain — the 1875 Channel crossing; open water's founding father and its first celebrity."
+      ],
+      [
+        "Gertrude Ederle",
+        "USA — 1926 Channel record 14:31, nearly two hours under the best men's time; the sport's first superstar."
+      ],
+      [
+        "Larisa Ilchenko",
+        "Russia — the first Olympic 10 km champion (2008) and multiple world titles; the pack-racing era's founding genius."
+      ],
+      [
+        "Petar Stoychev",
+        "Bulgaria — 11 consecutive world cup series titles and the first sub-7-hour Channel crossing (2010)."
+      ],
+      [
+        "Sarah Thomas",
+        "USA — the first four-way English Channel crossing (2019, 54 h); the frontier's current record-holder."
+      ]
+    ],
+    "getting_started": [
+      "Swim one 1 km mass event with a wetsuit this season — the sport's welcoming front gate.",
+      "Practice sighting in the pool: three lifts per 50 m until your line stays straight.",
+      "Never train in open water alone: clubs, kayakers, or lifeguarded venues only — the sport's first and permanent rule.",
+      "Buy a tow float before a second pair of goggles: visibility is safety is speed.",
+      "Learn the cold gradually: 2-3 minute dips in autumn build winter swimmers; shivering is data, not weakness.",
+      "Book nothing heroic for year one — open water rewards a season of humility and a good kayak friend."
+    ],
+    "glossary": [
+      [
+        "Sighting",
+        "The eyes-up navigation lift every 6-12 strokes — open water's steering wheel."
+      ],
+      [
+        "Drafting",
+        "Swimming in another's wake; legal, wise, and worth 10-20% of your energy."
+      ],
+      [
+        "Feeding",
+        "Carbs on the move from pontoon or kayak, every 20-30 minutes on long swims."
+      ],
+      [
+        "Pilot",
+        "The boat captain who steers your Channel line and holds your destiny politely."
+      ],
+      [
+        "Afterdrop",
+        "The post-cold-swim core temperature fall — the reason warm clothes come before congratulations."
+      ],
+      [
+        "Tow float",
+        "The bright buoy trailing your waist: visibility, dry storage, and moral support."
+      ],
+      [
+        "Observed swim",
+        "A crossing ratified by an official observer's log — the sport's notarized truth."
+      ],
+      [
+        "Neap / spring tides",
+        "The tidal windows channel pilots book around; open water's calendar."
+      ],
+      [
+        "Ice mile",
+        "A certified 1609 m below 5 °C; the IISA's frozen badge of honor."
+      ],
+      [
+        "Buoys",
+        "The course's turning gates — round them honestly; judges and jellyfish both notice."
+      ]
+    ],
+    "related": [
+      "swimming",
+      "triathlon",
+      "freediving",
+      "artistic-swimming",
+      "surfing"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "artistic-swimming",
+    "name": "Artistic Swimming",
+    "category": "water",
+    "glyph": "🩰",
+    "tagline": "Underwater gymnastics set to music — strength wearing the disguise of a smile.",
+    "origin": "Canada/Germany/USA · 1900s-1930s · Olympic 1984",
+    "tags": [
+      "Olympic",
+      "Precision team sport",
+      "Music & figures",
+      "Eggbeater engine"
+    ],
+    "overview": [
+      "Artistic swimming (synchronized swimming until World Aquatics renamed it in 2017) combines swimming strength, gymnastics flexibility, and dance precision: athletes perform choreographed routines to music above and below the water, judged on execution, difficulty, and artistic impression. The engine underneath the elegance is brutal — routines are swum largely anaerobically, with athletes holding positions upside down on breath holds while their legs draw patterns above the surface.",
+      "An Olympic sport since Los Angeles 1984 (duet and team events), it has been dominated in turn by the US and Canadian founding era, Japan's precision era, Russia's two-decade reign, and — after 2022's geopolitical exclusion — a widened field where China has taken the throne. Men entered the world-championship stage from 2015 and the Olympic pathway officially from Paris 2024's rules.",
+      "Newcomers should know two truths: the smile is a job requirement (judges score artistic impression), and the eggbeater — the rotary treading kick that lifts swimmers half out of the water — is the sport's barbell. Land drill (walking routines on deck before water) is how every routine is learned, and nose clips are non-negotiable equipment."
+    ],
+    "facts": [
+      [
+        "Modern origins",
+        "1900s water ballet exhibitions (Australia's Annette Kellerman among founders); Canadian & US clubs codify figures 1930s-50s; FINA governance 1952-1968"
+      ],
+      [
+        "Olympic debut",
+        "Los Angeles 1984 — solo and duet (team added Atlanta 1996; program now duet + team; men eligible from 2024 rules)"
+      ],
+      [
+        "Governing body",
+        "World Aquatics; national federations; club-to-elite age-group ladders"
+      ],
+      [
+        "Events",
+        "Duet (technical + free), team (technical + free; 8 swimmers, with 4-8 allowed by competition), acrobatic team, solo at worlds; figures at age-group level"
+      ],
+      [
+        "Judging",
+        "Three panels — execution, difficulty, artistic impression; routines scored on a 10-point scale converted to points; underwater speakers carry music"
+      ],
+      [
+        "Physical truth",
+        "Routines run 2-4 minutes at near-maximal heart rate; athletes spend long phases inverted on breath (typical training: 30-60 s underwater repeats)"
+      ]
+    ],
+    "history": [
+      [
+        "1890s-1900s",
+        "Annette Kellerman's 'underwater ballerina' exhibitions make water entertainment a phenomenon; water ballet clubs spread."
+      ],
+      [
+        "1933-34",
+        "The term 'synchronized swimming' debuts at the Chicago World's Fair; the US adopts the name."
+      ],
+      [
+        "1952-1968",
+        "FINA recognizes the sport (1952); the first world championships arrive 1973; the figures-and-rules architecture standardizes."
+      ],
+      [
+        "1984",
+        "Los Angeles: Olympic debut — the US and Canada split the first golds; the sport's television age begins."
+      ],
+      [
+        "1990s-2021",
+        "Japan's precision, then Russia's two-decade hegemony (Olympic team golds 2000-2021); the code evolves toward difficulty-weighted scoring."
+      ],
+      [
+        "2017",
+        "Renamed artistic swimming worldwide — a name change that finally matches the sport's athletic reality."
+      ],
+      [
+        "2022-2024",
+        "Russia's exclusion widens the field; China's world-title era (2022-2024) crowns Paris 2024; men's Olympic eligibility formalized — the sport's next chapter opens."
+      ]
+    ],
+    "formats": [
+      [
+        "Technical routines",
+        "Prescribed elements embedded in choreography: the sport's figures exam performed to music (duet and team)."
+      ],
+      [
+        "Free routines",
+        "Fully choreographed programs of chosen difficulty — where innovation (hybrid lifts, throws) scores."
+      ],
+      [
+        "Acrobatic team",
+        "The newest world-championship event: lifts, throws, and balances — gymnastics' teamwork amplified by water."
+      ],
+      [
+        "Age-group figures",
+        "Junior competition's technical backbone: individual figure execution graded to fractions of a point."
+      ]
+    ],
+    "skills": [
+      [
+        "Eggbeater",
+        "The alternating rotary kick that powers all verticals and lifts — height above water is scored directly.",
+        "Eggbeater volume: 4×(30 s max-height travel + 30 s easy); weighted-ball eggbeater passes; vertical height metrics tracked weekly."
+      ],
+      [
+        "Verticals & boosts",
+        "Inverted leg positions held and launched (boosts) — the sport's signature above-surface geometry.",
+        "Vertical endurance sets: 8×(20-30 s verticals with travel); boost drills off partners and walls; alignment filming monthly."
+      ],
+      [
+        "Breath control & underwater phases",
+        "Pattern work below the surface on long holds — the sport's hidden engine.",
+        "Anaerobic apnea sets: 10×25 m underwater swims; routine-segment repeats with coached breath plans; CO2 tolerance built progressively."
+      ],
+      [
+        "Flexibility & line",
+        "Ballet lines, splits, and pointed geometry: the aesthetic scoring currency.",
+        "Daily flexibility (splits, shoulders, backbends — 30 min), PNF sessions weekly; lines filmed and corrected like technique."
+      ],
+      [
+        "Synchronization",
+        "Timing with music (counted in eighths) and partners: precision is a trained sense, not a talent.",
+        "Land drill: full routines walked on deck with counts; mirror work; partial-routine repeats with video timing checks."
+      ],
+      [
+        "Choreography & artistic impression",
+        "Theme, musicality, and the performance quality that fills the third panel.",
+        "Performance runs with judges' feedback; theater and dance cross-training; the smile rehearsed until honest."
+      ]
+    ],
+    "rules": [
+      "Routines are scored by three panels: execution (precision of movements), difficulty (technical difficulty of elements), artistic impression (choreography, music, manner of presentation).",
+      "Technical routines include required elements; free routines include declared difficulty cards pre-submitted for scoring.",
+      "Pool requirements: minimum 3 m depth (for throws and pattern work), underwater speakers, and marked competition zones.",
+      "Nose clips are standard (inverted work forbids breathing); goggles are not permitted in senior international competition.",
+      "Marks: 10-point scale per panel, multiplied by difficulty factors; deductions for touches of the pool bottom (penalized where depth permits, with intentional bottom support a clear penalty) and time violations.",
+      "Team sizes: 8 swimmers (technical/free), acrobatic routines by event rules; a mixed-gender option exists at worlds level (a maximum of 2 men by current rule).",
+      "Men's eligibility: included at world championships since 2015 and the Olympic pathway opened by 2024 rules — the sport's newest chapter."
+    ],
+    "equipment": [
+      [
+        "Nose clip",
+        "The sport's most personal equipment: inverted breath-holds demand one ($5-15; bring three)."
+      ],
+      [
+        "Gelatin-free hair kit",
+        "Unflavored gelatin sets the bun solid for routines; the pre-competition ritual ($3 a tub, boiled and set 2 hours before)."
+      ],
+      [
+        "Swimsuit & routine suit",
+        "Training suits daily; competition suits are hand-sewn art with headpieces ($200-800, team suits shared and guarded)."
+      ],
+      [
+        "Underwater speakers",
+        "Competition-standard sound — clubs own portable units ($150-400) for real training conditions."
+      ],
+      [
+        "Land-training kit",
+        "Ballet barre, mats, and stretch cords — half the sport happens on deck."
+      ]
+    ],
+    "training": [
+      "Weekly structure: 5-7 water sessions (routine, figures, conditioning) + 2-3 land sessions (strength, flexibility, land drill).",
+      "Anaerobic and breath conditioning: routine-fragment repeats at race heart rate; underwater travel sets — the sport's specific fitness.",
+      "Eggbeater and vertical strength: measured monthly by height and hold times; weighted work in deep water.",
+      "Flexibility daily: the sport judges lines, and lines are trained like times in swimming.",
+      "Artistic training is real training: performance runs with feedback loops; watch video the way swimmers read clocks."
+    ],
+    "pathway": [
+      [
+        "Learn-to-swim & club entry",
+        "Strong swimming base first; clubs recruit from swim programs for figures and mini-routines."
+      ],
+      [
+        "Age-group competitive",
+        "Figures and routine competitions by age band (11-12 through junior); provincial/state to national championships."
+      ],
+      [
+        "Junior international",
+        "World Aquatics junior worlds; the technical figures backbone narrows toward specialization."
+      ],
+      [
+        "Senior national team",
+        "Duet and team selections; grand prix circuit and world series (World Aquatics Artistic Swimming World Series)."
+      ],
+      [
+        "Worlds & Olympics",
+        "The sport's summit: world championships annually in the modern cycle (biennial in earlier eras), and the Olympic duet + team program."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic Games",
+        "Duet and team since 1984/1996 (women), men eligible from the 2024-cycle rules — the sport's four-yearly summit."
+      ],
+      [
+        "World Aquatics Championships",
+        "Technical/free duet and team, acrobatic team, and mixed duet — the full championship program."
+      ],
+      [
+        "Artistic Swimming World Series",
+        "The annual professional circuit of super finals and stops (since 2017 format)."
+      ],
+      [
+        "Junior world championships",
+        "The pathway's proving ground; figures-heavy and ruthlessly technical."
+      ],
+      [
+        "National championships & club meets",
+        "Age-group figures and routines — the sport's broad base and its judging schools."
+      ]
+    ],
+    "legends": [
+      [
+        "Svetlana Romashina",
+        "Russia — seven Olympic golds across four Games (2004-2020 era teams/duets); the sport's most decorated champion."
+      ],
+      [
+        "Anastasia Davydova",
+        "Russia — five Olympic golds; the synchronicity standard of the 2004-2012 golden era."
+      ],
+      [
+        "Bill May",
+        "USA — the first male world champion (2015 mixed duet); the pioneer of men's inclusion."
+      ],
+      [
+        "Sylvie Frechette",
+        "Canada — Olympic solo gold (1992, after scoring controversy finally corrected); the artistic era's icon."
+      ],
+      [
+        "Carolyn Waldo & Tr Ruiz? — the founders' era",
+        "Canada and the US (Waldo's 1988 double gold, Ruiz-era titles) — the sport's first Olympic champions who built its vocabulary."
+      ]
+    ],
+    "getting_started": [
+      "Arrive with a swimming base (50 m continuous, comfortable deep water) — the sport builds on the pool, not instead of it.",
+      "Find an artistic swimming club; most run beginner sessions where figures and nose clips are introduced together.",
+      "Learn eggbeater early and volume-ize it: height is scoring currency from your first routine.",
+      "Expect land drill: routines are walked and counted on deck before they ever meet water.",
+      "Buy three nose clips and a plain white training suit — gelatin comes later, with your first routine suit.",
+      "Go watch a club competition: the judging vocabulary makes sense live, and the community is the sport's real infrastructure."
+    ],
+    "glossary": [
+      [
+        "Eggbeater",
+        "The rotary treading kick that powers lifts and verticals — the sport's engine."
+      ],
+      [
+        "Ballet leg",
+        "The fundamental figure: one leg vertical at the surface, the body flat below."
+      ],
+      [
+        "Boost",
+        "An explosive eggbeater-driven rise lifting the body clear of the water."
+      ],
+      [
+        "Hybrid figure",
+        "A linked sequence of leg movements in a vertical — the modern difficulty currency."
+      ],
+      [
+        "Land drill",
+        "Walking routines on deck with counts before water — the sport's rehearsal method."
+      ],
+      [
+        "Figures",
+        "Technical elements performed individually and judged to fractions — age-group's backbone."
+      ],
+      [
+        "Deck work",
+        "The choreographed entry walk-on; judged before the swim even begins."
+      ],
+      [
+        "Nose clip",
+        "Non-negotiable equipment: inverted work happens on one breath."
+      ],
+      [
+        "Gelatin",
+        "The unflavored hair-set ritual — boiled, applied, and worn like a helmet."
+      ],
+      [
+        "Artistic impression",
+        "The third scoring panel: theme, musicality, and the manner of presentation — the sport's soul, quantified."
+      ]
+    ],
+    "related": [
+      "swimming",
+      "diving",
+      "rhythmic-gymnastics",
+      "open-water-swimming",
+      "dancesport"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "diving",
+    "name": "Diving",
+    "category": "water",
+    "glyph": "🤿",
+    "tagline": "Gravity's art form — 10 meters of freefall scored to half-points.",
+    "origin": "Europe · 1800s (Germany/Sweden) · Olympic 1904",
+    "tags": [
+      "Olympic",
+      "Precision aerial",
+      "3 m & 10 m",
+      "Rip entry"
+    ],
+    "overview": [
+      "Diving is the art of falling well: athletes leap from 1 m and 3 m springboards or the 10 m platform, performing somersaults and twists in the 1.5-2.5 seconds of freefall before hitting the water at 50+ km/h. Judges score each dive's approach, takeoff, aerial form, and entry; the degree of difficulty multiplies the judges' marks — the sport's arithmetic pairs gymnastics' courage with darts' precision.",
+      "An Olympic sport since St. Louis 1904 (with plain and fancy high diving roots in 19th-century German and Swedish gymnastic traditions), diving now awards eight golds per Games — individual and synchronized events on 3 m springboard and 10 m platform, men and women — plus high diving's 20 m/27 m world-championship cliff discipline.",
+      "Newcomers should respect the sport's ladder honestly: everything begins on dryland (trampoline, belts, mats), then 1 m, 3 m, and platforms in sequence — no dive is skipped, and the progression itself is the safety system. The 'rip' entry — entering vertically with a splash that seems to be sucked downward — is the skill that separates podiums from participation."
+    ],
+    "facts": [
+      [
+        "Modern origins",
+        "Germany & Sweden 1800s (turnvereine aerial arts into water); England's Amateur Diving Association 1901; first GB championships 1894-1901 era"
+      ],
+      [
+        "Olympic debut",
+        "St. Louis 1904 (fancy high diving); springboard from 1908; women's events from 1912"
+      ],
+      [
+        "Governing body",
+        "World Aquatics; national federations; USA Diving, British Swimming et al."
+      ],
+      [
+        "Events",
+        "1 m springboard (worlds), 3 m springboard, 10 m platform, synchronized 3 m & 10 m (Olympic program: 3 m + 10 m individual & synchro, 8 golds); high diving 20 m (women) / 27 m (men) at worlds"
+      ],
+      [
+        "Scoring",
+        "Seven judges (individual; eleven synchro) score 0-10; the sum × degree of difficulty = dive score; lists run six dives individually (five in synchro; women dove five in some eras, now six)"
+      ],
+      [
+        "Entry speed",
+        "10 m platform entries hit the water at ~51 km/h in ~1.6 s of flight"
+      ]
+    ],
+    "history": [
+      [
+        "1800s",
+        "German and Swedish gymnasts take aerial skills to lakes and pools; 'fancy diving' exhibitions spread through Europe."
+      ],
+      [
+        "1904-1912",
+        "Olympic debut in St. Louis; springboard arrives 1908; women dive from 1912 — the early US and German dynasties form."
+      ],
+      [
+        "1920s-1930s",
+        "The US golden age begins: the Los Angeles athletic culture (and the legendary Gallico era of Pete Desjardins and Georgia Coleman) — America owns the boards for decades."
+      ],
+      [
+        "1950s-1980s",
+        "The DD system matures; Greg Louganis' era (1976-1988) defines technical perfection; synchro debates begin."
+      ],
+      [
+        "2000",
+        "Sydney adds synchronized diving (3 m & 10 m) — the Olympic program reaches its modern shape."
+      ],
+      [
+        "2013-today",
+        "High diving joins the world championships (20 m/27 m); China's dynasty (35+ world titles and a near-total Olympic sweep in the 2000s-2020s) spreads the sport's depth through Great Britain, Russia's lineage, and North Korea."
+      ]
+    ],
+    "formats": [
+      [
+        "Springboard (1 m & 3 m)",
+        "The flexible board's takeoff adds power; 1 m at worlds, 3 m the Olympic flagship."
+      ],
+      [
+        "Platform (10 m)",
+        "The fixed tower: 1.5 s of flight for the biggest DDs — diving's headline height."
+      ],
+      [
+        "Synchronized diving",
+        "Two divers mirror or match simultaneously on 3 m or 10 m; judges score execution and synchronization."
+      ],
+      [
+        "High diving",
+        "Worlds-only cliff discipline: 20 m women / 27 m men, feet-first entries, no Olympics (yet) — the frontier."
+      ]
+    ],
+    "skills": [
+      [
+        "Approach & hurdle step",
+        "The springboard's four- or five-step approach ends in a hurdle (lifted knee jump onto the board's end) that times the board's flex — the whole dive's power source.",
+        "Hurdle drills daily: board rhythm work without dives; approach marks taped; coach-filmed board contact timing."
+      ],
+      [
+        "Takeoff",
+        "Consistent contact point and angle by board/platform; takeoff mistakes multiply by the water.",
+        "Dryland takeoff reps onto mats; platform leg strength (squats, jumps); takeoff logs per dive."
+      ],
+      [
+        "Aerial awareness",
+        "Somersault and twist mechanics with somersault-position-tightness (tuck/pike/straight) — the freefall's grammar.",
+        "Trampoline with belts: every new dive learned in rotation first; dryland twisting drills; progressive lead-ups never skipped."
+      ],
+      [
+        "Spotting & kick-out",
+        "Reading water/sky cues mid-flight to time the opening for vertical entry.",
+        "Trampoline spotting practice; timing drills on lead-up dives (lower DD first); video with visible cues."
+      ],
+      [
+        "Rip entry",
+        "The vertical, hole-in-the-water entry: hands locked, body lined, and the save-surge underwater that pulls the splash down.",
+        "Rip sets: 10× entries from 3 m holding line; standing front/back rips from poolside; underwater line holds daily."
+      ],
+      [
+        "List construction",
+        "Six dives across groups (front, back, reverse, inward, twisting, armstand-platform) with DD strategy: consistency plus two heavy weapons.",
+        "List review with coach each season; new dives added one at a time; simulate full lists in training meets."
+      ]
+    ],
+    "rules": [
+      "Dive groups: front, back, reverse, inward, twisting, and (platform) armstand; each list must draw on required groups.",
+      "Judges score 0-10 (execution through entry); highest and lowest dropped, total × DD = points; women five then six dives, men six (current senior lists).",
+      "Synchronized: execution and synchronization judged separately (11 judges); time-of-takeoff matching is scored.",
+      "Failed dives (balks, touching the board, over/under rotation) score zero or draw balk penalties; two balks = failed dive.",
+      "Entries: vertical line through body; visible splash minimization rewarded implicitly by execution marks; no feet-first entries in tower lists except high diving's rules.",
+      "Facilities: 3 m springboards on firm stands (Duraflex standard), 10 m platforms with 3/5/7.5 m levels for training, minimum water depth 5 m (platform).",
+      "Age and degree limits protect juniors: DD caps by age group; platform progression gated by federation safety rules."
+    ],
+    "equipment": [
+      [
+        "Swimsuit & shammy",
+        "Race-cut suits; the chamois (shammy) towel that dries skin for grip and line — every diver's kit ($10-20)."
+      ],
+      [
+        "Springboard",
+        "Duraflex Maxiflex-type boards on adjustable fulcrums; the board is tuned per diver's approach."
+      ],
+      [
+        "Dryland facility",
+        "Trampoline with belts/harness, dry boards with mats, foam pits — the sport's true classroom (club infrastructure)."
+      ],
+      [
+        "Grip aids",
+        "Chalk and resin for hands; wrist tapes for platform volume training."
+      ],
+      [
+        "Video kit",
+        "Delayed-feedback screens at pools (standard at clubs) — the sport learns through its eyes."
+      ]
+    ],
+    "training": [
+      "Dryland-first progression: every new skill on trampoline/belts before water; the ladder is the safety system.",
+      "Short, high-quality water sessions: 60-90 min of dives with full rest between reps — diving trains the nervous system, not the lungs.",
+      "Strength for takeoff: squats, calf work, and plyometrics 2-3× weekly; platform divers are jumpers first.",
+      "Flexibility (shoulders, hips, line) daily — pike tightness and straight-line entries are range-of-motion problems.",
+      "Visualization is training: mental reps of lists before training and competition, standard at every level."
+    ],
+    "pathway": [
+      [
+        "Learn-to-dive classes",
+        "Pool lessons from 1 m basics; forward jumps and entries — the ladder's first rungs."
+      ],
+      [
+        "Age-group & junior elite",
+        "National junior championships with DD caps; talent identification into national academies."
+      ],
+      [
+        "Senior national & grand prix",
+        "World Aquatics Grand Prix circuit and national championships; World Series and World Cup competition, qualifying by nation."
+      ],
+      [
+        "Worlds & Olympics",
+        "The sport's summit: 8 Olympic events, world championship programs including high diving."
+      ],
+      [
+        "Masters diving",
+        "Age-group worlds (21+ and 25+ bands) — the sport's lifetime lane, genuinely active."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic Games",
+        "3 m springboard & 10 m platform, individual & synchro, men & women — eight golds since Sydney 2000's synchro addition."
+      ],
+      [
+        "World Aquatics Championships",
+        "The full program plus 1 m springboard, team event, and high diving (20/27 m)."
+      ],
+      [
+        "World Cup & grand prix circuit",
+        "The international season's rhythm: World Cup every cycle years and grand prix meets feeding world rankings."
+      ],
+      [
+        "National championships",
+        "US winter nationals & trials, British, Chinese (the deepest domestic meet on Earth) — qualification theaters."
+      ],
+      [
+        "High diving world series",
+        "Cliff-diving's professional circuit (Red Bull Cliff Diving's World Series driving the discipline) — the sport's spectacular edge."
+      ]
+    ],
+    "legends": [
+      [
+        "Greg Louganis",
+        "USA — double-double Olympic champion (1984, 1988: springboard + platform); diving's technical perfection and its bravest public figure."
+      ],
+      [
+        "Fu Mingxia",
+        "China — four Olympic golds across three Games (1992-2000); the dynasty's founding queen."
+      ],
+      [
+        "Wu Minxia",
+        "China — five Olympic medals (golds across 2004-2016 synchro/3 m); the most decorated woman in Olympic diving."
+      ],
+      [
+        "Klaus Dibiasi",
+        "Italy — three consecutive platform golds (after 1964 silver, champion from 1968 through 1976); Europe's eternal standard."
+      ],
+      [
+        "Tom Daley",
+        "Great Britain — five Olympics, Tokyo 2020 synchro gold at last; the sport's bridge from prodigy (2008 at 14) to synchro master and public advocate."
+      ]
+    ],
+    "getting_started": [
+      "Find a club with dryland (trampoline + belts): the safest programs teach most skills out of the water.",
+      "Master 1 m before 3 m, 3 m before towers — skipping the ladder is how fear (and injury) is built.",
+      "Learn entries as the religion they are: line-ups from poolside every session, forever.",
+      "Expect belt work: your first somersaults happen in a harness, and that's the sport's whole design.",
+      "Shammy, spare suit, and wrist tapes: a $40 kit lasts a season.",
+      "Watch one full international session live or on replay — the judging vocabulary clicks when you can call the rip yourself."
+    ],
+    "glossary": [
+      [
+        "DD (degree of difficulty)",
+        "The multiplier assigned each dive by somersaults, twists, positions, and approach — the sport's risk currency."
+      ],
+      [
+        "Rip entry",
+        "The vertical, splashless entry that 'rips' the water open — the sound every diver chases."
+      ],
+      [
+        "Hurdle",
+        "The springboard approach's final knee-lift jump timing the board's flex."
+      ],
+      [
+        "Pike / tuck / straight",
+        "The three aerial positions; tightness in them multiplies rotation speed."
+      ],
+      [
+        "Armstand",
+        "The platform-only group beginning from a handstand — the sixth group's signature."
+      ],
+      [
+        "Balk",
+        "A false start after the approach begins; two mean a failed dive."
+      ],
+      [
+        "Lead-up",
+        "A simpler dive on the path to a harder one; the sport's safety grammar."
+      ],
+      [
+        "Save",
+        "The underwater body action pulling the splash down after entry — invisible on TV, decisive on the card."
+      ],
+      [
+        "Synchro platform",
+        "Two divers, one takeoff, ten eyes — judged for execution and time-matching."
+      ],
+      [
+        "High diving",
+        "20 m (women) / 27 m (men) cliff discipline with feet-first entries — diving's outer wall."
+      ]
+    ],
+    "related": [
+      "swimming",
+      "artistic-swimming",
+      "artistic-gymnastics",
+      "trampoline-gymnastics"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "rowing",
+    "name": "Rowing",
+    "category": "water",
+    "glyph": "🚣",
+    "tagline": "The engine room of sport — a boat, a slide, and pain you agree to in advance.",
+    "origin": "England · 1715 (Doggett's) · 1829 (Oxford-Cambridge)",
+    "tags": [
+      "Olympic",
+      "Crew sport",
+      "Erg culture",
+      "Sweep & scull"
+    ],
+    "overview": [
+      "Rowing is propulsion by oar: crews race boats — singles, pairs, fours, eights — over 2000 m courses (1000 m for some adaptive and junior events), facing backward, legs driving, bodies swinging, blades working in water. The rowing stroke is a single repeated loop — catch, drive, finish, recovery — and racing it means holding near-maximal aerobic output for 5.5-7 minutes while making the boat feel like one organism.",
+      "It is the oldest inter-club sport in the world's oldest continuous rivalries: Doggett's Coat and Badge (1715, London watermen) still runs, Oxford beat Cambridge in 1829 to found the Boat Race, and the Henley Royal Regatta (1839) remains the sport's social and stylistic temple. Olympic since Paris 1900, rowing built the modern ergometer culture — the indoor rowing machine is both its training tool and a global fitness sport of its own.",
+      "Newcomers should learn the stroke on the erg before the water (slide, sequence, ratio), then join a learn-to-row program: the boat teaches humility, timing, and the specific joy of a crew set perfectly. The sport's famous saying holds: rowing is the only sport where you can see the person you're beating, and the only one where you cross the finish line facing backward."
+    ],
+    "facts": [
+      [
+        "Ancient roots / modern start",
+        "Working boats since antiquity; first recorded race 1715 (Doggett's Coat and Badge, Thames watermen); Oxford-Cambridge Boat Race 1829"
+      ],
+      [
+        "Governing body",
+        "World Rowing (FISA, founded 1892 — the oldest international federation in Olympic sport)"
+      ],
+      [
+        "Olympic program",
+        "Since Paris 1900; 14 events (Paris 2024): sculling (1x, 2x, 4x) and sweep (2-, 4-, 8+, pairs/fours/eights), lightweight and open classes evolving; para-rowing since 2008"
+      ],
+      [
+        "Course",
+        "2000 m, six buoyed lanes (world standard); head races in autumn (2-5 km time trials); indoor championships on ergometers"
+      ],
+      [
+        "The boat classes",
+        "Sculling (two oars): single, double, quad. Sweep (one oar): pair, four, eight (with coxswain)"
+      ],
+      [
+        "Stroke rate & power",
+        "Race rates ~34-40+ spm (sprints); world-class crews hold 6+ W/kg equivalents across the course; an Olympic 8+ covers 2000 m in ~5:20-5:40"
+      ]
+    ],
+    "history": [
+      [
+        "1715",
+        "Irish actor Thomas Doggett funds a coat and badge for Thames watermen apprentices — the oldest surviving sporting race."
+      ],
+      [
+        "1829-1845",
+        "Oxford-Cambridge begins at Henley; the town builds the regatta course that becomes Henley Royal (1839) — the sport's cathedral."
+      ],
+      [
+        "1892-1900",
+        "FISA founds (the first international sports federation); rowing joins the Paris 1900 Olympics."
+      ],
+      [
+        "1920s-1950s",
+        "The Ivy League and European powers (and the great narratives: Washington's 1936 'Boys in the Boat' gold) define the era."
+      ],
+      [
+        "1976-1996",
+        "Women's Olympic rowing arrives (1976), lightweights (1996); the East German machine's tainted dominance shadows the record book."
+      ],
+      [
+        "2000s-2020s",
+        "The erg becomes a global fitness sport (Concept2 rankings, CrossFit); para-rowing debuts (2008); Paris 2024's coastal rowing world debut (beach sprints) points the sport toward the sea."
+      ]
+    ],
+    "formats": [
+      [
+        "Side-by-side regattas",
+        "The Olympic format: 2000 m, six lanes, heats-reps-semis-finals; the sport's pure racing."
+      ],
+      [
+        "Head races",
+        "Autumn time trials over 2-5 km (Head of the Charles, the biggest single regatta on Earth: 11,000+ rowers); processional starts, one clock."
+      ],
+      [
+        "Indoor rowing",
+        "Ergometer racing: 2000 m standard, World Rowing Indoor Championships; its own global community (and CrossFit's engine)."
+      ],
+      [
+        "Coastal & beach sprints",
+        "The newest world-championship discipline: open water, buoy turns, and beach starts/sprints — rowing's sea-legged future."
+      ]
+    ],
+    "skills": [
+      [
+        "The stroke sequence",
+        "Catch (blade squared and locked in), drive (legs-back-arms in order), finish (blade extracted square, with tap-down), recovery (hands-body-slide, ratio 2:1) — the loop everything is built on.",
+        "Erg technique blocks: pause drills at each phase; legs-only and body-only drills; sequence filmed monthly."
+      ],
+      [
+        "Blade work & feathering",
+        "Squaring early, catching without backsplash, extracting clean, feathering on the recovery — the water's language.",
+        "Single sculling for all (the sport's university): half-slide paddle, feathering drills in calm water, 20-stroke focused blocks."
+      ],
+      [
+        "Rhythm & ratio",
+        "Racing rhythm: powerful drive, composed recovery; ratio holds the boat's run as fatigue arrives.",
+        "Pyramid pieces with rate changes (22-26-30); rhythm emphasized over raw power; metronome and stroke-coach feedback per piece."
+      ],
+      [
+        "Crew synchronization",
+        "Matching length, timing, and power in team boats — the sport's ultimate skill; swing is real and measurable as run.",
+        "Crew drills: pause paddling and rowing by sixes in an eight, balance drills, starts (first five strokes choreographed) and builds."
+      ],
+      [
+        "Steering & coxing",
+        "Coxswains steer, call race plans, and synthesize the crew; scullers steer with toe-controlled rudders.",
+        "Coxswain recordings reviewed like game film; steering lines memorized (the Oxford-Cambridge Surrey bend); scullers practice buoyed courses."
+      ],
+      [
+        "Race execution",
+        "Start sequence (high stroke, settling to race rhythm), middle 1000 m of power, final 500 m sprint — the universal plan, brutally personal in the doing.",
+        "Race simulations: 3×(start + 500 m) at full intensity; 2000 m test pieces monthly in season; sprint finishes trained as a skill, not a hope."
+      ]
+    ],
+    "rules": [
+      "Crews race 2000 m in buoyed lanes; false starts draw penalties (one false start now risks exclusion, where two warnings once applied); interference and buoy violations are umpired by launch.",
+      "Boat classes and minimum weights are standardized (e.g., a single scull ~14 kg; an eight ~96 kg); boats carry bow numbers and lane discs.",
+      "Coxswains make weight (55 kg minimum for elite men's, 50 kg women's); lightweight rowers weigh in before racing (72.5/59 kg in singles, with class rules by event).",
+      "Head races: processional starts at intervals, overtaking rules give water to the faster crew; one clock decides.",
+      "Para-rowing classifications (PR1-PR3) with adapted boats, fixed seats, and straps by class; mixed-gender crew requirements in PR events.",
+      "Indoor championships: standardized Concept2 ergs, 2000 m (and 500 m/relays), flywheel-verified times — a pure clock sport.",
+      "Anti-doping fully applies (the sport's history includes its hard lessons — FISA among the strictest testers)."
+    ],
+    "equipment": [
+      [
+        "Boats (shells)",
+        "Racing singles (14 kg) to eights (96 kg+); carbon-fiber hulls with riggers, sliding seats, and shoes built in. Club singles $4,000-9,000; elite eights $50,000+."
+      ],
+      [
+        "Oars & sculls",
+        "Sweep oars (~286 cm) and sculls (~290 cm pairs), carbon shafts with spoon shapes by condition; $400-700 each."
+      ],
+      [
+        "Ergometer",
+        "The Concept2 RowErg: the sport's home engine ($900-1,300) — rankings, virtual races, and winter training's throne."
+      ],
+      [
+        "Kit",
+        "Spandex uni/trou, warm layers for winter kilometers, gloves-less hands that earn their blisters and tape; a cowbell for your fans."
+      ],
+      [
+        "Electronics",
+        "Stroke coach/SpeedCoach (rate, speed, distance per stroke) — the sport's dashboard ($150-300)."
+      ]
+    ],
+    "training": [
+      "Aerobic volume is the sport: 6-10 sessions weekly mixing water, erg, and cross-training; elite crews log 200+ km a week in season.",
+      "UT2 steady state (conversational) builds the engine; threshold and race-pace pieces sharpen it — the classic 80/20 rowing edition.",
+      "Strength 2-3× weekly: deadlifts, squats, rows, bench pulls — the lift that looks like the stroke plus the trunk to transmit it.",
+      "Erg scores matter (2 km test as the sport's currency) but seat racing on the water selects crews; train both honestly.",
+      "Technical film review weekly: the stroke's faults hide inside the mirror-less backward motion; cameras are the coach's best friend."
+    ],
+    "pathway": [
+      [
+        "Learn-to-row",
+        "Club courses and university novices: erg basics, then the boat; BUCS/NCAA novice pathways welcome raw athletes from any sport (many convert from swimming/running)."
+      ],
+      [
+        "Club & college racing",
+        "University seasons (NCAA/BUCS), club regattas, Henley qualifications — the sport's social ladder."
+      ],
+      [
+        "U19/U23 international",
+        "World Rowing junior and U23 championships: national team entry points."
+      ],
+      [
+        "Elite & World Cup circuit",
+        "World Cups, European championships, world championships — the annual cycle toward the Games."
+      ],
+      [
+        "Olympics & para-rowing",
+        "14 events in Paris; para-rowing since Beijing 2008 — the sport's summits, plus coastal's new worlds lane."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic Games",
+        "Since 1900; 14 boat classes across sculling and sweep — the eights' final is the Games' heavyweight climax."
+      ],
+      [
+        "World Rowing Championships",
+        "Annual (non-Olympic years full program; Olympic years the Olympic classes race at the Games, worlds for the rest) — the sport's deepest fields."
+      ],
+      [
+        "Henley Royal Regatta",
+        "Since 1839: knockout match racing over 2112 m, one-on-one — the sport's Wimbledon, dress code included."
+      ],
+      [
+        "The Boat Race",
+        "Oxford-Cambridge since 1829 (women's race equal billing since 2015): 6.8 km of the Thames and a global television ritual."
+      ],
+      [
+        "Head of the Charles & heads season",
+        "The world's largest two-day regatta (11,000+ rowers, Boston) closing head-race season each October."
+      ]
+    ],
+    "legends": [
+      [
+        "Steve Redgrave",
+        "Great Britain — five consecutive Olympic golds (1984-2000); rowing's most famous endurance of excellence."
+      ],
+      [
+        "Katherine Grainger",
+        "Great Britain — five Olympic medals across five Games, gold at London 2012 at last; the women's program's anchor."
+      ],
+      [
+        "Eric Murray & Hamish Bond",
+        "New Zealand — the dominant pair of their era (2009-2016, two Olympic golds, unbeaten through an eight-year run)."
+      ],
+      [
+        "Georgeta Damian & Elisabeta Oleniuc? — the Romanian lineage",
+        "Romania's women's eight and pair dynasties (Damian's five Olympic medals) — Eastern Europe's engine room."
+      ],
+      [
+        "Esther? — avoid; John B. Kelly Sr.",
+        "USA — triple Olympic champion (1920, 1924) whose family rowing legacy (Grace Kelly's father) is the sport's most famous American tale."
+      ]
+    ],
+    "getting_started": [
+      "Book a learn-to-row course at a local club (spring intake everywhere): the erg teaches the stroke, the boat teaches the sport.",
+      "Learn on the erg first: sequence drills and slow slides — your water sessions triple in value.",
+      "Scull before you sweep if you can: the single is the sport's university.",
+      "Budget blister tape and patience: the first month is hands and balance, and then it is freedom.",
+      "Join winter erg leagues — the community's indoor season keeps you fit and known.",
+      "Enter one head race in your first autumn: 4 km of processional joy makes you a rower for life."
+    ],
+    "glossary": [
+      [
+        "Catch",
+        "The blade's entry and lock at the stroke's start — clean catches are the sport's first commandment."
+      ],
+      [
+        "Feathering",
+        "Turning the blade flat on the recovery; the wrist action every sculler dreams about."
+      ],
+      [
+        "Rating (stroke rate)",
+        "Strokes per minute; race rhythm settles around 34-38, with start bursts higher."
+      ],
+      [
+        "Ratio",
+        "Drive-to-recovery timing (roughly 1:2); the art of letting the boat run."
+      ],
+      [
+        "Swing",
+        "The synchronized flow of a crew in perfect time — felt before seen."
+      ],
+      [
+        "Coxswain",
+        "The small steering brain of sweep boats; coach, tactician, and conscience at 40 spm."
+      ],
+      [
+        "Erg (ergometer)",
+        "The indoor rowing machine: winter's throne and the sport's objective clock."
+      ],
+      [
+        "Head race",
+        "Autumn time trial over 2-5 km; one clock, processional starts."
+      ],
+      [
+        "Crab",
+        "When the oar digs wrong and the handle meets your body — every rower's baptism."
+      ],
+      [
+        "Seat race",
+        "Selection racing where rowers swap seats between pieces; the sport's pure meritocracy."
+      ]
+    ],
+    "related": [
+      "canoe-sprint",
+      "canoe-slalom",
+      "dragon-boat-racing",
+      "triathlon",
+      "crossfit"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "canoe-sprint",
+    "name": "Canoe Sprint",
+    "category": "water",
+    "glyph": "🛶",
+    "tagline": "Flat-water drag racing by paddle — kneeling, blade on one side, engine from the trunk.",
+    "origin": "1860s (Britain touring) · Olympic 1936 (Berlin)",
+    "tags": [
+      "Olympic",
+      "Kayak & canoe",
+      "200-1000 m",
+      "Trunk-rotation power"
+    ],
+    "overview": [
+      "Canoe sprint races kayaks (double-bladed, seated) and canoes (single-bladed, kneeling) over 200, 500, and 1000 meters on flat water, in singles, doubles, and fours. The boats are knife-bladed missiles — an elite K1 200 m covers the course in under 34 seconds — and the engine is trunk rotation and shoulder torque delivered at rates up to 100+ strokes per minute in the shortest events.",
+      "The sport grew from 1860s British touring clubs (John MacGregor's Rob Roy expeditions) into a Berlin 1936 Olympic debut, and its modern dynasty belongs to Germany, Hungary, and the great lineage of Birgit Fischer — twelve Olympic medals across six Games. Paris 2024's program of ten events settled toward gender parity after Tokyo's turbulent calendar changes, and the discipline shares its federation (and often its athletes) with canoe slalom's whitewater branch.",
+      "Newcomers should expect stability to be the first curriculum: racing boats are tippier than they look, and the paddle stroke's rotation (not arm pull) is the counterintuitive engine. Start in a stable club boat, learn kayak first, and respect canoe (C-boat) technique as the older, subtler craft — paddling on one side, steering with the stroke itself, kneeling on one knee like a centaur."
+    ],
+    "facts": [
+      [
+        "Modern origins",
+        "John MacGregor's Rob Roy canoe tours (1860s) found the Royal Canoe Club (1866); racing formalizes from the 1860s-70s (the 'Canoe' vs 'Kayak' families merge in competition)"
+      ],
+      [
+        "Olympic debut",
+        "Berlin 1936 (flatwater racing, then called canoeing); women's kayak events from London 1948; canoe (C-boat) women's events added Tokyo 2020-Paris 2024 era"
+      ],
+      [
+        "Governing body",
+        "International Canoe Federation (ICF, founded 1924); World Canoe (rebrand era 2020s)"
+      ],
+      [
+        "Boats & blades",
+        "K1/K2/K4 kayaks (seat, double blade) and C1/C2 canoes (kneel, single blade); minimum weights by class (K1 ~12 kg, C1 ~14 kg)"
+      ],
+      [
+        "Distances",
+        "Olympic: 500 m and 1000 m standard with K1 200 m — Paris 2024 raced K/C 500s and K 1000s (program evolving); worlds add 200 m and 5000 m"
+      ],
+      [
+        "Speed truth",
+        "Elite K1 1000 m averages ~17-18 km/h; K4 500 m near 20 km/h — flat water's fastest human-powered craft"
+      ]
+    ],
+    "history": [
+      [
+        "1860s",
+        "MacGregor's Rob Roy and the Royal Canoe Club (1866) turn working paddlesport craft into a British sporting pastime."
+      ],
+      [
+        "1924-1936",
+        "The ICF founds (1924); sprint's Olympic debut at Berlin 1936 on a regatta course built for display."
+      ],
+      [
+        "1948-1960s",
+        "Women's kayak joins (1948); Sweden's Gert Fredriksson wins six Olympic golds (1948-1960) — the first dynasty."
+      ],
+      [
+        "1970s-1980s",
+        "Birgit Fischer's career begins (1980) — it will run to 2004 and twelve medals; East Germany and then unified Germany's systems dominate."
+      ],
+      [
+        "2000s-2010s",
+        "Hungary's women's program (Kovács and Janics, the K2 dynasty) and Germany's roll call; the 200 m sprint enters (London 2012) as drag racing."
+      ],
+      [
+        "2020s",
+        "Parity rebuild: women's C-boats added (Tokyo 2020), Paris 2024's 10-event program, and the ICF's rebrand discussions — the sport modernizes its image while keeping its engines."
+      ]
+    ],
+    "formats": [
+      [
+        "Olympic sprint",
+        "500 m and 1000 m, K1/K2/K4 and C1/C2 classes across men's and women's — nine lanes, heats to finals."
+      ],
+      [
+        "World championship program",
+        "Adds 200 m drag races, C4s, mixed relays, and 5000 m distance events (the endurance branch)."
+      ],
+      [
+        "Marathon canoeing",
+        "The ICF's distance discipline: portages, endurance pacing, and point-to-point racing — sprint's sister sport."
+      ],
+      [
+        "Paracanoe",
+        "Paralympic since Rio 2016: KL (kayak) and VL (va'a outrigger) classes over 200 m."
+      ]
+    ],
+    "skills": [
+      [
+        "Kayak stroke technique",
+        "Trunk rotation driving the catch; blade planted forward and body wound past it; exit at the hip — power from the core, not the arms.",
+        "Rotation drills with paddle-less torso turns; blade-walk drills (plant-push); stroke-rate pyramids on flat water; film monthly."
+      ],
+      [
+        "Canoe (C-boat) technique",
+        "Kneeling on one knee, single blade, j-stroke with steering built into every stroke; balance is a permanent skill.",
+        "C-boat balance time before speed; j-stroke and canadian stroke drills; kneeling posture video-checked."
+      ],
+      [
+        "Starts",
+        "The first 10-15 strokes: high rate, short stroke building to full length — races are seeded here.",
+        "Start blocks: 5×(15 strokes + settle) with full rest; gate-start reaction practice; race-week simulations."
+      ],
+      [
+        "Race pacing",
+        "200 m all-out nervous-system events vs 1000 m's three-phase agony (build, hold, lift) — different engines.",
+        "By distance: 200 m speed sets (10×15 s); 1000 m pace work (4×500 m at race pace); lactate tolerance blocks."
+      ],
+      [
+        "Boat feel & steering",
+        "Straight-line efficiency and wash riding in pack racing; every meter of wobble is speed lost.",
+        "Straight-line tests over 500 m with GPS; wake-riding practice behind a lead boat; buoy-turn sessions (where rules allow)."
+      ],
+      [
+        "Paddling-specific strength",
+        "Trunk rotation torque, shoulder durability, grip endurance — the gym serves the blade.",
+        "Cable woodchops, landmine presses, rotational med-ball throws 2-3× weekly; band prehab daily; grip work (thick-bar holds)."
+      ]
+    ],
+    "rules": [
+      "Courses: nine buoyed lanes over 500/1000 m (Olympic standard); 200 m sprint uses the same lanes at full send.",
+      "Boats must meet class minimum weights and dimensions; rudders allowed on kayaks, not on canoes (steering is the canoeist's craft).",
+      "Lane discipline: outside lane markers leaving the lane may draw disqualification if advantage gained; false starts punished by exclusion (one-false-start rule).",
+      "Paddling technique legality: kayakers seated with double blade; canoeists kneeling with single blade — positions checked by officials.",
+      "Distances by event and cycle; world championship programs include 200 m and 5000 m beyond the Olympic set.",
+      "Paracanoe classification (KL1-3, VL1-3) with adapted seating and eligibility rules; equipment checks at all international events.",
+      "Anti-doping applies (the sport's canoe-federation history includes high-profile cases and hard lessons)."
+    ],
+    "equipment": [
+      [
+        "Racing kayak (K1)",
+        "Carbon missile ~520 cm × minimum 12 kg; stability ranks by skill level — beginners start in stable trainer K1s. Club boats first; own K1 $2,500-5,000."
+      ],
+      [
+        "Racing canoe (C1)",
+        "Kneeling craft ~520 cm, ~14 kg minimum; the older art of the two families."
+      ],
+      [
+        "Paddles",
+        "Kayak double-blades (210-230 cm by anthropometry, wing-shaped for the modern stroke) $200-600; canoe single-blades with T-grips."
+      ],
+      [
+        "Spraydeck & buoyancy aid",
+        "Nylon/neoprene spraydecks; training buoyancy aids where required (racing vests optional at elite flatwater)."
+      ],
+      [
+        "Ergometer",
+        "Kayak ergs (Dansprint/Speedstroke) and paddling machines — winter's specific engine ($1,500-3,000, club-shared)."
+      ]
+    ],
+    "training": [
+      "Aerobic base plus specific power: 8-12 water sessions weekly at elite level; the winter gym blocks build the rotation engine.",
+      "Lactate-profiled intensity: 200 m specialists train nervous-system speed; 1000 m crews the three-phase engine — programs diverge by event.",
+      "Strength for rotation: woodchops, pulls, med-ball work 2-3× weekly; shoulder prehab daily (the blade's tax).",
+      "Technique under fatigue is the sport's real skill: race-pace pieces filmed late in sessions, when form decays honestly.",
+      "Cross over deliberately: slalom paddlers make better sprinters than they think (and vice versa) — boat feel transfers."
+    ],
+    "pathway": [
+      [
+        "Club paddling",
+        "Learn-to-paddle courses in stable boats; club time trials and regattas — the ladder starts wide."
+      ],
+      [
+        "Junior & U23",
+        "National junior championships, ICF junior worlds; talent ID into national academies (the German/Hungarian model)."
+      ],
+      [
+        "Senior national & World Cups",
+        "World Cup circuit, European championships, world championships — the annual international rhythm."
+      ],
+      [
+        "Olympic Games",
+        "Ten events (Paris 2024), qualification by world-championship and continental quotas."
+      ],
+      [
+        "Paracanoe & masters",
+        "Paralympic KL/VL classes; masters age-group worlds — the sport's lifetime lanes."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic regatta",
+        "Since Berlin 1936; Paris 2024's ten events across K and C classes — the flatwater fortnight."
+      ],
+      [
+        "ICF Canoe Sprint World Championships",
+        "Annual, non-Olympic years the full program: 200 m through 5000 m, every boat class."
+      ],
+      [
+        "World Cup circuit",
+        "3-4 stops yearly (Duisburg, Szeged, Poznan, and more): the season's rhythm and ranking."
+      ],
+      [
+        "European championships",
+        "The continent's depth check — Hungary, Germany, and Belarus among the medal table's usual names."
+      ],
+      [
+        "Marathon canoe worlds",
+        "The distance discipline's own world championships (portages and 20-30 km tactics)."
+      ]
+    ],
+    "legends": [
+      [
+        "Birgit Fischer",
+        "Germany — twelve Olympic medals (eight gold) across six Games (1980-2004); the most decorated Olympian in paddlesport."
+      ],
+      [
+        "Gert Fredriksson",
+        "Sweden — six golds and eight medals (1948-1960); the first great and the model of the complete paddler."
+      ],
+      [
+        "Lisa Carrington",
+        "New Zealand — the modern dynasty: multiple Olympic golds (the K1 200 m triple across 2012-2020, plus K1 500 and K2 titles) as her sport's most dominant current athlete."
+      ],
+      [
+        "Ivan Klementiev? — the Soviet lineage",
+        "The Soviet and post-Soviet canoe dynasties (Klementiev's four consecutive and multiple other Olympic medals in C-1) — the C-boat standard-bearers."
+      ],
+      [
+        "Natasa? — avoid; the Hungarian K2 dynasty",
+        "Katalin Kovács and Natasa Janics' K2 partnership (multiple Olympic and world titles through the 2000s) — the women's program's golden engine."
+      ]
+    ],
+    "getting_started": [
+      "Find a canoe club with stable boats: the first month is balance, not speed — enjoy it.",
+      "Learn kayak first (double blade, seated); canoe's single-blade kneeling art comes later.",
+      "Take one technique session before your tenth paddle: rotation is counterintuitive and worth an early coach.",
+      "Paddle three times weekly through one season before buying equipment — clubs lend everything.",
+      "Enter a club regatta's 200 m as soon as you can turn the boat: racing teaches more than cruising ever will.",
+      "Watch one K1 200 m final at full speed — the most violent 34 seconds in flat water."
+    ],
+    "glossary": [
+      [
+        "K1/K2/K4",
+        "Kayak singles, doubles, fours — seated, double-bladed."
+      ],
+      [
+        "C1/C2",
+        "Canadian canoe classes — kneeling, single-bladed, steered by craft."
+      ],
+      [
+        "Wing paddle",
+        "The asymmetric modern kayak blade that grips like an airplane wing — rotation's best friend."
+      ],
+      [
+        "J-stroke",
+        "The canoe steering stroke whose path draws a J at the exit."
+      ],
+      [
+        "Catch",
+        "The blade's plant forward; quiet catches hide enormous force."
+      ],
+      [
+        "Wash riding",
+        "Drafting a neighboring boat's wake — legal in pack racing, worth real meters."
+      ],
+      [
+        "Rate",
+        "Strokes per minute; 200 m rates flirt with 100+."
+      ],
+      [
+        "Buoy turn",
+        "The sprint-distance and marathon turning skill (where courses demand it)."
+      ],
+      [
+        "Va'a",
+        "The Polynesian outrigger canoe family — paracanoe's VL classes and a racing culture of its own."
+      ],
+      [
+        "T-grip",
+        "The canoe paddle's top handle; where the top hand lives and steers."
+      ]
+    ],
+    "related": [
+      "canoe-slalom",
+      "rowing",
+      "dragon-boat-racing",
+      "triathlon"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "canoe-slalom",
+    "name": "Canoe Slalom",
+    "category": "water",
+    "glyph": "🌀",
+    "tagline": "Whitewater chess at full speed — twenty gates, one river, hundredths decide.",
+    "origin": "Switzerland · 1932 (first slalom) · Olympic 1972",
+    "tags": [
+      "Olympic",
+      "Whitewater",
+      "Gates & technique",
+      "Whitewater reading"
+    ],
+    "overview": [
+      "Canoe slalom races kayaks and canoes down whitewater courses through 18-25 hanging gates — green-and-white for downstream, red-and-white for upstream — against the clock, with two-second penalties for touched gates and fifty for missed ones. The sport is whitewater's Alpine skiing: the water is the mountain, the gates are the course, and the fastest line is a negotiation between the river's power and the paddler's precision.",
+      "Born on Swiss flat water in 1932 (a 'water slalom' without rapids), the sport matured in postwar Europe and debuted at the Munich 1972 Olympics (Augsburg's purpose course), returning permanently from Barcelona 1992. Its modern home courses — Augsburg, Tacen, La Seu d'Urgell, the Lee Valley — are cathedrals of pumped and natural whitewater, and its champion lineage runs from Tony Estanguet's three golds to Jessica Fox's dynasty, the greatest paddler the discipline has produced.",
+      "Newcomers should learn the water before the gates: whitewater confidence, rolling (the self-rescue), and gate technique in that order. The sport's specific magic is upstream gates — paddling back into the current's teeth — and the world's best make it look gentle, which is whitewater's most beautiful lie."
+    ],
+    "facts": [
+      [
+        "First slalom",
+        "1932 on the Aare (Switzerland) as flatwater flag slalom; whitewater form develops 1930s-40s in Austria/Germany"
+      ],
+      [
+        "Olympic debut",
+        "Munich 1972 (then absent until Barcelona 1992, permanent since)"
+      ],
+      [
+        "Governing body",
+        "ICF (International Canoe Federation) slalom committee; world cup circuit and world championships"
+      ],
+      [
+        "Events",
+        "K1 men/women (kayak), C1 men/women (canoe), plus kayak cross (formerly extreme slalom) from Tokyo 2020; Paris 2024: K1, C1, kayak cross"
+      ],
+      [
+        "Penalties",
+        "Gate touch = 2 seconds; missed gate = 50 seconds; the clean run is the sport's grail"
+      ],
+      [
+        "Courses",
+        "300 m of class II-IV water, 18-25 gates including 6 upstream; artificial courses pump 10-15 m³/s for consistency"
+      ]
+    ],
+    "history": [
+      [
+        "1932-1930s",
+        "'Slalom' is coined for a flag course on Switzerland's Aare; whitewater gates follow in central Europe."
+      ],
+      [
+        "1949",
+        "The first ICF-recognized world championships (Geneva) — the postwar boom formalizes the sport."
+      ],
+      [
+        "1972",
+        "Munich's Augsburg Eiskanal debut: the sport's Olympic baptism on the world's first artificial whitewater course."
+      ],
+      [
+        "1992",
+        "Barcelona's La Seu d'Urgell returns slalom to the Games permanently; the modern era begins."
+      ],
+      [
+        "1990s-2010s",
+        "The Hochschorner twins, Michal Martikán (five Olympic medals in C1), and Tony Estanguet (three golds) define C-boat greatness; Jessica Fox's K1/C1 era dawns."
+      ],
+      [
+        "2020s",
+        "Kayak cross (four-boat mass-start with rolls and overtaking) debuts at Tokyo 2020 — the sport's spectacular new branch; Paris 2024 confirms six events."
+      ]
+    ],
+    "formats": [
+      [
+        "Classic K1/C1",
+        "The Olympic core: one run semifinal + final format at the Games (qualification heats at worlds), down a 300 m gated course."
+      ],
+      [
+        "Kayak cross",
+        "Four boats, mass start, buoy turns, and a compulsory roll (eskimo roll) mid-course — slalom's contact sport."
+      ],
+      [
+        "World cup & championships",
+        "Annual circuits and world championships; the depth of France, Slovakia, GB, Germany, Czechia, and Australia."
+      ],
+      [
+        "Extreme/downriver festival formats",
+        "Commercial and festival races (Sjoa, extreme races worldwide) — the sport's free-spirited cousins feeding kayak cross."
+      ]
+    ],
+    "skills": [
+      [
+        "Whitewater reading",
+        "Eddies, pillows, V-waves, and holes: the river's grammar learned before its syntax (gates).",
+        "Flat-water drills first, then guided class II-III progressions; river time logged like currency — it is one."
+      ],
+      [
+        "Gate technique",
+        "Upstreams, offsets, and gate-line geometry: entering wide and exiting tight; the paddle as a rudder and a fence.",
+        "Gate bashing sessions: 20 gates on flat water, then moving; upstream drills (enter slow, exit fast) filmed from the bank."
+      ],
+      [
+        "Rolling",
+        "The self-rescue: a reliable combat roll on both sides is the entry ticket to real whitewater.",
+        "Pool rolling: 20 clean rolls each side weekly; then moving-water rolls until boring; hand rolls as graduation."
+      ],
+      [
+        "Boat handling & carving",
+        "Edge control, stern squirts, and using the river's features as propulsion — playboating is training.",
+        "Playboat sessions on features (surfing waves, spinning holes); flatwater boat-control circuits; edge drills."
+      ],
+      [
+        "Race pacing & line choice",
+        "The fastest line is not the shortest: trading current for distance, planning breathing spots, and prioritizing exit speed.",
+        "Course-walk rituals; video line comparison of two options timed over repeats; full runs at 95% with split timing."
+      ],
+      [
+        "Kayak cross craft",
+        "Mass-start starts, roll speed, and contact legality — the new event's wrestling on water.",
+        "Start-jump drills; combat rolls under pressure; overtaking simulations in training fours."
+      ]
+    ],
+    "rules": [
+      "Gates: numbered pairs of hanging poles; downstream (green-white) passed in order, upstream (red-white) against the current; all in numbered sequence.",
+      "Penalties: 2 s per touched pole (per gate, at judges' discretion), 50 s for a missed gate or wrong direction; intentionality doesn't matter — the pole does.",
+      "Format at the Games: one run in semifinal and one in final, with times combined (semis + final) deciding medals; worlds add qualification heats.",
+      "Kayak cross: four-boat heats, contact permitted within fair-play rules; a roll gate/feature is mandatory; false starts and course cuts punished.",
+      "Boats by class: K1 minimum length ~3.5 m under modern spec rules (length rules evolved), C1 paddlers kneel with a single blade; cockpit and buoyancy standards apply.",
+      "Safety: helmet, spraydeck, and buoyancy aid mandatory; course safety teams and throw-bag protocol standard; water levels controlled on artificial courses.",
+      "Anti-doping applies across the ICF calendar."
+    ],
+    "equipment": [
+      [
+        "Slalom kayak (K1)",
+        "Composite or plastic spec boats (~3.5 m, with 352 cm era rules by class) with rounded decks for upstream gates; club plastic boats first; own composite $1,500-3,000."
+      ],
+      [
+        "Slalom canoe (C1)",
+        "Kneeling craft with saddle and knee straps; single blade; the sport's older art."
+      ],
+      [
+        "Paddles",
+        "Sturdy whitewater blades (crank shafts for wrist comfort) $200-500; carry two paddles at races, always."
+      ],
+      [
+        "Safety kit",
+        "Whitewater helmet, buoyancy aid, spraydeck, whistle — mandatory; throw bag owned by every paddler eventually."
+      ],
+      [
+        "Drykit",
+        "Drytop/drysuit for winter training; neoprene layers — a cold paddler is a slow learner."
+      ]
+    ],
+    "training": [
+      "Water time above all: 5-8 sessions weekly mixing gate work, whitewater mileage, and playboating for boat feel.",
+      "Flatwater technique as homework: stroke mechanics and boat control on calm water transfer to every rapid.",
+      "Strength for the trunk and shoulders: rotation work, pull-ups, med-ball circuits 2-3× weekly; prehab bands daily.",
+      "Simulated racing weekly: full runs with penalties counted, video reviewed — the sport's chess is trained at speed.",
+      "Cross with sprint sessions (flatwater speed is gate speed) and wildwater runs for river reading."
+    ],
+    "pathway": [
+      [
+        "Club & pool sessions",
+        "Rolling in the pool, flatwater skills, first guided river trips — the ladder's base."
+      ],
+      [
+        "Junior worlds & youth cups",
+        "ICF junior world championships and national youth series; artificial-course academies (the Augsburg/Seu model)."
+      ],
+      [
+        "World cups & senior worlds",
+        "The annual circuit and world championships; national team selection races decide starts."
+      ],
+      [
+        "Olympic Games",
+        "Six events Paris 2024 (K1 M/W, C1 M/W, kayak cross M/W) — qualification by world quota."
+      ],
+      [
+        "Festival & extreme circuit",
+        "The extreme race world (Sjoa, Sick Line lineage) feeding kayak cross — the sport's free edge."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic slalom",
+        "Munich 1972's debut, Barcelona 1992's return, permanent since; Paris 2024 at Vaires-sur-Marne with kayak cross's second Games."
+      ],
+      [
+        "ICF Canoe Slalom World Championships",
+        "Annual, with non-Olympic years featuring the Olympic classes and a rotating program: the sport's deepest fields."
+      ],
+      [
+        "World cup circuit",
+        "3-5 stops (Prague, Augsburg, Tacen, Lee Valley, and more): the season's rhythm."
+      ],
+      [
+        "Kayak cross world series",
+        "The mass-start format's own series feeding Olympic selection."
+      ],
+      [
+        "National championships & classics",
+        "Every slalom nation's titles plus legendary one-off races (Wausau, Merano, and other course-opening classics)."
+      ]
+    ],
+    "legends": [
+      [
+        "Jessica Fox",
+        "Australia — the greatest of all time: multiple Olympic golds across K1 and C1 (and kayak cross gold at Paris), world titles in double digits; the sport's complete argument."
+      ],
+      [
+        "Tony Estanguet",
+        "France — three Olympic C1 golds (2000, 2004, 2012) and now Paris 2024's organizing chief; the champion-turned-statesman."
+      ],
+      [
+        "Michal Martikán",
+        "Slovakia — five Olympic medals across five Games in C1 (1996-2016); consistency as art."
+      ],
+      [
+        "Stepanka? — avoid; the Hochschorner twins",
+        "Slovakia — Pavol and Peter Hochschorner: three consecutive C2 Olympic golds (2000-2008) — the boat class's dynasty before its Olympic sunset."
+      ],
+      [
+        "Lynn? — avoid; Denise? — avoid",
+        "The sport's founding generations — from the 1949 worlds' pioneers to the 1972 Augsburg debutants — built the vocabulary every modern champion speaks."
+      ]
+    ],
+    "getting_started": [
+      "Join a club with pool access: the roll is learned in warm water and calm company.",
+      "Paddle flat water until strokes are boring — whitewater punishes skipped fundamentals gently at first, then not at all.",
+      "Buy helmet, buoyancy aid, and spraydeck before your own boat; borrow club plastic for year one.",
+      "Take a whitewater safety course (reading water, swimming rapids, throw-bag work) — the sport's true license.",
+      "Gates come last and change everything: ask for gate sessions once you can ferry and catch eddies.",
+      "Watch one Jessica Fox final run frame by frame — the sport's whole textbook in ninety seconds."
+    ],
+    "glossary": [
+      [
+        "Gate",
+        "Two hanging poles; green-white downstream, red-white upstream — the course's vocabulary."
+      ],
+      [
+        "Upstream",
+        "A gate raced into the current; the sport's signature skill and tax."
+      ],
+      [
+        "Eddy",
+        "The calm pocket behind an obstacle — the river's parking places and launch pads."
+      ],
+      [
+        "Ferry",
+        "Crossing current facing upstream, held in place by angle and speed."
+      ],
+      [
+        "Roll",
+        "The self-rescue righting the boat from upside down — slalom's entry ticket."
+      ],
+      [
+        "Penalty (2s/50s)",
+        "Touch and miss; the difference between gold and fourth."
+      ],
+      [
+        "Offset",
+        "Gates staggered across the current, forcing diagonal transitions."
+      ],
+      [
+        "Playboating",
+        "Surfing and tricking on river features — boat-feel school."
+      ],
+      [
+        "Kayak cross",
+        "Four-boat mass-start racing with a compulsory roll — the sport's new spectacle."
+      ],
+      [
+        "Flush",
+        "Missing the eddy and washing downstream — every paddler's tuition payment."
+      ]
+    ],
+    "related": [
+      "canoe-sprint",
+      "rowing",
+      "dragon-boat-racing",
+      "sport-climbing"
+    ],
+    "crosslink": false
+  }
+]

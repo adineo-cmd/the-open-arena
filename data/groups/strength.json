@@ -1,0 +1,770 @@
+[
+  {
+    "slug": "powerlifting",
+    "name": "Powerlifting",
+    "category": "strength",
+    "glyph": "🏋️",
+    "tagline": "Squat, bench, deadlift — three lifts, one total, the barbell's honest arithmetic.",
+    "origin": "USA/UK · 1960s-1970s · IPF 1972",
+    "tags": ["Barbell sport", "SBD total", "Raw & equipped", "Tested strength"],
+    "overview": [
+      "Powerlifting is the sport of maximal strength in three barbell lifts: the squat, the bench press, and the deadlift, each taken to a single heaviest successful attempt in competition and summed into a total. Where weightlifting measures speed and technique under a bar, powerlifting measures grinding force — the ability to move maximal loads through pure strength ranges of motion under strict refereeing.",
+      "The sport organized in the late 1960s as an alternative to weightlifting's Olympic lifts, and the International Powerlifting Federation (founded 1972) now governs tested world championships across weight classes, age groups, and raw (knee sleeves, no suits) versus equipped (supportive squat suits and bench shirts) divisions. The modern public face of powerlifting is raw lifting, driven by internet culture, full-power meets that pack venues, and records like Jimmy Kolb's 600 kg equipped bench and Danny Grigsby's 500 kg-class raw deadlifts pushing what anyone thought joints could survive.",
+      "Newcomers should learn the commands first — powerlifting is judged on rules as much as strength, and a perfectly lifted bar sunk without the 'squat' command is no lift. Train the three lifts three times a week with linear progression, find a coach or a club for technique, and enter a local meet within six months: the sport's community is famously welcoming, and the platform teaches what the gym cannot."
+    ],
+    "facts": [
+      ["Modern origins", "Late 1960s US/UK meets formalize the 'odd lifts' into three; AAU championships from 1964-65 era; IPF founded 1972"],
+      ["Governing bodies", "IPF (the tested international standard, IOC-recognized) plus WRPF, SBD Pro League-era independents and federations by equipment/drug-testing policy"],
+      ["The lifts", "Squat (to legal depth, crease below knee top), bench press (paused on chest, pressed to command), deadlift (continuous pull to lockout)"],
+      ["Weight classes", "IPF men 59-120+ kg (8 classes), women 47-84+ kg (8 classes); age groups from sub-junior to masters 80+"],
+      ["Records & scoring", "Best of three attempts per lift; total = sum of bests; Wilks → DOTS coefficients compare lifters across bodyweights"],
+      ["Divisions", "Raw (belt, sleeves, minimal support) and Equipped (squat suits/bench shirts adding tens of kilos); single-lift meets exist alongside full power"],
+      ["Legendary totals", "Raw era: 1000+ kg full-power totals by the heaviest men; equipped benches beyond 600 kg (Jimmy Kolb)"]
+    ],
+    "history": [
+      ["1940s-1950s", "Strength culture's odd-lift contests (squat, bench, curl, deadlift variants) grow from weightlifting's shadow."],
+      ["1964-1972", "The AAU formalizes US powerlifting (first national championships 1964-65 era); Britain's leagues parallel it; the IPF founds in 1972."],
+      ["1973-1980s", "First IPF worlds (1973); equipped gear arrives and begins its arms race (suits, shirts, briefs)."],
+      ["1990s-2000s", "Federation proliferation (multi-ply extremes, untested circuits); raw lifting re-emerges as the public favorite."],
+      ["2010s", "Raw goes mainstream: internet lifting culture, USAPL/IPF raw worlds packing venues, DOTS replaces Wilks (2019-2020 era)."],
+      ["2020s", "SBD Pro League and professional prize money; record inflation in specialized meets (deadlift-only 500 kg pulls) alongside classic tested full-power championships."]
+    ],
+    "formats": [
+      ["Full power meet", "Squat, bench, deadlift — three attempts each, best total wins; the sport's classic three-hour cathedral of grinding."],
+      ["Single-lift meets", "Bench-only, deadlift-only, push-pull (bench+deadlift) formats for specialists and rehabilitators."],
+      ["Raw vs equipped", "Raw: belt, sleeves, wrist wraps. Equipped: supportive suits/shirts (single-ply IPF to multi-ply independents) — nearly different sports sharing three names."],
+      ["Team & age-group worlds", "IPF world cups (national teams), sub-junior through masters 80+ — the sport's lifelong structure."]
+    ],
+    "skills": [
+      ["Squat technique", "Bar positioned (low-bar or high-bar), brace and descent to legal depth, drive through the mid-foot with the bar over the center of gravity.", "Technique blocks: tempo squats 3×5 at 60-70%; paused squats for bottom strength; film from the side weekly against the depth line."],
+      ["Bench press (paused)", "Bar to chest, motionless pause, press on command: leg drive, arch, bar path to the lower chest and back.", "Paused reps as the default (3×5); spoto presses for control; command simulation in training (count to two on the chest)."],
+      ["Deadlift mechanics", "Setup tension (wedge, not jerk), bar dragged close, hips and shoulders rising together to lockout.", "Deficit deadlifts (3×3, 2-4 cm) for off-the-floor power; block pulls for lockout; heavy singles monthly at RPE 8-9."],
+      ["Bracing & breathing", "Intra-abdominal pressure (big air, valsalva) as the body's lifting belt — every max attempt is a bracing test.", "Bell-of-the-brace drills (360° expansion against a belt, 3×5 breath-holds); brace-rehearsal on every warm-up set."],
+      ["Attempt selection & peaking", "Meet math: openers you can triple, seconds for position, thirds for glory; a 6-8 week peak before the platform.", "Mock meets (all nine attempts with commands) 2-3 weeks out; openers rehearsed at RPE 7-8; peak cycle volume tapers 40-50%."],
+      ["Weight-class management", "Cutting water and refilling within 24-hour weigh-in rules; walking around 2-4% over class limit.", "Practice smaller refills before mock meets; sodium/carb refill protocol rehearsed; never debut a big cut on meet day."]
+    ],
+    "rules": [
+      "Three attempts per lift (declared before the flight); the bar only goes up in weight within your attempts; best successful lift counts.",
+      "Squat: hips' crease below the knee's top at the bottom; the 'squat' and 'rack' commands bookend the rep; any downward motion or elbow dump is no-lift.",
+      "Bench: bar motionless on the chest until the 'press' command; head, hips and feet stay planted; uneven lockout or heaving is no-lift.",
+      "Deadlift: bar to knees locked with shoulders back in one continuous motion; no hitching (riding the thighs); down on the referee's signal in some federations.",
+      "Equipment by division: raw allows belt, wrist wraps, knee sleeves (IPF-approved list); equipped adds suits/shirts by ply rules; all gear checked at weigh-in.",
+      "Weigh-ins 24 hours (IPF standard) or 2 hours (some federations) before the meet; age- and bodyweight-verified records.",
+      "IPF is drug-tested (WADA code); independent federations set their own testing policies — know your federation's book."
+    ],
+    "equipment": [
+      ["Barbell & plates", "IPF-spec 20 kg power bar (stiff, aggressive knurl, $300-1,000); calibrated kilo plates for meets, training plates for the garage."],
+      ["Belt & sleeves", "10-13 mm lever or prong belt ($80-250); 7 mm knee sleeves ($60-120) — raw lifting's honest support system."],
+      ["Shoes", "Flat, hard-soled lifters for squat stability (0-1 cm heel by stance); flat soles or slippers for deadlifts ($100-200)."],
+      ["Equipped gear (by division)", "Squat suits, bench shirts (single-ply to multi-ply), briefs — specialized and sized ($200-600 per piece)."],
+      ["Meet kit", "Singlet (mandatory), lifting suit beneath, chalk, ammonia (by federation), wrist wraps and approved socks for deadlifts."]
+    ],
+    "training": [
+      "The classic engines: 5/3/1, Sheiko's volume schools, Candito and Calgary Barbell programs — pick one with a meet date attached.",
+      "Frequency beats heroics: squat/bench/deadlift 2-3× weekly each (bench often more), accessories for weak points (rows, dips, front squats).",
+      "Peaking is a skill: the last 6-8 weeks convert volume to intensity; trust the taper even when it feels too light.",
+      "Recovery infrastructure: sleep 8 hours, protein 1.6-2.2 g/kg, and managed fatigue (RPE-based autoregulation beats blind percentages).",
+      "Train the commands as technique: every heavy single rehearsed with pauses and referee timing — the platform forgives no rehearsal gaps."
+    ],
+    "pathway": [
+      ["Gym lifting to first meet", "Local open meets welcome first-timers everywhere; enter within 6 months of consistent lifting — the community coaches you through."],
+      ["State/regional level", "Qualifying totals for nationals; raw nationals as the first serious benchmark."],
+      ["National championships", "IPF affiliates' nationals (USAPL, BP etc.) with strict testing and platform standard."],
+      ["World championships", "IPF classic (raw) and equipped worlds by class and age group."],
+      ["Pro circuits & records", "SBD Pro League prize meets and independent record chase — the sport's professional edges."]
+    ],
+    "events": [
+      ["IPF Classic World Championships", "Raw worlds: the tested sport's summit, national-team vest and all."],
+      ["IPF Equipped Worlds & World Cup", "The equipped tradition's world titles and the team world cup."],
+      ["National championships", "USAPL Raw Nationals, British, European national champs — qualification ladders and depth checks."],
+      ["SBD Pro League & pro invites", "Prize-money professional meets lifting the sport's public profile."],
+      ["Record-stage meets", "Specialized single-lift events where world records fall (deadlift-only 500 kg era pulls)."]
+    ],
+    "legends": [
+      ["Ed Coan", "USA — the greatest powerlifter ever: 1000+ kg totals at under 110 kg bodyweight and world records across two decades."],
+      ["Stefi Cohen & the record hunters", "The modern lighter-class era: DOTS-adjusted totals that rewrote what small frames can deadlift."],
+      ["Ray Williams", "USA — raw squat world records beyond 490 kg; the heaviest squats ever walked out."],
+      ["Danny Grigsby", "USA — raw deadlift records pushing past 500 kg; the pull's modern frontier."],
+      ["Jennifer Thompson", "USA — the greatest raw bench presser pound-for-pound; world records held for a generation."]
+    ],
+    "getting_started": [
+      "Learn the three lifts with a coach or credible video course; technique ceilings are built in the first year.",
+      "Run a beginner linear program (3×5 style) for 3-6 months before specialization.",
+      "Find your federation's local meet calendar and enter one as a novice — singlet, attempts, and community included.",
+      "Buy the belt and shoes after month three; the bar teaches first.",
+      "Track everything: PR log, video library, and bodyweight — the sport loves data.",
+      "Respect the commands from day one: gym reps with pauses and signals make platform reps legal."
+    ],
+    "glossary": [
+      ["Total", "Sum of best squat, bench, deadlift — the meet's verdict."],
+      ["DOTS / Wilks", "Bodyweight-adjusted coefficients comparing lifters across classes."],
+      ["Raw / equipped", "Minimal gear versus supportive suits and shirts — powerlifting's two worlds."],
+      ["Commands", "The referee's 'squat-rack', 'start-press-rack' verbal gates; miss them and the lift dies."],
+      ["Depth", "Hip crease below the knee's top — the squat's law and its most-litigated centimeter."],
+      ["Hitching", "Riding the bar up the thighs in a deadlift — an illegal grind."],
+      ["Opener / second / third", "The three-attempt ladder: safety, position, glory."],
+      ["Bomb out", "Three missed attempts in one lift — no total, long ride home."],
+      ["RPE", "Rate of perceived exertion; the autoregulation currency of modern programming."],
+      ["Mock meet", "Full dress rehearsal of nine attempts with commands — the peak's final exam."]
+    ],
+    "related": ["olympic-weightlifting", "strongman", "bodybuilding", "crossfit", "strength-and-conditioning"],
+    "crosslink": false
+  },
+  {
+    "slug": "olympic-weightlifting",
+    "name": "Olympic Weightlifting",
+    "category": "strength",
+    "glyph": "🥇",
+    "tagline": "Barbells moved at the speed of sport — snatch and clean & jerk, the oldest strength test on the program.",
+    "origin": "Modern era · 1896 Athens Olympics · IWF 1905",
+    "tags": ["Olympic", "Snatch & C&J", "Explosive strength", "Technical iron sport"],
+    "overview": [
+      "Olympic weightlifting contests two lifts: the snatch (bar from floor to overhead in one continuous motion) and the clean & jerk (bar to the shoulders, then overhead in two motions). Each lifter gets three attempts per lift; the two bests sum to the total. It is the most explosive barbell sport — elite lifters move 200+ kg from floor to overhead in under a second, generating peak powers beyond any other human movement.",
+      "Weightlifting appeared at the first modern Olympics in 1896, its federation (IWF) formed in 1905, and the sport has been on every Games program since 1920 apart from none — it is Olympic bedrock. Its modern dynasties are Chinese precision, former-Soviet system depth, and outliers like Lasha Talakhadze, the Georgian super-heavyweight whose 225 kg snatch and 267 kg clean & jerk (492 kg total) are the heaviest bars ever lifted in competition.",
+      "Newcomers should find a coach immediately: the lifts are technique sports wearing strength clothing, and the learning ladder (PVC pipe → empty bar → positions → full lifts) is the sport's safety system. The squat is weightlifting's engine room, mobility (overhead, front rack, hips) is the entry toll, and a good club teaches the lifts in months what YouTube stretches into years."
+    ],
+    "facts": [
+      ["Olympic roots", "Athens 1896 (one-hand and two-hand lifts); modern two-lift program (snatch + clean & jerk) standardized 1972-1976"],
+      ["Governing body", "International Weightlifting Federation (founded 1905); continental federations; national bodies"],
+      ["The lifts", "Snatch: wide grip, one motion overhead. Clean & jerk: to shoulders, split or power jerk overhead. Three attempts each, best total."],
+      ["Weight classes", "Men 55-109+ kg (10 current Olympic classes), women 45-87+ kg; Olympic program 10 categories total (5 per sex rotating by Games)"],
+      ["Record heights", "Lasha Talakhadze's 492 kg superheavy total; women's records beyond 340 kg in the top classes"],
+      ["Olympic status", "On every Games program of the modern era; quota reduced for Paris 2024 amid federation reform and anti-doping rebuilding"]
+    ],
+    "history": [
+      ["1896-1920", "Early Olympics lift whatever tests the era (one-hand snatches, press variants); two-hand overhead lifting organizes."],
+      ["1920-1972", "Five lifts shrink to three (press, snatch, clean & jerk) in 1928; the press is abolished in 1972 after judging wars — the two-lift era begins (1976 first Games)."],
+      ["1950s-1980s", "Soviet and Bulgarian systems industrialize the sport: maximum-weight training philosophies, national academies, and depth that wins decades."],
+      ["1987-2000", "Women's world championships arrive (1987); women lift at the Sydney 2000 Olympics."],
+      ["2000s-2010s", "China's precision dynasty; restructured classes (2018) erase old records; doping scandals force federation reform and quota cuts."],
+      ["2020s", "Paris 2024's rebuilt, younger, more-tested program; Talakhadze's era closes as new classes open new record books."]
+    ],
+    "formats": [
+      ["Two-lift competition", "Snatch session then clean & jerk session; three attempts each; total decides — the Olympic and world format."],
+      ["Olympic Games", "Ten categories per quadrennium (five per sex, rotating): the sport's summit and its tightest quotas."],
+      ["World championships & World Cup", "Annual IWF worlds across all classes; the World Cup (2024-era) as a key qualifier."],
+      ["Youth/junior & masters", "IWF youth (13-17) and junior worlds; masters worlds 35+ with Sinclair-adjusted scoring — the sport's lifetime ladder."]
+    ],
+    "skills": [
+      ["Snatch technique", "Positions: setup, first pull, transition (the scoop), second pull (explosion), turnover under the bar, overhead squat receiving — a kinetic chain exam.", "Progression ladder: PVC/bare bar overhead squats, snatch balance, hang snatches, then full lifts; daily warm-up complexes (e.g., muscle snatch + OHS); filmed from two angles weekly."],
+      ["Clean & jerk", "Clean to the front rack (elbows high, bar on shoulders), front squat recovery, then jerk (split, power, or squat) with bar stacked over mid-foot.", "Clean pulls and front squats for strength (5×3); jerk technique from racks (jerk dips, footwork drills); full C&J singles at 80-90% weekly."],
+      ["Pulling power", "The explosion zone: extension of hips, knees, ankles at max velocity — where kilograms are manufactured.", "Weightlifting derivatives: clean/snatch pulls 5×3 at 90-110% of lift maxes; jumps and med-ball throws in GPP phases; velocity-tracked sets."],
+      ["Overhead stability", "The catch positions: locked elbows, active shoulders, bar balanced over the spine's line.", "Overhead squats and snatch balances (5×3); press-behind-neck in racks (by shoulder health); holding drills (30 s overhead supports)."],
+      ["Mobility", "Wrists, shoulders, thoracic spine, hips, ankles — the front rack and bottom position are range-of-motion achievements.", "Daily 15-minute mobility (wrist flexion/extension, hip flexor and ankle work); loaded stretching after sessions; positions trained, not just stretched."],
+      ["Competition craft", "Attempt selection, warm-up-room timing, and the 60-second clock — platform skills apart from strength.", "Mock competitions quarterly (full attempts with clock and calls); warm-up rehearsal (pulling time against start order); declaration strategy with coach."]
+    ],
+    "rules": [
+      "Three attempts per lift, declared weights before each attempt, bar progressing in 1 kg increments; the total = best snatch + best clean & jerk.",
+      "The bar must move continuously with no press-out (elbows must lock by momentum, not a second press); the referee's down signal ends the lift.",
+      "Snatch: one motion floor to overhead; the bar may slide along the body but must not touch above the chest or rest on it; elbows may not touch the thighs.",
+      "Clean & jerk: two distinct motions; no touching knee/elbow in the clean's pull; the jerk from the shoulders with no pause below the knees once initiated, and the bar must not touch the head before lockout.",
+      "Time: one minute to start the lift (two when following yourself); the clock and the marshal's board govern everything.",
+      ["Technical rules: elbows locked and still at the finish, feet parallel, bar controlled to the platform (releasing the bar from overhead is allowed; deliberately throwing it is not)."],
+      "Singlet mandatory, weightlifting shoes standard, belts and wrist wraps permitted within IWF rules; weigh-ins two hours before the session.",
+      "Anti-doping is the sport's strictest chapter (WADA code, historical retests strip old medals; the modern program is rebuilt on testing)."
+    ],
+    "equipment": [
+      ["Barbell", "IWF-spec 20 kg men's / 15 kg women's bars with needle bearings, 28.5/25 mm shafts ($400-1,000 for honest rotation)."],
+      ["Plates & platform", "Colored bumper plates (collar-to-collar IWF diameters) that survive dropping ($5-10 per kg); a lifting platform ($300-1,200 or gym-provided)."],
+      ["Weightlifting shoes", "0.5-0.75 inch elevated heels for squat and pull positions ($100-200) — the sport's most justified equipment."],
+      ["Belt, wrist wraps, tape", "10 mm belts for cleans and squats; knee sleeves; wrist tape for hook grip survival ($100-150 total)."],
+      ["Chalk & straps (training)", "Chalk always; lifting straps for heavy pulls in training only (never in competition)."]
+    ],
+    "training": [
+      "The sport's week: snatch/C&J variants 4-6 sessions, squats 2-3 (front and back), pulls 1-2, and technique complexes daily — volume with barbell literacy.",
+      "Chinese-Soviet heritage meets modern blocks: percentages off lift maxes, Prilepin's table as volume guide, and periodization toward competition attempts.",
+      "Strength without the lifts is meaningless: squat and pull volumes serve the classic lifts, judged by transfer.",
+      "Mobility is trained daily and forever: the positions ARE the sport; a lifter who cannot rack a clean has no clean.",
+      "Recovery discipline: 8+ hours sleep, protein 1.6-2.2 g/kg, and fatigue management (the Bulgarian daily-max era is a warning, not a template)."
+    ],
+    "pathway": [
+      ["Club learn-to-lift", "IWF-affiliated clubs and coaches: PVC-to-bar progressions, first club meets within months."],
+      ["School-age & junior", "IWF youth (13-17) and junior worlds; national talent academies in lifting nations."],
+      ["Senior national level", "National championships and international open slots; qualification totals by class."],
+      ["Worlds & Olympics", "IWF worlds annually; Olympic quota through Worlds/World Cup ranks and continental places."],
+      ["Masters", "35-80+ five-year bands with Sinclair/Melbourne adjusted scoring — the barbell's lifetime promise."]
+    ],
+    "events": [
+      ["Olympic Games", "Since 1896: ten categories per Games (five per sex rotating), the sport's four-yearly summit."],
+      ["IWF World Championships", "All classes, annual: the sport's deepest fields and record theater."],
+      ["IWF World Cup", "The 2024-era qualifying centerpiece feeding Olympic entry."],
+      ["Continental championships", "European, Asian, Pan-American championships — the system depth checks."],
+      ["Masters & youth worlds", "Age-group world championships on both ends of the lifetime ladder."]
+    ],
+    "legends": [
+      ["Pyrros Dimas", "Greece — three Olympic golds (1992-2000) plus bronze 2004; the sport's most beloved champion."],
+      ["Naim Süleymanoğlu", "Turkey — 'the Pocket Hercules': three Olympic golds and the first man to clean & jerk 2.5× bodyweight."],
+      ["Vasily Alekseyev", "USSR — 80 world records and unbeaten through the 1970s; the original super-heavyweight titan."],
+      ["Lasha Talakhadze", "Georgia — the strongest bars in history: 492 kg total, 225 kg snatch, 267 kg clean & jerk."],
+      ["Li Wenwen", "China — the women's super-heavyweight era's anchor: totals beyond 335 kg and the dynasty's precision system behind her."]
+    ],
+    "getting_started": [
+      "Find a club with a coach before touching heavy bars: the lifts are skills and the first month is positions, not plates.",
+      "Buy weightlifting shoes early — the heel changes every position for the better.",
+      "Film every session from 45° front: the lifts are learned through the camera.",
+      "Train squat strength from week one: the legs are the engine the technique drives.",
+      "Enter a novice meet within 6-9 months: opening attempts and platform nerves are their own skill.",
+      "Respect the warm-up room culture: ask, share platforms, and learn the clock before you chase the total."
+    ],
+    "glossary": [
+      ["Snatch", "Floor to overhead in one motion — the sport's most technical lift."],
+      ["Clean & jerk", "Two motions, shoulders then overhead — the heavier, steadier partner."],
+      ["Hook grip", "Thumb locked under fingers on the bar: the pulling grip of record books."],
+      ["Double knee bend / scoop", "The transition that re-bends the knees under the bar before explosion."],
+      ["Press-out", "The illegal second press at lockout — momentum must finish the lift."],
+      ["Down signal", "The referee's order to return the bar; lifters wait for it with 200 kg overhead."],
+      ["Total", "Best snatch + best clean & jerk — the classification currency."],
+      [" Sinclair", "Bodyweight-adjusted formula comparing lifters across classes (masters' currency)."],
+      ["Bumper plates", "Rubber, droppable, colored by IWF kilograms — the sport's landscape."],
+      ["Platform", "The 4×4 m stage where every attempt is judged — weightlifting's whole world."]
+    ],
+    "related": ["powerlifting", "crossfit", "strongman", "strength-and-conditioning", "track-and-field"],
+    "crosslink": false
+  },
+  {
+    "slug": "bodybuilding",
+    "name": "Bodybuilding",
+    "category": "strength",
+    "glyph": "💪",
+    "tagline": "Sculpture by repetition — the sport where the scoreboard is your skin.",
+    "origin": "England · 1901 (Sandow's contest) · Mr. Olympia 1965",
+    "tags": ["Physique sport", "Posing & presentation", "Hypertrophy science", "Stage craft"],
+    "overview": [
+      "Bodybuilding is the pursuit of maximal muscular development and minimal body fat, judged on stage through mandatory poses and comparisons against other athletes. It is sport as visual art: the training is the sculpting, the diet is the chisel's finest pass, and the competition is a gallery walk where symmetry, proportion, conditioning (body-fat level and muscle separation), and stage presentation decide placements across height and class divisions.",
+      "Eugen Sandow organized the first great physique contest in 1901 at London's Royal Albert Hall; the Weider era created Mr. Olympia in 1965, and the sport's lineage runs from Steve Reeves' classic lines through Arnold Schwarzenegger's seven Olympias to the mass era of Ronnie Coleman's eight and the modern era of Chris Bumstead's classic physique dynasty and Mamdouh 'Big Ramy' Elssbiay's open-class titles. The women's side runs from Lisa Lyon's 1979 debut through the Ms. Olympia eras to today's figure, bikini, wellness, and women's physique divisions.",
+      "Newcomers should understand that the competition year has two phases — building (calorie surplus, progressive overload) and prepping (deficit, cardio, posing practice) — and that the stage rewards presentation as much as muscle: posing is a trainable skill that wins close calls. The sport's honest warning belongs here too: natural (tested) and untested divisions exist at every level, and the sport's health conversation is part of its modern responsibility."
+    ],
+    "facts": [
+      ["First modern contest", "14 September 1901 — Eugen Sandow's 'Great Competition', Royal Albert Hall, London"],
+      ["Flagship title", "Mr. Olympia since 1965 (Joe Weider's creation); Ms. Olympia from 1980 (with interruptions) and the modern women's divisions"],
+      ["Governing bodies", "IFBB Pro League / NPC (the Olympia pipeline) and IFBB-affiliated national federations; tested natural federations (WNBF, INBA/PNBA, OCB) run separate circuits"],
+      ["Men's divisions", "Open bodybuilding, 212, Classic Physique, Men's Physique, Wheelchair (Olympia program)"],
+      ["Women's divisions", "Women's Bodybuilding (Ms. Olympia), Women's Physique, Figure, Wellness, Bikini"],
+      ["Judging criteria", "Muscularity, symmetry, proportion, conditioning (separation, vascularity, dryness), presentation and posing — scored by comparison rounds"]
+    ],
+    "history": [
+      ["1890s-1901", "Eugen Sandow tours as the world's first physique celebrity and stages the 1901 Great Competition — the sport is born with a trophy of Sandow himself."],
+      ["1930s-1950s", "AAU's Mr. America (1939) and the silver-era ideal; Steve Reeves wins and translates to Hercules fame."],
+      ["1965-1980", "Weider's Mr. Olympia crowns Larry Scott, Sergio Oliva, then Schwarzenegger's seven (1970-75, 1980); the sport goes mainstream and Hollywood."],
+      ["1980s-1990s", "Mass era dawns (Haney's eight, Yates' six grainy Olympias); women's bodybuilding rises with Ms. Olympia (1980)."],
+      ["2000s-2010s", "Ronnie Coleman's eight-Olympia era; divisions multiply (figure, bikini, physique, wellness) and the athlete pool globalizes."],
+      ["2020s", "Chris Bumstead's five-peat classic physique era makes him the sport's biggest star; wellness explodes; the Olympia remains bodybuilding's Super Bowl."]
+    ],
+    "formats": [
+      ["Open bodybuilding", "The flagship: no weight cap (above 212 class), mass with shape at the frontier of human muscularity."],
+      ["Classic Physique & 212", "Weight/height-capped divisions honoring classical lines — the modern fan favorite (Bumstead era)."],
+      ["Physique & wellness families", "Men's Physique (board shorts, upper-body emphasis), Women's Figure, Bikini, Wellness (lower-body emphasis) — the pyramid's wide tiers."],
+      ["Tested/natural federations", "WNBF, INBA/PNBA, OCB circuits with polygraph and urinalysis — a complete parallel competitive world."]
+    ],
+    "skills": [
+      ["Hypertrophy training", "Progressive overload in moderate rep ranges with volume: the craft of making muscle grow through decades of logged work.", "Programs built on compounds (squats, presses, rows) plus isolation; weekly volume landmarks (10-20 sets per muscle); progression log religiously kept."],
+      ["Posing & presentation", "Mandatory poses (front double biceps, side chest, back double, ab-thigh), transitions, and the individual routine — the stage's actual scoring surface.", "Posing practice 4× weekly in prep (20-30 min sessions under stage lighting); quarter-turn mechanics; routine choreographed 8-12 weeks out; coach or mirror video."],
+      ["Nutrition & meal architecture", "The sport's half: protein floors (1.6-2.2+ g/kg, rising to 2.2-3.1 g/kg in deficit), calorie phases, and food tolerance managed over 16-40-week preps.", "Baseline tracking (weigh-ins + weekly photos); planned surpluses (lean building 10-20% over maintenance); deficit structure with diet breaks; cooking systems and prep containers."],
+      ["Peaking & peak week", "The final week's manipulation of water, sodium, carbohydrates, and training to present maximum fullness with minimum water.", "Practice smaller peaks before shows; conservative approaches (modest carb loads) preferred; coach oversight for first peak; photo-judged adjustments."],
+      ["Cardio & conditioning management", "Tool, not punishment: steps and cardio adjusted against the deficit to keep food higher and recovery intact.", "Step floors (10k+ daily) with cardio added progressively; LIIT/LISS mix by recovery budget; heart-rate-guided zones."],
+      ["Backstage craft", "Pump-up strategy, tan (pro tan layers), trunks fit, numbering, and class timing — logistics that decide how your look photographs.", "Rehearse the pump-up routine (bands, light dumbbells); book the tan artist in advance; backstage checklist printed."]
+    ],
+    "rules": [
+      "Competition structure: check-in, prejudging (mandatory poses and comparisons — where placings are truly decided), and finals (individual routines and posedowns at some shows).",
+      "Judging: athletes compared side by side; scored on muscularity, symmetry/proportion, conditioning, and presentation; callouts ordered by the head judge.",
+      "Division requirements: attire by division (posing trunks, board shorts, suit cuts), height/weight caps where applicable (Classic's formula, 212 limit).",
+      "Banned practices: diuretics and banned substances on the prohibited list (tested federations enforce polygraph/urinalysis; pro leagues follow their codes).",
+      "Stage conduct: no props (by division), timing limits on routines, and the quarter-turn discipline — the comparison line is choreography law.",
+      "Age and eligibility classes: teenage, junior, and masters (35+/40+ and up, by federation); pro qualification via national-level wins (NPC pathway to IFBB Pro League)."
+    ],
+    "equipment": [
+      ["Training base", "A gym with real equipment variety (barbells, machines, cables) — the sport's workshop; home setups work with machines and dumbbells ($1,000-5,000)."],
+      ["Food systems", "Kitchen scale, meal-prep containers, and a rice cooker — the diet is logistics and the gear is cheap ($100)."],
+      ["Stage kit", "Posing trunks/suits ($80-200), competition tan (pro application $100-150), posing oil, and backup attire."],
+      ["Tracking tools", "Bodyweight scale, calipers or DEXA access, monthly photos under the same light — the feedback loop."],
+      ["Coaching", "Prep coach and posing coach (commonly separate): the sport's standard support staff ($200-500 monthly ranges)."]
+    ],
+    "training": [
+      "Build in the off-season with controlled surplus and strength progression; compete from a realistic prep window (16-24 weeks by starting body fat).",
+      "Volume landmarks and progression: 10-20 hard sets per muscle weekly, double progression on reps/load; deloads scheduled before they're forced.",
+      "Posing is training: sweat-inducing isometric practice under stage lights from 12 weeks out.",
+      "Cardio is a dial, not an identity: adjust it against the deficit while defending food and recovery.",
+      "Health monitoring in prep: bloodwork (lipids, hormones, markers) before, during, and after — the modern sport's responsibility layer."
+    ],
+    "pathway": [
+      ["First local show", "Novice and open classes at regional shows (NPC regionals, tested-federation qualifers) — the front stage door."],
+      ["National qualification", "Win your class at qualifiers to reach national-level shows."],
+      ["Pro card", "National show victories earn pro status (IFBB Pro League or tested-federation pro)."],
+      ["Professional circuit", "Pro shows qualify athletes to the Olympia; placings build careers and sponsorships."],
+      ["The Olympia", "Bodybuilding's Super Bowl since 1965 — every division's champion crowned in one weekend."]
+    ],
+    "events": [
+      ["Olympia Weekend", "Since 1965: all divisions' world championships on one stage — the sport's summit and its biggest payday."],
+      ["Arnold Classic", "The sport's second major (since 1989) with its Columbus festival and global editions."],
+      ["IFBB Pro League circuit", "Dozens of pro shows worldwide feeding Olympia qualification."],
+      ["Tested-federation worlds", "INBA/PNBA Natural Olympia and WNBF worlds — natural bodybuilding's summits."],
+      ["Regional & novice shows", "Hundreds of local shows a year — where every champion's first tan happens."]
+    ],
+    "legends": [
+      ["Eugen Sandow", "Prussia/England — the father of bodybuilding: the 1901 contest, the first celebrity physique, and the trophy that is still the Olympia's statue."],
+      ["Arnold Schwarzenegger", "Austria/USA — seven Mr. Olympias (1970-75, 1980) and the sport's ambassador to the world."],
+      ["Ronnie Coleman", "USA — eight consecutive Olympias (1998-2005) at the mass era's outer edge; the strongest bodybuilder ever staged."],
+      ["Lenda Murray & Iris Kyle", "USA — Ms. Olympia's defining champions: Murray's eight and Kyle's ten titles, the women's sport's highest peaks."],
+      ["Chris Bumstead", "Canada — 'CBum': five consecutive Classic Physique Olympias (2019-2023) and the modern sport's most popular athlete."]
+    ],
+    "getting_started": [
+      "Train consistently for 1-2 years before competing: the stage rewards a base, not a beginning.",
+      "Learn the diet craft early: track food for a month before any show ambition — awareness precedes discipline.",
+      "Attend a local show as a spectator: watch the callouts and you'll understand the judging instantly.",
+      "Choose your federation honestly (tested vs untested) before choosing a division.",
+      "Book a posing coach the day you book your show: presentation wins the calls the mirror can't.",
+      "Prep once, learn deeply: your first show is an education, not a coronation."
+    ],
+    "glossary": [
+      ["Prep", "The contest diet phase: weeks of deficit, cardio, and posing toward stage condition."],
+      ["Conditioning", "Body-fat level, separation, vascularity — the 'look' that separates placings."],
+      ["Peak week", "The final manipulation of carbs, water, sodium before the stage."],
+      ["Mandatory poses", "The comparison set (front double biceps, side chest, back double biceps, etc.) where shows are won."],
+      ["Callouts", "The head judge's comparison groups — first callout means contention."],
+      ["Off-season / improvement season", "The building months between preps where champions are actually made."],
+      ["Pro card", "Professional status earned at national shows — the pipeline's golden ticket."],
+      ["Tested / natural federations", "Polygraph-and-urinalysis circuits (INBA, WNBF, OCB) with their own pros and worlds."],
+      ["Vascularity", "Visible vein geography — a conditioning marker, genetically variable."],
+      ["Posedown", "The free-for-all finale of tradition-era finals; muscle theater's greatest three minutes."]
+    ],
+    "related": ["powerlifting", "strongman", "crossfit", "nutrition", "functional-fitness"],
+    "crosslink": false
+  },
+  {
+    "slug": "strongman",
+    "name": "Strongman",
+    "category": "strength",
+    "glyph": "🪨",
+    "tagline": "The sport of lifting the unliftable — stones, logs, yokes, and pure spectacle.",
+    "origin": "1977 (World's Strongest Man) · ancient roots",
+    "tags": ["Strength spectacle", "Odd implements", "WSM & Arnold", "Static & moving events"],
+    "overview": [
+      "Strongman contests strength across odd implements and awkward events: Atlas stones over bars, yokes carried at 400+ kg, logs pressed overhead, farmer's walks with 150 kg per hand, vehicle pulls, and deadlifts for reps at weights powerlifters consider singles. The sport's format is variety itself — athletes rarely know the exact implements until contest week, so the strongest man in the world is the one strongest at everything heavy.",
+      "The modern sport was created for television: CBS's World's Strongest Man in 1977 matched legends from powerlifting, Olympic lifting, and football in a beachside circus, and the title still crowns the sport's flagship champion each December. Beneath WSM run the Arnold Strongman Classic (pure static strength), the Giants Live qualifiers, the Rogue-invited era of record breakers, and national circuits worldwide.",
+      "Newcomers should train the three foundations (overhead press, deadlift, squat) with conventional equipment, then add implements gradually — sandbags and logs before stones and yokes. The sport's community is small and generous: strongman gyms share equipment and knowledge, and local shows genuinely welcome first-timers into the deep end."
+    ],
+    "facts": [
+      ["Modern founding", "1977 — CBS televises the first World's Strongest Man (winner Bruce Wilhelm); the title continues annually"],
+      ["Governing circuit", "WSM (IMG), Giants Live qualifiers, Arnold Strongman Classic, Rogue's Breaking series; World's Ultimate Strongman and federation circuits (IFSA historically)"],
+      ["Event families", "Overhead (log, axle, dumbbell), carries (yoke, farmer's, frame), pulls (vehicle, sled), static (deadlift, squat), stones (Atlas over bar, series), throws and hybrids"],
+      ["Weights in the world", "Yoke carries 350-500+ kg; stone series to 210 kg stones; deadlift for reps at 350-450 kg; press medleys beyond 180 kg logs"],
+      ["Record landmarks", "Hafþór Björnsson's 501 kg deadlift (2020); Zydrunas Savickas' log press dynasty; and Tom Stoltman's back-to-back WSM titles (2021-2022)"],
+      ["Classes", "Open class plus U105kg and U90kg circuits give lighter athletes full calendars"]
+    ],
+    "history": [
+      ["Ancient-1800s", "Strongmen as entertainers (Sandow's era and earlier): feat culture — chain breaking, horse lifting, platform lifts."],
+      ["1977", "The modern format is invented for American TV; pure athletes collide with implements and the template sticks forever."],
+      ["1980s-1990s", "Bill Kazmaier's three-peat and Iceland's Jón Páll Sigmarsson era ('Viking power!'); Magnus ver Magnusson and the sport's first superstars."],
+      ["2000s-2010s", "Mariusz Pudzianowski's five titles; Zydrunas Savickas' decade of dominance; Brian Shaw's four WSM crowns; Eddie Hall's 500 kg deadlift (2016)."],
+      ["2020s", "Hafþór Björnsson's 501 kg deadlift; the Stoltman brothers' era (Tom's multiple WSM titles); Rogue's record-invitational spectacle events professionalize the frontier."]
+    ],
+    "formats": [
+      ["World's Strongest Man format", "Qualifying heats (groups) into a final; mixed events over days — the sport's flagship December crown."],
+      ["Arnold Strongman Classic", "Columbus' static-strength gauntlet (higher weights, fewer moving events) — purists' favorite."],
+      ["Giants Live & national circuit", "WSM qualifier tour and national opens (America's, Britain's, Europe's Strongest Man) — the pipeline."],
+      ["Record spectacles", "Rogue Invitational's strongman events and one-off record attempts (deadlift milestones) — the sport's modern theater."]
+    ],
+    "skills": [
+      ["Overhead pressing power", "Log, axle, and dumbbell presses from the front rack: strict-to-push-press strength with awkward bars.", "Strict press 5×5 and push press 5×3 blocks; log practice weekly (clean and press technique); Z-press for midline-overhead strength."],
+      ["Deadlift strength & endurance", "The sport's spine: standard, axle (thicker), and deficit pulls, plus car deadlifts for reps.", "Rotating deadlift training (conventional/axle/deficit) 1× weekly, 5×3 heavy plus rep blocks at 70-80% (AMRAP-8 style)."],
+      ["Carrying strength", "Yokes, farmer's handles, frames: moving events demand braced trunk strength and sprint mechanics under load.", "Farmer's walks 4×40 m heavy (per-hand maxes 60-70%); yoke runs 4×20 m progressive; frame carries; turn technique practiced on grass."],
+      ["Stone technique", "Atlas stones: lap the stone to the chest, then hinge and extend over the bar — hip power plus tacky-hand craft.", "Stone lapping 5×3 to a tall platform; extension work (banded good mornings); tacky technique rehearsed; bell-to-hip timing videoed."],
+      ["Grip endurance", "Everything ends at the hands: thick bars, handles, and stone sleeves punish weak grips.", "Thick-bar holds 3×max time; pinch blocks and grippers accessory work; grip trained with events, not instead of them."],
+      ["Event strategy & conditioning", "Six-event days at 120+ kg bodyweights demand engine as well as muscle: pacing and recovery between events.", "Event-day simulations (full circuit with time limits); sled and Prowler conditioning blocks; timeline rehearsals with 10-15 minute windows."]
+    ],
+    "rules": [
+      "Scoring: events award points by placement (e.g., 1st = maximum points, usually descending from there); the highest cumulative points win, with ties split by countback rules.",
+      "Implements are competition-standard where possible (axle diameters, stone series weights, yoke heights) but exact weights are announced before each contest — adaptability is trained.",
+      "Movement standards by event: presses locked overhead with feet set (strict/push allowed as stated), carries with implements lifted from the ground (dropped implements end runs), stones settled on platforms/over bars.",
+      "Time caps and distances govern every moving event; referees judge lockouts, carries' boundaries, and reps' legality.",
+      "Weight classes: open (no cap) plus U105/U90 circuits; women's strongman (WSW era) growing with its own implements scaled.",
+      "Equipment: belts, sleeves, chalk, tacky (stones) allowed; suits and erector shirts by federation; grip aids other than chalk restricted.",
+      "Doping: WSM-era testing by WADA-affiliated agencies at majors; independent policies elsewhere."
+    ],
+    "equipment": [
+      ["Implement gym access", "Strongman gyms (log bars, axles, yokes, stones, sleds) — the sport's true membership requirement; home setups $2,000-6,000 for the basics."],
+      ["Sandbags & logs first", "The beginner's odd-object kit: sandbags ($60-150) and a log bar ($300-500) cover most event families."],
+      ["Belts, sleeves, boots", "13 mm belt ($100-200), knee sleeves, deadlift socks, and flat boots for carries — the costume of the trade."],
+      ["Tacky & grip kit", "Stone tacky ($20), straps for pulls in training, and chalk by the bucket."],
+      ["Recovery kit", "Massage gun, contrast tools, and honest sleep — the sport's recovery demands are industrial."]
+    ],
+    "training": [
+      "Four-day foundations: two pressing, two pulling, legs threaded through events; implements integrated from month one at submax loads.",
+      "Train events weekly as events: yoke runs, stone lapping, farmer's sprints with full recoveries and filmed technique.",
+      "The engine matters: 2 conditioning blocks weekly (sled work, carries for time) — finals are lost to fatigue as often as strength.",
+      "Bodyweight is a tool: eating to fill out a frame is part of the sport's honest math (with health monitoring as the counterweight).",
+      "Practice the unknown: rotate implement variants and grip diameters so contest-week surprises are Tuesday, not Sunday."
+    ],
+    "pathway": [
+      ["Local strongman shows", "Novice and open classes at regional contests — implements provided, community guaranteed."],
+      ["National circuit", "National championships and qualifier series (U105/U90 alongside open)."],
+      ["Giants Live qualifiers", "The WSM pipeline: podium places at majors earn WSM invitations."],
+      ["WSM & Arnold", "The sport's twin summits: December's WSM crown and Columbus' Arnold gauntlet."],
+      ["Professional circuit", "Rogue-era invitationals and record spectacles — the modern professional frontier."]
+    ],
+    "events": [
+      ["World's Strongest Man", "Since 1977: the title that defines the sport, decided each December in qualifying groups and a final."],
+      ["Arnold Strongman Classic", "Since 2002: static-strength royalty in Columbus — the heaviest implements on any stage."],
+      ["Giants Live tour", "WSM's official qualifier majors (Britain's, Europe's, World's Open, and the tour's other titles)."],
+      ["Rogue Invitational & record spectacles", "The sport's modern theater: engineered events and record attempts with live analytics."],
+      ["National championships", "Every strongman nation's open — the community's true annual gathering."]
+    ],
+    "legends": [
+      ["Jón Páll Sigmarsson", "Iceland — four WSM titles (1983-1990 era) and the sport's defining showman: 'The Viking power!' era."],
+      ["Bill Kazmaier", "USA — three consecutive WSM titles (1980-82) with raw power decades ahead of its era."],
+      ["Zydrunas Savickas", "Lithuania — 'Big Z': four WSM, eight Arnold victories, and the most complete resume in history."],
+      ["Mariusz Pudzianowski", "Poland — five WSM titles and the sport's most explosive athlete; later an MMA crossover celebrity."],
+      ["Hafþór Björnsson & Eddie Hall", "Iceland/UK — the 500 kg deadlift rivals (Hall 2016, Hafþór 501 kg 2020) and the sport's biggest mainstream era."]
+    ],
+    "getting_started": [
+      "Find a strongman gym or club within driving distance — implements are the sport and community shares them.",
+      "Build the base first: pressing, pulling, squatting with barbells for a year before event specialization.",
+      "Enter a novice show within 12-18 months: implements provided, weights scaled, and the crowd wants you to lift everything.",
+      "Buy a sandbag and a log before any yoke: cheap odd objects teach the odd skills.",
+      "Learn event technique videoed: stone lapping and yoke turns are technique puzzles, not just strength.",
+      "Respect recovery like a professional: the sport's training loads are its own category of respect."
+    ],
+    "glossary": [
+      ["Atlas stones", "Concrete spheres lapped and heaved over bars or onto platforms — the sport's signature finale."],
+      ["Yoke", "A frame carried across the back: 350-500+ kg for 15-30 m at speed."],
+      ["Log press", "Pressing a log-shaped bar: cleaned to the chest (rested on the lap) and pressed overhead."],
+      ["Axle bar", "A 50 mm fat bar: deadlifts and presses with grip as the first tax."],
+      ["Tacky", "The sticky resin that bonds hands to stones."],
+      ["Farmer's walk", "Heavy handles per hand, walked for distance or speed — the sport's honest engine."],
+      ["Medley", "Multiple implements back-to-back in one event: the sport's triathlon."],
+      ["Car deadlift", "Pulling a frame with a car strapped to it, for reps in 60 seconds."],
+      ["Grip & sleeve", "Stone sleeves and grip aids by federation rules; chalk always, tacky on stones."],
+      ["Viking power", "Sigmarsson's battle cry — the sport's founding motto."]
+    ],
+    "related": ["powerlifting", "olympic-weightlifting", "crossfit", "arm-wrestling", "strength-and-conditioning"],
+    "crosslink": false
+  },
+  {
+    "slug": "crossfit",
+    "name": "CrossFit",
+    "category": "strength",
+    "glyph": "⏱️",
+    "tagline": "Constantly varied functional movement — the fitness methodology that became a sport.",
+    "origin": "USA (Santa Cruz) · 2000 · Games since 2007",
+    "tags": ["Functional fitness", "Workout sport", "CrossFit Games", "Community fitness"],
+    "overview": [
+      "CrossFit is a training methodology — constantly varied functional movements performed at high intensity — and the competitive sport that grew out of it. Workouts of the Day (WODs) mix weightlifting, gymnastics, and monostructural conditioning (run, row, bike, jump rope) in endless combinations, and the CrossFit Games season (Open → semifinals → Games) crowns 'the fittest on Earth' through events nobody can predict: from max lifts to ocean swims to obstacle-laced final weekends.",
+      "Greg Glassman founded the first affiliate in Santa Cruz in 2000; the Games began in 2007 as a backyard throwdown and grew into a professional sport with sponsorships, divisional expansions, and a broadcast era. The community engine — 10,000+ affiliates worldwide, class-based coaching, and a shared vocabulary of benchmark WODs — remains the sport's true mass base: every March, hundreds of thousands of everyday athletes do the Open workouts alongside champions.",
+      "Newcomers should join an affiliate and let coaches scale the movements: every workout has versions for every level, and intensity is earned through mechanics-then-consistency. The sport's signature blend — barbell cycling, gymnastics skills (pull-ups, muscle-ups, handstand push-ups), and engine work — makes it the most general preparedness system in modern fitness."
+    ],
+    "facts": [
+      ["Founded", "2000 — Greg Glassman's Santa Cruz affiliate; CrossFit Inc. grows the affiliate model to 10,000+ boxes worldwide"],
+      ["The sport", "CrossFit Games since 2007; season = CrossFit Open (all levels) → Quarterfinals → Semifinals → CrossFit Games"],
+      ["Governing bodies", "CrossFit LLC (methodology and Games) with its Sport department; unaffiliated hybrid leagues (the HYROX era) grew alongside"],
+      ["Workout anatomy", "AMRAP (as many rounds as possible), RFT (rounds for time), EMOM (every minute on the minute), time caps, and task/time priorities"],
+      ["Benchmark WODs", "Fran (21-15-9 thrusters/pull-ups), Grace, Cindy, Murph, the Girls and Hero WODs — the culture's shared yardsticks"],
+      ["Adaptive & age divisions", "The Games include teenage, masters (35-65+), and adaptive athlete divisions alongside elite individuals and teams"]
+    ],
+    "history": [
+      ["2000-2005", "Glassman's affiliate and the internet forum era: WODs posted free, garage gyms become boxes."],
+      ["2007", "The first CrossFit Games at the Rancho Aromas ranch: small field, unknowable events, and the sport's founding template."],
+      ["2010-2015", "Reebok era and ESPN broadcasting; Froning's four-peat; the Open (2011) turns the whole community into the sport's first round."],
+      ["2017-2020", "Toomey and Fraser dynasties (five and six consecutive titles respectively); sanctioned semifinal system globalizes qualifying."],
+      ["2020s", "New ownership and format evolutions; adaptive divisions grow; HYROX and hybrid racing boom as the sport's cousins; the Games remain fitness' superbowl."]
+    ],
+    "formats": [
+      ["The Open", "Three workouts each February-March, judged anywhere: the entire community's season opener and the sport's democratic heart."],
+      ["Quarterfinals & Semifinals", "Online quarterfinal filtering into in-person semifinals by continent — the pathway's spine."],
+      ["CrossFit Games", "Four-ish days of unknown events; individual, team, age-group, and adaptive divisions crown champions."],
+      ["Sanctionals & throwdowns", "Independent elite events (Dubai-era fitness festivals, Down Under, Rogue) between Games seasons."]
+    ],
+    "skills": [
+      ["Barbell cycling", "Olympic and power lifts at submaximal loads for reps: efficiency positions, breathing between reps, and touch-and-go rhythm.", "EMOM barbell work (10 min of alternating snatch-balance cycling at 60-70%); practicing workout-paced snatch and clean & jerk singles; grip management drills."],
+      ["Gymnastics density", "Pull-ups (kipping/butterfly), muscle-ups, handstand push-ups and walks: skill elements that decide mid-competition separation.", "Strict foundation blocks first (5×5 strict pull-ups/HSPU); kipping mechanics on low rings/bars; EMOM skill density (every 45 s: 3 ring muscle-ups ×10 min)."],
+      ["The engine", "Aerobic power across mixed modalities: run/row/bike repeats and combined WOD pacing.", "Interval engines: 5×500 m row / 400 m run with 1:1 rest; threshold pieces (20 min of controlled discomfort at conversation's edge); heart-rate guided pacing."],
+      ["Pacing & strategy", "WODs are puzzles: knowing your splits, movement order economics, and where to push versus survive.", "Rehearse benchmarks with plans (Fran in 3 rounds mentally); split-tracking on every piece; post-WOD review of target versus actual."],
+      ["Movement standards under fatigue", "Full range of motion (squats below parallel, chin over bar, lockouts) held when the clock argues otherwise.", "No-rep acceptance training: film open workouts; standards rehearsed at race heart rate; judges' feedback welcomed."],
+      ["Weak-point & mobility work", "Overhead and front-rack positions, ankle and hip range: the positions the barbell and gymnastics demand.", "Daily 10-minute position work (couch stretch, thoracic openers); loaded progressions before WODs; position-specific accessory circuits 2× weekly."]
+    ],
+    "rules": [
+      "Workout scoring: AMRAPs by rounds+reps, timed pieces by clock, point tables per event with cuts (eliminations) at later stages.",
+      "Movement standards are video-defined (squat depth, lockout, chin over bar): judges count no-reps on the spot; the camera arbitrates appeals.",
+      "Equipment standards: boxes, wall-ball targets (10/9 ft), barbell loads announced per workout; athletes supply jump ropes and lifting belts.",
+      "The Open: submissions via video or affiliate judging; scores validated through CrossFit's system — integrity is community-enforced.",
+      "Games format: events unknown until the eve (or the moment) of competition; cuts trim fields across the weekend; ties broken by fastest finishes.",
+      "Drug testing: WADA-standard testing at the Games level (independent agency), with sanctions published — the sport's integrity layer.",
+      "Team competition: affiliates' rosters (typically 2 men/2 women, by format year) share workout duties in team-scored events."
+    ],
+    "equipment": [
+      ["Box membership", "The affiliate is the methodology's home: coaching, community, and equipment included ($100-250 monthly)."],
+      ["Home setup", "Barbell + bumpers ($600-1,200), pull-up bar/rig, jump rope, box, and a rower or bike erg ($900-1,200) — a full garage box."],
+      ["Personal kit", "lifting shoes and flat shoes for lifting, hand protection (grips), knee sleeves, rope sized to height ($150-250 total)."],
+      ["Wearables & tech", "Heart-rate strap and interval timer for engine work; the leaderboard app for the Open season."],
+      ["Recovery basics", "Foam roller, lacrosse ball, protein discipline — the invisible half of intensity management."]
+    ],
+    "training": [
+      ["Train at an affiliate for coaching on mechanics: the intensity prescription is layered on movement quality, never before it."],
+      "A balanced week: 2 strength blocks (barbell), 2-3 mixed WODs (varied time domains 5-30 min), 1 engine interval, skill work daily.",
+      "Benchmark WODs quarterly as progress markers (Fran, Cindy, Murph, a 5 k row) — the culture's honest yardsticks.",
+      "Recovery is programmed, not implied: sleep, protein, and deload weeks keep the intensity sustainable.",
+      "Scale honestly and record everything (Rx versus scaled) — the logbook is the sport's autobiography."
+    ],
+    "pathway": [
+      ["Affiliate member", "Class athlete: scaled to Rx over months — the sport's true and widest tier."],
+      ["The Open participant", "Every February-March: three workouts, one worldwide leaderboard — the season's front door for everyone."],
+      ["Quarterfinalist", "Top Open percentages advance online — the pathway's first filter."],
+      ["Semifinals", "In-person continental championships feeding Games invitations."],
+      ["CrossFit Games", "The fittest on Earth crowned across individual, team, age-group, and adaptive divisions."]
+    ],
+    "events": [
+      ["CrossFit Games", "Since 2007: the sport's world championship week — unknowable events, cuts, and the 'Fittest' titles."],
+      ["CrossFit Open", "Since 2011: the worldwide three-workout festival where a million-person community shares one leaderboard."],
+      ["Semifinal weekends", "Continental championships (Africa, Asia, Europe, North America, Oceania, South America) — Games berths on the line."],
+      ["Sanctional-era & independent elite events", "Dubai Fitness Championship lineage, Rogue Invitationals, Zercher-era throwdowns — the between-season majors."],
+      ["Local comps & partner throwdowns", "Boxes' in-house competitions and pairs events — where nearly every Games athlete started."]
+    ],
+    "legends": [
+      ["Rich Froning Jr.", "USA — four consecutive individual Games titles (2011-2014) plus team crowns; the sport's first superstar and its standard of general dominance."],
+      ["Mat Fraser", "USA — five consecutive titles (2016-2020) with work-capacity discipline that reset the sport's ceiling."],
+      ["Tia-Clair Toomey", "Australia — six consecutive women's titles (2017-2022) plus an Olympic weightlifting appearance: the fittest woman in history by record."],
+      ["Annie Thorisdottir & Katrin Davidsdottir", "Iceland — the Icelandic champions (two titles each) who globalized the women's sport's profile."],
+      ["Justin Medeiros", "USA — the post-dynasty era's back-to-back champion (2021-2022) and the sport's next-model professional."]
+    ],
+    "getting_started": [
+      "Join an affiliate and take the fundamentals course: every box teaches movement before intensity.",
+      "Scale every workout without ego: the RX is a destination, not a first date.",
+      "Buy a jump rope and learn double-unders in month one — they appear in everything.",
+      "Log every WOD: benchmarks repeat and progress is the sport's real leaderboard.",
+      "Do the Open in your first February — community, judges, and the worldwide leaderboard are the sport's whole culture in three weeks.",
+      "Balance the triad the methodology demands: mechanics, consistency, intensity — in that order, forever."
+    ],
+    "glossary": [
+      ["WOD", "Workout of the Day — the methodology's daily unit and the culture's first word."],
+      ["AMRAP / RFT / EMOM", "As-many-rounds-as-possible / rounds-for-time / every-minute-on-the-minute: the format grammar."],
+      ["Rx / Scaled", "As prescribed versus adjusted — the honest ledger of levels."],
+      ["Box", "A CrossFit affiliate gym — the sport's home unit."],
+      ["The Girls & Hero WODs", "Benchmark workouts (Fran, Grace; Murph, Chad) — the shared yardsticks."],
+      ["Muscle-up", "Ring or bar: from hang to support on top — gymnastics' gateway skill."],
+      ["Double-under", "Rope passing twice per jump: the sport's jump-rope tax."],
+      ["Handstand push-up (HSPU)", "Inverted pressing standard — gymnastics strength's currency."],
+      ["The Open", "The worldwide three-workout season opener — everyone's Games."],
+      ["No-rep", "The judge's call when a rep misses standard; the sport's honesty mechanism."]
+    ],
+    "related": ["functional-fitness", "powerlifting", "olympic-weightlifting", "obstacle-course-racing", "strength-and-conditioning"],
+    "crosslink": false
+  },
+  {
+    "slug": "arm-wrestling",
+    "name": "Arm Wrestling",
+    "category": "strength",
+    "glyph": "🦾",
+    "tagline": "Two arms, one table — the world's oldest strength argument, now a global sport.",
+    "origin": "Ancient pastime · modern sport 1952 (Petaluma) · 1992 Yukon era",
+    "tags": ["Pure strength duel", "Technique sport", "WAL & worlds", "Weight classes"],
+    "overview": [
+      "Arm wrestling is a direct strength duel: two competitors, hands gripped, elbows on pads, fighting to pin the opponent's arm to the table. Behind its bar-brawl reputation lies a deep technical sport — three main arm positions (top roll, hook, press) and their counters, governed by strict weight classes, referees, and world federations, with professional leagues televising supermatches between specialist athletes built like anatomy charts.",
+      "The modern sport organized at Gilardi's Saloon in Petaluma, California (1952 — the first organized tournament), and the World Wristwrestling Championship era in Yukon (1960s-70s) carried it onto television's Wide World of Sports. Today's landscape runs from amateur world championships (multiple federations by weight and age class) to the professional league era, where top-level pros like Levan Saginashvili, 'the Georgian Hulk', dominate super-heavyweight with 300 kg-class training lifts behind their grips.",
+      "Newcomers should learn early that arm wrestling is a whole-body technique sport, not a biceps contest: back pressure, shoulder rotation, and wrist strength (trained with levers, hammers, and bands) decide far more than arm size. Find a local club — tables and coaching exist in most cities — and respect the sport's safety curve: conditioned connective tissue, not brute matches, keeps elbows intact."
+    ],
+    "facts": [
+      ["Modern founding", "1952 — Gilardi's Saloon, Petaluma, California: the first organized arm wrestling tournament (so defined by journalist Bill Soberanes)"],
+      ["Television era", "1969-1970s — Yukon's World Wristwrestling Championship features on ABC's Wide World of Sports"],
+      ["Governing bodies", "World Armwrestling Federation (WAF, roots since 1977) plus continental affiliates; professional leagues (WAL era, East versus West, EvW) and rankings bodies"],
+      ["Weight classes", "Ten classes per sex, from 55 kg up to 110+ kg on the men's side; women's classes parallel"],
+      ["Match structure", "Best-of-three (two-out-of-three falls); setup by strap when grips break; referees command 'Ready, go' with elbow fouls policed"],
+      ["Professional frontier", "Super-heavyweight supermatches (Saginashvili era) with six-figure purses at league events"]
+    ],
+    "history": [
+      ["Ancient-1800s", "Arm wrestling appears in ancient Egypt's depictions, with evidence of arm and wrist contests across cultures — humanity's default strength argument."],
+      ["1952", "Petaluma's Gilardi's Saloon: Bill Soberanes organizes the first tournament; the city becomes the sport's mecca (world championships 1961+ era)."],
+      ["1969-1979", "Yukon, Oklahoma's championship and ABC television; the Over the Top era (Sylvester Stallone's 1987 film) romanticizes the sport."],
+      ["1990s-2000s", "Federation consolidation (WAF worlds); eastern European and Russian systems professionalize training; professional armwrestling leagues form (PBA/PAL era)."],
+      ["2010s-2020s", "WAL's broadcast era; Vendetta-style supermatches; Engin Terzi and Levan Saginashvili chapters; the sport's YouTube-driven global boom."]
+    ],
+    "formats": [
+      ["Amateur tournament format", "Double elimination by weight class, best-of-three matches, right and left hand divisions — the world championship standard."],
+      ["Professional supermatches", "Headlined best-of-three or best-of-five supermatches on staged tables — the sport's professional theater."],
+      ["Team leagues", "East versus West, national club leagues, and crossover events — team-scored formats building rivalries."],
+      ["Masters & youth", "Age divisions from teenagers to 60+ masters; Para-armwrestling standing and seated classes."]
+    ],
+    "skills": [
+      ["Top roll", "The outside game: rotating the opponent's wrist outward, walking fingers up the hand, and peeling their grip to attack the fingers with leverage.", "Rope and belt top-roll drills; table time with lighter opponents focusing purely on wrist position; finger and wrist extensor training (reverse wrist curls, finger spreads with bands)."],
+      ["Hook", "The inside game: curling the wrist inward, burying the opponent's hand, and powering through with pronation and biceps.", "Hammer and lever training for wrist flexion; hook statics on the table (isometric holds at angles); biceps and brachialis curls with thick bars."],
+      ["Press (triceps press)", "The shoulder-driven power move: taking the hand back into a dominant angle and pressing with body weight and triceps.", "Close-grip bench and dips for pressing power; press technique on the table with coach resistance; triceps-specific volume 2× weekly."],
+      ["Back pressure & body positioning", "Nearly all power flows from the back and shoulder, the lat and back chain pulling the opponent's arm into your frame.", "One-arm dumbbell rows heavy (5×5); back pressure machine/table statics; body positioning drills (chest over the hand, hip rotation)."],
+      ["Wrist strength", "The sport's hinge: flexion, extension, pronation, supination strength at end ranges — where matches are quietly won.", "Lever and sledgehammer wrist work 2× weekly (all four directions); wrist roller; plate pinch statics; forearm hypertrophy blocks."],
+      ["Grip & hand control", "Finger strength and thumb pressure: controlling the opponent's hand before the pin can be built.", "Thick-bar holds and rolling handles; clamp grippers (heavy closes) and pinch blocks; grip endurance (timed holds)."]
+    ],
+    "rules": [
+      "Setup: competitors' shoulders square to the table, elbows on pads centered, gripping palm-to-palm with thumbs wrapped and pinched over the thumb web; the referee aligns grips and calls the start.",
+      "A pin: the opponent's hand touched to the touch pad (any part below the wrist breaking the plane at the pad). Falls restart by command; two warnings for early starts or elbow slips precede a foul-loss.",
+      "The strap: when grips repeatedly break, competitors are strapped together — the pure test beneath the grip game.",
+      "Matches: best of three falls standard (supermatches by promotion rules); weight classes strictly enforced at same-day weigh-ins.",
+      "Legal technique: elbows must stay on the pads; an elbow leaving the pad entirely draws a warning; dangerous slams and intentional fouls are penalized.",
+      "Equipment: competition tables (pads, pins, touch pads standardized); sleeves and elbow support policies by federation; chalk by rules.",
+      "Anti-doping: WAF and major leagues test at championships (WADA-aligned codes)."
+    ],
+    "equipment": [
+      ["Arm wrestling table", "Standardized tables (elbow pads, grip posts, touch pads) — clubs provide; home tables $400-800."],
+      ["Training implements", "Wrist levers, sledgehammers, rolling handles, and resistance belts ($100-250 for a starter kit) — the sport's home gym."],
+      ["Grip tools", "Heavy-duty grippers, pinch blocks, thick-bar attachments ($80-150)."],
+      ["Recovery kit", "Forearm massage tools, contrast sleeves, and tendon-health patience — the sport's connective-tissue tax is real."],
+      ["Club membership", "The best equipment is training partners: clubs exist in most cities and tables teach like nowhere else."]
+    ],
+    "training": [
+      "Table time is the sport's core: 2-3 club sessions weekly of technique and statics against varied styles.",
+      "Implement training 2× weekly: wrists (all directions), back pressure rows, and pressing — the three engines.",
+      "General strength base: rows, curls, close-grip pressing; the sport rewards total upper-chain strength at every class.",
+      "Tendon conditioning is a months-long project: progressive statics and isometrics before maximal matches — elbows are the sport's currency and its injury list.",
+      "Style study: film your matches and the pros' (top roll versus hook matchups are chess games with forearms)."
+    ],
+    "pathway": [
+      ["Local club & novice tournaments", "Clubs and regional novice events — the table is the classroom and the community is the coach."],
+      ["Regional & national championships", "National federation qualifiers and titles by weight class (right and left hand)."],
+      ["Continental & world championships", "WAF continental and world championships — national team vests earned."],
+      ["Professional leagues & rankings", "League contracts and supermatch invitations build professional records."],
+      ["Supermatch stardom", "Headlined vendettas and top-10 rankings — the sport's professional summit."]
+    ],
+    "events": [
+      ["WAF World Championships", "The amateur summit: national teams, all classes, right and left hands."],
+      ["Professional league events", "WAL-era cards and East versus West supermatch events — the sport's televised theater."],
+      ["Continental championships", "European, Asian, Pan-American championships feeding world selection."],
+      ["National championships", "Every federation's annual national — the pathway's spine."],
+      ["Vendettas & supermatches", "Challenge-match spectacles where rivalries settle scores over best-of-series."]
+    ],
+    "legends": [
+      ["John Brzenk", "USA — 'the Greatest of All Time': world titles across four decades in multiple weight classes; the technical encyclopedia of the sport."],
+      ["Devon Larratt", "Canada — the sport's great ambassador and two-arm champion; the YouTube era's face of arm wrestling."],
+      ["Levan Saginashvili", "Georgia — 'the Georgian Hulk': the super-heavyweight era's dominant force with training lifts from another sport."],
+      ["Alexey Voevoda", "Russia — the pre-Saginashvili super-heavy terror who also won Olympic bobsled medals; a two-sport monster."],
+      ["Engin Terzi & the women's pioneers", "Turkey — Terzi's multi-class world titles; alongside the women's world champions who built the female side of the table."]
+    ],
+    "getting_started": [
+      "Find the nearest club and ask for a beginner night — the sport teaches at the table, not the laptop.",
+      "Learn the three styles before competing: top roll, hook, and press are the whole strategic map.",
+      "Train wrists and tendons for months before maximal matches — the sport punishes impatience with elbow injuries.",
+      "Enter a novice tournament in your weight class within six months: two out of three falls teaches faster than any drill.",
+      "Film your matches: angle losses (inside versus outside) tell you exactly what to train.",
+      "Respect the strap: when grips break, the real test begins."
+    ],
+    "glossary": [
+      ["Top roll", "The outside technique: wrist rotation and finger control to strip the opponent's leverage."],
+      ["Hook", "The inside technique: curled wrist and pronation burying the opponent's hand for the power game."],
+      ["Press", "The triceps-and-shoulder finish from a dominant angle."],
+      ["Pin", "The touch-pad finish: the opponent's hand forced flat."],
+      ["Strap", "The binding used when grips break — the sport's tiebreaker of truth."],
+      ["Elbow pad foul", "Elbow leaving its pad: warnings, then a lost fall."],
+      ["Back pressure", "Pulling the opponent's arm into your frame with the back chain — every style's engine."],
+      ["King's move", "The defensive position — the controversial high-defense posture (rules-permitted ranges debated by federation)."],
+      ["Inside / outside", "The two match geographies: hook battles versus top-roll wars."],
+      ["Vendetta", "A challenge supermatch — the sport's rivalry theater."]
+    ],
+    "related": ["strongman", "powerlifting", "tug-of-war", "strength-and-conditioning", "bodybuilding"],
+    "crosslink": false
+  },
+  {
+    "slug": "tug-of-war",
+    "name": "Tug of War",
+    "category": "strength",
+    "glyph": "🪢",
+    "tagline": "Eight pulling as one — the ancient team rope sport that was Olympic.",
+    "origin": "Ancient worldwide · TWIF 1960 · Olympic 1900-1920",
+    "tags": ["Team strength", "Olympic heritage", "Club sport", "Rope craft"],
+    "overview": [
+      "Tug of war is a direct team strength contest: two teams of eight pull opposite ends of a rope, each trying to drag the other past a center line (usually by four meters, marked by the rope's center flag). It is one of humanity's oldest organized contests — ancient Egypt, China, and Greece all pulled — and it was an Olympic sport from 1900 to 1920 before leaving the program with the IOC's early rationalization.",
+      "The modern sport is governed by the Tug of War International Federation (TWIF, founded 1960), with world championships biennially, World Games inclusion, and national scenes strongest in Switzerland, Germany, the Basque Country, the UK, Ireland, and East Asia. The technique is everything the casual image misses: a low driving stance (the 'hold' and 'move' rhythm), synchronized heaves commanded by a caller, and rope management where the eighth puller — the anchor — wraps the rope and holds the line like a cliff.",
+      "Newcomers should find a club: tug of war is cooperative strength at its purest, and clubs supply ropes, coaching, and the strange joy of a sport where you win by going backward. Weight classes keep contests honest (and teams exist from under-560 kg catchweights to open 720 kg+ class structures by TWIF), so every body type has a place on the rope."
+    ],
+    "facts": [
+      ["Ancient roots", "Rope pulling documented in ancient Egypt (carvings), China (festivals), Greece, and countless folk traditions"],
+      ["Olympic era", "1900-1920 — tug of war was on five Olympic programs; City of London Police and similar club teams took the early golds"],
+      ["Governing body", "Tug of War International Federation (TWIF, 1960); world championships biennial; World Games sport"],
+      ["The teams", "Eight pullers per side; weight classes (e.g., 560, 600, 640, 680, 720 kg catchweight plus open) for men and women; youth and masters divisions"],
+      ["The contest", "Best of three pulls; victory by pulling the rope's center marking four meters past the line; timed pulls judged by distance if caps expire"],
+      ["Rope & kit", "32-36 m natural manila/sisal ropes of set circumference; boots with regulated sole construction; padded belts by rules"]
+    ],
+    "history": [
+      ["Antiquity", "Egyptian carvings and Chinese lunar-festival pulls: the rope as humanity's earliest team-strength measuring stick."],
+      ["1800s", "Formal club tug of war in Britain and continental Europe; the sport rides the era's athletic-club movement."],
+      ["1900-1920", "Five Olympic Games include tug of war; the City of London Police's dynasty (1908 era) marks the amateur peak."],
+      ["1960-1975", "TWIF founds; standardized rules and the first world championships era (1965's inaugural worlds)."],
+      ["1981-2000s", "World Games inclusion from 1981; Swiss, German, Basque, and UK clubs build the modern powerhouses; women's worlds grow."],
+      ["2020s", "TWIF worlds continue biennially with mixed and open classes; the sport campaigns for renewed Olympic recognition."]
+    ],
+    "formats": [
+      ["Outdoor tug of war", "The classic: grass or track pulls in catchweight classes — the world championship format."],
+      ["Indoor tug of war", "Mat-based winter season with its own championships — footwork-technical, sprint-like pulls."],
+      ["Club & national leagues", "National league systems (Switzerland's and Germany's club cultures run deepest) with promotion and relegation."],
+      ["Festival & heritage pulls", "Folk traditions worldwide (Basque sokatira, Korean juldarigi — UNESCO-listed) — the sport's cultural roots."]
+    ],
+    "skills": [
+      ["The hold (basic position)", "Body leaned back at roughly 45°, rope locked under the armpit-side arm, legs driving — the sport's foundation posture.", "Static hold drills (timed 30-60 s at body angle); rope-under-arm positioning practice; partner resistance holds."],
+      ["The move (drive & dig)", "The synchronized backward drive: legs pushing in short steps ('digs') while the team's weight hangs on the rope.", "Dig-step drills on grass (5-step cycles on command); hill and sled work for leg drive; timing drills to the caller's rhythm."],
+      ["Synchronization & the caller", "Eight pullers as one piston: the caller (often the anchor, or a designated voice) commands the heave cycle — the sport's real engine.", "Command-response pulls in training (move-hold-move patterns); video review of team timing; endurance pulls of 2-3 minutes."],
+      ["Anchor technique", "The eighth puller: rope wrapped over the shoulder and across the body, braced as the team's foundation — a specialist position.", "Anchor wrap technique practice; loaded carries and static holds (yoke-style) for anchor strength; positional trial in training."],
+      ["Grip & rope management", "Rope circling (rotating the rope to manage slack) without losing tension; grip endurance across long pulls.", "Rope-hang and thick-bar holds; gloved and bare-hand rope climbing; slack-management drills after simulated slips."],
+      ["Team strength base", "The gym side: posterior chain, grip, and neck — built for angles and endurance, not mirrors.", "Deadlifts 5×5, farmer's walks, rows, and neck work 2-3× weekly; team circuit sessions; weight-class discipline (catchweight honesty)."]
+    ],
+    "rules": [
+      "Teams of eight; combined weight measured at weigh-in for catchweight classes; substitutions limited by rule.",
+      "The pull: rope center marking pulled four meters past the center line wins; competition is best of three pulls.",
+      "The start: 'Pick up the rope, take the strain, pull' command sequence; early movement draws warnings and restarts.",
+      "Technique limits: no deliberate sitting, lying, or wrapping the rope around any body part except the anchor's regulation wrap; boots' soles must comply (regulated cleats by TWIF spec, no spikes).",
+      "Duration caps: pulls are limited by rule at major events (the limit set by competition rules), with distance judging if a pull goes unbroken; fouls can cost pulls.",
+      "Clubs & identification: team uniform numbering, anchor markers, and rope-side protocols governed by TWIF officials.",
+      "Anti-doping applies at TWIF championships (WADA code)."
+    ],
+    "equipment": [
+      ["Rope", "TWIF-spec manila or sisal, 32-36 m by circumference rules ($800-2,000) — clubs own them; beginners pull, not buy."],
+      ["Boots", "Regulated-sole tug-of-war boots with heel construction for digging ($100-200) — the sport's one true kit investment."],
+      ["Belts & padding", "Padded belts and shorts (rope wear is real; $60-120)."],
+      ["Training gear", "Sleds, thick bars, and climbing ropes for the gym side ($150-400 club-shared)."],
+      ["Grips & chalk", "Chalk by rule; grip training tools for winter."]
+    ],
+    "training": [
+      "Team pulls 2-3× weekly: technique and endurance pulls of 60-180 seconds build the sport's specific fitness.",
+      "Gym 2-3× weekly: deadlifts, rows, farmer's walks, and neck work — the puller's chassis.",
+      "Weight-class honesty: the catchweight system demands body composition managed across a season.",
+      "Caller development is coaching: timing patterns, heave cycles, and psychology trained like technique.",
+      "Recovery discipline: forearms, lower backs, and necks take the sport's whole load — mobility and contrast work weekly."
+    ],
+    "pathway": [
+      ["Club pulling", "Local club nights and festival pulls — the rope's front door (clubs exist in most tug nations)."],
+      ["League & regional", "National league teams and regional championships in catchweight classes."],
+      ["National championships", "National titles by class and surface (indoor/outdoor) selecting national squads."],
+      ["Worlds & World Games", "TWIF biennial world championships and the World Games' multi-sport stage."],
+      ["Olympic campaign", "The sport's institutional dream: a return to the program it left in 1920."]
+    ],
+    "events": [
+      ["TWIF World Championships", "Biennial outdoor worlds: all catchweight classes, men's and women's, nations' best."],
+      ["TWIF Indoor Worlds", "The winter surface's world championships — the sport's technical half."],
+      ["World Games", "Since 1981: tug of war on the multi-sport stage for non-Olympic sports."],
+      ["European & continental championships", "Europe's deep fields (Switzerland, Germany, Basque Country, UK, Ireland) and Asian circuits."],
+      ["Heritage festivals", "Sokatira festivals, Korean juldarigi ceremonies, and local fete pulls — the sport's living folk roots."]
+    ],
+    "legends": [
+      ["The Olympic-era clubs", "City of London Police (1908 double gold) and the Liverpool police-era teams — the sport's first recorded dynasties."],
+      ["Swiss & German club dynasties", "The mountain-village clubs whose catchweight teams have won world titles for generations — tug of war's institutional heart."],
+      ["Basque sokatira teams", "The Basque Country's festival-bred pullers, world-class from a folk tradition."],
+      ["The anchors' guild", "The great eighth men — anchors whose holds became folklore inside the sport."],
+      ["Korea's juldarigi tradition", "The UNESCO-listed village rope pulls with centuries of ceremony — the sport's cultural memory."]
+    ],
+    "getting_started": [
+      "Search for a tug of war club in your region — stronger nations have club lists; festival pulls are the informal gate.",
+      "Learn the hold before the heave: body angle and rope lock are the technique's spine.",
+      "Build the posterior chain in the gym: deadlifts and farmer's walks are the sport's mirrors.",
+      "Respect catchweight: the class system is the sport's fairness and its discipline.",
+      "Pull in festivals for fun, train with clubs for sport — the two worlds share one rope.",
+      "Care for your grip and neck like a professional: longevity on the rope is technique plus recovery."
+    ],
+    "glossary": [
+      ["Pull", "One contest — best of three decides the match."],
+      ["Catchweight class", "The team's combined weight limit (560-720 kg bands) — the sport's fairness system."],
+      ["Hold & move", "The two fundamentals: the locked lean-back position and the synchronized drive."],
+      ["Dig", "The short backward steps of the drive phase."],
+      ["Anchor", "The eighth puller, wrapped and braced — the team's foundation."],
+      ["Caller", "The commanding voice timing the team's heaves."],
+      ["Four meters", "The winning distance: the rope's center past the line."],
+      ["Sokatira & juldarigi", "Basque and Korean heritage names for the world's rope traditions."],
+      ["Strain", "The pre-pull tension command before the referee starts the pull."],
+      ["Slack management", "Recovering loose rope without losing hard-won meters."]
+    ],
+    "related": ["strongman", "arm-wrestling", "strength-and-conditioning", "powerlifting", "functional-fitness"],
+    "crosslink": false
+  }
+]

@@ -1,0 +1,3037 @@
+[
+  {
+    "slug": "strength-and-conditioning",
+    "name": "Strength & Conditioning",
+    "category": "domains",
+    "glyph": "🏋️",
+    "tagline": "The science of making athletes — programming, periodization, and the coaching profession.",
+    "origin": "Modern era · NSCA founded 1978",
+    "tags": [
+      "Coaching profession",
+      "Periodization",
+      "Every sport's foundation",
+      "Evidence-based"
+    ],
+    "overview": [
+      "Strength and conditioning is the discipline that builds the physical qualities underneath every sport: strength, power, speed, endurance, mobility, and resilience — programmed deliberately and periodized toward competition. It is also a profession: S&C coaches hold university degrees and certifications (the NSCA's CSCS is the field's standard), work within national institutes and professional clubs, and carry the legal and ethical duty of preparing bodies for the loads sport imposes.",
+      "The field's intellectual lineage runs from Soviet sports science (Matveyev's periodization model, Verkhoshansky's shock method) through the West's strength research (the NSCA founded 1978) to today's evidence-based practice: velocity-based training, force-plate profiling, and workload monitoring now sit alongside the barbell fundamentals that never change. The modern S&C coach is part scientist, part teacher, and part manager of the athlete's whole adaptation budget.",
+      "Newcomers should understand S&C's first principle: the training must serve the sport, not compete with it. The classic progression — movement quality, then strength, then power and speed, then sport-specific transfer — is the scaffold every program hangs on, and the athlete who learns to train (bracing, technique, recovery) before training hard keeps the career long."
+    ],
+    "facts": [
+      [
+        "The profession",
+        "Certified strength and conditioning specialists (CSCS via NSCA, 1985 credential); university degree pathways; employment across sport institutes, clubs, and schools"
+      ],
+      [
+        "Founding institutions",
+        "NSCA (National Strength and Conditioning Association, 1978); the Soviet schools' (Matveyev, Verkhoshansky) scientific legacy; modern university programs"
+      ],
+      [
+        "Core qualities trained",
+        "Maximal strength, power, speed, agility, aerobic and anaerobic capacity, mobility, and tissue resilience (tendons, bone)"
+      ],
+      [
+        "Programming frameworks",
+        "Periodization models: linear, block (Bondarchuk, Issurin), undulating, conjugate — matched to the sport's calendar"
+      ],
+      [
+        "Modern technology",
+        "Velocity-based training devices, force plates, GPS workload monitoring, and jump profiling — data layered on coaching judgment"
+      ],
+      [
+        "The rule",
+        "Training serves the sport: the goal is transfer, not gym numbers"
+      ]
+    ],
+    "history": [
+      [
+        "Ancient-1900s",
+        "Progressive training from Milo's bull (the legend) to the physical culture era; the military's calisthenics tradition."
+      ],
+      [
+        "1950s-1970s",
+        "The Soviet science era: Matveyev's periodization (1960s), Verkhoshansky's shock method, and the state systems' systematic athlete development."
+      ],
+      [
+        "1978-1990s",
+        "The NSCA's founding and the CSCS credential (1985): the profession professionalizes in the West."
+      ],
+      [
+        "2000s-2010s",
+        "The data era: GPS, force plates, and velocity tracking enter professional sport; evidence-based practice displaces tradition."
+      ],
+      [
+        "2020s",
+        "Load management, injury-risk modeling, and the long-term athlete development (LTAD) integration — the field matures."
+      ]
+    ],
+    "formats": [
+      [
+        "Team sport S&C",
+        "The club model: seasonal periodization, monitoring, and return-to-play pathways within team calendars."
+      ],
+      [
+        "Individual sport S&C",
+        "Sport-specific programs for track, swimming, combat, and racket athletes — often coach-of-coaches structures."
+      ],
+      [
+        "Youth LTAD",
+        "Long-term athlete development: sampling years, FUNdamentals, and age-appropriate strength (the Balyi model's influence)."
+      ],
+      [
+        "Rehab-adjacent S&C",
+        "Return-to-performance bridges between physiotherapy and full training."
+      ]
+    ],
+    "skills": [
+      [
+        "Program design & periodization",
+        "The core craft: needs analysis, quality prioritization, and the macro-to-micro structure that peaks on time.",
+        "Build a needs analysis per sport (energy systems, force vectors, injury profile); plan a 12-week block on paper; reverse-engineer one pro program."
+      ],
+      [
+        "Coaching the lifts",
+        "Teaching squat, hinge, press, and pull patterns with cueing that transfers under fatigue.",
+        "Learn the coaching cues' hierarchy (one cue per lifter per set); practice spotting and correction; film your own lifts."
+      ],
+      [
+        "Monitoring & autoregulation",
+        "The load-management layer: RPE, sRPE, jump height, HRV — the athlete's readiness read daily.",
+        "Track sRPE × duration for a month; use jump profiling weekly; adjust volume off readiness, not the plan."
+      ],
+      [
+        "Testing & assessment",
+        "The measurement discipline: strength, power, speed, and movement screens repeated on schedule.",
+        "Run a testing battery (1RM estimates, CMJ, 10-30 m sprints); track progress quarterly; learn each test's error margin."
+      ],
+      [
+        "Injury reduction",
+        "The resilience programs: Nordic curls, Copenhagen planks, shoulder and ankle protocols — the evidence-backed list.",
+        "Implement a hamstring protocol (Nordic progression); screen and address asymmetries; warm-up systems that aren't wasted time."
+      ],
+      [
+        "Communication & buy-in",
+        "The coaching craft: selling the plan to athletes and head coaches — S&C's soft skill decides its hard results.",
+        "Present one program to an athlete with rationale; practice cueing to different learning styles; earn trust before novelty."
+      ]
+    ],
+    "rules": [
+      "Scope of practice: S&C coaches train healthy athletes; medical conditions belong to clinicians — the CSCS's ethical line.",
+      "Certification standards: the NSCA's CSCS requires a degree; maintenance units keep it current; insurance follows certification.",
+      "Youth guidelines: resistance training for children is safe and beneficial when supervised and progressive (the position stands' consensus).",
+      "Data ethics: athlete monitoring data is sensitive — consent and secure handling are professional duties.",
+      "Return-to-play: the S&C coach works within medical clearance frameworks, never against them.",
+      "Supplement and substance law: WADA's prohibited list binds every professional context; supplements carry third-party testing duties.",
+      "Documentation: programs, testing, and incidents recorded — the profession's paper trail protects athlete and coach."
+    ],
+    "equipment": [
+      [
+        "Barbells & racks",
+        "The foundation: quality bars, a rack, and plates ($800-2,500 for a garage setup; institutional gyms more)."
+      ],
+      [
+        "Testing kit",
+        "Jump mat or force plates, speed gates, and a VBT device ($200-3,000 by ambition)."
+      ],
+      [
+        "Monitoring tools",
+        "GPS units (team sport), HRV apps, and the sRPE spreadsheet — the free layer first."
+      ],
+      [
+        "Mobility & recovery",
+        "Bands, rollers, and the physio's toolkit ($100-300)."
+      ],
+      [
+        "Education",
+        "The CSCS exam prep, journals (the NSCA's JSCR), and mentorships — the real equipment."
+      ]
+    ],
+    "training": [
+      "Train the fundamentals yourself: a coach who lifts coaches better — own the squat, hinge, press, pull.",
+      "Study the evidence: the NSCA's journals and position stands beat Instagram science every time.",
+      "Coach volume early: volunteer with teams and youth groups — the craft is learned coaching, not reading.",
+      "Learn monitoring by doing it: track your own training with the same tools you'll prescribe.",
+      "Build the library: one periodization model understood deeply beats five skimmed."
+    ],
+    "pathway": [
+      [
+        "Degree & certification",
+        "Exercise/sport science degree, then the CSCS exam."
+      ],
+      [
+        "Internships & assistant roles",
+        "Team and university internships: the profession's apprenticeship."
+      ],
+      [
+        "Assistant S&C coach",
+        "Sport-specific roles under head coaches."
+      ],
+      [
+        "Head S&C coach",
+        "Program leadership within clubs, institutes, or private practice."
+      ],
+      [
+        "Director of performance",
+        "The department leadership and multi-sport strategy roles."
+      ]
+    ],
+    "events": [
+      [
+        "The NSCA Coaches Conference",
+        "The profession's annual gathering and education summit."
+      ],
+      [
+        "National institute programs",
+        "The institutes' (USOC, AIS, UKSI) applied-science world."
+      ],
+      [
+        "Professional club performance departments",
+        "The league structures' S&C staffs."
+      ],
+      [
+        "Academic conferences (ECSS, ACSM)",
+        "The research exchange layer."
+      ],
+      [
+        "Certification cycles & courses",
+        "The CSCS maintenance and specialty credentials."
+      ]
+    ],
+    "legends": [
+      [
+        "Leonid Matveyev",
+        "USSR — periodization's founding theorist: the model every program still references."
+      ],
+      [
+        "Yuri Verkhoshansky",
+        "USSR — the shock method's creator and the Soviet school's scientific engine."
+      ],
+      [
+        "Bill Kraemer",
+        "USA — the NSCA era's leading researcher: periodization and the strength science canon."
+      ],
+      [
+        "Michael Boyle",
+        "USA — the functional strength coach's popularizer and a generation's mentor."
+      ],
+      [
+        "Vern Gambetta",
+        "USA — functional training's early theorist and the coaching-education voice."
+      ]
+    ],
+    "getting_started": [
+      "Master the basics in your own training: squat, hinge, press, pull, carry — coached form.",
+      "Read the NSCA position stands before any social media science.",
+      "Offer to help a local team's fitness: coaching hours beat certificates early.",
+      "Track your own program for three months: autoregulation is learned by living it.",
+      "Pick one periodization model and run it to completion before borrowing others.",
+      "Respect scope: learn when to refer out — the profession's first rule."
+    ],
+    "glossary": [
+      [
+        "Periodization",
+        "The planned variation of training across time — the field's organizing idea."
+      ],
+      [
+        "Needs analysis",
+        "The sport's demands mapped before any program is written."
+      ],
+      [
+        "CSCS",
+        "The Certified Strength and Conditioning Specialist credential (NSCA)."
+      ],
+      [
+        "sRPE",
+        "Session rating of perceived exertion: the load's simplest honest measure."
+      ],
+      [
+        "Force plate",
+        "The jump and imbalance measurement tool."
+      ],
+      [
+        "VBT",
+        "Velocity-based training: bar speed as the loading dial."
+      ],
+      [
+        "LTAD",
+        "Long-term athlete development: the youth model."
+      ],
+      [
+        "Conjugate / block / linear",
+        "The periodization families."
+      ],
+      [
+        "Transfer",
+        "The training's only real scoreboard: does it improve the sport?"
+      ],
+      [
+        "Return to play",
+        "The bridge from rehab to performance — run with clinicians."
+      ]
+    ],
+    "related": [
+      "functional-fitness",
+      "plyometrics",
+      "speed-training",
+      "endurance-training",
+      "nutrition"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "functional-fitness",
+    "name": "Functional Fitness",
+    "category": "domains",
+    "glyph": "🤸",
+    "tagline": "Training for life's movements — and the competitive sport it accidentally became.",
+    "origin": "Physical therapy roots · 1990s-2000s mainstream era",
+    "tags": [
+      "Movement patterns",
+      "Everyday strength",
+      "Competition crossover",
+      "Screening"
+    ],
+    "overview": [
+      "Functional fitness trains movement patterns rather than muscles in isolation: squatting, hinging, pushing, pulling, carrying, and rotating — the vocabulary of both sport and daily life. Born in physical therapy's movement-screening world (Gray Cook's Functional Movement Screen, 1990s-2000s) and popularized by CrossFit's methodology and the broader functional-training movement, it is now the dominant language of general-population fitness.",
+      "The term carries honest tension: all good training is functional for its purpose, and the field's excesses (balance-disc circus tricks) drew evidence-based criticism. Its mature form is clear: multi-joint patterns trained with progressive load, movement quality screened and maintained, and fitness built for the life or sport it serves — the reason it also became a competitive world (CrossFit's Games, HYROX's hybrid racing, DEKA) where functional movement is scored against a clock.",
+      "Newcomers should start with the six patterns loaded progressively: a coached squat, hinge, push, pull, carry, and rotation repertoire covers 90% of what any body needs. Movement screens (the FMS or a good coach's eye) catch asymmetries early, and the training's beauty is its durability — functional strength at 40, 60, and 80 is life's best insurance."
+    ],
+    "facts": [
+      [
+        "Roots",
+        "Physical therapy and movement screening (the FMS, Gray Cook and Lee Burton, 1997-2000s); the corrective exercise lineage"
+      ],
+      [
+        "Popularization",
+        "CrossFit's methodology (2000+) and the functional training movement (Michael Boyle, Gray Cook's books); HYROX's hybrid racing (2017+)"
+      ],
+      [
+        "The patterns",
+        "Squat, hinge, lunge, push, pull, carry, rotation — the seven-pattern vocabulary most systems share"
+      ],
+      [
+        "Screening",
+        "FMS (Functional Movement Screen): seven tests scoring movement quality and asymmetry"
+      ],
+      [
+        "Competitive forms",
+        "CrossFit (the sport page's cousin), HYROX (running plus functional stations), DEKA — fitness as sport"
+      ],
+      [
+        "Evidence era",
+        "Progressive multi-joint training's health benefits (strength, bone, metabolic) among the best-supported in exercise science"
+      ]
+    ],
+    "history": [
+      [
+        "Pre-1990s",
+        "Physical culture's multi-joint roots: strongman's carries, gymnastics' pressing, the military's calisthenics."
+      ],
+      [
+        "1990s",
+        "The rehabilitation era: Cook and Burton's FMS systematizes movement screening; corrective exercise becomes a profession."
+      ],
+      [
+        "2000s",
+        "CrossFit's methodology popularizes the patterns; Boyle's functional-coach books define the mainstream vocabulary."
+      ],
+      [
+        "2010s",
+        "The competition era: HYROX launches (2017) and the hybrid-racing boom begins; studio fitness adopts the language."
+      ],
+      [
+        "2020s",
+        "Evidence-based maturity: the patterns stand, the gadgets fall away, and healthy-aging strength becomes the field's public mission."
+      ]
+    ],
+    "formats": [
+      [
+        "Pattern-based training",
+        "The six-seven patterns programmed across a week: the mainstream method."
+      ],
+      [
+        "Screening & corrective",
+        "FMS-style assessment with corrective exercise layered on."
+      ],
+      [
+        "Hybrid racing preparation",
+        "HYROX/DEKA-specific training: running fitness plus functional stations."
+      ],
+      [
+        "Longevity & aging populations",
+        "Strength, balance, and capacity training for healthspan — the field's public-health branch."
+      ]
+    ],
+    "skills": [
+      [
+        "The six patterns",
+        "Squat, hinge, push, pull, carry, rotate: learned as loaded, coached, and progressed movements.",
+        "Learn each pattern's baseline (goblet squat, hip hinge with dowel, push-up, row, farmer's carry, Pallof press); progress load monthly; film and compare quarterly."
+      ],
+      [
+        "Movement screening",
+        "The assessment eye: spotting asymmetry, limitation, and compensation before load exposes them.",
+        "Learn the FMS's seven tests (or a coach's equivalent); screen a partner monthly; refer out when pain appears (scope discipline)."
+      ],
+      [
+        "Progressive programming",
+        "The patterns periodized: loads, volumes, and complexity advanced across blocks.",
+        "Write a 12-week pattern-based program; track loads and reps honestly; deload on schedule."
+      ],
+      [
+        "Carries & midline strength",
+        "The most neglected pattern: loaded carries (farmer's, suitcase, overhead) and anti-rotation core work.",
+        "Add carries to every session (3×40 m by pattern); progress weight before variety; breathe through braces."
+      ],
+      [
+        "Conditioning that transfers",
+        "Mixed-modal conditioning (row, carry, sled, intervals) serving life and hybrid sport.",
+        "Build an aerobic base (zone 2 twice weekly); add interval blocks; practice the HYROX stations if racing."
+      ],
+      [
+        "Coaching & cueing",
+        "The teaching skill: one cue, clear intent, and the patience to let patterns groove.",
+        "Coach a beginner through all six patterns; collect cues by learning style; practice with elderly clients for communication growth."
+      ]
+    ],
+    "rules": [
+      "Patterns before isolation: multi-joint movement is the field's organizing principle.",
+      "Progressive overload applies: functional does not mean easy — load advances or capacity doesn't.",
+      [
+        "Screening scope: movement screens inform training; pain and pathology belong to clinicians — the field's professional line."
+      ],
+      "Youth and older adults: both populations train patterns safely with coaching — the age-band consensus.",
+      "Competition crossover: CrossFit, HYROX, and DEKA follow their own rulebooks (standards, movement requirements) — see their sport pages.",
+      "Equipment honesty: patterns need little gear; complexity is not function.",
+      "Recovery counts: functional training respects sleep and load management like any sport."
+    ],
+    "equipment": [
+      [
+        "Minimal kit",
+        "Dumbbells or kettlebells, a pull-up bar, and bands ($200-600): the whole patterns gym."
+      ],
+      [
+        "Sled & carry tools",
+        "A sled, farmer's handles, and sandbags ($200-500): the conditioning layer."
+      ],
+      [
+        "Screening tools",
+        "A dowel, measuring tape, and the FMS kit ($30-100)."
+      ],
+      [
+        "Box & rings",
+        "The CrossFit-adjacent additions when needed ($150-400)."
+      ],
+      [
+        "Coaching",
+        "A qualified coach for the first months: patterns learned right stay right ($50-100 per session)."
+      ]
+    ],
+    "training": [
+      "Train all six patterns weekly: two to three full-body sessions cover it.",
+      "Carry something heavy in every session: the cheapest, most complete exercise in fitness.",
+      "Build an aerobic base alongside strength: the hybrid engine (zone 2 plus intervals).",
+      "Screen quarterly: catch the asymmetries before they become injuries.",
+      "Compete once (HYROX, a DEKA, or a CrossFit event): the clock teaches commitment."
+    ],
+    "pathway": [
+      [
+        "Learn the patterns",
+        "Coached sessions on the six movements."
+      ],
+      [
+        "General fitness & group classes",
+        "The sustainable training habit and its community."
+      ],
+      [
+        "Hybrid racing & competitions",
+        "HYROX, DEKA, and CrossFit events as goals."
+      ],
+      [
+        "Coaching certifications",
+        "The NASM/NSCA/ functional qualifications' ladder."
+      ],
+      [
+        "Specialist practice",
+        "Corrective, senior, and performance coaching careers."
+      ]
+    ],
+    "events": [
+      [
+        "HYROX world championship",
+        "The hybrid racing circuit's world title."
+      ],
+      [
+        "CrossFit Games (see sport page)",
+        "The pattern-based sport's pinnacle."
+      ],
+      [
+        "DEKA events",
+        "The Spartan-family functional fitness races."
+      ],
+      [
+        "National fitness competitions",
+        "The grassroots functional leagues."
+      ],
+      [
+        "Community fitness events",
+        "Every gym's in-house throwdowns."
+      ]
+    ],
+    "legends": [
+      [
+        "Gray Cook",
+        "USA — the FMS's co-creator: movement screening's defining voice."
+      ],
+      [
+        "Michael Boyle",
+        "USA — the functional coach's popularizer: patterns over muscles, generations taught."
+      ],
+      [
+        "Stuart McGill",
+        "Canada — the spine scientist whose work anchored functional core training."
+      ],
+      [
+        "The CrossFit methodologists",
+        "The coaches (Glassman's lineage and its critics) who forced functional training's global conversation."
+      ],
+      [
+        "The HYROX builders",
+        "The German founders (2017) who turned functional fitness into a mass-participation race."
+      ]
+    ],
+    "getting_started": [
+      "Learn the six patterns with a coach before adding load: form compounds.",
+      "Start with two full-body sessions weekly: consistency beats complexity.",
+      "Carry in every workout: the farmer's carry is functional fitness in one move.",
+      "Screen yourself quarterly: asymmetries caught early stay small.",
+      "Add one conditioning session weekly: the aerobic base serves everything.",
+      "Set a race or test date: functional fitness improves fastest with a scoreboard."
+    ],
+    "glossary": [
+      [
+        "Pattern",
+        "The movement vocabulary: squat, hinge, push, pull, carry, rotate."
+      ],
+      [
+        "FMS",
+        "The Functional Movement Screen: seven tests for quality and asymmetry."
+      ],
+      [
+        "Goblet squat",
+        "The pattern's friendliest teacher."
+      ],
+      [
+        "Hip hinge",
+        "The deadlift family's foundation."
+      ],
+      [
+        "Farmer's carry",
+        "Loaded walking: the most complete functional exercise."
+      ],
+      [
+        "Pallof press",
+        "Anti-rotation core work: the midline's teacher."
+      ],
+      [
+        "Hybrid racing",
+        "Running plus functional stations (the HYROX format)."
+      ],
+      [
+        "Corrective exercise",
+        "The screening-to-training bridge."
+      ],
+      [
+        "Zone 2",
+        "The aerobic base's intensity band."
+      ],
+      [
+        "Capacity",
+        "The training goal behind every pattern: more life per day."
+      ]
+    ],
+    "related": [
+      "crossfit",
+      "strength-and-conditioning",
+      "nutrition",
+      "mobility",
+      "obstacle-course-racing"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "endurance-training",
+    "name": "Endurance Training",
+    "category": "domains",
+    "glyph": "🏃",
+    "tagline": "The aerobic engine — zone 2, threshold, and the polarized model's honest math.",
+    "origin": "Exercise physiology · Scandinavian sports science era",
+    "tags": [
+      "Aerobic base",
+      "Zone 2",
+      "Polarized training",
+      "Threshold work"
+    ],
+    "overview": [
+      "Endurance training builds the aerobic engine: the heart's stroke volume, the muscles' mitochondrial density, and the metabolic machinery that lets humans run, ride, row, and swim for hours. Its modern science is settled enough to be taught: most training easy (the 80/20 polarized model, Stephen Seiler's research), threshold work as the development zone, and VO2max intervals as the sharpening stone — organized across weeks with the recovery that adaptation actually requires.",
+      "The field's landmarks: the Scandinavian physiologists' base-building tradition, Seiler's polarized-model research (2010s), and the practical frameworks coaches built on them (Joe Friel's training bible lineage, Jack Daniels' VDOT tables). Its application spans every endurance sport on this site — running, cycling, rowing, triathlon, cross-country skiing — and its principles transfer completely: the aerobic base is one engine serving many sports.",
+      "Newcomers should start with the counterintuitive truth: train slower to race faster. Eighty percent of weekly training at conversational effort builds the base; twenty percent at threshold and VO2max provides the signal. Consistency over months — not heroics — is the sport's real secret, and the aerobic engine's growth is measured in seasons, not weeks."
+    ],
+    "facts": [
+      [
+        "The science",
+        "Stephen Seiler's polarized training research (the 80/20 distribution); the lactate-threshold model; VO2max and mitochondrial adaptations"
+      ],
+      [
+        "The frameworks",
+        "Jack Daniels' VDOT and training zones; Joe Friel's heart-rate and power zones; the Norwegian threshold-school variants"
+      ],
+      [
+        "Physiology",
+        "Stroke volume and capillary density (the central and peripheral adaptations); fat oxidation's training; the lactate shuttle"
+      ],
+      [
+        "Distribution",
+        "Elite endurance athletes train ~80% below threshold, ~20% above — across running, cycling, rowing, and skiing"
+      ],
+      [
+        "Measurement",
+        "Lactate testing, VO2max tests, threshold field tests, and the modern wearables' estimates (honest about error margins)"
+      ],
+      [
+        "Recovery science",
+        "Sleep, nutrition timing, and the hard-easy principle — adaptation happens between sessions"
+      ]
+    ],
+    "history": [
+      [
+        "1920s-1960s",
+        "The physiology foundations: Hill's VO2max work, the Scandinavian physiologists' base-building traditions (and Lydiard's coaching revolution)."
+      ],
+      [
+        "1970s-1990s",
+        "The heart-rate era: Daniels' and Friel's zone systems bring structure to mass endurance training."
+      ],
+      [
+        "2000s-2010s",
+        "Seiler's polarized research: the 80/20 model's evidence across sports; threshold training's refinement."
+      ],
+      [
+        "2010s-2020s",
+        "The wearables era: power meters, HRV, and lactate field testing democratize what labs once owned."
+      ]
+    ],
+    "formats": [
+      [
+        "Polarized training",
+        "The 80/20 model: most volume easy, a minority hard — the research-backed distribution."
+      ],
+      [
+        "Threshold-focused (Norwegian school)",
+        "The double-threshold days model that dominated recent distance-running eras."
+      ],
+      [
+        "Base-building blocks",
+        "Lydiard-style aerobic foundations before sharpening — the classic annual structure."
+      ],
+      [
+        "Sport-specific application",
+        "The principles applied to running, cycling, rowing, swimming, and skiing programs."
+      ]
+    ],
+    "skills": [
+      [
+        "Zone discipline",
+        "The hardest skill: running, riding, and rowing genuinely easy when the plan says easy.",
+        "Set zones by field test (not formulas alone); use heart rate or pace caps on easy days; log distribution monthly and correct drift."
+      ],
+      [
+        "Threshold development",
+        "The development zone: 20-40 minute efforts at the lactate turnpoint, trained twice weekly in build phases.",
+        "Threshold intervals (2×20 min or 3×10); lactate field-test calibration; pace discipline within the zone."
+      ],
+      [
+        "VO2max sessions",
+        "The top-end sharpening: 3-5 minute intervals at 3-5 km effort, used sparingly and seasonally.",
+        "5×3 min at VO2 effort with equal recovery; progression by reps not pace; placed 6-10 weeks from goals."
+      ],
+      [
+        "Long sessions & the aerobic base",
+        "The engine's foundation: weekly long sessions at easy effort, growing by 5-10% with recovery weeks.",
+        "One long session weekly (by sport); the 10% rule with down weeks; fueling practice on 90+ minute sessions."
+      ],
+      [
+        "Periodization & the annual plan",
+        "The year's architecture: base, build, peak, race — matched to the season's calendar.",
+        "Plan an annual calendar (base 8-12 weeks); reverse-engineer from the goal race; schedule deloads before they're needed."
+      ],
+      [
+        "Recovery & adaptation",
+        "The half of training nobody posts: sleep, fueling, and the hard-easy rhythm that lets adaptation happen.",
+        "Track sleep and morning readiness; eat within 60 minutes post-session; take the rest day before it's forced."
+      ]
+    ],
+    "rules": [
+      "Easy means easy: the polarized model's discipline is the field's most-violated rule.",
+      "Progress gradually: the 10% rule with recovery weeks — consistency over heroics.",
+      "Threshold is a zone, not a feeling: calibrate by test, not by pride.",
+      "Fuel the work: sessions over 75-90 minutes need carbohydrate during (the training table's law).",
+      "Sleep is training: the adaptations happen between sessions, not during them.",
+      "Health before performance: illness and red-flag fatigue pause the plan (the sport's honesty rule).",
+      "One system at a time: pick zones (heart rate, pace, or power) and stay consistent within them."
+    ],
+    "equipment": [
+      [
+        "Sport-specific basics",
+        "Shoes, bike, or rower — the sport's platform first ($150-1,500 by sport)."
+      ],
+      [
+        "Heart rate monitor",
+        "The zone-2 discipline's tool ($50-300 chest strap or watch)."
+      ],
+      [
+        "Power meter (cycling/rowing)",
+        "The honest output measure ($200-800)."
+      ],
+      [
+        "Fueling kit",
+        "Carbohydrate drinks and gels for sessions over 75 minutes ($30-60 monthly)."
+      ],
+      [
+        "Field-test access",
+        "A track, a hill, or a static trainer: the calibration infrastructure."
+      ]
+    ],
+    "training": [
+      "Build the week around one long session and two quality ones: everything else is easy volume.",
+      "Stay honest in zone 2: the conversational test beats the watch's flattery.",
+      "Test quarterly (threshold or VO2 field tests): zones recalibrated on data, not hope.",
+      "Fuel long sessions deliberately: training the gut is training.",
+      "Take the down week every fourth week: adaptation happens in the valleys."
+    ],
+    "pathway": [
+      [
+        "Establish the base",
+        "8-12 weeks of easy volume before any structure."
+      ],
+      [
+        "Add threshold",
+        "Two quality sessions weekly in build blocks."
+      ],
+      [
+        "Sharpen with VO2max",
+        "The final 6-10 weeks' top-end work."
+      ],
+      [
+        "Race & recover",
+        "The season's goals and the post-peak regeneration."
+      ],
+      [
+        "Specialize or cross-train",
+        "The engine serving one sport deeply, or several lightly."
+      ]
+    ],
+    "events": [
+      [
+        "Field tests & time trials",
+        "The self-measurement calendar (threshold and VO2 tests)."
+      ],
+      [
+        "Sport-specific racing",
+        "The endurance events this library covers (marathon, cycling, triathlon, rowing)."
+      ],
+      [
+        "Coaching education (USATF, UESCA, British Cycling)",
+        "The endurance-coaching certifications."
+      ],
+      [
+        "Sports science conferences (ECSS, ACSM)",
+        "The research exchange layer."
+      ],
+      [
+        "Training camps & clubs",
+        "The communal endurance culture."
+      ]
+    ],
+    "legends": [
+      [
+        "Stephen Seiler",
+        "Norway — the polarized model's researcher: the 80/20 distribution's scientific voice."
+      ],
+      [
+        "Arthur Lydiard",
+        "New Zealand — the base-building revolution's coach: marathon-conditioned middle distance champions."
+      ],
+      [
+        "Jack Daniels",
+        "USA — the VDOT system's author: endurance training's great systematizer."
+      ],
+      [
+        "Joe Friel",
+        "USA — the coaching framework's popularizer (The Triathlete's Training Bible lineage)."
+      ],
+      [
+        "The Norwegian threshold school",
+        "The coaches and physiologists (Marius Bakken's documentation era) behind the double-threshold method."
+      ]
+    ],
+    "getting_started": [
+      "Run the field test first (30-minute threshold effort): zones need data, not formulas.",
+      "Make easy genuinely easy for eight weeks: the base is built there.",
+      "Add one threshold session weekly before anything harder.",
+      "Fuel sessions over 75 minutes: the gut trains too.",
+      "Log distribution monthly (easy versus hard): the honest 80/20 shows itself.",
+      "Book a goal race 12-16 weeks out: the engine grows fastest with a target."
+    ],
+    "glossary": [
+      [
+        "Zone 2",
+        "The conversational aerobic zone: the base's home."
+      ],
+      [
+        "Threshold (LT2)",
+        "The lactate turnpoint: endurance's development zone."
+      ],
+      [
+        "VO2max",
+        "Maximal oxygen uptake: the engine's ceiling."
+      ],
+      [
+        "Polarized training",
+        "The 80/20 distribution: most easy, some hard."
+      ],
+      [
+        "Base building",
+        "The aerobic foundation phase."
+      ],
+      [
+        "Long run / ride",
+        "The weekly endurance anchor."
+      ],
+      [
+        "Fartlek",
+        "Speed play: unstructured intervals inside easy running."
+      ],
+      [
+        "VDOT",
+        "Jack Daniels' performance-based training tables."
+      ],
+      [
+        "Overtraining",
+        "The maladaptation cliff: diagnosed by decline, treated by rest."
+      ],
+      [
+        "Adaptation window",
+        "The 24-72 hours after quality work where recovery does the building."
+      ]
+    ],
+    "related": [
+      "endurance-family: marathon",
+      "triathlon",
+      "road-cycling",
+      "rowing",
+      "cross-country-skiing"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "speed-training",
+    "name": "Speed Training",
+    "category": "domains",
+    "glyph": "⚡",
+    "tagline": "The fastest human quality — acceleration, max velocity, and the mechanics of sprinting.",
+    "origin": "Track science · modern biomechanics era",
+    "tags": [
+      "Acceleration",
+      "Max velocity",
+      "Sprint mechanics",
+      "All sports"
+    ],
+    "overview": [
+      "Speed training develops sprinting's two distinct phases: acceleration (the first 10-20 meters of forceful, horizontal projection) and maximum velocity (the upright, high-frequency sprinting beyond 20 meters). It is sport's most transferable quality — nearly every field and court sport is decided by acceleration bursts — and its training blends track science (mechanics, force application) with gym work (strength, plyometrics) and honest sprint volume.",
+      "The modern understanding is mechanical and honest: speed is force applied into the ground, in the right direction, quickly — trained through sprinting itself (the specific work), resisted and assisted methods, plyometrics for stiffness and elasticity, and strength in the gym. Ralph Mann's decades of elite-sprint biomechanics (The Mechanics of Sprinting) and the track world's coaching lineage (altis, the sprint-project researchers) define the current canon.",
+      "Newcomers should sprint weekly and lift twice: the biggest beginner error is substituting drills and gadgets for actual sprinting. Build acceleration first (most sports live there), train max velocity with full recoveries (fly runs of 10-30 meters), and let the gym support the sprinting rather than replace it."
+    ],
+    "facts": [
+      [
+        "The science",
+        "Ralph Mann's elite sprinter biomechanics; the force-velocity research (JB Morin's horizontal-force work); the constraints-led coaching school"
+      ],
+      [
+        "The phases",
+        "Acceleration (0-20 m: horizontal projection, low shin angles) and max velocity (20 m+: vertical stiffness, high frequency) — trained differently"
+      ],
+      [
+        "The methods",
+        "Sprint volume (the specific work), resisted sprints (sleds), assisted sprints, plyometrics, and strength (squat, hinge, single-leg)"
+      ],
+      [
+        "Sport application",
+        "Field and court sports sprint in 5-20 m bursts: acceleration and change of direction dominate their demands"
+      ],
+      [
+        "Measurement",
+        "Timing gates, GPS accelerations, and the phone-camera slow-motion analysis era"
+      ],
+      [
+        "The biology",
+        "Fast-twitch fiber recruitment, rate of force development, and tendon stiffness — the trainable substrates"
+      ]
+    ],
+    "history": [
+      [
+        "Early 1900s-1960s",
+        "Track sprinting's coaching traditions: the start-block era, periodization's sprint applications."
+      ],
+      [
+        "1970s-1990s",
+        "The biomechanics era: Mann's elite-sprint studies, the plyometrics revolution (Verkhoshansky's methods going West)."
+      ],
+      [
+        "2000s-2010s",
+        "The force-vector research: Morin's horizontal-force findings; resisted-sprint training's refinement."
+      ],
+      [
+        "2010s-2020s",
+        "The team-sport adoption: GPS accelerations, sprint profiling, and speed as every sport's premium quality."
+      ]
+    ],
+    "formats": [
+      [
+        "Acceleration training",
+        "Short sprints (5-20 m) with full recovery: the field-sport core."
+      ],
+      [
+        "Max velocity training",
+        "Fly runs and speed endurance: track sprinting's upright phase."
+      ],
+      [
+        "Resisted & assisted methods",
+        "Sled sprints and towing: the overload and overspeed family."
+      ],
+      [
+        "Sport-specific speed",
+        "Change of direction, agility, and the game's reactive speed layer."
+      ]
+    ],
+    "skills": [
+      [
+        "Sprint mechanics",
+        "Posture and projection: the acceleration's 45-degree push, then the upright cycle's front-side mechanics.",
+        "Wall drills (single double triple exchanges); A-skips and wickets; video from the side monthly against model mechanics."
+      ],
+      [
+        "Acceleration",
+        "The sport's premium burst: powerful first steps, shin angles, and full recovery between efforts.",
+        "6-8 × 10-20 m sprints with 2-3 minute rests; sled pushes and pulls (light loads preserve mechanics); starts from varied positions."
+      ],
+      [
+        "Max velocity",
+        "The top speed's exposure: fly runs (build 20-30 m, fly 10-30 m) with complete recoveries.",
+        "Fly runs 2× weekly in season blocks (3-5 reps, 4-6 min rest); tempo runs for volume without intensity; never sprint max when tired."
+      ],
+      [
+        "Plyometrics & stiffness",
+        "The elastic engine: bounding, hops, and the ankle stiffness that returns energy.",
+        "Progressive plyo blocks (low-intensity to depth jumps); bounding ladders 2× weekly; landing mechanics before height."
+      ],
+      [
+        "Strength for speed",
+        "The gym's contribution: squats and hinges for force, single-leg work for the sprint's asymmetries.",
+        "Squat and trap-bar deadlift strength 2× weekly in off-season; Nordic curls for the hamstrings' sprint duty; power conversion (jumps, throws) pre-season."
+      ],
+      [
+        "Change of direction & game speed",
+        "The sports' real demand: deceleration, re-acceleration, and decision speed.",
+        "COD drills (5-10-5, T-test patterns); reactive agility games; deceleration landing training as its own skill."
+      ]
+    ],
+    "rules": [
+      "Sprint to get fast: no drill replaces actual sprinting — the specific work is the program's spine.",
+      "Full recovery for speed: quality sprints demand 2-6 minutes between efforts; tired sprinting trains slowness.",
+      "Warm up honestly: speed work follows progressive warm-ups (jog, drills, buildups) — the injury rule.",
+      "Respect the hamstrings: sprinting's most vulnerable muscle needs strength (Nordics) and graded exposure.",
+      "Measure honestly: gates, GPS, or timed fly runs — progress needs a number.",
+      "Age-appropriate loading: youth speed is built through play and sprints, not heavy sleds and depth jumps.",
+      "Recovery after speed days: 24-48 hours before the next quality session — the nervous system's tax."
+    ],
+    "equipment": [
+      [
+        "Training space",
+        "A track, turf strip, or 40 meters of grass: the program's real requirement."
+      ],
+      [
+        "Sled & harness",
+        "The resisted-sprint tool ($80-250)."
+      ],
+      [
+        "Timing gates",
+        "The measurement standard ($200-1,500; phone apps honest on a budget)."
+      ],
+      [
+        "Gym access",
+        "Squats, hinges, and plyometric space ($30-80 monthly membership)."
+      ],
+      [
+        "Flats or track spikes",
+        "Footwear by phase ($60-150)."
+      ]
+    ],
+    "training": [
+      "Sprint twice weekly: one acceleration day, one max-velocity day in build phases.",
+      "Keep full recoveries: the stopwatch between reps is part of the program.",
+      "Lift twice weekly: strength serves speed when converted (jumps, throws) and never replaces sprinting.",
+      "Film monthly: mechanics improve through eyes on video.",
+      "Progress plyos seasonally: low-intensity first, depth jumps when the landing skill earns them."
+    ],
+    "pathway": [
+      [
+        "Foundations & mechanics",
+        "Learn the drills, build the sprint habit."
+      ],
+      [
+        "Acceleration focus",
+        "The field-sport burst's development."
+      ],
+      [
+        "Max velocity exposure",
+        "Fly runs and speed endurance as the ceiling rises."
+      ],
+      [
+        "Sport integration",
+        "Speed inside the game's demands (COD, reactive)."
+      ],
+      [
+        "Track sprinting (optional)",
+        "The pure form's competitive branch (see track-and-field)."
+      ]
+    ],
+    "events": [
+      [
+        "Track sprint events",
+        "The 60-400 m competitive ladder (see track-and-field)."
+      ],
+      [
+        "Combine testing",
+        "The field-sport measurement days (40-yard sprint protocols)."
+      ],
+      [
+        "Speed camps & clinics",
+        "The coaching education events (altis-era clinics)."
+      ],
+      [
+        "National strength associations' courses",
+        "The speed-focused certifications."
+      ],
+      [
+        "School & club testing days",
+        "The youth measurement culture."
+      ]
+    ],
+    "legends": [
+      [
+        "Ralph Mann",
+        "USA — the elite-sprint biomechanist: decades of data distilled into The Mechanics of Sprinting."
+      ],
+      [
+        "Jean-Benoît Morin",
+        "France — the force-velocity researcher: horizontal-force production's scientific voice."
+      ],
+      [
+        "Charlie Francis",
+        "Canada — the sprint-coaching systematizer (the Ben Johnson era's coach, whose programming ideas outlived the scandal)."
+      ],
+      [
+        "Usain Bolt & the mechanical models",
+        "Jamaica — the physics made flesh: the reference film every coach studies."
+      ],
+      [
+        "Frans Bosch",
+        "Netherlands — the constraints-led and motor-learning school's provocative voice."
+      ]
+    ],
+    "getting_started": [
+      "Sprint once this week: 6 × 20 meters, full recovery, warmed up properly.",
+      "Learn three drills (A-skip, B-skip, high knees) and do them for posture, not cardio.",
+      "Film yourself from the side: the shin angle and posture are the first lessons.",
+      "Add Nordic curls immediately: the hamstrings' insurance policy.",
+      "Time everything: gates or phone apps — speed improves when measured.",
+      "Rest completely between sprints: this is the sport's counterintuitive law."
+    ],
+    "glossary": [
+      [
+        "Acceleration phase",
+        "The 0-20 meter horizontal push."
+      ],
+      [
+        "Max velocity",
+        "The upright top-speed phase."
+      ],
+      [
+        "Fly run",
+        "Build-up then flying 10-30 meters at max speed."
+      ],
+      [
+        "Front-side mechanics",
+        "The high-knee recovery cycle of elite sprinting."
+      ],
+      [
+        "Resisted sprint",
+        "Sled or parachute loading (light loads preserve mechanics)."
+      ],
+      [
+        "Wickets",
+        "The spaced-hurdle drill for stride mechanics."
+      ],
+      [
+        "Nordic curl",
+        "The hamstring's eccentric insurance."
+      ],
+      [
+        "Rate of force development",
+        "How quickly force arrives: speed's physics."
+      ],
+      [
+        "Stiffness",
+        "The tendon's elastic quality: plyometrics' target."
+      ],
+      [
+        "Game speed",
+        "Speed with decisions: the field sports' real product."
+      ]
+    ],
+    "related": [
+      "track-and-field",
+      "plyometrics",
+      "strength-and-conditioning",
+      "soccer",
+      "american-football"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "plyometrics",
+    "name": "Plyometrics",
+    "category": "domains",
+    "glyph": "🦘",
+    "tagline": "The stretch-shortening engine — jumps, bounds, and explosive power's training science.",
+    "origin": "USSR (Verkhoshansky) · 1960s shock method",
+    "tags": [
+      "Jump training",
+      "Elastic power",
+      "Verkhoshansky",
+      "Sport transfer"
+    ],
+    "overview": [
+      "Plyometrics trains the stretch-shortening cycle: the muscle-tendon's stretch-then-fire mechanism that makes jumps, bounds, and throws explosive. Created in the 1960s by Soviet sports scientist Yuri Verkhoshansky (his 'shock method' of depth jumps shocked the surprised Western sport when it surfaced), it is now every power sport's foundation: volleyball's approach jumps, basketball's rebounding, sprinting's stiffness, and the general athlete's first-expression power.",
+      "The method's logic is mechanical: eccentric loading (landing, lengthening) stores elastic energy that the concentric phase returns — trained progressively from low-intensity hops to depth jumps, with landing mechanics as the safety gate and tendon adaptation as the long-term goal. The modern programming consensus (NSCA position stands, the progression ladders) is clear: quality over volume, surfaces and shoes matter, and intensity advances only when landing skill earns it.",
+      "Newcomers should master landings before height: the plyometric ladder runs jump-in-place → standing jumps → multiple jumps → box work → depth jumps, and each rung is earned. Two sessions weekly of 60-100 quality ground contacts beats daily volume, and the transfer shows up everywhere sport asks the body to be quick."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "1960s USSR — Yuri Verkhoshansky's shock method (depth jumps from 0.7-0.8 m boxes): the Soviet Olympic program's secret weapon"
+      ],
+      [
+        "The science",
+        "The stretch-shortening cycle (eccentric-to-concentric energy return); tendon stiffness's adaptation; the amortization phase's minimization"
+      ],
+      [
+        "The progression ladder",
+        "Jump-in-place → standing jumps → multiple jumps → box jumps → depth jumps (the NSCA's intensity continuum)"
+      ],
+      [
+        "Programming consensus",
+        "60-100 ground contacts per session, 48-72 hours between sessions, quality-first: the position-stand numbers"
+      ],
+      [
+        "Sport applications",
+        "Volleyball and basketball (jump height), sprinting (stiffness), and every sport's first-step power"
+      ],
+      [
+        "Safety gate",
+        "Landing mechanics before intensity: knee control, soft quiet landings, and progressive surfaces"
+      ]
+    ],
+    "history": [
+      [
+        "1960s",
+        "Verkhoshansky's shock method in the Soviet system; the depth jump's invention and its Olympic results."
+      ],
+      [
+        "1970s-1980s",
+        "The Western discovery (Fred Wilt's 'plyometrics' naming, the defection-era knowledge transfer); American college sport adopts."
+      ],
+      [
+        "1990s-2000s",
+        "The NSCA's position stands and progression systems; youth-safety frameworks established."
+      ],
+      [
+        "2010s-2020s",
+        "The tendon-science era: stiffness training's refinement, and plyometrics' place in every S&C program."
+      ]
+    ],
+    "formats": [
+      [
+        "Low-intensity plyometrics",
+        "Jump-in-place, pogo ankle hops, and low boxes: the base rung."
+      ],
+      [
+        "Progressive jump training",
+        "Standing jumps (broad, vertical), multiple jumps, and bounding ladders."
+      ],
+      [
+        "Depth jump training",
+        "The shock method's signature: drop-then-jump at measured heights."
+      ],
+      [
+        "Sport-specific plyometrics",
+        "Approach jumps, single-leg bounds, and the sport's movement patterns."
+      ]
+    ],
+    "skills": [
+      [
+        "Landing mechanics",
+        "The safety foundation: balanced landings, knee-over-toe control, and quiet feet.",
+        "Land-and-hold drills (3-second sticks); single-leg landing progressions; video knee alignment checks monthly."
+      ],
+      [
+        "Jump-in-place & pogo series",
+        "The ankle stiffness rung: pogo hops, ankle bounds, and the elastic bounce.",
+        "Pogo series 3×20 contacts; double-leg ankle hops; progress to single-leg pogos over weeks."
+      ],
+      [
+        "Standing & multiple jumps",
+        "The power rung: broad jumps, box jumps, and hurdle-hop series.",
+        "Broad and box jumps 3×5; hurdle hops (5 hurdles × 3 sets); lateral jumps for sport patterns."
+      ],
+      [
+        "Bounding",
+        "The horizontal power rung: alternate-leg bounds for distance and power.",
+        "Bounds 4×20 m (progressive); single-leg bounds later in the ladder; hill bounds as the joint-friendly variant."
+      ],
+      [
+        "Depth jumps",
+        "The shock method's crown: drop from measured heights, land, explode upward — used sparingly.",
+        "Depth jumps only after months of base (0.3-0.6 m to start); 2-3 sets of 5; full recovery; height chosen so ground time stays short."
+      ],
+      [
+        "Programming & integration",
+        "The weekly structure: plyos before lifting, before fatigue — placement is half the program.",
+        "Two sessions weekly, 60-100 contacts; pair with strength (jump before squat in a session); deload every fourth week."
+      ]
+    ],
+    "rules": [
+      "Land before you fly: landing mechanics gate every intensity progression — the field's first law.",
+      "Quality over volume: 60-100 ground contacts per session maximum; every contact is a rep of skill.",
+      "Full recovery between sets: plyometrics is a nervous-system sport (1-3 minutes between sets).",
+      "Fresh bodies only: plyos come early in sessions, never after exhausting work.",
+      "Progress surfaces: grass and sprung floors before concrete; shoes with cushion for high-intensity work.",
+      "Youth and age bands: children develop jump skills through play; plyometrics is safe across ages when progressive (the position stands).",
+      "Injury history gate: tendon and knee issues get clinical clearance before depth jumps."
+    ],
+    "equipment": [
+      [
+        "Plyo boxes",
+        "Adjustable heights for jumps and depth work ($80-250)."
+      ],
+      [
+        "Hurdles & cones",
+        "The hop-and-bound course ($30-80)."
+      ],
+      [
+        "Good surface",
+        "Grass, track, or gym flooring: the joints' friend."
+      ],
+      [
+        "Jump mat (optional)",
+        "The measurement layer ($100-300)."
+      ],
+      [
+        "Decent shoes",
+        "Cushioned, stable trainers for landing work ($80-150)."
+      ]
+    ],
+    "training": [
+      "Two sessions weekly, 48-72 hours apart: the tendon's adaptation rhythm.",
+      "Land-and-hold drills first: three weeks of landing mastery before any depth work.",
+      "Pogos every session: ankle stiffness is the cheapest power upgrade.",
+      "Place plyos before lifting in combined sessions: freshness is the point.",
+      "Count contacts honestly: the 60-100 cap is the program's governor."
+    ],
+    "pathway": [
+      [
+        "Landing mastery",
+        "3-4 weeks of stick-and-hold drills."
+      ],
+      [
+        "Low-intensity base",
+        "Pogos, jump-in-place, low boxes."
+      ],
+      [
+        "Power rungs",
+        "Standing jumps, hurdle hops, bounding."
+      ],
+      [
+        "Depth jumps",
+        "The shock method's measured introduction."
+      ],
+      [
+        "Sport integration",
+        "Plyos inside the sport's S&C program."
+      ]
+    ],
+    "events": [
+      [
+        "Vertical & broad jump testing",
+        "The standard power tests (the combine culture)."
+      ],
+      [
+        "Track jumping events",
+        "The long, triple, and high jump's competitive forms (see track-and-field)."
+      ],
+      [
+        "S&C certifications' plyo modules",
+        "The coaching education layer."
+      ],
+      [
+        "Sports science research",
+        "The tendon and SSC literature's ongoing work."
+      ],
+      [
+        "Sport combines & testing days",
+        "The team-sport measurement events."
+      ]
+    ],
+    "legends": [
+      [
+        "Yuri Verkhoshansky",
+        "USSR — the shock method's creator: plyometrics' founding scientist."
+      ],
+      [
+        "Fred Wilt",
+        "USA — the coach who named and imported 'plyometrics' to the West."
+      ],
+      [
+        "Donald Chu",
+        "USA — the progression-system author who made plyometrics coachable."
+      ],
+      [
+        "The NSCA's researchers",
+        "The position-stand authors who codified safe progression."
+      ],
+      [
+        "The track jump coaches",
+        "The long/triple-jump coaching lineage whose drills became everyone's toolkit."
+      ]
+    ],
+    "getting_started": [
+      "Learn to land first: three weeks of stick-and-hold drills before any jumping intensity.",
+      "Start with pogos: 3 sets of 20 ankle hops, twice weekly.",
+      "Add broad jumps and box jumps after a month: 3×5 quality reps.",
+      "Count ground contacts (60-100 per session): the volume governor keeps tendons happy.",
+      "Do plyos fresh: before lifting, never after tiring work.",
+      "Measure a vertical jump monthly: the progress makes the discipline stick."
+    ],
+    "glossary": [
+      [
+        "Stretch-shortening cycle",
+        "The stretch-then-fire mechanism plyometrics trains."
+      ],
+      [
+        "Depth jump",
+        "Drop from a box, land, explode up: the shock method."
+      ],
+      [
+        "Amortization phase",
+        "The ground-contact transition: shorter means more explosive."
+      ],
+      [
+        "Pogo",
+        "The ankle-stiffness hop series."
+      ],
+      [
+        "Bounding",
+        "Exaggerated running jumps for horizontal power."
+      ],
+      [
+        "Ground contact",
+        "One landing: the volume's unit."
+      ],
+      [
+        "Tendon stiffness",
+        "The elastic quality that returns energy."
+      ],
+      [
+        "Stick",
+        "The held, balanced landing."
+      ],
+      [
+        "Plyo box",
+        "The jumping platform."
+      ],
+      [
+        "Shock method",
+        "Verkhoshansky's original name for depth-jump training."
+      ]
+    ],
+    "related": [
+      "strength-and-conditioning",
+      "speed-training",
+      "track-and-field",
+      "basketball",
+      "volleyball"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "mobility",
+    "name": "Mobility",
+    "category": "domains",
+    "glyph": "🧘",
+    "tagline": "Range with control — the joint-by-joint practice that keeps athletes moving.",
+    "origin": "Physical therapy & strength cultures · 2000s mainstream era",
+    "tags": [
+      "Range of motion",
+      "Active control",
+      "Joint health",
+      "Longevity"
+    ],
+    "overview": [
+      "Mobility is usable range of motion: joints that move fully and muscles that control the range they reach — distinguished deliberately from passive flexibility (stretching without control). The modern practice blends physical therapy's assessment (the joint-by-joint approach), strength training's loaded stretching, and the contortionist circus arts' end-range strength work into a discipline every athlete now trains deliberately.",
+      "The field's intellectual anchors: Shirley Sahrmann's movement-system science (the physical therapy root), Kelly Starrett's mainstream popularization (Becoming a Supple Leopard, 2013), and the loaded-stretching research era (stretching under load building both range and strength). Its honest consensus: passive stretching alone changes little; range gained must be controlled in position — mobility is trained, not held.",
+      "Newcomers should train mobility little and often: daily 10-15 minute sessions on the joints their sport taxes (hips and ankles for squatters, shoulders for overhead athletes), with loaded end-range work (deep goblet squats, Cossack squats, controlled articular rotations) doing the real adaptation. Flexibility without control is range waiting for injury; mobility is capacity."
+    ],
+    "facts": [
+      [
+        "Founding science",
+        "Shirley Sahrmann's movement impairment syndromes (the PT root); the joint-by-joint approach (Boyle and Cook's popularization)"
+      ],
+      [
+        "Mainstream era",
+        "Kelly Starrett's MobilityWOD and Becoming a Supple Leopard (2013): mobility enters every gym's language"
+      ],
+      [
+        "The research era",
+        "Loaded stretching and end-range strength training's evidence (range gains with strength); PNF methods' refinement"
+      ],
+      [
+        "The methods",
+        "Controlled articular rotations (CARs), PNF stretching, loaded progressive stretching, and position-specific end-range work"
+      ],
+      [
+        "Sport applications",
+        "Overhead athletes' shoulders, squatters' hips and ankles, and the desk-body restoration project"
+      ],
+      [
+        "The honest consensus",
+        "Range without control is liability: mobility = flexibility + strength in range"
+      ]
+    ],
+    "history": [
+      [
+        "Pre-2000s",
+        "Static stretching's era and its correction: the research showing pre-event static stretching doesn't prevent injury."
+      ],
+      [
+        "2000s",
+        "The joint-by-joint and FMS era: mobility enters S&C language (Cook, Boyle, Starrett)."
+      ],
+      [
+        "2010s",
+        "The loaded-stretching research and the CARs FRC system's arrival; end-range strength training's mainstream adoption."
+      ],
+      [
+        "2020s",
+        "The longevity framing: mobility as the healthy-aging practice, and the yoga-strength hybrid's growth."
+      ]
+    ],
+    "formats": [
+      [
+        "Daily maintenance practice",
+        "The 10-15 minute joint-by-joint routine: CARs, targeted stretches, positions."
+      ],
+      [
+        "Loaded end-range training",
+        "Stretching under load: deep squats, Cossacks, Jefferson curls — range built with strength."
+      ],
+      [
+        "Sport-specific mobility",
+        "The athlete's tax joints (shoulders, hips, ankles) trained for the sport's demands."
+      ],
+      [
+        "Rehab-adjacent mobility",
+        "The PT bridge: restoring range after injury within clinical guidance."
+      ]
+    ],
+    "skills": [
+      [
+        "Assessment",
+        "The joint-by-joint eye: knowing which joints need mobility (ankles, hips, thoracic) versus which need stability.",
+        "Learn the basic screens (overhead squat, ankle knee-to-wall test, shoulder flexion); retest quarterly; note the stability-versus-mobility map."
+      ],
+      [
+        "Controlled articular rotations (CARs)",
+        "The daily maintenance: slow, deliberate circles through each joint's range.",
+        "Daily CARs routine (5 reps per joint, neck to toes); max-effort intent without pain; the morning habit."
+      ],
+      [
+        "Loaded stretching",
+        "The adaptation method: holding end-range positions under load (goblet squats, Jefferson curls, Cossack holds).",
+        "Loaded holds 3×30-60 s per target; progressive depth over months; breathe exhale into the range."
+      ],
+      [
+        "End-range strength",
+        "The control layer: lifts and isometrics at the range's edge (the range you can't control is range you don't own).",
+        "End-range lifts (half-kneeling overhead holds); isometric holds at end range 3×10-20 s; progress range only when control holds."
+      ],
+      [
+        "Sport-specific positions",
+        "The athlete's tax: the exact positions their sport demands (squat depth, overhead position, hip rotation).",
+        "Train the sport's positions loaded (deep goblet front squats, overhead carries); daily 10-minute target-joint sessions; pre-training preparation positions."
+      ],
+      [
+        "Recovery integration",
+        "The daily rhythm: mobility as the recovery practice between hard sessions, not a separate sport.",
+        "10 minutes nightly; pair with breath work; the consistency over-intensity principle."
+      ]
+    ],
+    "rules": [
+      "Control the range you claim: flexibility without strength is range waiting for injury.",
+      "Load the stretch: passive-only gains fade; loaded end-range work adapts tissue.",
+      "Little and often: daily 10-minute sessions beat weekly heroics.",
+      "No pain rule: stretching to discomfort, never through pain — the nervous system's guard is information.",
+      "Warm tissue stretches better: end-range work follows movement or heat.",
+      "Breathe: the exhale is the range-gaining tool (the nervous system's downshift).",
+      "Stability joints get stability: the knee and lower back want control, not stretching — the joint-by-joint map."
+    ],
+    "equipment": [
+      [
+        "Bands & straps",
+        "The assistance and traction tools ($20-60)."
+      ],
+      [
+        "Lacrosse massage balls",
+        "The tissue-work layer ($10-30)."
+      ],
+      [
+        "Yoga mat & blocks",
+        "The floor-practice kit ($30-80)."
+      ],
+      [
+        "Light loadable weights",
+        "Kettlebells and dumbbells for loaded stretching ($50-200)."
+      ],
+      [
+        "Assessment access",
+        "A coach or physio's screen annually: the honest mirror."
+      ]
+    ],
+    "training": [
+      "Ten minutes daily: CARs morning, target stretches evening.",
+      "Load the end ranges: goblet squats deep, Cossack holds, overhead holds — strength in range.",
+      "Target your sport's tax joints: hips and ankles for lifters, shoulders for overhead athletes.",
+      "Retest quarterly: the knee-to-wall and overhead screens show what's working.",
+      "Use mobility as recovery: the gentle sessions between hard training days."
+    ],
+    "pathway": [
+      [
+        "Assessment & baseline",
+        "The screens and the joint map."
+      ],
+      [
+        "Daily practice habit",
+        "The 10-minute routine's establishment."
+      ],
+      [
+        "Loaded end-range work",
+        "The strength-in-range progression."
+      ],
+      [
+        "Sport-specific integration",
+        "The athlete's positions trained."
+      ],
+      [
+        "Teaching & coaching",
+        "The mobility coach's professional branch."
+      ]
+    ],
+    "events": [
+      [
+        "Mobility & movement workshops",
+        "The FRC FMS-era coaching courses."
+      ],
+      [
+        "Yoga & movement festivals",
+        "The hybrid culture's gatherings."
+      ],
+      [
+        "Physiotherapy continuing education",
+        "The clinical layer's courses."
+      ],
+      [
+        "Gym testing days",
+        "The screens' quarterly rhythm."
+      ],
+      [
+        "Online coaching programs",
+        "The modern delivery layer."
+      ]
+    ],
+    "legends": [
+      [
+        "Shirley Sahrmann",
+        "USA — the movement-impairment scientist: physical therapy's diagnostic root of modern mobility."
+      ],
+      [
+        "Kelly Starrett",
+        "USA — the mainstream popularizer: mobility's gym-language translator."
+      ],
+      [
+        "Gray Cook",
+        "USA — the screening pioneer (with FMS): movement quality's assessment voice."
+      ],
+      [
+        "Andreo Spina",
+        "Canada — the FRC/CARs system's creator: controlled articular work's codifier."
+      ],
+      [
+        "The contortion & circus artists",
+        "The end-range strength tradition's living masters — mobility's advanced proof."
+      ]
+    ],
+    "getting_started": [
+      "Screen yourself: the knee-to-wall test (ankle), overhead reach (shoulder), deep squat (hips).",
+      "Do CARs every morning: five slow circles per joint, five minutes total.",
+      "Load one stretch per session: goblet squat holds are the gateway.",
+      "Ten minutes nightly beats one heroic session weekly.",
+      "Breathe out into the range: the exhale opens what forcing closes.",
+      "Retest quarterly: mobility improves when measured, like everything else."
+    ],
+    "glossary": [
+      [
+        "Mobility",
+        "Range of motion with control — the working definition."
+      ],
+      [
+        "Flexibility",
+        "Passive range: the raw material, not the product."
+      ],
+      [
+        "CARs",
+        "Controlled articular rotations: the daily joint circles."
+      ],
+      [
+        "End-range",
+        "The range's limit — where strength must live."
+      ],
+      [
+        "Loaded stretching",
+        "Holding positions under weight: the adaptation method."
+      ],
+      [
+        "Joint-by-joint",
+        "The alternating mobility-stability model of the body."
+      ],
+      [
+        "PNF",
+        "Proprioceptive neuromuscular facilitation: the contract-relax method."
+      ],
+      [
+        "Thoracic mobility",
+        "The upper spine's rotation and extension: the overhead athlete's currency."
+      ],
+      [
+        "Dorsiflexion",
+        "The ankle's range: the squat's hidden gatekeeper."
+      ],
+      [
+        "Tissue tolerance",
+        "The capacity range builds: mobility's real product."
+      ]
+    ],
+    "related": [
+      "functional-fitness",
+      "strength-and-conditioning",
+      "nutrition",
+      "rucking",
+      "freediving"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "nutrition",
+    "name": "Sports Nutrition",
+    "category": "domains",
+    "glyph": "🥗",
+    "tagline": "Fuel as training — energy availability, carbs, protein, and the performance plate.",
+    "origin": "Exercise physiology & dietetics · modern era",
+    "tags": [
+      "Fueling",
+      "Hydration",
+      "Body composition",
+      "Evidence-based"
+    ],
+    "overview": [
+      "Sports nutrition is the fueling discipline: energy availability, carbohydrate periodization, protein distribution, hydration and sodium strategy, and body-composition management — the systems that turn food into training capacity. It is also a profession: registered dietitians with sports specializations (the CSSD credential) work within every serious program, and the field's evidence base — carbohydrate periodization, protein timing, gut training — is among exercise science's most practical.",
+      "The modern consensus is refreshingly stable: adequate energy availability first (underfueling breaks bodies — RED-S's lesson), carbohydrate matched to session demands, protein distributed across the day (1.6-2.2 g/kg for athletes), hydration with sodium for sweat replacement, and body composition managed in seasons (never during competition blocks). The researchers (Louise Burke, Asker Jeukendrup) whose guidelines anchor the field built it from lab and elite-sport practice.",
+      "Newcomers should start with the audit, not the supplement aisle: log three typical days honestly, compare intake against training load, and fix the fundamentals (energy, protein, carbohydrate around sessions, hydration) before any product. The gut is trainable, habits compound, and the performance plate is learned once and used forever."
+    ],
+    "facts": [
+      [
+        "The profession",
+        "Registered dietitians with the CSSD (Board Certified Specialist in Sports Dietetics) credential; team and institute nutrition staffs"
+      ],
+      [
+        "The research anchors",
+        "Louise Burke's carbohydrate periodization work; Asker Jeukendrup's fueling and gut-training research; the IOC consensus statements"
+      ],
+      [
+        "Energy availability",
+        "The under-fueling problem (RED-S — relative energy deficiency in sport): the field's foundational health concept"
+      ],
+      [
+        "The numbers",
+        "Protein 1.6-2.2 g/kg/day for athletes; carbohydrate 3-10 g/kg by training load; sodium 500-1,000 mg/hour in long sweat sessions"
+      ],
+      [
+        "Gut training",
+        "The trainable carbohydrate-tolerance and fluid-absorption adaptations: fueling practiced, not hoped for"
+      ],
+      [
+        "Supplements",
+        "A short evidence-backed list (creatine, caffeine, carbohydrate, beta-alanine, nitrate) — everything else is marketing"
+      ]
+    ],
+    "history": [
+      [
+        "1960s-1980s",
+        "The glycogen era: carbohydrate loading's science (the marathon's wall explained) and sports drinks' invention (Gatorade, 1965)."
+      ],
+      [
+        "1990s-2000s",
+        "The protein era and the recovery-window debates; the supplement industry's explosion (and its evidence pruning)."
+      ],
+      [
+        "2010s",
+        "The periodization era: Burke's train-low-compete-high models; gut training's formalization."
+      ],
+      [
+        "2010s-2020s",
+        "The RED-S era: energy availability's health framing (the IOC's consensus), and the female-athlete nutrition research wave."
+      ]
+    ],
+    "formats": [
+      [
+        "Performance fueling",
+        "Carbohydrate periodization around training and competition."
+      ],
+      [
+        "Body composition management",
+        "Seasonal gain-and-lean cycles with health guards."
+      ],
+      [
+        "Hydration & sodium strategy",
+        "Sweat testing and race-day fluid plans."
+      ],
+      [
+        "Clinical & special populations",
+        "The dietitian's scope: conditions, allergies, and the female athlete's specific needs."
+      ]
+    ],
+    "skills": [
+      [
+        "Energy availability",
+        "The foundation: eating enough to support training, health, and adaptation (the RED-S guard).",
+        "Audit 3 days of intake honestly; compute rough energy availability; raise fuel on heavy days before cutting anything."
+      ],
+      [
+        "Carbohydrate periodization",
+        "The training-matched fuel: carbs scaled to session demands, positioned around quality work.",
+        "Fuel sessions over 75 minutes (30-90 g/hour by training); carbs before and after quality days; practice race-day intake in training."
+      ],
+      [
+        "Protein distribution",
+        "The muscle's currency: 0.3-0.4 g/kg per meal, 3-4 times daily, totaling 1.6-2.2 g/kg.",
+        "Distribute protein across 4 meals; anchor each with 30-40 g; track a week against the target."
+      ],
+      [
+        "Hydration & sodium",
+        "The fluid plan: daily baseline, sweat-rate awareness, and sodium for long hot sessions.",
+        "Weigh before-after a hard session to learn sweat rate; drink to thirst plus plan in long events; include sodium in >90 min sweat work."
+      ],
+      [
+        "Gut training",
+        "The trainable tolerance: practicing race-day fueling volumes until the stomach accepts them.",
+        "Increase mid-session carb grams weekly in training; practice race breakfasts; log tolerance like a workout."
+      ],
+      [
+        "Body composition & seasons",
+        "The long game: composition goals in off-season blocks, never during competition or heavy training.",
+        "Set composition targets in base phases; moderate deficits (300-500 kcal) only off-season; weigh weekly, judge monthly."
+      ]
+    ],
+    "rules": [
+      "Energy availability first: underfueling breaks bones, hormones, and performance — the RED-S guard outranks every optimization.",
+      "Food first, supplements second: the evidence-backed list is short; everything else waits.",
+      "Carbohydrate is training-specific: match fuel to the session, not to fashion.",
+      "Practice the race plan: nothing new on competition day — the gut-train rule.",
+      "Hydrate with sodium in the long and hot: water alone fails past 90 minutes of sweat.",
+      "Composition changes in seasons: deficits during competition blocks cost performance and health.",
+      "Clinical conditions to clinicians: diabetes, disordered eating, and GI disease belong with dietitians and physicians — the scope line."
+    ],
+    "equipment": [
+      [
+        "Food scale & tracking app",
+        "The audit's tools ($20-60; free apps)."
+      ],
+      [
+        "Fueling products",
+        "Carbohydrate drinks, gels, and chews for sessions ($30-60 monthly)."
+      ],
+      [
+        "Electrolytes",
+        "Sodium tablets and mixes for sweat work ($15-30 monthly)."
+      ],
+      [
+        "Creatine & caffeine",
+        "The evidence-backed supplement pair ($15-25 monthly)."
+      ],
+      [
+        "Bloodwork (periodic)",
+        "The honest check: iron, vitamin D, and hormone panels with a clinician."
+      ]
+    ],
+    "training": [
+      "Audit before optimizing: three honest days of logging reveal more than any plan.",
+      "Anchor protein four times daily: the simplest high-return habit.",
+      "Fuel quality sessions: carbs before, during (if long), and after — timing beats ideology.",
+      "Practice race fueling monthly: the gut's training never stops.",
+      "Review with a dietitian annually if training seriously: the CSSD's eye pays for itself."
+    ],
+    "pathway": [
+      [
+        "Personal audit & habits",
+        "The fundamentals learned on yourself."
+      ],
+      [
+        "Performance fueling practice",
+        "Race-day plans and gut training."
+      ],
+      [
+        "Dietetics education (optional)",
+        "The RD and CSSD professional path."
+      ],
+      [
+        "Team & institute roles",
+        "The professional nutrition staff ladder."
+      ],
+      [
+        "Specialization",
+        "Endurance fueling, composition, or clinical sports practice."
+      ]
+    ],
+    "events": [
+      [
+        "IOC consensus conferences",
+        "The field's periodic position statements."
+      ],
+      [
+        "Sports nutrition certifications (CSSD, ISSN)",
+        "The professional credentials."
+      ],
+      [
+        "Sweat testing services",
+        "The personalized hydration labs."
+      ],
+      [
+        "Nutrition seminars & camps",
+        "The education layer at clubs."
+      ],
+      [
+        "Research conferences (ECSS, ISSN)",
+        "The science exchange."
+      ]
+    ],
+    "legends": [
+      [
+        "Louise Burke",
+        "Australia — the carbohydrate-periodization pioneer: AIS nutrition's founding scientist."
+      ],
+      [
+        "Asker Jeukendrup",
+        "Netherlands/UK — the fueling and gut-training researcher: race nutrition's modern voice."
+      ],
+      [
+        "Stuart Phillips",
+        "Canada — the protein researcher: muscle nutrition's evidence anchor."
+      ],
+      [
+        "Nancy Clark",
+        "USA — the practitioner-author who brought sports nutrition to everyday athletes."
+      ],
+      [
+        "The RED-S researchers",
+        "The IOC working groups (Mountjoy, Constantini era) who reframed underfueling as the field's central health issue."
+      ]
+    ],
+    "getting_started": [
+      "Log three days honestly before changing anything: the audit is step one, always.",
+      "Anchor protein in four meals: 30-40 grams each is the simple start.",
+      "Fuel sessions over 75 minutes with carbohydrate: 30-60 grams per hour to begin.",
+      "Weigh in-out on one long hot session: learn your sweat rate once, plan forever.",
+      "Add creatine (5 g daily) after the fundamentals: the best-evidenced supplement.",
+      "See a sports dietitian if you train seriously: the CSSD's personalized plan beats every blog."
+    ],
+    "glossary": [
+      [
+        "Energy availability",
+        "Fuel left for the body after training's costs: the health guard."
+      ],
+      [
+        "RED-S",
+        "Relative energy deficiency in sport: underfueling's syndrome."
+      ],
+      [
+        "Carbohydrate periodization",
+        "Fuel matched to session demands."
+      ],
+      [
+        "Gut training",
+        "Practicing fueling volumes until tolerance grows."
+      ],
+      [
+        "Protein distribution",
+        "Spread across meals: 0.3-0.4 g/kg each."
+      ],
+      [
+        "Sweat rate",
+        "Fluid lost per hour: the hydration plan's number."
+      ],
+      [
+        "Creatine",
+        "The best-evidenced strength supplement (3-5 g daily)."
+      ],
+      [
+        "Carb loading",
+        "The pre-event glycogen maximization."
+      ],
+      [
+        "Caffeine",
+        "The legal ergogenic (3-6 mg/kg)."
+      ],
+      [
+        "Performance plate",
+        "The meal template: carbs, protein, and color matched to the training day."
+      ]
+    ],
+    "related": [
+      "endurance-training",
+      "strength-and-conditioning",
+      "functional-fitness",
+      "marathon",
+      "triathlon"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "rucking",
+    "name": "Rucking",
+    "category": "domains",
+    "glyph": "🎒",
+    "tagline": "Walking with weight — the military's endurance secret and the world's simplest training.",
+    "origin": "Military tradition · modern fitness era (GORUCK, 2010s)",
+    "tags": [
+      "Loaded walking",
+      "Low injury",
+      "Endurance base",
+      "Military heritage"
+    ],
+    "overview": [
+      "Rucking is walking with a weighted backpack: the military's foundational conditioning (every army's foot march), refined into civilian fitness by GORUCK's era (2010s) and embraced as the most joint-friendly endurance-and-strength hybrid available. Its physics are simple — added load multiplies walking's energy cost and loads the skeleton — and its profile is remarkable: most of running's aerobic benefit at a fraction of running's injury rate.",
+      "The practice ladder: start with 10-15% of bodyweight, walk 30-60 minutes at brisk pace, and progress load and distance gradually (the military's own standards: the US Army's foot-march doctrine caps loads near 10 kg for training marches modern guidance caps fighting loads far higher but recommends keeping training loads moderate). Rucking serves three masters: the endurance base (zone 2 with resistance), the skeleton's density (loaded walking is bone-building), and the practical strength of carrying — the oldest human athletic act.",
+      "Newcomers need a backpack with weight (books work), decent shoes, and a path: rucking's entry cost is nearly zero and its progression is honest. Start light, walk often, and let the miles — not the ego — set the load."
+    ],
+    "facts": [
+      [
+        "Military roots",
+        "Every army's foot-march tradition: the loaded march as the soldier's base conditioning (US Army FM 7-22's ruck standards)"
+      ],
+      [
+        "Civilian era",
+        "GORUCK's founding (2010, Jason McCarthy) and the rucking-fitness boom; The Comfort Crisis (2021) popularizing it."
+      ],
+      [
+        "The science",
+        "Loaded walking's energy cost scales with load and grade; bone-density benefits; low injury rates versus running."
+      ],
+      [
+        "The numbers",
+        "Start 10-15% bodyweight; brisk pace (15-20 min/mile by terrain); 2-3 sessions weekly building distance first, load later"
+      ],
+      [
+        "Event culture",
+        "GORUCK challenges, Star Course (50-mile distance events), and the military's march tables"
+      ],
+      [
+        "Health profile",
+        "Cardiovascular, musculoskeletal, and mental-health benefits with the lowest equipment barrier in fitness"
+      ]
+    ],
+    "history": [
+      [
+        "Antiquity-1900s",
+        "The soldier's march: every army in history moved on foot with load — the oldest endurance training."
+      ],
+      [
+        "1960s-2000s",
+        "The military's codification: march tables, load studies, and the school-of-the-soldier's fitness doctrine."
+      ],
+      [
+        "2010s",
+        "GORUCK's founding and the civilian rucking movement; the challenge-event culture."
+      ],
+      [
+        "2020s",
+        "The mainstream boom (Easter's book, the walking-fitness wave): rucking as the accessible endurance answer."
+      ]
+    ],
+    "formats": [
+      [
+        "Training rucks",
+        "The weekly sessions: 30-90 minutes at moderate load and pace."
+      ],
+      [
+        "Long rucks & distance events",
+        "The Star Course model: 26.2-mile and 50-mile ruck events."
+      ],
+      [
+        "Military march standards",
+        "The armed forces' qualification marches (by nation)."
+      ],
+      [
+        "Rucking as cross-training",
+        "The endurance base and bone-builder inside other sports' programs."
+      ]
+    ],
+    "skills": [
+      [
+        "Load management",
+        "The first skill: load progression (distance before weight), pack fit, and the shoulders-and-hips carriage.",
+        "Start 10-15% bodyweight; increase distance 10% weekly; adjust straps for hip-belt carriage; log loads and routes."
+      ],
+      [
+        "Pace & posture",
+        "The march craft: brisk sustainable pace, upright posture, and the foot's stride mechanics under load.",
+        "Metronome pacing (15-18 min/mile on flats); posture checks hourly; short strides on descents."
+      ],
+      [
+        "Terrain & footing",
+        "The trail skills: grades, descents (the knee's tax), and surface choices.",
+        "Start flat; add hills gradually; shorten stride and use poles downhills steeply graded."
+      ],
+      [
+        "Fueling & hydration",
+        "The long-ruck systems: water and sodium for sessions past 90 minutes, food for 3-hour rucks.",
+        "Carry water past 60 minutes; sodium in heat; practice event fueling on training rucks."
+      ],
+      [
+        "Strength support",
+        "The gym's role: the ruck serves legs and core; deadlifts, carries, and calves support the ruck.",
+        "Two strength sessions weekly (hinge, squat, calf, carry); core work for the pack's posture; mobility for the hips."
+      ],
+      [
+        "Event strategy",
+        "The distance game: pacing, foot care, and the overnight long-ruck logistics.",
+        "Break in boots on training rucks; foot-care kit (tape, socks); pace tables for distance events."
+      ]
+    ],
+    "rules": [
+      "Distance before load: earn miles at light weight before adding pounds — the military's own progression.",
+      "Start at 10-15% bodyweight: ego adds weight; knees pay it.",
+      "Walk tall: posture under load is trained, not assumed.",
+      "Descent discipline: short strides and control downhill — the injury zone.",
+      "Break in everything: boots, pack, and hips get mileage before events.",
+      "Hydrate and salt past 90 minutes: rucking sweats like running does.",
+      "Rest is training: the day after long rucks belongs to easy walking or nothing."
+    ],
+    "equipment": [
+      [
+        "Rucksack or backpack",
+        "Any sturdy pack to start ($0-60); ruck-specific packs later ($150-300)."
+      ],
+      [
+        "Weight",
+        "Ruck plates, plates sandbags, or books ($20-100)."
+      ],
+      [
+        "Footwear",
+        "Trail runners or boots, broken in ($80-180)."
+      ],
+      [
+        "Socks & foot care",
+        "Quality wool socks, tape, and blister kit ($30-60): the distance ruck's real gear."
+      ],
+      [
+        "Hydration",
+        "Bladder or bottles for sessions past an hour ($20-60)."
+      ]
+    ],
+    "training": [
+      "Ruck 2-3 times weekly: one easy 45-minute, one longer, one with hills.",
+      "Progress distance before weight: 10% weekly on distance, load only when distance is comfortable.",
+      "Strength twice weekly: hinges and carries make the ruck easier.",
+      "Practice event conditions: if the event is overnight, train one.",
+      "Care your feet: socks, tape, and the post-ruck check are the discipline's ritual."
+    ],
+    "pathway": [
+      [
+        "First ruck",
+        "10% bodyweight, 30 minutes, flat route."
+      ],
+      [
+        "Base building",
+        "Distance to 5-8 km comfortably."
+      ],
+      [
+        "Load & terrain progression",
+        "15-20% bodyweight and hills."
+      ],
+      [
+        "Long rucks & events",
+        "Half-marathon rucks to 50-mile courses."
+      ],
+      [
+        "Military standards (optional)",
+        "The armed forces' march qualifications."
+      ]
+    ],
+    "events": [
+      [
+        "GORUCK challenges & Star Course",
+        "The civilian event culture (26.2 and 50-mile rucks)."
+      ],
+      [
+        "Military march qualifications",
+        "The armed forces' standards worldwide."
+      ],
+      [
+        "Charity ruck marches",
+        "The community event layer (Memorial-day tribute marches)."
+      ],
+      [
+        "Local ruck clubs",
+        "The group-ride group-ruck culture."
+      ],
+      [
+        "Backpacking & thru-hiking",
+        "The sport's wilderness cousins."
+      ]
+    ],
+    "legends": [
+      [
+        "Jason McCarthy",
+        "USA — the Green Beret who founded GORUCK: rucking's civilian entrepreneur."
+      ],
+      [
+        "Michael Easter",
+        "USA — the journalist whose Comfort Crisis carried rucking mainstream."
+      ],
+      [
+        "The military march traditions",
+        "Every army's foot soldiers: the sport's unnamed founding athletes."
+      ],
+      [
+        "Thru-hikers",
+        "The Appalachian and Pacific Crest trails' walkers: rucking's ultra branch."
+      ],
+      [
+        "The rucking communities",
+        "The local clubs and charity marches: the practice's social engine."
+      ]
+    ],
+    "getting_started": [
+      "Load a backpack with 10% of your bodyweight (books are fine) and walk 30 minutes.",
+      "Go twice this week: consistency starts the adaptation.",
+      "Buy proper socks before better shoes: blisters end more rucks than fitness does.",
+      "Add hills before weight: terrain is the honest progression.",
+      "Strength-train twice weekly: hinges and carries serve the ruck.",
+      "Sign up for a 5-10 km ruck event within three months: the date makes the habit."
+    ],
+    "glossary": [
+      [
+        "Ruck",
+        "The loaded march, and the pack itself."
+      ],
+      [
+        "Ruck plate",
+        "The shaped steel weight for packs."
+      ],
+      [
+        "Load percentage",
+        "Weight as bodyweight's fraction: the progression dial."
+      ],
+      [
+        "Star Course",
+        "GORUCK's long-distance ruck events."
+      ],
+      [
+        "15-minute mile",
+        "The standard brisk ruck pace."
+      ],
+      [
+        "Foot march (FM)",
+        "The military doctrine's term."
+      ],
+      [
+        "Blister kit",
+        "Tape, patches, and the distance ruck's insurance."
+      ],
+      [
+        "Hip belt",
+        "The pack's load-transfer feature."
+      ],
+      [
+        "Zone 2 ruck",
+        "The conversational-pace loaded walk: the base builder."
+      ],
+      [
+        "Ruck club",
+        "The local group-rucking community."
+      ]
+    ],
+    "related": [
+      "endurance-training",
+      "mountaineering",
+      "tactical-fitness",
+      "mobility",
+      "strength-and-conditioning"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "youth-sports",
+    "name": "Youth Sports",
+    "category": "domains",
+    "glyph": "🧒",
+    "tagline": "The sampling years — long-term athlete development, fun first, and the specialization question.",
+    "origin": "LTAD era · Istvan Balyi's models",
+    "tags": [
+      "LTAD",
+      "Fun & sampling",
+      "Parenting",
+      "Coaching kids"
+    ],
+    "overview": [
+      "Youth sports is the discipline of developing young athletes well: the long-term athlete development (LTAD) frameworks (Istvan Balyi's models), the sampling-versus-specialization science, and the culture questions (fun, coaching quality, and the parent's role) that decide whether sport builds lifelong athletes or burns them out by 14. The evidence is clear and actionable: early diversification builds better long-term athletes, fun predicts retention, and specialization before adolescence carries injury and dropout costs.",
+      "The field's pillars: the FUNdamentals stage (physical literacy's movement skills), the sampling years (multiple sports through childhood), deliberate practice's appropriate timing (specialization windows vary by sport), and the growth-spurt management (peak height velocity's training implications). The research anchors — Balyi's LTAD, the American Academy of Pediatrics' position statements, and the Aspen Institute's Project Play — converge on one message: children need play, variety, and patient development.",
+      "Newcomers (parents and coaches) should hold one principle above all: fun is the retention engine. A child who loves sport plays for decades; a child optimized at ten often quits by thirteen. The practical program: movement variety, multi-sport sampling, quality coaching over winning cultures, and the parent's hardest job — cheering without coaching."
+    ],
+    "facts": [
+      [
+        "The frameworks",
+        "Istvan Balyi's LTAD model (7 stages, from Active Start to Active for Life); the physical literacy movement"
+      ],
+      [
+        "The science",
+        "Sampling research (Côté's Developmental Model of Sport Participation); early specialization's injury and dropout costs; the 10,000-hours myth's correction"
+      ],
+      [
+        "Health bodies",
+        "AAP position statements (specialization recommendations), WHO activity guidelines (60 minutes daily for children)"
+      ],
+      [
+        "The culture data",
+        "Aspen Institute's Project Play: fun as the top reason kids play; the dropout cliff (~70% quit by 13 in organized sport)"
+      ],
+      [
+        "Growth windows",
+        "Peak height velocity (the growth spurt) as the training window marker: speed and skill sensitivity phases"
+      ],
+      [
+        "Injury reality",
+        "Overuse injuries (Little League elbow, ACL patterns) map to early specialization and year-round single-sport loads"
+      ]
+    ],
+    "history": [
+      [
+        "Pre-1990s",
+        "Sport as childhood's default play: unstructured games, school sport, and the seasons' natural rotation."
+      ],
+      [
+        "1990s-2000s",
+        "The professionalization of childhood sport: club systems, year-round teams, and the early-specialization arms race."
+      ],
+      [
+        "2005-2016",
+        "The science pushback: Balyi's LTAD spreads, Côté's sampling research, and the pediatric bodies' position statements."
+      ],
+      [
+        "2016-2020s",
+        "The culture correction: Project Play, the multi-sport athlete advocacy (the professional examples: most elite athletes sampled), and the parent-education movement."
+      ]
+    ],
+    "formats": [
+      [
+        "FUNdamentals & physical literacy",
+        "Ages 6-10: movement skills, games, and variety — the foundation stage."
+      ],
+      [
+        "Multi-sport sampling",
+        "Ages 8-13: two-three sports per year with deliberate play."
+      ],
+      [
+        "Development & specialization windows",
+        "Ages 12+: sport-appropriate specialization timing (gymnastics early, endurance later sport-dependent)."
+      ],
+      [
+        "Parent & coach education",
+        "The culture layer: the adult behaviors that decide children's experience."
+      ]
+    ],
+    "skills": [
+      [
+        "Physical literacy",
+        "The movement ABCs: running, jumping, throwing, catching, balancing — trained through games.",
+        "Design game-based skill sessions; teach skills through play; sample 3+ sports yearly before age 12."
+      ],
+      [
+        "Fun engineering",
+        "The retention science: autonomy, belonging, and challenge — the self-determination needs inside every session.",
+        "Ask kids what they enjoyed (and mean it); rotate leadership; end every session with a game they choose."
+      ],
+      [
+        "Age-appropriate coaching",
+        "The developmental eye: skills and confidence before tactics and trophies.",
+        "Coach the child, not the mini-adult: short instructions, high reps, laughter quota; learn the stage's LTAD benchmarks."
+      ],
+      [
+        "Growth-spurt management",
+        "The biological window: training adjusted around peak height velocity (coordination dips, injury risk rises).",
+        "Track growth phases loosely; soften intensity during spurt years; re-learn skills post-spurt patiently."
+      ],
+      [
+        "Parent craft",
+        "The hardest role: transport, cheer, feed, and stay out of the coaching.",
+        "The car-ride rule (only ask about fun); no sideline coaching; support the coaches publicly."
+      ],
+      [
+        "Injury prevention",
+        "The load guards: season breaks, multi-sport loads, and the overuse-injury watchlists.",
+        "Enforce 1-2 rest days weekly and an off-season; watch for pain growth-plate complaints; strength training is safe and protective when coached."
+      ]
+    ],
+    "rules": [
+      "Fun first: children who enjoy sport stay in sport — retention outranks optimization every time.",
+      "Sample before specializing: multiple sports through childhood build better athletes (and people).",
+      "Specialization timing is sport-specific: gymnastics and swimming skew early; endurance and team sports skew late.",
+      "One coach's voice: parents cheer, coaches coach — the roles don't mix.",
+      "Rest and seasons: year-round single-sport play is the overuse-injury factory.",
+      "Strength training is safe for kids: supervised, progressive resistance training benefits youth (the consensus stands).",
+      "Adult behavior is the culture: the sideline's tone becomes the child's inner voice."
+    ],
+    "equipment": [
+      [
+        "Varied basic equipment",
+        "Balls of many sizes, cones, and space: the sampling kit ($50-150)."
+      ],
+      [
+        "Age-appropriate gear",
+        "Right-sized equipment (junior rackets, light balls): the skill accelerators."
+      ],
+      [
+        "Quality coaching access",
+        "The best investment: certified, child-centered coaches ($10-30 per session)."
+      ],
+      [
+        "Books & courses",
+        "The parent-coach education (Project Play resources, LTAD texts)."
+      ],
+      [
+        "Unstructured play time",
+        "Free: the most important equipment is the empty afternoon."
+      ]
+    ],
+    "training": [
+      "Sessions look like games: skill learning hidden inside play, for every age below 12.",
+      "Sample sports by season: soccer fall, swim winter, track spring — the classic rotation.",
+      "Keep one unstructured sport outlet: pickup games and playground hours count double.",
+      "Add supervised strength play from 10-12: bodyweight skills and light loads with coaching.",
+      "Protect the off-season: at least 2-3 months away from any single sport's organized load."
+    ],
+    "pathway": [
+      [
+        "Active Start (0-6)",
+        "Play, movement, and safety skills at home and preschool."
+      ],
+      [
+        "FUNdamentals (6-9)",
+        "Movement skills through games at clubs and schools."
+      ],
+      [
+        "Learn to Train (8-12)",
+        "Sport skills with continued sampling."
+      ],
+      [
+        "Train to Train (12-16)",
+        "Development windows, growing structure, and specialization decisions."
+      ],
+      [
+        "Train to Compete & beyond",
+        "The performance pathways — or the Active-for-Life branch."
+      ]
+    ],
+    "events": [
+      [
+        "Multi-sport days & festivals",
+        "The sampling culture's events."
+      ],
+      [
+        "School & community leagues",
+        "The participation base everywhere."
+      ],
+      [
+        "LTAD & coaching courses",
+        "The coach education layer (national federations' youth modules)."
+      ],
+      [
+        "Project Play & parenting summits",
+        "The culture conversation's forums."
+      ],
+      [
+        "Youth championships (age-appropriate)",
+        "The competition layer, kept in perspective."
+      ]
+    ],
+    "legends": [
+      [
+        "Istvan Balyi",
+        "Romania/Canada — the LTAD model's architect: youth development's framework builder."
+      ],
+      [
+        "Jean Côté",
+        "Canada — the sampling researcher: the Developmental Model of Sport Participation's author."
+      ],
+      [
+        "The Aspen Institute's Project Play",
+        "The initiative that made youth-sport culture a public conversation."
+      ],
+      [
+        "The multi-sport pros",
+        "The elite athletes (Federer's sampling era, most NFL and NBA players) who prove the path."
+      ],
+      [
+        "The great youth coaches",
+        "The unnamed volunteers whose patience built every professional's first love of the game."
+      ]
+    ],
+    "getting_started": [
+      "Ask your child one question after practice: 'Did you have fun?' — and listen to the answer.",
+      "Enforce variety: at least two sports (or one sport plus free play) before age 12.",
+      "Protect the off-season: real breaks prevent the overuse cliff.",
+      "Cheer effort, not results: the sideline's tone is the culture.",
+      "Find coaches who teach, not select: quality instruction beats winning teams at 9.",
+      "Keep free play alive: the empty field is still the best development environment."
+    ],
+    "glossary": [
+      [
+        "LTAD",
+        "Long-term athlete development: the stage-based framework."
+      ],
+      [
+        "Physical literacy",
+        "The movement skills and confidence to enjoy activity for life."
+      ],
+      [
+        "Sampling years",
+        "The multi-sport childhood: the evidence-backed base."
+      ],
+      [
+        "Peak height velocity",
+        "The growth spurt's peak: the training-window marker."
+      ],
+      [
+        "Deliberate play",
+        "Games designed for skill development — the youth method."
+      ],
+      [
+        "Early specialization",
+        "Single-sport focus before adolescence: the risk zone."
+      ],
+      [
+        "FUNdamentals",
+        "The 6-9 stage: movement ABCs through play."
+      ],
+      [
+        "Overuse injury",
+        "The load disease: youth sport's preventable tax."
+      ],
+      [
+        "Project Play",
+        "The Aspen Institute's youth-sport initiative."
+      ],
+      [
+        "Active for Life",
+        "LTAD's final stage: the goal behind all the others."
+      ]
+    ],
+    "related": [
+      "strength-and-conditioning",
+      "functional-fitness",
+      "nutrition",
+      "mobility",
+      "womens-training"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "womens-training",
+    "name": "Women's Training",
+    "category": "domains",
+    "glyph": "🧍‍♀️",
+    "tagline": "Training the female athlete honestly — physiology without the myths.",
+    "origin": "Research era · 2010s-2020s growth",
+    "tags": [
+      "Female physiology",
+      "Evidence-based",
+      "ACL prevention",
+      "Strength myths"
+    ],
+    "overview": [
+      "Women's training is the discipline of coaching female athletes on female physiology — with the myths removed. Its core content: the menstrual cycle's real (and often overstated) training implications, the female athlete's ACL-injury risk and its preventable causes, the strength-training truths (women respond to resistance training powerfully; 'bulky' fears are physiological fiction), and the under-fueling and iron-status issues that disproportionately affect female athletes (RED-S and the Female Athlete Triad's lessons).",
+      "The field's modern era is a correction: exercise science historically studied men and generalized badly (Stacy Sims' 'women are not small men' became the movement's banner). The honest current position: cycle-phase training effects are more modest than social media claims (the evidence favors individual response over blanket rules), contraception's effects are individual, and the high-impact priorities are concrete — strength and landing-mechanics training for ACL prevention, fueling adequacy, iron monitoring, and pelvic-health integration postpartum.",
+      "Newcomers (athletes and coaches) should take the evidence-first approach: train hard and progressively (the female response to strength training is excellent), track the menstrual cycle as data (not destiny), fuel adequately for load, and treat the ACL-prevention programs (the FIFA 11+ and equivalents) as non-negotiable in landing sports."
+    ],
+    "facts": [
+      [
+        "The research correction",
+        "Stacy Sims' ROAR (2016) and the women's-physiology research wave: the field's modern foundation."
+      ],
+      [
+        "Cycle science",
+        "Phase-based training effects are modest and individual (the systematic reviews): cycle tracking as data, not prescription"
+      ],
+      [
+        "Injury reality",
+        "Female athletes' ACL injury rates run 2-8× higher in landing sports: neuromuscular training cuts risk substantially"
+      ],
+      [
+        "The fueling issues",
+        "RED-S and the Female Athlete Triad (energy, bone, menstrual health): underfueling's female-specific damage"
+      ],
+      [
+        "Iron status",
+        "Female athletes' iron-deficiency rates are high (diet, menstruation, foot-strike hemolysis): monitoring is standard care."
+      ],
+      [
+        "Strength truths",
+        "Women gain strength and power from resistance training equivalently (relative to baseline); hypertrophy differences are modest"
+      ]
+    ],
+    "history": [
+      [
+        "Pre-1990s",
+        "Women excluded from endurance and strength science (and from events: the marathon's 1984 Olympic arrival, boxing's 2012)."
+      ],
+      [
+        "1990s-2000s",
+        "The Female Athlete Triad's definition and the ACL-prevention programs' arrival (FIFA 11+ era research)."
+      ],
+      [
+        "2010s",
+        "The Sims-era correction: women's-physiology research expands; the cycle-tracking apps boom (with their evidence problems)."
+      ],
+      [
+        "2020s",
+        "The Sims-era correction: women's-physiology research expands; the cycle-tracking apps boom (with their evidence problems)."
+      ]
+    ],
+    "formats": [
+      [
+        "Strength & power training",
+        "The female athlete's progressive resistance programs — same principles, excellent response."
+      ],
+      [
+        "ACL-prevention programs",
+        "The neuromuscular warm-ups (FIFA 11+, program equivalents) for landing sports."
+      ],
+      [
+        "Cycle-aware programming",
+        "Tracking as data; adjustments individualized, not templated."
+      ],
+      [
+        "Female-athlete health",
+        "Fueling, iron, bone health, and pelvic-health integration (postpartum return-to-sport)."
+      ]
+    ],
+    "skills": [
+      [
+        "Strength training without myths",
+        "The truth: progressive resistance training builds capability, not bulk — the female response is excellent.",
+        "Train compound lifts 2-3× weekly progressively; expect strength gains relative to baseline equal to men's; discard the bulky fear permanently."
+      ],
+      [
+        "ACL & landing mechanics",
+        "The prevention program: knee control, landing technique, and neuromuscular warm-ups in every landing sport.",
+        "Implement a prevention warm-up (11+ style) every session; train single-leg landing control; strength (hamstring Nordic work) as the armor."
+      ],
+      [
+        "Cycle tracking as data",
+        "The individualized approach: symptoms, performance, and the honest modesty of phase effects.",
+        "Track cycles and performance notes together; adjust by felt response, not blanket rules; consult clinicians for disruptive symptoms (pain is not normal)."
+      ],
+      [
+        "Fueling & RED-S awareness",
+        "The energy guard: adequate fueling for load, with the female-specific health markers monitored.",
+        "Eat for training loads (no chronic deficits); monitor cycle regularity as a health sign; screen iron annually in heavy training."
+      ],
+      [
+        "Postpartum return",
+        "The modern protocol: pelvic-health assessment before return-to-impact, and the graded rebuild.",
+        "Work with pelvic-health physios postpartum; return to running by criteria, not dates; rebuild strength before impact."
+      ],
+      [
+        "Coaching women well",
+        "The culture craft: high expectations without the condescension — the coaching behavior that retains female athletes.",
+        "Coach the athlete (not the sex) with physiology awareness; normalize cycle conversations; expect and demand excellence."
+      ]
+    ],
+    "rules": [
+      "Women are not small men: physiology differs, but the training principles (progressive overload, recovery) hold — the field's banner.",
+      "The cycle is data, not destiny: phase-based blanket rules outrun the evidence; individual response rules.",
+      "Pain and missing cycles are signals: disruptive symptoms and lost periods are clinical flags, not norms to push through.",
+      "ACL prevention is non-negotiable: neuromuscular warm-ups in every landing sport, every session.",
+      "Fuel adequately: chronic deficits damage bone, hormones, and performance (the Triad's lesson).",
+      "Strength training is the best insurance: bone density, injury resilience, and power — at every age.",
+      "Postpartum returns by criteria: pelvic-health assessment before impact, strength before distance."
+    ],
+    "equipment": [
+      [
+        "The standard gym",
+        "Progressive resistance equipment: the field's true tool ($0-60 monthly membership)."
+      ],
+      [
+        "Tracking tools",
+        "Cycle and performance tracking (apps or paper): the data layer."
+      ],
+      [
+        "Prevention kit",
+        "Landing mats and the 11+ warm-up equipment (cones, balls) ($30-80)."
+      ],
+      [
+        "Bloodwork access",
+        "Iron and hormone panels with clinicians (the monitoring layer)."
+      ],
+      [
+        "Books & education",
+        "ROAR, The Female Athlete's evidence guides ($20-30 each)."
+      ]
+    ],
+    "training": [
+      "Strength train 2-3× weekly, progressively: the single highest-return practice in women's health.",
+      "Do the prevention warm-up in landing sports: eleven minutes that save seasons.",
+      "Track your cycle alongside training: patterns beat prescriptions.",
+      "Fuel for the work: energy availability is the health foundation.",
+      "Screen iron and vitamin D annually in heavy training: the female athlete's routine care."
+    ],
+    "pathway": [
+      [
+        "Foundations & myths cleared",
+        "The strength habit and the evidence base."
+      ],
+      [
+        "Sport performance training",
+        "The athlete's progressive programs with cycle-aware monitoring."
+      ],
+      [
+        "Health monitoring",
+        "Fueling, iron, and bone health's routine care."
+      ],
+      [
+        "Coaching & education",
+        "The female-athlete coaching specializations."
+      ],
+      [
+        "Clinical branches",
+        "Pelvic health, sports medicine, and dietetics' women's tracks."
+      ]
+    ],
+    "events": [
+      [
+        "Female athlete conferences",
+        "The research and coaching gatherings (the Female Athlete conference circuit)."
+      ],
+      [
+        "Prevention program implementations",
+        "The FIFA 11+ and equivalents' league rollouts."
+      ],
+      [
+        "Women's sport investment era",
+        "The professionalization context (leagues, pay, media)."
+      ],
+      [
+        "Sports medicine courses",
+        "The clinical education layer."
+      ],
+      [
+        "Community strength programs",
+        "The grassroots gym culture's women's sessions."
+      ]
+    ],
+    "legends": [
+      [
+        "Stacy Sims",
+        "USA/NZ — the field's banner-carrier: 'Women are not small men' and the research-communication wave."
+      ],
+      [
+        "The ACL researchers",
+        "The neuromuscular-prevention scientists (Hewett's era and beyond) whose programs save seasons."
+      ],
+      [
+        "The Female Athlete Triad/RED-S groups",
+        "The IOC consensus authors who named underfueling's damage."
+      ],
+      [
+        "Louise Burke",
+        "Australia — the sports nutrition voice whose female-athlete work anchors the fueling guidance."
+      ],
+      [
+        "The women's sport pioneers",
+        "The athletes who fought for the events and funding — Kathrine Switzer's marathon and every door opened since."
+      ]
+    ],
+    "getting_started": [
+      "Start strength training this week: two sessions, coached if possible, progressive always.",
+      "Track your cycle and training together for three months: your patterns are your data.",
+      "Add the 11+ warm-up if you play a landing sport: eleven minutes, every session.",
+      "Fuel for training: eat enough — the lost period is a red flag, not a side effect.",
+      "Get iron checked annually if training hard: deficiency is common and fixable.",
+      "Find a coach who expects excellence: the best female training environments are demanding and kind."
+    ],
+    "glossary": [
+      [
+        "Female Athlete Triad",
+        "The energy-bone-menstrual health triad: underfueling's classic syndrome."
+      ],
+      [
+        "RED-S",
+        "Relative energy deficiency in sport: the expanded modern framing."
+      ],
+      [
+        "Cycle tracking",
+        "Menstrual-phase data alongside training: the individualized tool."
+      ],
+      [
+        "FIFA 11+",
+        "The neuromuscular prevention warm-up program."
+      ],
+      [
+        "Neuromuscular training",
+        "Landing and cutting control: the ACL armor."
+      ],
+      [
+        "Pelvic health physio",
+        "The postpartum return's specialist gatekeeper."
+      ],
+      [
+        "Iron deficiency",
+        "The female athlete's common (and correctable) performance tax."
+      ],
+      [
+        "Bone health",
+        "Fueling and loading's long game: the Triad's stake."
+      ],
+      [
+        "'Women are not small men'",
+        "The field's banner: physiology matters, principles hold."
+      ],
+      [
+        "Postpartum return-to-sport",
+        "The criteria-based rebuild: strength before impact."
+      ]
+    ],
+    "related": [
+      "strength-and-conditioning",
+      "nutrition",
+      "youth-sports",
+      "functional-fitness",
+      "mobility"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "tactical-fitness",
+    "name": "Tactical Fitness",
+    "category": "domains",
+    "glyph": "🎖️",
+    "tagline": "Readiness for duty — the military, police, and fire services' occupational fitness.",
+    "origin": "Military tradition · modern assessment era",
+    "tags": [
+      "Occupational fitness",
+      "ACFT & CPAT",
+      "Load carriage",
+      "Selection prep"
+    ],
+    "overview": [
+      "Tactical fitness is occupational readiness: the physical standards and training systems of military, law-enforcement, and fire-service populations — ruck marches, load carriage, casualty drags, PFT scores, and the selection events (the Army's ACFT, the FBI's PET, the fire service's CPAT) that gate these careers. It is fitness with a job description: the training exists because the work demands it, and the standards are public, testable, and unforgiving.",
+      "The modern field blends the military's traditional conditioning (running, rucking, calisthenics, the combat swim standards) with sports-science refinement: the ACFT's 2019-2022 introduction brought deadlifts and power throws into the Army's test, fire services adopted task-simulation exams (CPAT's stair climbs and hose drags), and the professional preparation industry (coaches specializing in selection prep) professionalized the pathway. The honest conversation includes injury rates (load carriage's musculoskeletal toll) and the evidence-based training that reduces them.",
+      "Newcomers should train the test honestly and the job intelligently: run (the PFTs still run), ruck (the load-carriage reality), lift (the deadlift strength standards), and practice the task simulations (drag, carry, climb). The military's own fitness doctrine (FM 7-22) is a free, complete curriculum — and consistency across years, not pre-test heroics, passes selections."
+    ],
+    "facts": [
+      [
+        "The standards",
+        "US Army ACFT (6 events: deadlift, throw, push-up, sprint-drag-carry, plank, 2-mile run); FBI PET; CPAT (fire service's 8-event task test); allied nations' equivalents"
+      ],
+      [
+        "The doctrine",
+        "US Army FM 7-22 (Holistic Health and Fitness): the military's own training science, public and complete"
+      ],
+      [
+        "Load carriage",
+        "The occupational core: ruck loads from training (moderate) to fighting loads (heavy); the injury science's honest picture"
+      ],
+      [
+        "Selection culture",
+        "Special-operations selections (Ranger, SEAL, Special Forces): the multi-event, multi-day standards"
+      ],
+      [
+        "Injury reality",
+        "Musculoskeletal injuries (mostly load carriage and running) are the services' largest readiness cost — the field's central problem"
+      ],
+      [
+        "The industry",
+        "Professional selection-prep coaching, the veteran-founded fitness companies, and the military's own performance teams"
+      ]
+    ],
+    "history": [
+      [
+        "Pre-1900s",
+        "Military conditioning's roots: marching, drill, and the calisthenics traditions of standing armies."
+      ],
+      [
+        "1900s-1980s",
+        "The PFT era: running, push-ups, sit-ups as the services' tests; the ruck march's enduring standard."
+      ],
+      [
+        "2010s",
+        "The science reform: the ACFT's development (occupational-task-based testing) and the fire service's task-simulation exams."
+      ],
+      [
+        "2020s",
+        "The H2F (Holistic Health and Fitness) era: the military's full performance model (strength coaches, dietitians, physios embedded in units)."
+      ]
+    ],
+    "formats": [
+      [
+        "PFT preparation",
+        "The test-specific training: run times, rep counts, and event standards."
+      ],
+      [
+        "Ruck & load-carriage training",
+        "The occupational core: progressive marches with proper loads."
+      ],
+      [
+        "Task-simulation training",
+        "The CPAT-style event preparation: drags, carries, climbs."
+      ],
+      [
+        "Selection preparation",
+        "The long-cycle programs for special-operations and federal selections."
+      ]
+    ],
+    "skills": [
+      [
+        "Running & the PFT",
+        "The universal standard: 1.5-2 mile runs at threshold, sprint interval work, and the pull-up rep ladders.",
+        "Train the run 3× weekly (one intervals, one easy, one tempo); practice test-day pacing; build pull-up and push-up ladders progressively."
+      ],
+      [
+        "Rucking & load carriage",
+        "The occupational signature: progressive marches, posture under load, and the foot blister management.",
+        "Start 10-15% bodyweight; add distance before load; train descents and hills; care feet like an athlete."
+      ],
+      [
+        "Strength & the task lifts",
+        "The deadlifts and carries: the ACFT's 3-rep-max deadlift, farmer sled drags, and the casualty-carry patterns.",
+        "Deadlift 2× weekly (build to test standards); loaded carries and drags weekly; train grip explicitly."
+      ],
+      [
+        "Task simulations",
+        "The job's rehearsal: CPAT's stair climbs, hose drags, and the dummy drags, trained as events.",
+        "Practice the actual task tests (many fire departments offer prep sessions); rehearse in gear where possible; time every attempt."
+      ],
+      [
+        "Swim & water standards (where required)",
+        "The services' swim gates: 500-meter swims and combat-swimmer standards for maritime roles.",
+        "Swim 2× weekly if your path requires it; train in gear for maritime standards; practice treading and drown-proofing skills."
+      ],
+      [
+        "Durability & injury prevention",
+        "The career's real requirement: tissue resilience for load carriage and overuse-injury guards.",
+        "Strength train year-round (the injury insurance); manage running volume honestly; sleep and nutrition as readiness infrastructure."
+      ]
+    ],
+    "rules": [
+      "Train the test, prepare for the job: both matter — the test gates entry, the job rewards durability.",
+      "Consistency beats heroics: selections are won in months of steady training, not pre-test sprints.",
+      "Load progression is law: distance before weight in rucking, the military's own rule.",
+      "Rest is readiness: sleep, nutrition, and recovery are the doctrine's official components (H2F).",
+      "Injury honesty: training through pain fails selections worse than a rest week does.",
+      "Standards are public: train to the published numbers (ACFT, PET, CPAT) with honest timing.",
+      "Medical clearance: pre-existing conditions get clinical guidance before selection prep."
+    ],
+    "equipment": [
+      [
+        "Ruck & plates",
+        "The load-carriage kit ($100-300)."
+      ],
+      [
+        "Running shoes & boots",
+        "Both: training in boots matters for the standards ($80-200)."
+      ],
+      [
+        "Barbell access",
+        "The deadlift and strength standards' tool ($30-60 monthly gym)."
+      ],
+      [
+        "Pull-up bar & sled",
+        "The PFT and drag training ($100-300)."
+      ],
+      [
+        "The doctrine (free)",
+        "FM 7-22 and the services' fitness manuals: the complete free curriculum."
+      ]
+    ],
+    "training": [
+      "Build the week: 3 runs, 2 strength, 1-2 rucks — the tactical template.",
+      "Train test events monthly: full ACFT/PET/CPAT rehearsals under time.",
+      "Ruck progressively: distance first, load second, terrain third.",
+      "Protect the feet and shins: the military's most common training casualties.",
+      "Sleep like it's part of the program: H2F treats it as doctrine, and so should you."
+    ],
+    "pathway": [
+      [
+        "Baseline & standards audit",
+        "The current test scores and the gap analysis."
+      ],
+      [
+        "PFT & strength development",
+        "The 6-12 month build toward standards."
+      ],
+      [
+        "Ruck & task training",
+        "The occupational skills' progression."
+      ],
+      [
+        "Selection prep cycles",
+        "The long programs for competitive selections."
+      ],
+      [
+        "Service careers & H2F roles",
+        "The military performance profession itself."
+      ]
+    ],
+    "events": [
+      [
+        "ACFT / service PFTs",
+        "The test days that gate careers."
+      ],
+      [
+        "CPAT testing",
+        "The fire service's task exam."
+      ],
+      [
+        "Selection courses",
+        "The special-operations and federal pathways."
+      ],
+      [
+        "Tactical games & competitions",
+        "The CrossFit-adjacent tactical event circuit."
+      ],
+      [
+        "H2F & military performance conferences",
+        "The profession's education layer."
+      ]
+    ],
+    "legends": [
+      [
+        "The H2F architects",
+        "The US Army's performance team: the doctrine that professionalized military fitness."
+      ],
+      [
+        "The selection coaches",
+        "The veteran-founded prep community of professional selection-prep coaches who built the pathway industry."
+      ],
+      [
+        "Michael Easter (adjacent)",
+        "The journalist whose rucking coverage carried military methods to civilians."
+      ],
+      [
+        "The special-operations PT corps",
+        "The unsung physios and strength coaches keeping operators in the fight."
+      ],
+      [
+        "The service members",
+        "The millions who pass the standards annually: the field's real body of evidence."
+      ]
+    ],
+    "getting_started": [
+      "Find your standard's numbers (ACFT, PFT, CPAT) and test yourself honestly this week.",
+      "Run three times weekly: intervals, easy, tempo — the PFT's template.",
+      "Start rucking at 10-15% bodyweight once weekly, distance first.",
+      "Deadlift twice weekly: the strength standards' foundation.",
+      "Download FM 7-22 (free): the military wrote the complete program.",
+      "Build the calendar: pick a test date or ship date and train backward from it."
+    ],
+    "glossary": [
+      [
+        "ACFT",
+        "The Army Combat Fitness Test: six events from deadlift to 2-mile run."
+      ],
+      [
+        "CPAT",
+        "The Candidate Physical Ability Test: the fire service's task exam."
+      ],
+      [
+        "PET",
+        "The FBI's Physical Efficiency Test (sprint, push-ups, sit-ups, pull-ups, run)."
+      ],
+      [
+        "Ruck march",
+        "The loaded foot march: the occupational signature."
+      ],
+      [
+        "FM 7-22",
+        "The US Army's Holistic Health and Fitness doctrine."
+      ],
+      [
+        "H2F",
+        "Holistic Health and Fitness: the military's performance system."
+      ],
+      [
+        "Load carriage",
+        "Moving with weight: the tactical core skill."
+      ],
+      [
+        "Sprint-drag-carry",
+        "The ACFT's signature anaerobic event."
+      ],
+      [
+        "Selection",
+        "The competitive entry courses (Ranger, SEAL, and allies')."
+      ],
+      [
+        "Standard",
+        "The published, testable number: the field's honesty."
+      ]
+    ],
+    "related": [
+      "rucking",
+      "strength-and-conditioning",
+      "endurance-training",
+      "speed-training",
+      "obstacle-course-racing"
+    ],
+    "crosslink": false
+  }
+]

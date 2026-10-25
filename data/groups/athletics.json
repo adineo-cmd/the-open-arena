@@ -1,0 +1,992 @@
+[
+  {
+    "slug": "track-and-field",
+    "name": "Track and Field (Athletics)",
+    "category": "athletics",
+    "glyph": "🏃",
+    "tagline": "The oldest sport on Earth — run, jump, and throw, measured to a thousandth of a second.",
+    "origin": "Greece (Olympia) · 776 BC · modern 1896",
+    "tags": ["Olympic core", "Sprints to marathon", "Jumps & throws", "World Athletics"],
+    "overview": [
+      "Athletics is the family of running, jumping, throwing, and walking events contested on the track, in the field, and on the roads — from the 100 m dash decided in under ten seconds to the javelin's 90-meter flights. It is the only sport that was on the program of the ancient Olympic Games in 776 BC and of every modern Games since 1896, which is why the sport's world governing body simply calls the discipline 'athletics' and everyone else calls it track and field.",
+      "Its cultural weight is the calendar's spine: the Olympic 100 m final remains the single most-watched event in sport, and the World Championships (since 1983) is the third-largest sporting event on Earth by participation. Every four years the sport rediscovers what its fans never forget — that the raw questions athletics asks (who is fastest, who jumps highest, who throws farthest) are the oldest questions in play.",
+      "Newcomers should find their event family before their event: sprint genetics, middle-distance engines, distance patience, jump elasticity, or thrower strength show up early and point naturally toward the 100 m or the 10,000 m, the long jump or the hammer. Almost every city has a club that welcomes beginners, and the sport's age-group structure runs from under-13 to over-90."
+    ],
+    "facts": [
+      ["Ancient roots", "Olympia 776 BC (stadion foot race); modern athletics codified by the IAAF in 1912, renamed World Athletics 2019"],
+      ["Governing body", "World Athletics (founded 1912 as IAAF); six continental areas; 200+ member federations"],
+      ["Olympic track", "400 m oval, 8-9 lanes; indoor 200 m banked tracks with 60 m sprint straight"],
+      ["Event families", "Sprints (100-400 m), middle distance (800-1500 m), long distance (5000-10000 m), hurdles & steeplechase, relays, jumps (long, triple, high, pole vault), throws (shot, discus, hammer, javelin), combined events"],
+      ["Timing & marks", "Photo finish to 0.001 s in sprints; field events measured to the centimeter; world records ratified by World Athletics with strict wind (2.0 m/s) and doping controls"],
+      ["Calendar", "Diamond League (14 meets), World Indoor/Outdoor Championships, continental circuits, Olympics every four years"]
+    ],
+    "history": [
+      ["776 BC", "The stadion race opens the ancient Olympic Games; Coroebus of Elis, a cook, is the first recorded Olympic champion."],
+      ["776 BC - 393 AD", "The ancient program grows to 20+ events including the pentathlon and race in armor before Theodosius bans the Games."],
+      ["1896", "Athens revives the Games with 12 athletics events; American James Connolly's triple jump becomes the first modern Olympic champion title."],
+      ["1912-1914", "The IAAF founds in Stockholm and ratifies the first official world records — athletics becomes a measured, global sport."],
+      ["1936", "Jesse Owens wins four golds in Berlin — the sport's most politically resonant championships ever contested."],
+      ["1983-1988", "The first World Championships (Helsinki 1983); Ben Johnson's 1988 disqualification begins modern anti-doping enforcement."],
+      ["2000s-2020s", "Electronic everything: false-start zero-tolerance (2010), shot put on the infield's big screens, and shoes-regulation debates after super spikes and marathon super shoes rewrite record books."]
+    ],
+    "formats": [
+      ["Outdoor track & field", "The classic program: 24 men's and 24 women's events at Worlds and the Olympics, contested over 8-10 days."],
+      ["Indoor athletics", "200 m banked ovals, 60 m sprints, no steeplechase, javelin, hammer, discus, or 10,000 m; World Indoor Championships biennially."],
+      ["Combined events", "Decathlon (10 events) and heptathlon (7): points tables turn ten performances into one champion — the Games within the Games."],
+      ["Cross country & road racing", "The family's winter and street branches, with their own pages in this library (cross-country-running, marathon)."]
+    ],
+    "skills": [
+      ["Sprint mechanics", "Triple extension out of the blocks, positive foot strike under the hips, relaxed jaw and shoulders at top speed.", "Block starts: 6×30 m with full recovery; A-skips and wicket runs for posture; fly 30s timed at 95-100% (4-6 reps, 4-6 min rest)."],
+      ["Hurdle technique", "Lead knee drives, trail leg folds flat, hurdle rhythm sprinted — not jumped — between the barriers.", "3-step drills over 5 hurdles at reduced spacing; 5×80 m at race height; wall trail-leg drills daily."],
+      ["Middle-distance racing", "The 800/1500 m blend of aerobic power and finishing speed; positioning from 300 m out decides medals.", "Interval sets: 5×1000 m at 3-5 km pace with 2:00 rest; 300 m breakdown finishes (faster each rep); weekly tempo runs."],
+      ["Race walking technique", "One foot visibly grounded at all times with a straightened support leg — the rule that defines the event.", "Drills: hip-rotation walking with a stick overhead, technical walking 8×400 m judged by a coach, cadence work to 200+ steps/minute."],
+      ["Horizontal jumps", "Long jump: maximal-controllable speed into a board, full takeoff mechanics, hang or hitch-kick in flight, heels to the pit. Triple jump: hop-step-jump rhythm distributing forces across three contacts.", "Short-approach jumps (10-12 strides) grooving takeoff; bounding ladders (alternate-leg bounds 5×30 m); full approaches with board accuracy scored at every session."],
+      ["Throws (shot, discus, hammer, javelin)", "Each throw is ground-up: legs and hips before arms; the implement accelerates along the longest path the rules allow.", "Part drills daily — javelin throws on knees for arm strike, discus wind-and-turn without release, shot puts from the power position; 3×5 full throws at the end of every session."],
+      ["Relay exchanges", "The 4×100 m's blind exchanges live or die on the outgoing runner's three-step count and the takeover zone.", "Exchange repetitions: 10 handoffs per pairing per session, with painted 10 m check marks; baton circles for grip comfort."]
+    ],
+    "rules": [
+      "Sprint false starts: one false start disqualifies the offending athlete (since 2010 — no warning round).",
+      "Lane violations: running out of your lane in lane-restricted races means disqualification; the 800 m breaks after the first bend.",
+      "Field event formats: three attempts in qualification, then three more in finals for the top four, becoming the top eight after the 2022+ reforms; the best legal mark wins, ties separated by countback.",
+      "Horizontal jumps and throws are fouled if the athlete oversteps the board, crosses the circle, or lands outside sector lines.",
+      "Wind limits: 2.0 m/s following/alongside wind for sprint and jump records; race conditions noted in all results.",
+      "Steeplechase: 28 barriers and 7 water jumps (men's 3000 m standard); a missed barrier means disqualification.",
+      "Combined events score on World Athletics points tables; the decathlon runs across two days, morning and afternoon."
+    ],
+    "equipment": [
+      ["Spikes", "Event-specific shoes: sprint spikes (rigid forefoot plates), distance spikes (flexible, cushioned), jump spikes (heel protection for takeoff), throw boots (flat, grippy soles). $70-180 a pair."],
+      ["Implements", "Shot (7.26 kg men / 4 kg women), discus (2 kg / 1 kg), hammer, javelin (800 g / 600 g) — beginners borrow club stock before buying ($150-500 each)."],
+      ["Blocks & hurdles", "International-start blocks wired to reaction sensors; hurdles at adjustable heights for drills and youth grades."],
+      ["Track & pit", "400 m surfaces (Mondotrack-class), long/triple sand pits, pole vault landing mats — the stadium is the sport's main kit."],
+      ["Kit & watch", "Race kit, a GPS or stopwatch with intervals for distance training, and sunglasses — track afternoons are long and bright."]
+    ],
+    "training": [
+      "Sprinters: acceleration work twice weekly, maximum-velocity flys once, heavy lifting (squats, cleans) twice — full recoveries are training, not laziness.",
+      "Middle distance: the classic week — long run, two interval sessions, tempo, strides; the 80/20 easy-hard balance holds from club to Olympic level.",
+      "Jumpers: plyometrics built progressively (depth jumps only after bounding maturity), runway rehearsals weekly, eccentric strength for landing tolerances.",
+      "Throwers: rotational med-ball and implement-specific drills daily; max-strength blocks (squats, pulls) in winter, speed-strength conversion before season.",
+      "All athletes: warm-up routines that never skip — dynamic mobility, drills (As, Bs, skips), and 4-6 strides before any fast work."
+    ],
+    "pathway": [
+      ["School & club athletics", "Inter-school meets and club evenings; under-13 upwards in most national systems — the sport starts young and social."],
+      ["Age-group championships", "National under-15/17/20 championships; World Athletics U20 Championships since 1986."],
+      ["Collegiate athletics", "The US NCAA system is the sport's largest development platform; university athletics elsewhere mirrors it (BUCS, FISU)."],
+      ["Professional circuit", "Continental Tour to Diamond League; appearance fees and prize money fund full-time careers in the field events especially."],
+      ["Masters athletics", "Five-year age groups from 35 to 100+, with own world championships and records — the sport's lifetime promise kept."]
+    ],
+    "events": [
+      ["Olympic Games", "48 athletics golds (24 per sex after parity) every four years — the sport's summit and its most-watched fortnight."],
+      ["World Athletics Championships", "Since 1983, biennial then annual-odd years; ~200 nations — the biggest sport gathering after the Olympics and football World Cup."],
+      ["Diamond League", "The 14-meet elite circuit since 2010: the sport's regular season, with a final and discipline trophies."],
+      ["World Indoor Championships", "Biennial since 1985 (roots 1987 era) — the winter's compact, banked-track spectacle."],
+      ["Continental championships", "European, Asian, African, Pan-American — each the continent's own athletics festival with unique history."]
+    ],
+    "legends": [
+      ["Usain Bolt", "Jamaica — 8 Olympic golds and the 100 m (9.58) and 200 m (19.19) world records; the fastest human who ever lived, so far."],
+      ["Jesse Owens", "USA — four golds at Berlin 1936, including the long jump; a century of symbolism in one week."],
+      ["Carl Lewis", "USA — 9 Olympic golds across four Games in sprints and the long jump; the modern sport's first superstar."],
+      ["Paavo Nurmi", "Finland — 9 Olympic golds and 22 world records in the 1920s, the 'Flying Finn' who invented pace discipline."],
+      ["Sydney McLaughlin-Levrone & Faith Kipyegon", "The modern bookends: McLaughlin-Levrone's half-lap-hurdles records rewriting the 400 mH, and Kipyegon's middle-distance world records (1500 m, 5000 m) — the sport's present tense at its finest."]
+    ],
+    "getting_started": [
+      "Find the local club's beginner night — athletics clubs coach every event and lend implements; you need only shoes to start.",
+      "Try one event from each family in your first month (a sprint, a middle-distance race, a jump, a throw) before specializing.",
+      "Buy event-appropriate spikes only after you've chosen a family; running shoes carry the first six weeks fine.",
+      "Learn the warm-up as ritual: jog, dynamic mobility, drills, strides — it prevents most beginner injuries by itself.",
+      "Enter an open meet within three months; low-key open graded meetings exist everywhere and time every level seriously.",
+      "Follow one event deeply online (its specialists, its meets) — athletics rewards connoisseurship, and the community welcomes it."
+    ],
+    "glossary": [
+      ["Fartlek", "Speed play — unstructured intervals inside a continuous run; the distance runner's oldest toy."],
+      ["Negative split", "Running the second half faster than the first; the racing tactic of champions."],
+      ["PR / PB", "Personal record / personal best — the mark that matters most to every athlete not on a podium."],
+      ["Countback", "The tie-break rule in high jump and pole vault: fewest failures at the winning height prevails."],
+      ["Rabbit / pacer", "A runner hired to take a field through target splits, usually stepping off before the finish."],
+      ["Sector", "The 34.92° throwing arc within which implements must land."],
+      ["Stadion", "The ancient 192 m sprint that opened Olympia in 776 BC — the root of everything on this page."],
+      ["Decathlon / heptathlon", "Ten events (men) and seven (women) scored on points tables across two days."],
+      ["Wind legal", "A mark set with following wind at or under 2.0 m/s — eligible for records."],
+      ["Photo finish", "Camera-based judging to the thousandth of a second — the sport's honest referee."]
+    ],
+    "related": ["marathon", "cross-country-running", "race-walking", "powerlifting", "sport-climbing"],
+    "crosslink": false
+  },
+  {
+    "slug": "marathon",
+    "name": "Marathon",
+    "category": "athletics",
+    "glyph": "🏃",
+    "tagline": "42.195 kilometers with 2,500 years of story — the distance that owns the word 'endurance'.",
+    "origin": "Greece (legend of Pheidippides) · Boston 1897",
+    "tags": ["Road racing", "Olympic", "World Marathon Majors", "Mass participation"],
+    "overview": [
+      "The marathon is a road race of 42.195 kilometers (26 miles 385 yards), a distance fixed not by ancient Greece but by the 1908 London Olympics' royal route from Windsor Castle to the stadium. It is the only sport where tens of thousands of amateurs line up on the same course, the same morning, as the fastest humans in history — and where finishing, for most of the field, is the entire point.",
+      "The event's legend runs from Pheidippides' run to Athens, through Boston's 1897 founding (the world's oldest annual marathon) and Abebe Bikila's barefoot gold in Rome 1960, to Eliud Kipchoge's era: a sub-2:00 exhibition (1:59:40, Vienna 2019) and official records that now stand at 2:00:35 (men) and 2:09:56 (women) after Kelvin Kiptum's and Ruth Chepngetich's 2023-24 Chicago performances.",
+      "A newcomer's marathon begins 16-20 weeks out: build the long run gradually to 30-32 km, practice fueling on the run (carbohydrate, 60-90 g/hour), and respect the taper. The wall exists at 32-35 km for the underprepared — the training's real job is moving it out of reach."
+    ],
+    "facts": [
+      ["Distance", "42.195 km — set by the 1908 London Olympics course, adopted as the official standard in 1921"],
+      ["Governing body", "World Athletics (records & rules); mass events sanctioned by national federations; Abbott World Marathon Majors for the six-race series"],
+      ["Olympic history", "Men since 1896 (modern Games' founding event); women only from 1984 (Los Angeles) — Joan Benoit's first gold"],
+      ["World records", "Men 2:00:35 (Kelvin Kiptum, Chicago 2023); women 2:09:56 (Ruth Chepngetich, Chicago 2024) — both on super-shoe era courses"],
+      ["The Majors", "Boston (1897), London (1981), Berlin (1974, fastest course), Chicago (1977), New York (1970), Tokyo (2007, joined 2013)"],
+      ["Participation scale", "New York and London each put 50,000+ finishers on the streets annually; global marathon finishers number millions per year"],
+      ["Physiology", "Elite men race near 3:00/km (record pace 2:42/km); amateur goals cluster at sub-4:00, or 5:41 per kilometer"]
+    ],
+    "history": [
+      ["490 BC (legend)", "Pheidippides' run from Marathon to Athens announces victory — the story Romantic philology attached to the race in the 1800s."],
+      ["1896", "The first modern Olympic marathon: Spyridon Louis wins in Athens before 100,000 — Greece's national hero is crowned."],
+      ["1897", "Boston Athletic Association copies the idea one year later; the Boston Marathon becomes the oldest continuously run marathon."],
+      ["1908", "The Windsor-to-White-City course measures 26 miles 385 yards so royals can watch the finish — the distance that stuck."],
+      ["1960-1984", "Bikila runs barefoot through Rome; Frank Shorter's 1972 gold ignites the American running boom; women finally race at the Olympics in 1984."],
+      ["2000s-2010s", "The World Marathon Majors consolidate the six; East African dominance becomes total; Kipchoge's 1:59:40 exhibition (2019) redefines the imaginable."],
+      ["2020s", "Super shoes split record books; Kiptum's 2:00:35 (2023) and Chepngetich's 2:09:56 (2024) open the sub-2 official era's door."]
+    ],
+    "formats": [
+      ["Mass marathon", "The classic city race: wave starts, chip timing, tens of thousands of runners from world record attempts to seven-hour walkers."],
+      ["Elite-only & record attempts", "Berlin's flat flagship and special events (Nike Breaking2, INEOS 1:59) — pacemakers, rotating drafts, and history."],
+      ["Abbott World Marathon Majors", "Six-race series (Boston, London, Berlin, Chicago, New York, Tokyo) with series titles and a star-studded age-group program."],
+      ["Trail & off-road marathons", "Marathon distance on mountain terrain — a different sport sharing the distance (see ultrarunning for its world)."]
+    ],
+    "skills": [
+      ["Pacing discipline", "Even effort across 42 km — the skill that separates sub-3:00 finishers from blowups; go out 5-10 s/km too fast and the debt is collected at 35 km.", "Practice in training: long runs at exact goal pace segments; race rehearsal halves hitting splits within 2 s/km."],
+      ["Fueling & hydration", "60-90 g carbohydrate/hour from mixed sources (glucose+fructose), sodium 500-700 mg/hour, sipping on schedule not thirst.", "Train the gut deliberately: every long run practices race fueling; log tolerance like a workout."],
+      ["Running economy", "The energy cost of running — cadence 170-185, tall posture, feet landing under hips; economy beats VO2max beyond a point.", "Strides 2× weekly (6×20 s fast/relaxed), hill sprints for stiffness recruitment, light plyometric work after base building."],
+      ["Downhill & course management", "Boston's Newton hills punish quads trained only on flats; course knowledge is minutes.", "Study the profile; train specificity — downhill repeats before Boston-type races, hill repeats before mountain courses."],
+      ["Race-week execution", "Carb-load (8-12 g/kg for 36-48 h), sleep banking, nothing new on race day — the last 1% is logistics.", "Write the race plan card: target splits, fuel times, clothing checklist; rehearse it in the final tune-up race."],
+      ["Mental endurance", "The 30+ km conversation with yourself — segmenting the race, mantras, and accepting discomfort as the event's texture.", "Long-run loneliness training: occasional solo long runs without music; practice the 5 km at a time mind-game."]
+    ],
+    "rules": [
+      "The official distance is 42.195 km, measured and certified by a graded measurer; world records require accredited courses and starts.",
+      "Chip (transponder) timing governs mass events; gun time still decides championships and record eligibility.",
+      "Drafting is legal and tactical; pacemakers are allowed but must start the race; elite rule: records need no unfair assistance beyond pacing.",
+      "Drinks stations approximately every 5 km (and more often in heat); receiving help outside stations or from non-officials risks disqualification.",
+      "Cut-off times vary (3:30 elite support to 7:30 mass fields); the finish line's sweeper bus is the clock's honest companion.",
+      "Anti-doping rules apply to all record levels; age-group records are ratified like elite marks."
+    ],
+    "equipment": [
+      ["Running shoes", "Daily trainers with cushioning for the bulk of miles; a super-shoe racer (carbon plate) for race day — $140-280; rotate two pairs to extend both."],
+      ["Kit", "Anti-chafe shorts/tights, technical singlet, socks tested over long runs, cap and sunglasses — cotton is a 35 km mistake."],
+      ["Fueling", "Gels (25-30 g carb each), chewables, a race belt with loops, handheld or vest bottles for training — the fourth discipline."],
+      ["GPS watch", "Pace, distance, heart rate and structured workouts; wrist-based is enough, chest straps for precision ($150-600)."],
+      ["Recovery kit", "Foam roller, massage gun, and good sleep — the training that happens lying down."]
+    ],
+    "training": [
+      "The canonical week: 80% easy volume, one long run (building to 30-32 km), one quality session (intervals at 5-10 km pace), one tempo/threshold run.",
+      "Peak 16-20 weeks out with 3-week taper: cut volume 20-30% per week, keep strides and a little intensity to stay sharp.",
+      "Strength twice weekly: single-leg work, calf eccentric (straight/knee-bent raises), hips — the injury-insurance program.",
+      "Long-run progression: add 1-2 km per week with a down week every 3-4 weeks; practice race pace in the last third of long runs.",
+      "Respect the 10% rule loosely — annual mileage jumps, not single weeks, break runners; consistency over 12 weeks beats any hero block."
+    ],
+    "pathway": [
+      ["First marathon", "Finish-oriented build: 16-20 weeks, 4-5 days/week running, long run to 30 km; goal = finish upright and in love with the sport."],
+      ["Time-trial era", "Sub-4:00, sub-3:30, sub-3:00 chases; pace groups, better fueling, structured plans (Pfitzinger, Daniels)."],
+      ["Boston qualification", "Age-graded standards (e.g., men 18-34 at 3:00; women 3:30) — amateur running's most famous threshold."],
+      ["Semi-elite & elite", "2:19 men / 2:39 women chase championship qualifying; national teams for World Championships and Olympic marathons."],
+      ["Six-star finisher", "Completing all six World Marathon Majors — the amateur summit and a passport's worth of city mornings."]
+    ],
+    "events": [
+      ["Olympic marathon", "Since 1896 (men) and 1984 (women); Tokyo 2021's Sapporo heat showed the event's cruelty and glory in one morning."],
+      ["World Athletics Championships marathon", "Every odd year, national teams, championship racing — no rabbits, all tactics."],
+      ["Abbott World Marathon Majors", "Tokyo, Boston, London, Berlin, Chicago, New York — six races, one series title, the sport's pro calendar spine."],
+      ["Boston Marathon", "Since 1897 — Patriots' Monday, the Newton hills, and qualification as entry currency: the marathon with a capital M for many."],
+      ["Big-city mass marathons", "London, Berlin, Chicago, New York, Paris, Amsterdam, Valencia — each a civic festival where the elite race is the headline of a 50,000-person story."]
+    ],
+    "legends": [
+      ["Abebe Bikila", "Ethiopia — barefoot through Rome's night to Olympic gold (1960), then repeats in Tokyo with shoes: the marathon's first global icon."],
+      ["Eliud Kipchoge", "Kenya — Olympic champion 2016 and 2020, 1:59:40 exhibition, and the philosophy (\"No human is limited\") that carried a sport."],
+      ["Kelvin Kiptum", "Kenya — the official world record 2:00:35 (Chicago 2023) in only his third marathon; a talent the sport lost too soon."],
+      ["Joan Benoit Samuelson", "USA — the first women's Olympic champion (1984) and Boston course-record legend; the pioneer of women's marathoning as sport."],
+      ["Paula Radcliffe & Ruth Chepngetich", "Radcliffe's 2:15:25 (2003) stood for 16 years as the longest-lived women's world record; Chepngetich's 2:09:56 (2024) opened the sport's next era."]
+    ],
+    "getting_started": [
+      "Run consistently for a year (25-30 km weeks) before a first marathon — the body adapts to years of load, not one heroic block.",
+      "Pick a flat, beginner-friendly race 20 weeks out; enter early — motivation follows entry fees.",
+      "Follow one plan, not three: 4 runs/week (long, easy, easy, quality) beats overcomplicated schedules every time.",
+      "Practice fueling on every long run from 90 minutes upward; the 32 km rehearsal run is where you learn your race.",
+      "Race-day rules: nothing new, go out slow, break the race into quarters — and put your name on your singlet; strangers will carry you.",
+      "Book the massage and the flight of stairs-free hotel room; the week after is part of the event."
+    ],
+    "glossary": [
+      ["The wall", "The 30-35 km glycogen cliff — hitting it is a management problem, not a myth."],
+      ["Taper", "The 2-3 week volume reduction before race day; trust it, nerves are not a reason to run more."],
+      ["Negative split", "Second half faster than the first — every world record's shape."],
+      ["Carb loading", "8-12 g carbohydrate/kg/day for 36-48 hours before the race; the legal performance enhancer."],
+      ["Bandit", "An unregistered runner; charming in folklore, unwelcome in practice."],
+      ["BQ (Boston Qualifier)", "A finish time under Boston's age-graded standards — amateur running's badge of honor."],
+      ["Splits", "Kilometer or mile times; even splits are the goal, ego splits the 30 km mistake."],
+      ["Pacer / rabbit", "Elite fields' time-keepers on legs; mass races' balloons-on-sticks (in the good way)."],
+      ["Six Star", "The medal-ish honor of finishing all six World Marathon Majors."],
+      ["Super shoes", "Carbon-plate racers (Vaporfly era, since 2017) that rewrote the record books — and the arguments."]
+    ],
+    "related": ["track-and-field", "cross-country-running", "ultrarunning", "race-walking", "triathlon"],
+    "crosslink": false
+  },
+  {
+    "slug": "cross-country-running",
+    "name": "Cross Country Running",
+    "category": "athletics",
+    "glyph": "🏃",
+    "tagline": "Mud, hills, and team shirts — the winter sport that builds every distance runner.",
+    "origin": "England (Rugby School) · early 1800s",
+    "tags": ["Team running", "Winter sport", "Mud & hills", "World XC Championships"],
+    "overview": [
+      "Cross country is distance racing over open natural terrain — grass, mud, sand, and hills — in team-scoring formats where the finishing places of your first five runners decide the match. It is running's winter discipline and its character education: courses reward strength over pure speed, and the scoring rewards packing your team together more than one hero at the front.",
+      "Born in English public schools in the early 1800s (the 'paper chase' hares-and-hounds games) and formalized with the English Championships in 1876, it gave the world the International Cross Country Championships (1903) and a World Championships tradition that Kenya and Ethiopia now own. In the US, NCAA cross country is the backbone of collegiate distance running; in Britain, the National and English National are December rituals older than most federations.",
+      "Newcomers should embrace the sport's honest chaos: spike shoes with different lengths for different mud, elbows at the first turn, and the knowledge that a cross country team's fifth scorer matters as much as its first. Every great road and track runner in history spent a winter in the mud first."
+    ],
+    "facts": [
+      ["Origins", "Early 1800s English schools (Rugby's hares and hounds); first English Championships 1876"],
+      ["Governing body", "World Athletics (World Athletics Cross Country Championships, since 1903 as International/World); NCAA, schools, and national federations run the winter circuits"],
+      ["Distances", "Senior men ~10 km, senior women ~10 km (equalized 2017+); juniors 6-8 km; school races 3-6 km; course terrain is the real variable"],
+      ["Team scoring", "Low score wins: places of each team's first five finishers summed; a perfect score is 1-2-3-4-5 = 15 points"],
+      ["Season", "Northern hemisphere autumn-winter (October-March); World Championships in late winter/early spring"],
+      ["Olympic history", "On the Olympic program 1912-1924 (Paavo Nurmi among champions) — dropped after 1924's heat; returned as Youth Olympic and masters traditions instead"]
+    ],
+    "history": [
+      ["Early 1800s", "English schoolboys run paper chases — hares drop paper trails, hounds pursue; cross country is born as a game."],
+      ["1876-1883", "The English National Cross-Country Championships begin (1876); Oxford-Cambridge and international fixtures follow."],
+      ["1903", "The International Cross Country Championships open in Scotland — England, Ireland, Scotland, Wales first, the world soon after."],
+      ["1912-1924", "Cross country appears at three Olympics; Paris 1924's 40°C race (35 hospitalized, tales exaggerated but beloved) ends its Olympic era."],
+      ["1960s-1970s", "The running boom fills fields; women's international championship begins 1967 unofficially, 1981 officially."],
+      ["1973-2017", "The International becomes the IAAF World Cross Country Championships (1973); Ugandan, Kenyan, and Ethiopian era dines out on the title 'toughest race in the world'; senior women's race equalized to 10 km (2017)."],
+      ["2020s", "World Athletics repositions 'World Cross' as a festival format (mixed relay, short course vibes), and the sport debates a renewed Olympic bid."]
+    ],
+    "formats": [
+      ["Team championship XC", "The classic: 8-12 km courses, scoring by finishing places, six-to-eight athlete squads with five to score."],
+      ["World Athletics Cross Country Championships", "Senior and U20 races, individual and team medals, plus the mixed relay — the sport's global summit every two years (annual again 2020s)."],
+      ["League & schools series", "Saturday league races (UK), invitational seasons (US high school), and university dual meets — the sport's broad base."],
+      ["Short course / mud fest variants", "Sub-4 km sprints and unashamedly muddy club races (think Belgium's Lotto Cross Cup) — cross country's party branch."]
+    ],
+    "skills": [
+      ["Terrain running", "Reading ground: short stride on mud, heels down on descents, surging on crest — terrain literacy is the event's technique.", "Hill repeats on rough grass (8×45 s), descents practiced deliberately, and barefoot strides on turf for ankle strength."],
+      ["Pack running", "Team tactics: hold your pack through the first kilometer, then trade leads; race the rival team's colors, not the clock.", "Team tempo runs in single file switching leads every 400 m; rehearse the 'move' at the 2/3 mark in training races."],
+      ["Surge & response", "Cross country's decisive weapon: 20-45 second surges on hills and turns that break rhythm and packs.", "Fartlek with terrain: hard over every hill on the loop, float the flats, 30-40 minutes; 6×90 s hard/90 s easy off-road."],
+      ["Spike selection & stride", "9-15 mm spikes by mud depth (or trail shoes on frozen ground); efficient, high-cadence stride over loose ground.", "Strides on grass after easy runs 2× weekly; practice shoe-swaps if your league alternates surfaces."],
+      ["Start-line management", "The 400 m sprint to the first turn — go out hard enough to avoid traffic, not so hard you mortgage the middle.", "Time-trial starts in training: 3× (400 m hard + 400 m float) rehearsing the settle after the gun."],
+      ["Cold & mud resilience", "The sport's quiet skill: warm-up timing in cold, layering, and the psychology of wet shoes at kilometer one.", "Race-simulation sessions in the season's worst weather on purpose — the day is coming either way."]
+    ],
+    "rules": [
+      "Team scoring: the sum of the first five finishers' places; lowest total wins; ties broken by the sixth runner's place.",
+      "Course markings must be followed; shortcuts mean disqualification; course distance is approximate by design (a 9.8 km '10 km' is tradition, within tolerance).",
+      "Footwear is free (spikes by condition); impeding, cutting in, or striking another runner draws the referee's attention.",
+      "Races go in all weather — the sport's proud rule; only lightning pauses World Athletics events.",
+      "Eligibility by club, school, or nation as the fixture demands; age grades for juniors (U20) and masters in open fixtures.",
+      "Team sizes: typically 6-12 declared, 5 score (NCAA and most federations); World XC scores 4 of 6 in some editions — check the year's table."
+    ],
+    "equipment": [
+      ["Cross country spikes", "Rubber-soled, screw-in spike shoes: 9 mm for firm grass, 12-15 mm for mud ($70-130); trail shoes for frozen or rocky courses."],
+      ["Club vest & kit", "The team vest is sacred law; base layers in cold, gloves and a hat you can race in, shorts or tights by thermometer."],
+      ["Training shoes", "Daily mileage trainers with grip; rotate with a cushioned pair for post-race shakeouts."],
+      ["Spare kit & bin bag", "The cross country kit bag's honest essentials: dry everything, a bin bag to sit on (or stand in while changing), and a flask of something hot."],
+      ["Vaseline & safety pins", "Anti-chafe for cold rain and pins for the number — the sport's two most borrowed items."]
+    ],
+    "training": [
+      "Build the winter base: 6-10 weeks of steady volume and hills before sharpening — cross country rewards accumulated strength over sharpness.",
+      "Hills are the event's gym: 8-10×45-60 s hill efforts weekly through the season, plus one terrain fartlek.",
+      "Threshold tempo on grass, 20-25 minutes, once weekly — the pack-running pace itself.",
+      "Practice race rhythm: 3×1 km at XC effort off 90 s, on terrain, in spikes, once the season starts.",
+      "Team training beats solo miles: the sport's scoring makes your training partners your tactics."
+    ],
+    "pathway": [
+      ["School & junior league", "Inter-schools races and age-group leagues — first vests, first mud, first team scores."],
+      ["Club & university", "Club league teams and the US collegiate system (NCAA, NAIA); varsity letters and national junior races."],
+      ["National championships", "National XC trials and championships select World Championship teams in most countries."],
+      ["World Athletics Cross Country Championships", "The sport's summit — individual and team medals over 10 km of the world's best winter racing."],
+      ["Spring handover", "The classic development path: winter cross country builds the track season's champions — Nurmi to Kiptum, the relay continues."]
+    ],
+    "events": [
+      ["World Athletics Cross Country Championships", "Since 1903 (International roots) — 'the toughest race in the world'; Kenya and Ethiopia's border war, biennial then annual in the modern era."],
+      ["NCAA Cross Country Championships", "November's collegiate summit; the sport's deepest team fields outside the Worlds."],
+      ["The English National & UK leagues", "December-January rituals dating to 1876 — club running's ancient, muddy heart."],
+      ["Continental championships", "European Cross Country Championships each December — the continent's winter classic."],
+      ["Big invitationals", "The November weekends that fill calendars: from the Belgian Cross Cup to US regional qualifiers, thousands of team buses on grass."]
+    ],
+    "legends": [
+      ["Paavo Nurmi", "Finland — Olympic cross country champion 1920 and 1924 (when the event was Olympic); the sport's first universal genius."],
+      ["Kenenisa Bekele", "Ethiopia — 11 World XC titles (senior long and short course doubles five times); the greatest cross country runner ever, by record and by margin."],
+      ["Grete Waitz", "Norway — five World XC titles before her marathon fame; the pioneer who proved women's distance racing was world class."],
+      ["Steve Prefontaine", "USA — never won a world title but made American distance running a culture; every muddy US course still speaks his name."],
+      ["Joshua Cheptegei & Jacob Kiplimo", "Uganda — the modern era's champions: World XC titles and world records that began in the mud."]
+    ],
+    "getting_started": [
+      "Join the school or club team in September — cross country is the rare elite sport with a place for every committed beginner.",
+      "Buy 12 mm spikes and run in them before race day (ankles need two or three sessions to adapt).",
+      "Learn the scoring: finishing 40th can win the match if the rival's fifth runner is 60th — race their colors.",
+      "Race conservatively to the first turn, then run the middle thirds hard; the last kilometer is for pride and points.",
+      "Keep a race diary of courses and conditions — cross country is learned terrain by terrain.",
+      "Dry kit, hot drink, and honest enjoyment of the mud: the sport's three-part etiquette."
+    ],
+    "glossary": [
+      ["Hares and hounds", "The paper-chase school game that invented the sport."],
+      ["Scoring five", "The first five finishers whose places sum for the team total."],
+      ["Perfect score", "1+2+3+4+5 = 15 — the team blowout of folklore."],
+      ["Boxing in", "Getting trapped behind runners on a narrow course — avoid at the first turn."],
+      ["Spike length", "9-15 mm screws matched to mud depth; the sport's tire-choice problem."],
+      ["The pack", "Teammates running together for drafting and morale — cross country's fundamental unit."],
+      ["Surge", "A mid-race acceleration on a hill or turn used to break rivals' rhythm."],
+      ["Ground substance", "The unofficial course report: how deep the mud is at the second hedge."],
+      ["Mud fest", "A course at its worst and best; the day everyone's spikes go to 15 mm."],
+      ["XC shuffle", "The shortened, high-cadence stride the ground imposes — ugly, effective, universal."]
+    ],
+    "related": ["track-and-field", "marathon", "ultrarunning", "race-walking", "orienteering"],
+    "crosslink": false
+  },
+  {
+    "slug": "race-walking",
+    "name": "Race Walking",
+    "category": "athletics",
+    "glyph": "🚶",
+    "tagline": "The fastest way to walk 20 kilometers — and the most judged gait in sport.",
+    "origin": "England · 1600s-1800s (pedestrianism) · Olympic 1908",
+    "tags": ["Olympic", "Technique-judged", "Endurance", "20 km & 35 km"],
+    "overview": [
+      "Race walking is distance racing with one non-negotiable technical rule: one foot must be visibly in contact with the ground at all times, and the support leg must straighten as it passes under the body. Judges stationed around the course issue red cards for 'loss of contact' or 'bent knee'; three red cards from three different judges and you are disqualified — the only Olympic endurance event where form itself can end your race.",
+      "The sport descends from English and American 'pedestrianism', the 18th-19th century wager sport that packed arenas for six-day walks, and entered the Olympics in 1908. Its modern distances are 20 km (men and women) and 35 km (the mixed relay's new era replacing the 50 km after 2022), raced on roads with hot, unforgiving summers in the Olympic imagination.",
+      "Newcomers should expect the technique to feel absurd for six weeks and then invisible: hip rotation that adds stride length without flight, arms pumping like pistons, low heel-strike cadence over 200 steps a minute. Race walkers are among the fittest athletes in athletics — and the sport's aging curve is famously kind, with champions into their 40s."
+    ],
+    "facts": [
+      ["Roots", "Pedestrianism (1700s-1800s): six-day races, wagered fortunes; amateur race walking codified in late-1800s England"],
+      ["Governing body", "World Athletics; Race Walking Tour and Team Championships; national federations"],
+      ["Olympic events", "20 km men (since 1956) and women (2000); 35 km replacing 50 km (from 2022-23), plus the marathon race walk mixed relay (Paris 2024)"],
+      ["The two rules", "Visible contact at all times; straightened support leg from first contact to vertical upright — judged by human eyes, no video DQ in-race"],
+      ["World records", "Men 20 km 1:16:36 (Yusuke Suzuki); women 20 km 1:23:49 (Yang Jiayu); elite pace near 3:45/km — faster than most runners"],
+      ["Judging", "6-9 judges per course; red cards shown per judge; 3 red cards = DQ; a pit lane (time penalty) trialed and used in some formats since 2014"]
+    ],
+    "history": [
+      ["1600s-1800s", "English footmen race-walk their noblemen's carriages into a wager sport; pedestrianism fills arenas on both sides of the Atlantic."],
+      ["1866-1880", "The amateur era dawns: English championships adopt 7-mile walks; race walking becomes the establishment's endurance event."],
+      ["1908", "London Olympics: race walking enters with 3500 m and 10 mile events; every Games since has had walking."],
+      ["1952-1956", "The 10 km Olympic era (men) ends and the 20 km road event begins (Melbourne 1956) — the modern distance is set."],
+      ["1992-2000", "Women's 10 km (1992) upgraded to 20 km (Sydney 2000) — the women's race walks into equality."],
+      ["2021-2024", "The 50 km (men's 70-year event) is retired; 35 km and the mixed relay arrive — the sport reboots for a new era."]
+    ],
+    "formats": [
+      ["20 km race walk", "The Olympic standard for both sexes: road loops of 1-2 km, elite times under 1:20 (men) and 1:27 (women)."],
+      ["35 km race walk", "The new long event (World Championships 2022+): the 50 km's heir with faster, more watchable racing."],
+      ["Marathon race walk mixed relay", "Paris 2024's innovation: a man and woman alternate legs (roughly 11.3 km + 10 km) over the marathon distance."],
+      ["Indoor & track walks", "3000 m and 5000 m indoor track races — winter technique laboratories and championship staples."]
+    ],
+    "skills": [
+      ["The technical gait", "Visible contact + straight support leg: heel lands almost under the body, leg locks at vertical, hip drops and rotates forward for length.", "Daily technique drills: hip-rotation walking with a stick on the shoulders, straight-leg strides, and slow-motion video checks against the two rules."],
+      ["Cadence & rhythm", "190-210 steps/minute with short, quick contacts — cadence replaces flight time; metronomic economy.", "Metronome sessions at 200+ spm, 6×5 minutes at race cadence; count steps per minute weekly to track progress."],
+      ["Hip drive", "The race walker's engine: pelvic rotation that adds 8-10 cm per stride without bending the knee or losing contact.", "Hip mobility daily (90/90s, cossack squats); core anti-rotation work so the hips turn without the shoulders counter-wobbling."],
+      ["Race pacing & fueling", "Even splits across 20 km in heat; heat tolerance and hydration decide medals as much as speed.", "Rehearse hot-weather sessions, practiced bottle grabs, sodium planning; race-pace 8 km blocks with feeds."],
+      ["Judge management", "Racing clean under eyes: smoothness reads as legality; deliberate technique resets at checkpoints when tired.", "Film training races from multiple angles; when fatigue bends knees late in training, that is the exact lap to drill."],
+      ["Strength & durability", "Shin and hip resilience for 200,000+ annual contacts: eccentric calf work and single-leg strength.", "Twice weekly: single-leg RDLs, step-downs, calf raises (straight + bent knee), 3×10 each."]
+    ],
+    "rules": [
+      "Rule 1 (contact): the athlete must not visibly lose contact — judged by the naked eye at normal speed; a momentary flight the eye cannot see is legal by design.",
+      "Rule 2 (straight knee): the advancing leg must straighten from first contact until it passes under the body — bent-knee walking is a card.",
+      "Judges show a red card (paddle) per offense; three red cards from three different judges disqualify on the spot; the chief judge alone may DQ in the final 100 m in some formats (old rule, phased out).",
+      "Pit lane rule: some competitions convert a third card into a 2-3 minute pit-lane penalty instead of disqualification.",
+      "Races are on road loops (2 km standard) or track; water stations every lap in championship heat.",
+      "World records require contact-judging at championship standard and course certification, like the marathon."
+    ],
+    "equipment": [
+      ["Race walk shoes", "Flexible forefoot racing flats with low heels (the straight-leg technique punishes tall stacks); $110-180."],
+      ["Kit", "Light technical singlet and shorts; race walkers train in full kit for tan-line honesty and race-day feel."],
+      ["Hat, bottles & sunblock", "Road loops in summer: a cap, your labeled bottles at every station, and SPF — the sport's quiet equipment list."],
+      ["Stick & mirrors (training)", "The broomstick for shoulder-aligned hip drills and a mirror or camera: technique tools older than most federations."],
+      ["Foam roller & massage", "Hip flexors, shins, and calves: the sport's recovery trinity."]
+    ],
+    "training": [
+      "Volume with technique: 90-140 km weekly at elite level, of which most is race-walk specific — running fitness transfers only partially.",
+      "Threshold and VO2 sessions once each weekly: 8×1 km at race pace off 90 s; 3×3 km at slightly faster than race pace.",
+      "Technique work daily in warm-ups — the gait decays exactly when fatigue arrives, so train the decay points deliberately.",
+      "Heat preparation for summer championships: layered training in spring, hot-room or overdressed sessions, and hydration rehearsal.",
+      "Strength twice weekly with a mobility emphasis: hips, shins, calves — the injury list of a race walker is a geography lesson."
+    ],
+    "pathway": [
+      ["Club & junior walks", "Race walking clubs (often attached to athletics clubs); junior 5-10 km events and judged technique schools — the sport's entry ladder is short and welcoming."],
+      ["National championships", "10 km, 20 km, and 35 km national titles; judged championships at every age."],
+      ["International circuits", "World Athletics Race Walking Tour (Lugano, Rio Maior, Dudince, and more); European Cup and Pan-Am Cup."],
+      ["World Championships & Olympics", "20 km, 35 km, and the mixed relay — the sport's summits."],
+      ["Masters walking", "Age-group worlds with deep fields — champions in their 50s are a race walking tradition, not a curiosity."]
+    ],
+    "events": [
+      ["Olympic 20 km & 35 km walks", "Every Games since 1908 in some form; Paris 2024 added the mixed relay — Sapporo's heat (Tokyo 2021) was the event's toughest modern exam."],
+      ["World Athletics Race Walking Team Championships", "Biennial national-team competition since 1961 (Lugano Trophy roots): individual and team medals."],
+      ["World Athletics Championships walks", "20 km and 35 km on the program since 1983 (50 km until 2019)."],
+      ["Race Walking Tour finals", "The season's tour-deciding Golden walks (curated World Athletics events)."],
+      ["Classic national races", "The Lugano Trophy meeting, Naumburg, Mézidon, and the historic six-day pedestrian commemorations that celebrate the sport's roots."]
+    ],
+    "legends": [
+      ["Robert Korzeniowski", "Poland — four Olympic golds (1996, 2000 ×2, 2004) across 20 and 50 km; the only walker to sweep both distances at one Games (Sydney 2000)."],
+      ["Jared Tallent", "Australia — four Olympic medals upgraded to gold (2012, after a doping DQ ahead of him); the sport's stubborn standard-bearer."],
+      ["Liu Hong", "China — world records at 20 km and multiple world titles; the most decorated woman in the event's history."],
+      ["Ermanno? no — Maurizio Damilano", "Italy — 1980 Olympic champion and the first 20 km world recorder of the modern technical era."],
+      ["Maria Michta-Coffey & Edward Payson Weston", "The sport's bridge figures: Michta-Coffey as modern American race walking's anchor across four Olympic cycles, and Weston — the 19th-century pedestrian whose transcontinental walks made walking a spectator sport."]
+    ],
+    "getting_started": [
+      "Find a coach or club with walking history — the two rules are unlearnable from books alone; eyes and video are required.",
+      "Spend six weeks walking technically slow: the absurd-feeling phase is the technique's foundation; speed comes later.",
+      "Film yourself from the side weekly: check the straightened knee and visible contact at three speeds.",
+      "Enter a judged 5 km race walk early — judge feedback is the sport's coaching system.",
+      "Build hip mobility daily; walkers' hips are the sport's steering and engine both.",
+      "Respect the card: three reds happen to everyone once, and the lesson is always technical honesty."
+    ],
+    "glossary": [
+      ["Loss of contact", "The flying sin: both feet visibly off the ground — judged by eye, carded without appeal."],
+      ["Bent knee", "The second sin: a support leg that fails to straighten under the body."],
+      ["Red card & paddle", "A judge's personal card for an offense; three different judges' cards = disqualification."],
+      ["Pit lane", "The time-penalty lane some formats use instead of a third-card DQ."],
+      ["Hip drop / hip drive", "The pelvic rotation that lengthens stride legally — the sport's engine room."],
+      ["Contact point", "Heel-strike nearly under the body; long braking strides are slow and suspicious."],
+      ["Pedestrianism", "The 18th-19th century wager-walking craze from which the sport descends."],
+      ["Cadence", "Steps per minute — 190-210 at elite level, the sport's speedometer."],
+      ["Judges' chief", "The head judge coordinating the paddles; in old rules, the sole power of the final-straight DQ."],
+      ["The walk", "How everyone in the sport refers to it — one word carrying 400 years."]
+    ],
+    "related": ["track-and-field", "marathon", "cross-country-running", "ultrarunning", "rucking"],
+    "crosslink": false
+  },
+  {
+    "slug": "ultrarunning",
+    "name": "Ultrarunning",
+    "category": "athletics",
+    "glyph": "🏃",
+    "tagline": "Beyond the marathon — 50 kilometers to 100 miles and the sport's deepest nights.",
+    "origin": "Modern era · 1921 (Comrades) · 1974 (Western States)",
+    "tags": ["Trail & road", "50K-100mi+", "Day-night racing", "Crewed endurance"],
+    "overview": [
+      "Ultrarunning is any race longer than the marathon's 42.195 km — from 50 km road ultras to 100-mile mountain epics, 24-hour track loops, and self-supported multi-day crossings. Where the marathon asks whether you trained, the ultra asks how you solve problems: fueling failures, night cold, blistered feet, and the arithmetic of cutoffs become the event's actual content.",
+      "The sport's modern lineage runs from the Comrades Marathon in South Africa (1921, the world's oldest and largest ultra, ~90 km between Durban and Pietermaritzburg) through Western States 100 (born from a horse ride gone on foot in 1974) to today's UTMB circus around Mont Blanc, where the world's best trail racers and 10,000 qualifiers meet in August.",
+      "Newcomers should arrive by the standard ladder — marathon, 50 km, 50 miles, 100 km, 100 miles — with gear, fueling, and terrain skills trained as seriously as legs. The sport's core truth: finishing an ultra is mostly a management job performed by a person who is also very tired."
+    ],
+    "facts": [
+      ["Definition", "Any footrace beyond 42.195 km; standard distances 50 km, 50 miles (80.5 km), 100 km, 100 miles (160.9 km), 6/12/24-hour, multi-day"],
+      ["Governing bodies", "World Athletics (100 km world championship); IAU (International Ultrarunners Association); ITRA for trail; UTMB index series; US-based Western States lottery system"],
+      ["Flagship races", "Comrades (1921, ~90 km, South Africa), Western States 100 (1974, USA), UTMB (2003, ~171 km / 10,300 m gain, France-Italy-Switzerland), Badwater 135 (Death Valley), Spartathlon (246 km, Athens-Sparta, since 1983)"],
+      ["World records (road)", "100 km: 6:05:41 men (modern marks cluster at 6:05-6:09); 24-hour: 300+ km men (Aleksandr Sorokin 319.6 km), 270 km women (Camille Herron 270.1 km)"],
+      ["Entry systems", "Lottery (Western States ~5-7% odds), qualification points (UTMB stones/index), performance thresholds (Comrades, Spartathlon)"],
+      ["Cutoffs & aid", "Finish-line time limits (16-46 hours by race); aid stations every 5-15 km; crews and pacers allowed in many trail 100s"]
+    ],
+    "history": [
+      ["1800s", "Pedestrianism's six-day races (Edward Payson Weston's walks; Littlewood's 623 miles/6 days, 1888 — a record that stood a century)."],
+      ["1921", "Vic Clapham founds the Comrades Marathon to honor South African soldiers — 34 runners start the ultra that outlived an empire."],
+      ["1974", "Gordy Ainsleigh rides Western States' 100-mile horse course on foot within 24 hours; the run is born."],
+      ["1982-1983", "The Spartathlon re-enacts Pheidippides' Athens-Sparta route; Yiannis Kouros wins the first edition and rewrites every multi-day record worth owning."],
+      ["2003", "UTMB's first edition around Mont Blanc — trail running's Everest-era begins."],
+      ["2010s-2020s", "The sport explodes: UTMB's World Series, Kilian Jornet's double summits, Courtney Dauwalter's era-defining wins, Camille Herron's 24-hour world records, and super shoes arrive even on trails."]
+    ],
+    "formats": [
+      ["Road & track ultras", "50 km, 100 km, and fixed-time (6/12/24 h) events: pure pace and fueling, lap arithmetic and crewed bottles."],
+      ["Trail 50s and 100s", "50 km to 100 miles with serious vertical (Western States' 5,500 m, UTMB's 10,300 m): mountains, weather, poles, and headlamp nights."],
+      ["Multi-day & stage races", "Marathon des Sables (250 km across Sahara, self-sufficiency), Transgrancanaria, Gobi March — the sport's expedition branch."],
+      ["Backyard ultra", "Lazarus Lake's invention: 6.706 km (4.167 miles) every hour on the hour until only one runner remains — Last Man Standing mathematics."]
+    ],
+    "skills": [
+      ["Power hiking", "On steep grades, elite trail racers hike at nearly the speed they would run — at a third of the energy cost.", "Hike-in training: 8×3 min hard hike with poles on the steepest local grade; hike-run intervals (hike the climb, run the crest) on long days."],
+      ["Fueling at scale", "200-400 calories/hour for 10-24 hours: real food at aid stations, gels between, fat-adapted realism not dogma.", "Practice on every long training day: log calories, notes, and what your stomach rejected; rehearse the plan you will race."],
+      ["Night & gear management", "Headlamps, layers, poles, blister care — the ultra's pit-stop skills decide more races than legs.", "Full-gear rehearsal nights: run dark trails with race kit; practice changing headlamp batteries in gloves at -2°C on purpose."],
+      ["Pacing by effort & terrain", "Vertical speed discipline: time-based goals die on the first big climb; effort-based plans survive.", "Learn your climbing watts/heart-rate ceilings in training; race with terrain-adjusted splits (minutes per vertical 100 m)."],
+      ["Heat & cold tolerance", "Badwater heat to mountain nights: acclimation blocks and layering science.", "Heat training blocks (sauna post-run, overdressed easy runs 2-3 weeks pre-race); cold rehearsals with the exact race kit."],
+      ["Problem-solving under fatigue", "The sport's true event: feet, stomach, mind — triaged by a very tired mechanic.", "Simulate in training: back-to-back long days, one deliberately underfueled session per block (planned, limited), and foot-care drills until self-taping is automatic."]
+    ],
+    "rules": [
+      "Beyond the marathon distance, each race sets its own rules: cutoffs at finish and intermediate checkpoints (missing a cutoff removes your bib).",
+      "Course marking must be followed; GPS track deviations beyond tolerance mean DQ (and famous disqualifications have shaped the sport).",
+      "External support rules vary: crewed aid points, drop bags, pacers after dark (many US 100s), or full self-sufficiency (MDS carries your food).",
+      "Stocking rules: no muling (carrying another's gear), no outside aid between stations; receiving food on course from strangers is technically help — races differ, read the book.",
+      "Trekking poles legal in most trail ultras (stashed or carried); not in road/track ultras.",
+      "Doping controls apply (IAU/WADA codes); world bests at 100 km/24 h require certified courses and judges."
+    ],
+    "equipment": [
+      ["Trail shoes", "Grippy, cushioned, terrain-matched (mud lugs vs hardpack); most racers need 1-2 sizes up for swollen feet at 100 miles; $140-180, two pairs minimum."],
+      ["Hydration & carrying", "Vests (2-6 L) with soft flasks or bladder, handhelds for road ultras — train with the exact race system."],
+      ["Poles & headlamps", "Folding poles for mountain 100s; headlamp plus spare (300+ lumens) and spare batteries in the mandatory kit list most mountain races enforce."],
+      ["Layering & mandatory kit", "Wind shell, insulated layer, gloves, hat, survival blanket — mountain ultras check kits at the start and sometimes mid-course."],
+      ["Foot care kit", "Tape, needles, blister patches, lube: the ultra's first-aid drawer, learned by everyone eventually."]
+    ],
+    "training": [
+      "Volume with honesty: elites log 130-200+ km weeks, but the beginner ladder (marathon → 50 km → 50 mi → 100 km → 100 mi) matters more than any weekly number.",
+      "Back-to-back long runs (long day + medium-long day) teach running tired without single-day injury risk.",
+      "Time on feet over pace: mountain 100s are hiked as much as run — train hiking as deliberately as running.",
+      "Fueling is a training system: 60-90+ g carbs/hour tolerance is built across a season, not discovered on race day.",
+      "Strength and durability twice weekly: single-leg strength, downhill-eccentric tolerance (quads decide the last 30 km), core for pack posture."
+    ],
+    "pathway": [
+      ["Marathon to 50 km", "The first ultra: 4-8 weeks of marathon fitness plus long-run extension; road or gentle trail 50 km."],
+      ["50 miles / 100 km", "Night running, crew coordination, serious fueling — the distance where ultras become their own sport."],
+      ["100 miles & 24-hour", "The sport's marquee: Western States/UTMB qualification points, national 24-hour teams (IAU championships)."],
+      ["International championships", "IAU 50 km/100 km/24 h world championships for road; WMRA/world mountain series for the vertical world."],
+      ["Multi-day expedition", "MDS, self-supported stage races, and record attempts — the sport's outer edge, where logistics become training."]
+    ],
+    "events": [
+      ["Comrades Marathon", "Since 1921, ~90 km between Durban and Pietermaritzburg: the world's oldest and largest ultra (25,000 entries), run up or down alternating years."],
+      ["Western States 100", "Since 1974 (official run 1977 era): 100 miles from Squaw Valley to Auburn under 30 hours for the buckle — the sport's Boston."],
+      ["UTMB & World Series", "171 km around Mont Blanc since 2003; the August festival that crowns trail running's world champions of everything."],
+      ["Badwater 135 & Spartathlon", "Death Valley's 217 km heat ritual and the 246 km Athens-Sparta re-enactment — the sport's myth events."],
+      ["24-hour & backyard championships", "IAU 24-Hour World Championships (national teams, laps for your country) and Big's Backyard Ultra's last-person-standing world championship."]
+    ],
+    "legends": [
+      ["Yiannis Kouros", "Greece/Australia — every multi-day record worth owning from 1983 into the 2000s, including a 20:29 Spartathlon that stood for decades; the sport's marble monument."],
+      ["Ann Trason", "USA — 14 consecutive Western States wins and world records from 50 km to 100 miles; the woman who dragged the sport into modernity."],
+      ["Kilian Jornet", "Spain/Catalonia — UTMB multiple wins, summits of Everest twice in a week without ropes; mountain running's complete artist."],
+      ["Courtney Dauwalter", "USA — Western States + UTMB + Hardrock in one 2023 summer; the era's greatest and most cheerful sufferer."],
+      ["Camille Herron", "USA — 24-hour world record 270.116 km and multiple ultra distance world bests; the road ultra's record machine."]
+    ],
+    "getting_started": [
+      "Run a marathon first (not as a myth, as a base), then pick a friendly 50 km six months out.",
+      "Learn fueling on every run over 90 minutes from day one — the ultra's invisible discipline.",
+      "Buy proper trail shoes for the terrain and train in the exact race kit (vest, poles, headlamp) at least six times.",
+      "Volunteer at a local ultra before racing one: aid station shifts teach the sport faster than any book.",
+      "Recruit a crew of one and a pacer if the race allows — ultra culture's kindness is the sport's true infrastructure.",
+      "Plan the race in checkpoints: the next aid station, the next 200 calories, the next layer — never the whole mountain at once."
+    ],
+    "glossary": [
+      ["Cutoff", "The checkpoint time that removes your bib — the ultra's true clock."],
+      ["Aid station", "Fuel, volunteers, and brief mercy every 5-15 km; the sport's churches."],
+      ["Pacer", "A companion runner allowed after dark in many trail 100s — safety, navigation, and psychology on legs."],
+      ["Muling", "Illegally carrying a runner's gear; the pacers' cardinal sin."],
+      ["Drop bag", "Your kit left at a checkpoint: shoes, food, the dry socks that feel like victory."],
+      ["Time on feet", "Training measured in hours not kilometers — the ultra's currency."],
+      ["Vertical (D+)", "Total meters climbed; the number that defines trail difficulty."],
+      ["Backyard ultra", "6.706 km loops hourly until one runner remains; DNF is the default, finishing is arithmetic."],
+      ["Last finisher's buckle", "Sub-30-hour Western States hardware — the sport's aspirational pewter."],
+      ["DNF", "Did not finish — the ultra's most instructive medal."]
+    ],
+    "related": ["marathon", "cross-country-running", "mountaineering", "adventure-racing", "rucking"],
+    "crosslink": false
+  },
+  {
+    "slug": "triathlon",
+    "name": "Triathlon",
+    "category": "athletics",
+    "glyph": "🏊",
+    "tagline": "Swim, bike, run — three sports stapled together by a clock and a transition area.",
+    "origin": "USA (San Diego) · 1974",
+    "tags": ["Olympic", "Multisport", "Draft-legal & Ironman", "Transitions"],
+    "overview": [
+      "Triathlon is swim-bike-run, continuous, against one clock — in its Olympic format a 1.5 km open-water swim, 40 km draft-legal bike, and 10 km run, decided in under two hours by the world's best. At the other pole stands the Ironman: 3.8 km, 180 km, and a marathon, where the finish line's voice says 'You are an Ironman' to people whose day has lasted longer than most flights.",
+      "The sport was born at San Diego's Mission Bay in 1974, escalated through Hawaii's 1978 bet among swimmers, cyclists, and runners, and entered the Olympics in Sydney 2000. It has since multiplied into a family: sprint and Olympic distances, half and full Ironman, mixed relay (Tokyo 2020's brilliant addition), and off-road Xterra — one sport, many architectures.",
+      "Newcomers should know the sport's secret: it rewards the balanced athlete and punishes the single-sport star who skips the weak leg, because the weak leg's clock keeps running after the strong leg's glory. And transitions — T1 and T2 — are free speed: athletes lose minutes there that no engine can buy back."
+    ],
+    "facts": [
+      ["Invented", "26 September 1974 — Mission Bay, San Diego (Jack Johnstone & Don Shanahan's 'biathlon plus one'); 46 starters"],
+      ["Governing body", "World Triathlon (founded 1989 as ITU); Ironman Group for long course; national federations"],
+      ["Olympic format", "1.5 km swim / 40 km bike / 10 km run, draft-legal; debuted Sydney 2000; Mixed Relay added Tokyo 2020"],
+      ["Ironman", "3.8 km / 180.2 km / 42.2 km — born Hawaii 1978 (first official 1981 era); world championship in Kona each October (Nice alternating from 2023-24)"],
+      ["World records", "Not ratified across courses; reference marks — Ironman ~7:21 (men, course-dependent), Olympic-distance ~1:39-1:43 winning times"],
+      ["Membership of family", "Duathlon (run-bike-run), aquathlon, aquabike, winter triathlon, and paratriathlon (Paralympic since Rio 2016)"]
+    ],
+    "history": [
+      ["1974", "Mission Bay, San Diego: the first triathlon — 46 finishers, no wetsuit-legality debate yet, a 5.3-mile run deciding the finishing order: the seed planted."],
+      ["1978", "Hawaii: 15 men argue over who is fittest — swimmers, cyclists, runners — and the Hawaiian Iron Man Triathlon settles it; Gordon Haller wins in 11:46:58."],
+      ["1980s", "The sport professionalizes; Ironman moves to Kona; European short-course circuits grow (Zurich, Nice's long-course classic)."],
+      ["1989", "The ITU founds in Avignon; the first official world championship races; the Olympic-distance format standardizes."],
+      ["2000-2021", "Sydney's Olympic debut; the Brownlee brothers' era; Bermuda's Flora Duffy and Norway's Blummenfelt/Iden generation; Tokyo 2020 adds Mixed Relay to huge acclaim."],
+      ["2020s", "Super League's short formats, the PTO's (T100) 100 km world tour, and Kona-Nice world championship splitting by sex — the sport's professional landscape diversifies."]
+    ],
+    "formats": [
+      ["Super sprint & sprint", "400-750 m swim / 10-25 km bike / 2.5-5 km run: the beginner's door and the draft-legal development distance."],
+      ["Olympic / World Triathlon", "1.5 km / 40 km / 10 km draft-legal — the tactical, pack-racing Olympic product."],
+      ["Middle distance (70.3)", "1.9 km / 90 km / 21.1 km — Ironman 70.3's half: long-course speed without the double night."],
+      ["Ironman", "3.8 km / 180 km / 42.2 km — the sport's cathedral distance, 8-17 hours from gun to voice."],
+      ["Mixed relay & off-road", "Super-sprint legs alternating man-woman-man-woman; Xterra's swims, mountain bikes, and trail runs."]
+    ],
+    "skills": [
+      ["Open-water swimming", "Sighting every 6-12 strokes, drafting on hips, navigating contact at the buoy turns — a different sport from pool swimming.", "Open-water sessions weekly in season: sighting drills (swim 30 strokes eyes-up), group start simulations, buoy-turn practice at race pace."],
+      ["Bike handling & pack riding", "Draft-legal racing is bike racing: riding 30 cm off wheels at 45 km/h, cornering, and positioning for the run.", "Group rides with experienced cyclists; skills sessions: bottle grabs, mount/dismount at speed, 180° turns."],
+      ["Transitions (T1/T2)", "The fourth discipline: wetsuit peel, helmet and shoes, mounting lines — ten practiced reps save a minute.", "Rehearsed transition circuits: 10 full T1s (wetsuit to bike) and 10 T2s per race block; layout photography for race morning."],
+      ["Brick training", "Running immediately off the bike — the heavy-legs skill that defines triathlon running.", "Weekly bricks: bike 60 min steady + run 15-20 min at goal pace; progression to race-pace bricks in race kit."],
+      ["Pacing across three sports", "Going too hard on the bike mortgages the run; power-meter discipline and negative-split running.", "Race-simulation sessions with power targets; practice running off a hard 90 km ride at planned watts, not hopes."],
+      ["Fueling on the move", "Long course feeds 60-90+ g carbs/hour on the bike, gels and cola late on the run — rehearsed to boredom.", "Every long ride practices the race plan; carry one extra of everything; note what your stomach rejects in the log."]
+    ],
+    "rules": [
+      "Draft-legal (Olympic/World Triathlon): riding in another's slipstream is legal and tactical; outside assistance is not.",
+      "Non-drafting (Ironman and most age-group racing): keep 10-12 m gaps (varies by rulebook); drafting penalties are time-served (stop-go) or carded.",
+      "Wetsuits legal below water temperatures (typically 24.5 °C elite / 22 °C varies), mandatory below ~16 °C; maximum thickness 5 mm.",
+      "Helmets buckled before touching the bike, mounted behind the mount line, racked properly — the penalty box's most common residents.",
+      "Outside help is banned: no pacing, no handing of equipment or food (race organization's stations excepted).",
+      "Course rules: swim caps provided (visibility), numbers body-marked or on a race belt visible on the run; cutoffs at each discipline (Ironman: swim 2:20, bike 10:30 total etc.).",
+      "Paratriathlon classifications (PT1-PT6 era evolving to sport classes) race with adapted equipment and handler rules."
+    ],
+    "equipment": [
+      ["Wetsuit & swim kit", "Triathlon-specific wetsuit (buoyancy + shoulder mobility, $200-700), goggles for open water (wider view), race suit under everything."],
+      ["Bike", "Road bike with clip-on aero bars (honest start, $800-2,000) or a triathlon/TT bike ($2,500-10,000+); fit matters more than frame material — get fitted."],
+      ["Helmet & cycling shoes", "Aero or standard helmet (required equipment), tri shoes with loop pulls for flying mounts, pedals you can actually clip at speed."],
+      ["Run kit & shoes", "Race belt with number, elastic laces, one pair of run shoes you have bricked in repeatedly — nothing new on race day."],
+      ["Transition bag & mat", "The organized bucket: talc for the wetsuit, spare goggles, nutrition taped to the top tube, and a one-gallon bag per discipline."]
+    ],
+    "training": [
+      "The balanced week: 2-3 swims, 3 bikes, 3 runs — protect the weakest sport's sessions first when life cuts the plan.",
+      "One long ride weekly (progressing to 4-6 h for Ironman), one interval bike, one brick run off the bike every week.",
+      "Swim technique pays forever: a monthly stroke check beats an extra hundred junk meters; open-water skills from spring onward.",
+      "Strength twice weekly (single-leg, hip, core) — durability across three sports' injury profiles.",
+      "Rehearse race morning entirely: same breakfast, same transition layout, same fueling times — the goal is a boring race day."
+    ],
+    "pathway": [
+      ["First sprint", "8-12 weeks from a modest base (swim 400 m continuously, bike an hour, run 30 min); local super-sprints welcome first-timers warmly."],
+      ["Olympic distance & club racing", "The sport's social heart: club league races, standard-distance championships, skills growth."],
+      ["70.3 and Ironman", "The long-course ladder: 12-24 week builds per race, qualification races for world championships (70.3 Worlds, Ironman Kona/Nice slots)."],
+      ["Elite & Olympic pathway", "National federation talent programs, Continental Cups, World Triathlon Championship Series — draft-legal racing's steep school."],
+      ["Mixed relay & paratriathlon", "National team relay formats and the Paralympic program: the sport's fastest-growing edges."]
+    ],
+    "events": [
+      ["Olympic Games & Mixed Relay", "Since 2000 (individual) and 2020 (relay): the sport's four-yearly summit, now with two golds per sex plus relay."],
+      ["World Triathlon Championship Series", "The annual elite circuit (Yokohama, Leeds/Sunderland, Hamburg, and more) crowning world champions by series points."],
+      ["Ironman World Championship", "Kona each October (women's race Nice from 2023-24 era): the sport's most famous day, qualified by slots at full-distance races."],
+      ["Ironman 70.3 Worlds & T100", "The half-distance worlds and the PTO's 100 km professional tour — long course's modern professional era."],
+      ["National & grassroots seasons", "Club leagues, national championships at every distance and age group — the sport's foundation and its festival culture."]
+    ],
+    "legends": [
+      ["Mark Allen & Dave Scott", "USA — the 'Iron War' rivals: Scott's six Kona titles and Allen's six (including the mythical 1989 duel) — long course's founding arms race."],
+      ["Alistair & Jonathan Brownlee", "Great Britain — Olympic gold-silver (2012), gold (2016 Alistair), and Jonny's Tokyo relay gold: short course's royal family."],
+      ["Flora Duffy", "Bermuda — Olympic champion (Tokyo) and multiple world titles: the greatest triathlete from the smallest nation."],
+      ["Chrissie Wellington", "Great Britain — four Ironman world titles unbeaten, long course's breakthrough superstar who proved women's racing sells itself."],
+      ["Kristian Blummenfelt & Gustav Iden", "Norway — Olympic gold (Blummenfelt, Tokyo) and the sub-7-hours Ironman era's Norwegian engine room."]
+    ],
+    "getting_started": [
+      "Find a local super-sprint (400 m pool swim or calm water) 10-12 weeks out — the sport's welcoming front door.",
+      "Borrow or use what you have for race one: any road bike, any wetsuit if cold; upgrade after you're hooked (you will be).",
+      "Practice transitions at home for 20 minutes twice: shoes, helmet, belt — free speed with zero fitness cost.",
+      "Join a club or group ride for the bike leg's skills; riding confidently in a group is the biggest safety upgrade a new triathlete makes.",
+      "Learn open-water swimming with a coached session or an organized group — never alone, never first time on race day.",
+      "Book a sprint, an Olympic, and (maybe) a 70.3 across your first two seasons: the ladder works."
+    ],
+    "glossary": [
+      ["T1 & T2", "The two transitions: swim-to-bike and bike-to-run — the fourth discipline."],
+      ["Brick", "A bike-run workout; named for how the legs feel."],
+      ["Draft-legal", "Racing where riding in another's slipstream is allowed — bike racing's tactics applied to triathlon."],
+      ["Mount/dismount line", "The transition-area boundary where helmets must be buckled and bikes mounted; the penalty box's front door."],
+      ["Aero bars & TT bike", "Triathlon-specific equipment for the non-drafting bike leg — comfort at speed over uphill agility."],
+      ["Penalty box", "Where drafting and equipment sins are served, usually 1-5 minutes of standing reflection."],
+      ["Sighting", "Lifting the eyes mid-swim to navigate open water; every 6-12 strokes."],
+      ["IM & 70.3", "Full Ironman (140.6 miles) and its half (70.3) — the numbers that name the distances."],
+      ["Negative split run", "Running the second half faster — how every great triathlon run is built."],
+      ["Mixed relay", "Teams of two men and two women, super-sprint legs alternating: chaos, tactics, and the sport's best hour."]
+    ],
+    "related": ["swimming", "road-cycling", "marathon", "open-water-swimming", "modern-pentathlon"],
+    "crosslink": false
+  },
+  {
+    "slug": "obstacle-course-racing",
+    "name": "Obstacle Course Racing (OCR)",
+    "category": "athletics",
+    "glyph": "🧱",
+    "tagline": "Running stapled to walls, ropes, and carries — the sport built from mud and accountability.",
+    "origin": "USA & UK · 2010 (Spartan, Tough Mudder era)",
+    "tags": ["Mass participation", "Grip & carry", "Burpee justice", "FISO worlds"],
+    "overview": [
+      "Obstacle course racing is distance running interrupted by obstacles: walls to scale, ropes to climb, heavy objects to carry, and — in Spartan's rules — 30 burpees as the price of any failure. Races run from 5 km sprints to 24-hour endurance events, and the sport's best athletes are hybrids: mid-distance runners with climbers' grip strength and wrestlers' builds.",
+      "The modern sport detonated around 2010: Tough Mudder made it a festival (obstacles, no timing, teamwork), Spartan made it a race (timing, penalties, championships), and by mid-decade millions ran OCR events annually. Elite racing has since consolidated into world championships and national series, with obstacle discipline even knocking on the Olympic conversation's door through modern pentathlon's inclusion of an obstacle leg (2025+, after Los Angeles 2028 planning).",
+      "Newcomers should train grip (hangs, rope climbs) and carries (bucket, sandbag, farmer's) as seriously as running — the wall that stops most first-timers is not made of cardio. And practice the burpee standard your rulebook demands: 30 honest reps at obstacle 12 are a specific sport."
+    ],
+    "facts": [
+      ["Modern era", "2010 — Spartan Race's first events and Tough Mudder's founding; Tough Guy (UK, 1987) and Spanish/international assault courses are ancestors"],
+      ["Major series", "Spartan Race (Sprint 5 km/20 obstacles, Super 10 km/25, Beast 21 km/30, Ultra), Tough Mudder (Classic 16 km), DEKA (hybrid fitness), Bonefrog, terrain race series"],
+      ["Governing bodies", "FISO (Federation Internationale de Sports d'Obstacle, IOC-recognized 2020s) uniting World OCR; national federations"],
+      ["Failure penalty", "Spartan: 30 burpees per failed obstacle (elites now face completion-only zones in some formats); Tough Mudder Classic: teamwork, no penalty"],
+      ["Elite format", "3-15 km courses, 20-35 obstacles; OCR World Championships (independent) and Spartan World Championships each year"],
+      ["Olympic adjacency", "Modern pentathlon adopted obstacle discipline (replacing riding) from 2025 per IOC/LA28 process — OCR's techniques on the Olympic program"]
+    ],
+    "history": [
+      ["1987", "Billy Wilson's Tough Guy in England — the mud-and-wire ancestor everyone politely cites and privately fears."],
+      ["2010", "Spartan (founded by Joe De Sena et al.) and Tough Mudder (Will Dean) launch months apart; the mud boom begins."],
+      ["2011-2013", "Millions of annual participants; Warrior Dash fills fields; the sport discovers it has elite athletes."],
+      ["2014-2016", "OCR World Championships debut (2014); Spartan's championship series professionalizes with prize money."],
+      ["2017-2020", "NBC airs Spartan's US Championship Series; DEKA and hybrid fitness formats spin off; Tough Mudder's business wobbles and consolidates."],
+      ["2021-today", "FISO gains IOC recognition; the sport's federation politics consolidate; modern pentathlon votes in obstacles — OCR's vocabulary enters the Olympic family."]
+    ],
+    "formats": [
+      ["Spartan Sprint / Super / Beast / Ultra", "5 km / 10 km / 21 km / 50 km with 20-35 obstacles: the ladder that defined mass OCR racing."],
+      ["Tough Mudder Classic & Infinity", "16 km festival courses (obstacle teamwork, no penalties) and lap-based Infinity formats — participation's party branch."],
+      ["OCR World Championships & championship series", "Independent worlds (3 km short course, 15 km classic, team relays) plus Spartan's own world championships."],
+      ["DEKA & hybrid racing", "10-zone functional fitness formats (DEKA Fit, DEKA Strong) — OCR's indoor sibling where gym work is the sport."]
+    ],
+    "skills": [
+      ["Grip & hang endurance", "Rope climbs, rig traverses, monkey bars under fatigue — grip is OCR's discriminating strength.", "Dead hangs (3× max hold), bar work, and rope climbs weekly; towel-grip rows and plate pinches for variety."],
+      ["Technical obstacles", "Multi-rig traverses, warped walls, spear throws (Spartan's beloved one-shot skill), atlas stones.", "Obstacle-specific practice days at gyms/parks: 10 spear throws per session, warped-wall run-ups until automatic, rig laps for the flow state."],
+      ["Carry strength", "Bucket brigades, sandbag carries, log or farmer carries up and down hills — the sport's barbell.", "Bucket carries 4×400 m hilly; sandbag lunges and farmer walks 4×60 m heavy, once weekly each."],
+      ["Hybrid running", "5-15 km race pace with obstacle interruptions: running economy that survives hangs and carries.", "Intervals with embedded work: 6×(800 m run + 20 burpees + 30 m carry); long runs with obstacle stops every 2 km."],
+      ["Burpee capacity", "Spartan's penalty currency: 30 burpees per failure, executed to standard, repeatedly.", "Burpee blocks in training: 3×30 with strict form at the end of hard sessions — the specific fitness of honesty."],
+      ["Race-day problem solving", "Reading obstacle queues, choosing lines, managing effort between stations — the sport's chess.", "Rehearse full courses; practice obstacle order under fatigue; learn which failures cost least (skip strategy is real in non-elite waves)."]
+    ],
+    "rules": [
+      "Spartan: failed or skipped obstacles cost 30 burpees (completed in the penalty zone, judged to standard in elite waves).",
+      "Tough Mudder Classic: obstacles are teamwork-based and untimed — skipping exists only as walking around, at your conscience's discretion.",
+      "Course markings must be followed; course-cutting is disqualification; chip timing governs all race waves.",
+      "Elite/age-group waves race with completion-only obstacle zones in some formats (band system: lose your band at failures, finish unranked).",
+      "Mandatory kit varies by race (hydration for Ultras); outside assistance on obstacles is not allowed in competitive waves.",
+      "Anti-doping applies to elites (USADA/WADA codes at championship level)."
+    ],
+    "equipment": [
+      ["Trail/OCR shoes", "Grippy, drainable, thin-soled shoes designed for mud and walls ($100-160) — the sport's single most important purchase."],
+      ["Gloves (maybe)", "Some racers use grip gloves for rigs; most elites go bare-handed — train what you race."],
+      ["Kit", "Compression kit that doesn't waterlog, snug laces, a race belt if the format numbers you; wetsuit layers for cold-season events."],
+      ["Grip training kit", "Pull-up bar, hangboard, rope, and a bucket — the home OCR gym costs less than one race entry."],
+      ["Fuel & hydration", "Gels for anything over 90 minutes; handheld or vest for Beast/Ultra distances."]
+    ],
+    "training": [
+      "Run 3× weekly (tempo, intervals, easy volume) — the sport is still racing; grip and carries decorate the runner.",
+      "Obstacle sessions twice weekly at a gym or park: hangs, climbs, walls, spear technique.",
+      "Strength 2× weekly focused on carries, lunges, pulls —OCR rewards relative strength (strong per kilo), not bulk.",
+      "Burpee training as conditioning: blocks of 30 with strict standards; the penalty is coming at kilometer 12.",
+      "Race simulation monthly in season: full dress rehearsal of shoes, kit, fueling, and the arms-above-head fatigue state."
+    ],
+    "pathway": [
+      ["Open waves", "First race in an open (morning) wave: the festival start, the mud initiation."],
+      ["Age-group & competitive waves", "Ranked racing within age brackets — qualification paths to championships."],
+      ["Elite qualifiers", "Spartan's elite series and independent championship qualification standards."],
+      ["World championships", "OCR World Championships and Spartan Worlds — the sport's two summits each year."],
+      ["Hybrid crossover", "DEKA/HYROX-style fitness racing: many OCR elites cross over — the skills are siblings."]
+    ],
+    "events": [
+      ["Spartan World Championships", "The elite season's summit: Trifecta weekends crowning world champions across distances."],
+      ["OCR World Championships", "Independent worlds since 2014 — short course, classic course, and team relays across nations."],
+      ["Tough Mudder events", "The festival branch: Classic, 15K, and seasonal themed events — participation's biggest tent."],
+      ["National series & Trifecta weekends", "Sprint+Super+Beast on one weekend (the Trifecta) — the sport's marathon-weekend culture."],
+      ["Endurance OCR", "8-12-24 hour events and World's Toughest Mudder — the overnight branch where the sport meets ultrarunning."]
+    ],
+    "legends": [
+      ["Hobie Call", "USA — the first professional OCR racer; the speed-runner who forced the sport to take its own stopwatch seriously."],
+      ["Amelia Boone", "USA — three-time World's Toughest Mudder champion and OCR world titles; the sport's most recognized figure and its best writer."],
+      ["Jonathon Albon", "Great Britain — multiple OCR World Championship titles and a trail/ultra crossover — the sport's most complete racer."],
+      ["Ryan Atkins", "Canada — Albon's great rival and World's Toughest Mudder champion: obstacle technique's gold standard."],
+      ["Lindsay Webster", "Canada — multiple OCR world championship titles; the women's field's standard-bearer in its professional era."]
+    ],
+    "getting_started": [
+      "Enter a local Sprint or 5 km OCR in an open wave 8-10 weeks out — the start line teaches what the gym cannot.",
+      "Train grip immediately: dead hangs and one rope climb session weekly; the first failed rig is a rite of passage.",
+      "Run hills: the sport's terrain is the obstacle before the obstacles.",
+      "Practice 30 burpees at the end of hard sessions — honest ones, chest to deck, jump to target.",
+      "Race in shoes you can climb in; test them wet before race day (they will be wet).",
+      "Stay for the festival: OCR's culture is half the sport, and the finish-line beer (or protein) tastes of vertical meters."
+    ],
+    "glossary": [
+      ["Burpee penalty", "Spartan's 30-rep price of failure — the sport's honesty engine."],
+      ["Rig", "Hanging obstacle of rings, ropes, and bars traversed without touching the ground."],
+      ["Multi-rig & monkey bars", "The grip gauntlets; where upper-body training meets race day."],
+      ["Bucket brigade", "The gravel-bucket carry — OCR's squats with scenery."],
+      ["Spear throw", "Spartan's one-shot spear into a hay bale; the most failed single obstacle in the sport."],
+      ["Trifecta", "Sprint + Super + Beast (three distances) in a season — the sport's marathon-major badge."],
+      ["Band system", "Championship format where each racer wears a band, lost at failed obstacles — finish with your band or unranked."],
+      ["Aroo!", "Spartan's battle cry; you will shout it before you mean to."],
+      ["World's Toughest Mudder", "24-hour, most laps wins — the sport's overnight Everest."],
+      ["HYROX/DEKA", "Hybrid fitness racing siblings: indoor zones of work; OCR's gym cousins."]
+    ],
+    "related": ["crossfit", "ultrarunning", "adventure-racing", "track-and-field", "functional-fitness"],
+    "crosslink": false
+  },
+  {
+    "slug": "adventure-racing",
+    "name": "Adventure Racing",
+    "category": "athletics",
+    "glyph": "🗺️",
+    "tagline": "Days of trekking, paddling, and mountain biking across a map with no route told.",
+    "origin": "New Zealand (1980s) · Eco-Challenge 1995",
+    "tags": ["Expedition racing", "Navigation", "Team endurance", "Sleep deprivation"],
+    "overview": [
+      "Adventure racing is expedition-length multisport: teams of three or four travel nonstop by foot, mountain bike, kayak, and sometimes rope or inline skate, navigating unmarked terrain by map and compass to a series of checkpoints. Races run from 8-hour sprints to 10-day expeditions; the clock never stops, sleep is a tactic, and the route between checkpoints is entirely your own decision.",
+      "The sport crystallized in 1980s New Zealand (the Coast to Coast's 1983 founding and subsequent Alpine Ironman-style events), exploded globally when Mark Burnett's Eco-Challenge (1995) put it on television, and survives today as a dedicated global circuit — the Adventure Racing World Series and its World Championship, plus classic expedition races on every continent except, mostly, Antarctica.",
+      "Newcomers should enter via sprint and 24-hour races: navigation is the actual sport, and it is learnable only with a map in hand at night, tired, in rain. The expedition game's secret is that the fittest team rarely wins — the best navigators, eaters, and sleepers do."
+    ],
+    "facts": [
+      ["Founding era", "New Zealand 1980s: Coast to Coast (1983), Alpine Ironman precursor events; Raid Gauloises (1989, France) as first expedition-style international; Eco-Challenge (1995) globalized it"],
+      ["Governing circuit", "Adventure Racing World Series (ARWS) with regional qualifiers crowning a World Championship each year"],
+      ["Team format", "Usually 4-person co-ed teams (at least one per sex) that must stay together within 50-100 m; some sprints allow pairs"],
+      ["Disciplines", "Trekking/trail running, mountain biking, kayaking or canoeing (packrafts in wilderness races), fixed ropes (ascents, rappels), occasional swim, canyon, camel or ski legs"],
+      ["Format truth", "Unmarked courses, checkpoint (CP) order sometimes optional, no GPS (exception: tracker safety devices), 24 h to 10 days duration"],
+      ["Iconic races", "Eco-Challenge (revived 2019 Fiji, Amazon Prime), GODZone (NZ), Patagonia Expedition Race, Expedicao Mata Atlantica (Brazil), AR World Championships rotating globally"]
+    ],
+    "history": [
+      ["1980", "New Zealand's Alpine Ironman and Coast to Coast (1983): multisport born in the Southern Alps."],
+      ["1989", "Gérard Fusil's Raid Gauloises launches in New Zealand — the first international expedition race; French adventurer journalism meets Kiwi wilderness."],
+      ["1995", "Mark Burnett's Eco-Challenge Utah: television-era adventure racing begins; the sport's image is set for a decade."],
+      ["Late 1990s-2000s", "The boom: dozens of expedition races, then the crash as TV money leaves; core circuits survive (Primal Quest era in the US)."],
+      ["2010s", "ARWS consolidates a world series; GODZone becomes the Everest of the format; women's and mixed-team depth grows."],
+      ["2019-2020s", "Eco-Challenge Fiji's revival (aired 2020-21) re-seeds mainstream attention; the world championship rotates through Patagonia, South Africa, and beyond."]
+    ],
+    "formats": [
+      ["Sprint AR (3-8 hours)", "Entry-level: 2-4 person teams, mountain bike-trek-paddle with easy navigation — the door to the sport."],
+      ["24-hour & 48-hour races", "First night navigation, first sleep-deprivation lessons; classic club-level expedition distance."],
+      ["Expedition races (3-10 days)", "The sport's identity: 500-700 km courses, multiple disciplines, no stops — GODZone, AR World Championship territory."],
+      ["Stage-format exceptions", "A few historic races ran staged days with overnight camps (Eco-Challenge Fiji 2019 among them) — the format's friendlier cousin."]
+    ],
+    "skills": [
+      ["Map & compass navigation", "The sport's core: bearing-taking, contour reading, attack points, and relocating after errors — day or night, wet or tired.", "Orienteering meets weekly practice: local O-events, contour-only map exercises, night nav sessions with a headlamp and a plan."],
+      ["Night racing & sleep strategy", "Navigating hallucination-grade fatigue; the champion's sleep math (20-90 minute naps timed to darkness).", "Rehearse overnight sessions; learn personal sleep-deprivation signatures (slurred nav decisions) and your team's protocols."],
+      ["Mountain biking (loaded)", "Technical riding with mandatory gear, at night, on route-finding rides where the trail may not exist.", "Night rides with bikepacking bags; hike-a-bike strength (carries up steep grades); repair drills by headlamp."],
+      ["Paddling", "Kayak/canoe/packraft legs on moving water, dark lakes, and coastlines — often the sleep window, and just as often the trap.", "Paddle technique blocks (forward stroke efficiency), moving-water comfort sessions, and towing drills for team pace."],
+      ["Rope work", "Fixed-line ascents (jumars), rappels, and tyrolean traverses under race pressure.", "Vertical practice at climbing areas/courses: ascending 30 m with a pack on, rappelling with gloves you've worn before."],
+      ["Logistics & fueling", "Gear boxes, transitions, 300+ calories/hour of racing food you can still eat on day four.", "Rehearse transition layouts; maintain a food log of what survives day three — the sport's quiet winners are eaters."]
+    ],
+    "rules": [
+      "Teams must travel together (within 50-100 m by race rules) from start to finish; a team that loses a member is out or unranked.",
+      "All checkpoints must be visited (in order, unless the race permits route choice); proof is electronic (SportIdent/trackers) or punch-carded.",
+      "No GPS navigation devices (phones sealed by race staff); GPS trackers are carried for safety and live tracking only.",
+      "Mandatory gear lists are checked (shelter, stove capacity, first aid); penalties are time-based or DQ.",
+      "Outside assistance is forbidden except in emergencies; teams owe help to other teams in genuine danger — the sport's deepest rule.",
+      "The clock runs continuously: transition areas are rest, not pause; dark zones (no paddle at night) are the rare scheduled stops."
+    ],
+    "equipment": [
+      ["Navigation kit", "Topographic maps (race-provided, often waterproof), baseplate compass, map case, control card — the sport's cockpit ($50 whole)."],
+      ["Pack & mandatory gear", "20-30 L packs carrying the shelter, sleeping bag or bivvy, stove, first aid, headlamps; checklists weigh grams for a reason."],
+      ["Mountain bike & repair", "Hardtail or full-suspension MTB with bikepacking bags, lights (1000+ lumens), multitool, tubes, and the knowledge to use them at 3 a.m."],
+      ["Paddle craft", "Race-provided kayaks/canoes at most events; packrafts (your own) for wilderness editions; paddles, PFDs, and dry bags standardized by rules."],
+      ["Apparel system", "Layering for every weather on Earth in one pack: merino base, insulation, shells; feet system (dry shoes strategy) decides day-three happiness."]
+    ],
+    "training": [
+      "Train navigation above all: weekly orienteering events beat any additional run — the sport is decided between checkpoints, not on them.",
+      "Long back-to-back days (bike-trek-paddle in one weekend) teach the fueling and feet lessons cheaply.",
+      "Night practice deliberately: nav, riding, and paddling in the dark are separate skills with shared headlamps.",
+      "Team practice: transitions, tow systems (bungee tows for pace-matching), and communication rituals — teams win as systems.",
+      "Strength for durability: carries, step-ups, core; expedition racing's injury profile is overloaded walking, and muscle is armor."
+    ],
+    "pathway": [
+      ["Sprint & 12 h races", "Local circuits: 3-8 hour team races with beginner-friendly navigation — the standard entry."],
+      ["24-48 h racing", "National series (USARA-era roots, national federations): first overnights, first real nav tests."],
+      ["Expedition qualifiers", "ARWS regional qualifiers award world championship slots — the sport's ladder is literal."],
+      ["AR World Championship", "5-10 days, rotating continents: the expedition summit, contested by the sport's professional-adjacent teams."],
+      ["Team careers", "Sponsorship-era teams (Godzone's champions, Adventure Medical Kits-era names) — the sport's quiet professional class."]
+    ],
+    "events": [
+      ["Adventure Racing World Championship", "Annually via the ARWS: 500-700 km rotating world summit — Patagonia, South Africa, and beyond."],
+      ["GODZone", "New Zealand's crown expedition (since 2011): the format's purest wilderness test, chapters across the South Island and beyond."],
+      ["Patagonia Expedition Race", "Chilean Patagonia's remote classic — navigation over glaciers and steppe, famously unforgiving weather."],
+      ["Eco-Challenge", "The 1995-2002 television classic, revived Fiji 2019: the sport's most famous name and its cultural memory."],
+      ["National & sprint series", "USARA nationals era, European and Southern Hemisphere sprint circuits — the sport's everyday base."]
+    ],
+    "legends": [
+      ["Team Seagate", "New Zealand — multiple world championships; expedition racing's dynasty and its model of calm."],
+      ["Nathan Fa'avae", "New Zealand — the sport's defining captain: Seagate's navigator-leader across world titles and GODZone wins."],
+      ["Robyn Benincasa", "USA — Eco-Challenge winner and world champion teams; the sport's great communicator (and our OCR page's too — crossover is a way of life)."],
+      ["Ian Adamson", "Australia/USA — multiple Raid Gauloises and Eco-Challenge wins; expedition racing's first professional and author of its standard text."],
+      ["The French raid generation", "The Raid Gauloises-era squads (Ertips and successors) who professionalized multi-day racing through the 1990s."]
+    ],
+    "getting_started": [
+      "Enter a 3-6 hour sprint adventure race with two friends — bikes, shoes, and a compass are enough.",
+      "Attend an orienteering event this month: navigation is the sport, and local O-meets are its free university.",
+      "Learn the gear checklist discipline: practice packing the mandatory kit until it's automatic.",
+      "Do one night session per month (hike or ride): comfort in the dark is the sport's currency.",
+      "Volunteer at an expedition race's transition area: the sport's whole culture is visible in one sleepless weekend.",
+      "Read one race report from GODZone or the worlds — the sport's literature is its apprenticeship."
+    ],
+    "glossary": [
+      ["CP (checkpoint)", "The control points that define the course — found by map, not marked trail."],
+      ["TA (transition area)", "Where disciplines swap: bike bins, food boxes, and the sport's pit-stop ballet."],
+      ["Dark zone", "A race-imposed stop on a paddle section at night — the only scheduled sleep in many races."],
+      ["Sleep monstor / hallucinations", "Fatigue's visual guests on night four; veterans greet them politely and keep moving."],
+      ["Bearing & attack point", "Compass direction to a feature near the CP, then the final precise nav — the standard technique chain."],
+      ["Rogaine-style section", "Checkpoint-order-choice legs (from rogaining, the navigation sport cousin)."],
+      ["Tow (bungee)", "Elastic cord linking faster and slower teammates — expedition racing's pacing technology."],
+      ["Mandatory gear", "The checked safety/comfort list; missing items mean penalties or DQ."],
+      ["Unranked / ranked", "Teams finishing complete are ranked; a lost teammate or missed CP makes you a finisher, not a placer."],
+      ["Expedition pace", "The art of going slower than you think — day six rewards the day-one restraint."]
+    ],
+    "related": ["orienteering", "mountain-biking", "obstacle-course-racing", "ultrarunning", "canoe-sprint"],
+    "crosslink": false
+  },
+  {
+    "slug": "modern-pentathlon",
+    "name": "Modern Pentathlon",
+    "category": "athletics",
+    "glyph": "🏅",
+    "tagline": "Coubertin's cavalry test — five skills in one day, now ending in a running-and-shooting sprint.",
+    "origin": "Greece (modern Olympics) · 1912",
+    "tags": ["Olympic", "Five disciplines", "Laser run", "Complete athlete"],
+    "overview": [
+      "Modern pentathlon is five events in one contest: fencing (épée), swimming (200 m freestyle), equestrian (show jumping on an unfamiliar horse), and the laser run — four alternating rounds of shooting and running that decide the medals on the final afternoon. Baron Pierre de Coubertin designed it in 1912 as the modern soldier's perfect test: a 19th-century cavalry officer's day (duel, swim, ride, run, shoot) converted into Olympic sport.",
+      "It is the only Olympic sport created wholly by the modern Olympic movement, and its champions — from Gösta Lilliehöök (1912) to Joe Choong (Tokyo 2020) — are the Games' most versatile athletes by design. The sport has modernized deliberately: pistol became laser in 2011, the running-shooting finish was compressed into the laser run, and after Paris 2024 the equestrian leg is being replaced by an obstacle course discipline from 2025 in the sport's boldest reset.",
+      "Newcomers should understand the scoring is a points ladder: each discipline converts performance to points (1000-point benchmarks), everyone starts the laser run with a time handicap equal to their points gap, and the first athlete across the line wins gold — a format so dramatic the IOC kept the sport by rebuilding it."
+    ],
+    "facts": [
+      ["Created", "1912 Stockholm — Coubertin's event, on the program ever since (men); women added Sydney 2000"],
+      ["Governing body", "Union Internationale de Pentathlon Moderne (UIPM, founded 1948)"],
+      ["The five (through 2024)", "Fencing ranking round + bonus round; 200 m freestyle swim; show jumping (1.20 m, unfamiliar horse drawn); laser run (4×800 m run + 4×5-target laser shoot)"],
+      ["From 2025", "Obstacle racing replaces riding after Paris 2024 — the sport's modernization under IOC pressure (approved 2023-24 process)"],
+      ["Scoring", "Points tables per discipline; fencing round-robin (one-touch épée, all-vs-all); laser run handicap start — first across wins"],
+      ["Greats' home", "Hungary (András Balczó era) and the Soviet/post-Soviet lineages; Britain's modern golden run (both sexes' golds across 2016-2021, with the 2021 men's title and relay making history)"]
+    ],
+    "history": [
+      ["1912", "Stockholm: the first modern pentathlon — Sweden sweeps; a young George S. Patton finishes fifth (the legend the sport always mentions)."],
+      ["1912-1952", "The Swedish and Hungarian eras; the event's soldier-athlete identity holds through two world wars."],
+      ["1948", "The UIPM founds to govern the sport; Olympic leadership professionalizes rules across the five disciplines."],
+      ["1996-2000", "One-day format adopted (Atlanta 1996); women's event added (Sydney 2000) — the sport compresses for television."],
+      ["2009-2012", "Combined run-shoot format introduced (Beijing 2008 trials, London 2012 debut); shooting moves to laser in 2011 for safety and logistics."],
+      ["2020-2024", "Tokyo's Games see Britain's Joe Choong and Kate French take double gold; a riding accident controversy accelerates the obstacle-discipline replacement (from 2025)."]
+    ],
+    "formats": [
+      ["Olympic/World individual", "Fencing round-robin (plus bonus round), 200 m swim, riding or obstacle leg (2025+), and the laser run handicap finish."],
+      ["Relays & team", "Men's, women's, and mixed relays: two athletes share the fencing and tag through the laser run — world championship staples."],
+      ["Youth & masters", "U19 world championships and masters competitions with scaled distances; tetrathlon (no riding) as a development format in Pony Club traditions."],
+      ["Biathle/Triathle & laser run", "UIPM's run-swim and shoot-run-swim feeder sports — the laser run itself is a standalone world championship event."]
+    ],
+    "skills": [
+      ["Épée fencing", "One-touch, whole-field round-robin: high-volume bouts against every opponent, tempo discipline, and point-harvesting strategy.", "Bout simulations (20-35 fights in a day), specific footwork drills, and video review of opponents' patterns."],
+      ["Freestyle sprint", "200 m swim: pure speed training against the 2:30 benchmark (men) and points table.", "Sprint sets (50s and 100s at race pace), dive and turn practice, race-pace time trials monthly."],
+      ["Riding unfamiliar horses", "Jumping 1.15-1.20 m courses on a horse drawn by lot, with 20 minutes warm-up: equitation fundamentals, not equestrian mastery.", "Weekly lessons on varied horses; jump-off practice; memorize the rhythm problem every unfamiliar horse presents."],
+      ["Obstacle discipline (2025+)", "Agility, wall traverses, and OCR-style technique replacing riding — grip, sprint, and technique under penalty rules.", "OCR-style training: rig and wall sessions, sprint intervals, penalty-free flow rehearsal."],
+      ["Laser shooting", "Steadiness under fatigue: five targets per shoot, stable hold, and the discipline to leave the station on time.", "Dry-fire daily (hold drills to stillness), shooting after physical spikes (10 burpees + 5 shots ×10), and shot-timing logs."],
+      ["Laser run pacing", "800 m repeats at limit, then settling heart rate enough to shoot: the sport's signature metabolic problem.", "Brick sessions: 4×(800 m hard + precision shooting), recovery breathing drills between, weekly in season."]
+    ],
+    "rules": [
+      "Fencing: one-hit épée round-robin (25 bouts standard; roughly 70% win rate = 1000 points); bonus round adds ladder points.",
+      "Swimming: 200 m freestyle, points by time tables (2:30 men / 2:40 women ≈ 1000 points).",
+      "Riding (through 2024): 1.20 m course on drawn horse, 20-minute warm-up; knockdowns, refusals, and time faults subtract points.",
+      "Obstacle (2025+): standardized OCR-style course with time and completion penalties in place of riding.",
+      "Laser run: 4 × 800 m runs; before each run, hit 5 targets (station time limit 50 s per series) or incur time penalties; handicap start by points.",
+      "Final standings: laser run crossing order = final ranking — the format's television heart.",
+      "Anti-doping and equipment standards (laser, masks, hats) are UIPM-governed throughout."
+    ],
+    "equipment": [
+      ["Fencing kit", "Épée, mask, jacket, glove, body cord — federation-certified (FIE standards), $400-800 starter competitive sets."],
+      ["Swim & run kit", "Race suits, goggles, and spike shoes for the 800s; transition flats for the range."],
+      ["Laser pistol", "UIPM-approved laser trainer (target-safe, no projectile): $500-1,200 — the sport's specific tool."],
+      ["Riding kit (era-dependent)", "Helmet, boots, and safe attire while the discipline lasts; horses provided by the competition."],
+      ["Support kit", "Heart-rate monitor for laser-run training, targets for home practice, and the schedule discipline five sports demand."]
+    ],
+    "training": [
+      "Five-sport week: each discipline 3-4 sessions, run and shoot combined from the start — the laser run's metabolic signature is trained, not hoped for.",
+      "Fencing volume pays double (ranking round is ~25-35 bouts): bouting time beats lesson time beyond fundamentals.",
+      "Swim speed maintenance with minimal volume (3 sessions, sprint focus) — the 200 m rewards economy.",
+      "Shooting stability daily: 10 minutes of dry-fire stillness beats a weekly hour of chaos.",
+      "Recovery as discipline: the complete athlete's week needs sleep, physio, and a plan — five sports' fatigue stacks invisibly."
+    ],
+    "pathway": [
+      ["Club & tetrathlon roots", "Pony Club tetrathlons and UIPM youth formats: run, swim, shoot (and ride) as school-age multi-events."],
+      ["Junior worlds", "UIPM U19 and junior championships — the five-skill ladder's first international rung."],
+      ["World cups & championships", "The annual UIPM circuit: world cups, world championships, and the laser-run world championships standalone."],
+      ["Olympic Games", "72 quota places (as of Paris 2024): the sport's summit since 1912."],
+      ["Laser run & feeder sports", "Biathle/Triathle and standalone laser run worlds — entry disciplines that feed the full pentathlon."]
+    ],
+    "events": [
+      ["Olympic Games", "Since 1912 (men) and 2000 (women) — Coubertin's event on every program of the modern era."],
+      ["UIPM World Championships", "Annual individual, relay, and mixed-relay world titles."],
+      ["UIPM World Cup circuit", "4-5 stops yearly: Olympic qualification points and the sport's professional rhythm."],
+      ["Laser Run World Championships", "The shoot-run format's own worlds — the feeder sport's summit and a festival of the finale discipline."],
+      ["Continental championships", "European, Asian, Pan-American championships — regional Olympic qualification routes."]
+    ],
+    "legends": [
+      ["András Balczó", "Hungary — five world titles (1963-1969 era) and Olympic gold (1972 individual after silvers): the sport's first complete genius."],
+      ["Lena Schöneborn", "Germany — Olympic champion 2008 and multiple world titles; the modern women's standard."],
+      ["Joe Choong & Kate French", "Great Britain — Tokyo 2020's double individual golds: the laser-run era's crowning afternoon."],
+      ["Jim Thorpe", "USA — 1912 champion in both pentathlon and decathlon; stripped on technical amateurism grounds, restored by the IOC (1983), and declared sole champion in 2022."],
+      ["The Soviet lineage", "The Soviet and Russian school's world-title lineage — from Minneyev's 1960s Olympic gold onward — carried the sport for decades."]
+    ],
+    "getting_started": [
+      "Find a pentathlon club (or triathlon+fencing combo): most countries have UIPM federations with youth programs.",
+      "Start from your strongest discipline — swimmers and runners convert fastest; fencers bring the rarest skill.",
+      "Buy the laser pistol only after a season: club equipment teaches whether the sport fits.",
+      "Enter a laser run event within six months: it is the pentathlon's heart and a complete sport by itself.",
+      "Train transitions deliberately: shooting with a 160-bpm heart is a different sport from shooting calm.",
+      "Follow the UIPM calendar for one season — the five-sport rhythm makes sense once watched whole."
+    ],
+    "glossary": [
+      ["Laser run", "The shoot-run finale: 4×5 targets and 4×800 m, handicap-started, medal-deciding."],
+      ["Round-robin fencing", "Everyone fights everyone once, one touch each — the ranking round's marathon."],
+      ["Handicap start", "Points converted to seconds: leaders start first, chasers start later by their gaps."],
+      ["Bonus round", "The fencing ladder after the round-robin — extra points for the bold."],
+      ["Drawn horse", "Riding's lottery: your mount assigned by lot with 20 minutes to agree on terms (through 2024)."],
+      ["1000-point benchmark", "Each discipline's par performance on the UIPM tables."],
+      ["Tetrathlon", "The four-sport developmental cousin (no riding) — Pony Club's version."],
+      ["Biathle & Triathle", "UIPM feeder formats of run-swim and shoot-run-swim loops."],
+      ["UIPM", "The sport's international federation, founded 1948."],
+      ["Complete athlete", "Coubertin's thesis: versatility as the Games' ideal — this event is his argument, still running."]
+    ],
+    "related": ["fencing", "triathlon", "obstacle-course-racing", "show-jumping", "biathlon"],
+    "crosslink": false
+  }
+]

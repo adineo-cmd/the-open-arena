@@ -1,0 +1,925 @@
+[
+  {
+    "slug": "kabaddi",
+    "name": "Kabaddi",
+    "category": "team-ball",
+    "glyph": "🤼",
+    "tagline": "One raider, one breath, seven defenders, thirty seconds to escape.",
+    "origin": "India · ancient, codified 20th century",
+    "tags": ["Team sport", "Asian Games", "Contact", "Pro Kabaddi League"],
+    "overview": [
+      "Kabaddi is a raiding game played by two teams of seven on a mat divided by a midline. Teams take turns sending a single raider into enemy territory, where the raider must tag defenders and return home before the 30-second raid clock dies, all while chanting 'kabaddi, kabaddi' on one continuous breath. Every defender touched is out and worth a point, and every point also revives one of the raider's dismissed teammates.",
+      "The game has been played in Indian villages for centuries, but the past two decades turned it into prime-time spectacle. The Pro Kabaddi League, launched in 2014, packed major stadiums and drew a reported 435 million viewers in its first season, while Iran, South Korea and Pakistan built genuine international rivalry. At the Asian Games, where kabaddi has been a medal sport since 1990, India's men won every title through 2014 before Iran broke through in 2018.",
+      "A newcomer should start with the chant, not the tackle: breath control, quick feet and a low centre of gravity are the sport's foundation. Matches reward aggression but punish greed, because a caught raider walks off the mat and the opponents revive. It remains one of the few major sports needing no equipment beyond a marked rectangle and lungs."
+    ],
+    "facts": [
+      ["Origin", "An ancient raiding game of the Indian subcontinent, given national rules in the early 20th century and demonstrated at the 1936 Berlin Olympics"],
+      ["Governing bodies", "International Kabaddi Federation (IKF, 2004) worldwide; the Amateur Kabaddi Federation of India (AKFI, 1950) runs the deepest domestic structure"],
+      ["Team size", "Seven a side on the mat, with five substitutes rotating in as players are dismissed or revived"],
+      ["Match length", "Two 20-minute halves; every raid is capped at 30 seconds"],
+      ["Playing area", "A 13 x 10 m mat for men (12 x 8 m for women) split by a midline, with baulk and bonus lines and 1 m lobbies along each side"],
+      ["Asian Games status", "A medal sport since Beijing 1990; India's men won seven straight golds before Iran's breakthrough in 2018"],
+      ["Global reach", "Played across South Asia, Iran and the diaspora; the Pro Kabaddi League became one of India's most-watched sports leagues within a season of its 2014 launch"]
+    ],
+    "history": [
+      ["Antiquity", "Indian tradition traces kabaddi's raid-and-circle logic back millennia, and poets still compare the lone raider to Abhimanyu breaking the chakravyuha formation in the Mahabharata."],
+      ["1936", "Kabaddi is demonstrated at the Berlin Olympics, giving the village game its first international stage."],
+      ["1950", "The Amateur Kabaddi Federation of India forms, standardizes the rules and launches national championships."],
+      ["1990", "Kabaddi joins the Asian Games program in Beijing, where India's men begin a run of seven consecutive golds."],
+      ["2004", "The International Kabaddi Federation is established to govern the game worldwide."],
+      ["2014", "Star India and Mashal Sports launch the Pro Kabaddi League with eight franchises, and season one draws a reported 435 million viewers."],
+      ["2018", "Iran wins men's gold at the Jakarta Asian Games, ending India's 28-year reign and announcing kabaddi's second superpower."]
+    ],
+    "formats": [
+      ["Standard style", "Seven-a-side on the mat with 20-minute halves, the format used at the Asian Games, world cups and the Pro Kabaddi League."],
+      ["Circle style", "The older village form played in a circle on sand or grass, with its own world cup tournaments staged in Punjab and its diaspora."],
+      ["Beach kabaddi", "A sand-court offshoot played at national and regional beach games, softer landings included."],
+      ["Junior and indoor kabaddi", "School and university variants on smaller mats with shorter halves, feeding the age-group pipeline."]
+    ],
+    "skills": [
+      ["Toe touch", "The raider's fastest weapon: a flick of the leg to tag a defender's foot and spin away before the chain closes.", "Raid the corner 20 times per session against a live defender; the touch only counts if the raider's return crosses the midline within five seconds."],
+      ["Hand touch", "A snap extension of the arm to tag a defender's torso while the body is already escaping.", "Ten repetitions each side against a defender holding a static line, then live one-on-one raids with a midline finish."],
+      ["Dubki", "Ducking under the defenders' linked arms and escaping out the far side, the signature of Pardeep Narwal.", "Ten timed escapes against three linked teammates walking forward; the rep succeeds only when the raider resurfaces and crosses the baulk line."],
+      ["Corner kick", "A raised leg over the incoming tackle, tagging the corner defender's chest as the raid ends.", "Twenty controlled high tags per leg into a hand pad, landing back on the raider's own half of the midline."],
+      ["Ankle hold", "The corner defender's counter: diving to catch the raider's leading ankle and hanging on until help arrives.", "Farmer's carries for grip strength plus ten live ankle holds per session against raiders crossing the baulk line."],
+      ["Chain tackle", "Two or three defenders linking arms to trap the raider in a moving wall.", "Three defenders merge on a moving raider ten times; success is holding until the 30-second raid clock dies."],
+      ["Cant conditioning", "Chanting 'kabaddi, kabaddi' on one breath for an entire raid while sprinting and evading.", "Eight shuttle raids of 20 seconds at full effort, one breath per repetition, 40 seconds of rest between."],
+      ["Raid captaincy", "Directing each raid at a named defender to engineer revivals and mismatches.", "Scrimmage rule: the captain must call the target defender by name before the raider crosses the midline."]
+    ],
+    "rules": [
+      "Seven players a side; teams alternate single raids in which one raider crosses into the opposing half and must return to score.",
+      "The raider chants 'kabaddi, kabaddi' on a single breath; stopping the cant in enemy territory means the raider is out.",
+      "Each defender tagged and escaped is dismissed and worth one point; each point also revives one dismissed teammate.",
+      "A bonus point is earned by planting one foot past the bonus line while the defence still has seven players on the mat.",
+      "A tackle by three or fewer defenders stops the raider for two points, the celebrated super tackle, and wiping out all seven opponents adds a further two, the lona.",
+      "The baulk line, 3.75 m from the midline, must be crossed for a raid to count, and the 1 m lobbies come into play only after that crossing.",
+      "Matches run two 20-minute halves with a 30-second cap on each raid and five substitutes per team."
+    ],
+    "equipment": [
+      ["Mat", "A shock-absorbing 13 x 10 m contest mat, standard since the Pro Kabaddi League replaced clay courts; clubs provide it."],
+      ["Court shoes", "Flat, gum-soled indoor shoes built for hard stops and cuts — $50-100."],
+      ["Knee and elbow sleeves", "Compression sleeves for the endless diving and sliding — $15-40 a pair."],
+      ["Ankle supports", "Braces or taped ankles to survive the ankle holds aimed at every raider — $20-50."],
+      ["Mouthguard", "Optional at most levels but wise in the tackle zones — $10-30."],
+      ["Team kit", "Numbered vest and shorts in club colours, usually club-issued and modest in cost."]
+    ],
+    "training": [
+      "Build the raid engine with repeated 20-second shuttles at maximum effort and incomplete rest, because a raid is an anaerobic sprint performed on one breath.",
+      "Train breath control separately: cant drills on the move, extending a single chant from 15 to 25 seconds across a pre-season block.",
+      "Defenders need grip and isometric strength — farmer's carries, towel rows and plank variations — because tackles are won by holding, not hitting.",
+      "Prioritize hip and ankle mobility with deep squats, hip openers and band work daily; ankle holds and dubkis punish stiff joints.",
+      "Add reactive agility ladders and one-on-one raid-versus-tackle games to every session; the sport's decisions happen inside half a second.",
+      "Keep body fat low and relative strength high, because every kilo matters when seven defenders are hunting one raider."
+    ],
+    "pathway": [
+      ["Akhara and school", "Village grounds, school tournaments and local academies, where the cant and the ankle hold are learned first."],
+      ["State age-group", "District and state under-14 to under-19 championships under AKFI, with national selectors watching the nationals."],
+      ["Senior nationals", "India's senior national championship and the Yuva Kabaddi series put young players in front of professional scouts."],
+      ["Pro Kabaddi League", "Franchise auctions and domestic trials; a PKL contract is the sport's first serious salary for most players."],
+      ["National team", "India, Iran and the Asian Games contenders, decided at selection camps each international cycle."]
+    ],
+    "events": [
+      ["Pro Kabaddi League", "India's franchise league, annual since 2014 with two seasons staged in 2016; the sport's commercial centre of gravity."],
+      ["Asian Games kabaddi", "Every four years since 1990; India's men won the first seven golds and Iran took the 2018 title."],
+      ["Kabaddi World Cup", "The IKF's standard-style world championship, staged at intervals; India won the 2016 edition on home soil."],
+      ["Asian Kabaddi Championship", "The continental championship between Games years, contested chiefly by India, Iran, Pakistan and South Korea."],
+      ["AKFI national championships", "India's junior and senior nationals each season, the traditional ladder into professional and international squads."]
+    ],
+    "legends": [
+      ["Pardeep Narwal", "Patna Pirates and U Mumba raider, the Pro Kabaddi League's all-time leading raid-point scorer and master of the dubki, the first superstar the league itself built."],
+      ["Anup Kumar", "India's 'Captain Cool', who lifted the 2016 World Cup and set the template for calm, percentage-based raiding."],
+      ["Ajay Thakur", "The raider whose points carried India through the 2016 World Cup final against Iran; a Padma Shri recipient."],
+      ["Fazel Atrachali", "Iranian corner defender and captain, the league's most decorated tackler and the face of kabaddi's second superpower."],
+      ["Patna Pirates", "Three consecutive PKL titles across the 2016 and 2017 seasons, the league's first dynasty, powered by Pardeep Narwal's record raids."]
+    ],
+    "getting_started": [
+      "Mark a 13 x 10 m court with chalk or cones, tape a midline and baulk lines 3.75 m out, and play four-a-side touch kabaddi with tackles banned.",
+      "Practise the cant first: walk, then jog, then sprint while chanting on one breath, stretching a single chant past 20 seconds within two weeks.",
+      "Drill the toe touch and hand touch against a partner standing on a line; the tag only counts if the raider still crosses the midline.",
+      "Learn to fall — shoulder rolls and knee slides on grass or mat — before anyone attempts a tackle.",
+      "Find a local club through AKFI district associations or a PKL-style academy; most Indian cities and many diaspora hubs have one.",
+      "Watch one Pro Kabaddi match a week and count how often corner defenders concede bonus points by standing too deep."
+    ],
+    "glossary": [
+      ["Raid", "A lone attacker's 30-second trip into the opposing half to tag defenders and return alive."],
+      ["Raider", "The player sent across the midline to touch opponents and escape back to safety."],
+      ["Cant", "The continuous 'kabaddi, kabaddi' chant proving the raider holds one breath; stopping it forfeits the raid."],
+      ["Baulk line", "The line 3.75 m from the midline that a raider must cross for the raid to be valid."],
+      ["Bonus line", "The line one metre past the baulk; a foot planted past it earns a bonus point against a full defence."],
+      ["Super tackle", "A tackle by three or fewer defenders, worth two points and celebrated like a goal."],
+      ["Lona", "The two extra points and full revival awarded when a team is wiped out to zero."],
+      ["Dubki", "Ducking under a linked tackle and escaping out the far side, Hindi for dive and Pardeep Narwal's trademark."],
+      ["Ankle hold", "A diving grip on the raider's leading ankle, the corner defender's signature counter."],
+      ["Do-or-die raid", "A league rule: after two empty raids the third must score or the raider walks, pressure engineered into the clock."]
+    ],
+    "related": ["dodgeball", "wrestling", "touch-rugby", "sepak-takraw"],
+    "crosslink": false
+  },
+  {
+    "slug": "sepak-takraw",
+    "name": "Sepak Takraw",
+    "category": "team-ball",
+    "glyph": "🪀",
+    "tagline": "Volleyball played entirely with the feet, spiked from mid-air somersaults.",
+    "origin": "Southeast Asia · 15th century",
+    "tags": ["Team sport", "Asian Games", "Kick volleyball", "Acrobatic"],
+    "overview": [
+      "Sepak takraw is volleyball played without hands: teams of three keep a woven rattan ball off the floor using feet, knees, chests and heads across a badminton-sized court and a net at 1.52 m. Each side gets three touches to receive, set and spike, and the spikes are full somersaults struck with the instep while the striker hangs upside down. It is Southeast Asia's acrobatic answer to volleyball and arguably the most spectacular net sport on earth.",
+      "The Malay Annals describe the circle game of sepak raga before the sultan's court in 15th-century Malacca, and the village circle remains a childhood rite across Malaysia, Thailand and Myanmar. Since the sport entered the Asian Games in 1990, Thailand and Malaysia have built the two great dynasties, trading golds while Bangkok's King's Cup crowns the world's best regus year after year. Viral clips of roll spikes have carried the game's name far beyond its heartland.",
+      "Newcomers should expect a humbling first month, because juggling a hard woven ball with the inside of the foot is only the entry skill and everything acrobatic is built on top of it. Flexibility matters as much as jumping power. Start barefoot in a circle on grass, the traditional way, and let the soles learn the ball."
+    ],
+    "facts": [
+      ["Origin", "The Malay royal courts of the 15th century played sepak raga; Malaysia and Thailand agreed shared net-court rules in the early 1960s"],
+      ["Governing body", "International Sepaktakraw Federation (ISTAF), founded in 1988 by Malaysia, Thailand, Singapore, Indonesia and Myanmar"],
+      ["Formats", "Regu (three a side), team regu (three regus playing best-of-three) and doubles (two a side)"],
+      ["Match length", "Best of three sets to 21 points; the deciding set is played to 15"],
+      ["Playing area", "A 13.4 x 6.1 m court, badminton's doubles dimensions, with the net at 1.52 m for men and 1.42 m for women"],
+      ["Asian Games status", "A medal sport since Beijing 1990, with Thailand and Malaysia ruling the podium"],
+      ["Ball", "A woven basket-like ball of synthetic rattan, 42-44 cm around and 170-180 g for men"]
+    ],
+    "history": [
+      ["15th century", "The Malay Annals record sepak raga played before the Sultan of Malacca, the sport's first written applause."],
+      ["Early 1960s", "Malaysia, Thailand and Singapore agree on a common rulebook for the net court, turning the circle game into a competitive sport."],
+      ["1965", "The game debuts at the Southeast Asian Peninsular Games in Kuala Lumpur, beginning the rivalries that still define it."],
+      ["1985", "Thailand stages the first King's Cup Sepak Takraw World Championship in Bangkok, still the sport's marquee annual event."],
+      ["1988", "Five founding nations led by Malaysia and Thailand establish ISTAF to govern the world game."],
+      ["1990", "Sepak takraw joins the Asian Games program in Beijing as a medal sport."],
+      ["2010s", "ISTAF launches the SuperSeries world tour and highlight reels of roll spikes carry the sport to a global internet audience."]
+    ],
+    "formats": [
+      ["Regu", "The classic: three players a side — tekong, feeder and striker — plus two substitutes."],
+      ["Team regu", "Three regus per side contesting a best-of-three match, the format used at the Asian Games."],
+      ["Doubles", "Two players a side with no substitutes, where every touch must be perfect."],
+      ["Circle takraw", "The traditional sepak raga bulatan, kept alive in Malaysia as a scoring-by-volley exhibition of keepy-uppy mastery."]
+    ],
+    "skills": [
+      ["Inside kick", "The workhorse contact: the ball met with the inside of the foot, leg raised and controlled, used for reception and passing.", "Fifty to one hundred inside-foot juggles every session, progressing to kicks over a net into a partner's hands at five metres."],
+      ["Knee and header control", "Settling a high ball on the thigh or forehead to rescue a difficult serve.", "Partner lobs controlled down onto the knee or head and returned with an inside kick, twenty repetitions each."],
+      ["Tekong serve", "The somersaulting kick serve launched from the serving circle off the server's own hand toss.", "Forty to sixty serves per session into marked zones; every serve must clear the net and land inside the opponents' half."],
+      ["Roll spike", "The striker's overhead kill from a lofted tee, body rolling through the air before impact.", "Twenty dry-run approaches without the ball, then thirty teed strikes from a partner's loft, always onto crash mats while learning."],
+      ["Sunback spike", "The reverse overhead spike, struck with the back to the net while hanging in the air.", "Progress from hanging-ball strikes to live sets, twenty to thirty repetitions with mat landings and a spotter on hard floors."],
+      ["Block", "Rising at the net with leg or body to smother the striker's spike — legs, never hands, are legal.", "Timed jump drills against a partner spiking from a stationary tee, three sets of ten."],
+      ["Feeder's tee", "The precise lofted set that gives the striker a launching pad at spike height.", "Thirty sets per session to a hanging target one metre inside the net; consistency beats height."]
+    ],
+    "rules": [
+      "Three players a side in regu: the tekong serves from the circle behind the baseline while the feeder and striker start inside the quarter circles at the net.",
+      "Hands and arms are the only forbidden tools; feet, knees, shins, chest, shoulders and head are all legal.",
+      "Each side gets three touches to return the ball over the net, and the ball must never touch the ground.",
+      "Points are rally-scored: sets go to 21 with a two-point advantage, and a deciding third set is played to 15.",
+      "Faults include touching the net, stepping over the centre line, a fourth touch and a serve that lands outside the court.",
+      "Team events are decided across three regus, while doubles is two-a-side with no substitutes."
+    ],
+    "equipment": [
+      ["Ball", "A woven synthetic-rattan ball, 42-44 cm around for men; durable training balls run $15-40."],
+      ["Court shoes", "Non-marking indoor shoes with flat grip for planting before jumps — $40-100."],
+      ["Ankle supports", "Braces or tape for the landing and blocking legs — $15-40."],
+      ["Knee and elbow pads", "Thin pads for the thousands of mat landings while learning to spike — $20-50."],
+      ["Crash mats", "Gymnastic mats for spike practice, the single most important safety purchase a club makes."],
+      ["Net and posts", "A 6.1 m net set at 1.52 m for men; badminton-grade posts serve for training."]
+    ],
+    "training": [
+      "Flexibility first: daily hip openers, hamstring and quad stretches and backbends, because the roll spike is a gymnastics skill wearing a football's clothing.",
+      "Build jumping power with depth jumps and squats; strikers need vertical explosiveness off one and two feet.",
+      "Juggle every day — fifteen minutes of inside, knee and header touches until one hundred consecutive juggles is routine.",
+      "Rehearse the spike pattern with thirty teed strikes per session, always onto mats, with video review of takeoff foot placement.",
+      "Condition the ankles with single-leg balance work, band eversion drills and controlled landings after every jump.",
+      "Play two-versus-two games on half courts weekly; tight spaces sharpen the first touch faster than any drill."
+    ],
+    "pathway": [
+      ["Village and school circles", "Sepak raga circles and school clubs across Malaysia, Thailand, Myanmar and Indonesia, where kicking is learned years before tactics."],
+      ["State and provincial age-groups", "National schools competitions and state championships select youth regus for national training."],
+      ["National program", "National leagues and training camps in the sport's heartlands, the gateway to SEA Games selection."],
+      ["ISTAF SuperSeries", "The world tour where the Thai and Malaysian regus set the technical standard."],
+      ["Asian Games and King's Cup", "The peak: regu and team titles at the Games, and the King's Cup crown in Bangkok."]
+    ],
+    "events": [
+      ["King's Cup Sepak Takraw World Championship", "Bangkok's flagship annual championship since 1985, the sport's de facto world title."],
+      ["Asian Games sepak takraw", "Every four years since 1990, with Thailand and Malaysia sharing most of the golds."],
+      ["SEA Games", "The biennial Southeast Asian Games, the sport's densest rivalry stage."],
+      ["ISTAF SuperSeries", "The international grand-slam tour launched in 2011 to standardize world-level play."],
+      ["National circuits", "Domestic league and royal-club competition in Thailand and Malaysia, the pipeline for every international regu."]
+    ],
+    "legends": [
+      ["Thailand men's regu", "The sport's gold standard: the dominant nation at Asian Games and King's Cups, exporter of the modern roll-spike technique."],
+      ["Malaysia national team", "The historic rival and frequent champion, whose tekongs and strikers forced Thailand's modern era of acrobatic play."],
+      ["Thailand women's regu", "Asian Games and world-level champions who match the men's program title for title."],
+      ["Myanmar and Vietnam", "The chasing pack, whose regus contest every semifinal and keep the two superpowers honest."]
+    ],
+    "getting_started": [
+      "Buy or borrow a woven ball and start barefoot circle juggling on grass; one hundred inside-foot touches a day is the base camp.",
+      "Learn the inside kick until it is boring, then add knee and header touches in the circle with friends.",
+      "String a net at roughly 1.5 m between two posts and play one-touch kick volleyball, hands strictly forbidden.",
+      "Practise the hand-toss serve against a wall before attempting any somersaulting serve, and land on mats when you do.",
+      "Join a community club through national federations in Malaysia, Thailand, Singapore, Indonesia, Myanmar or diaspora associations abroad.",
+      "Watch one King's Cup or Asian Games regu match and track only the feeder; the tee is where every spike is born."
+    ],
+    "glossary": [
+      ["Regu", "A sepak takraw team of three on court, and by extension the standard match format."],
+      ["Tekong", "The server, who launches the ball from the serving circle with a somersaulting kick."],
+      ["Feeder", "The inside player who receives the serve and lofts the tee for the striker."],
+      ["Roll spike", "The overhead kill struck while the striker's body rolls through the air, the sport's signature shot."],
+      ["Sunback spike", "The reverse overhead spike hit with the striker's back to the net."],
+      ["Horse-kick serve", "The kuda serve, a jumping kick serve in which the tekong fires the ball like a mule's kick."],
+      ["Quarter circle", "The marked arcs at the net where the feeder and striker must begin each rally."],
+      ["Sepak raga", "The ancient circle game of keepy-uppy from which the net sport grew."],
+      ["King's Cup", "Bangkok's annual world championship, the sport's most prestigious tournament."],
+      ["Team event", "A match of three regus per side, decided best-of-three."]
+    ],
+    "related": ["volleyball", "beach-volleyball", "badminton", "kabaddi"],
+    "crosslink": false
+  },
+  {
+    "slug": "floorball",
+    "name": "Floorball",
+    "category": "team-ball",
+    "glyph": "🏒",
+    "tagline": "Ice hockey's skills and soccer's geometry, no ice required.",
+    "origin": "Sweden · 1970s",
+    "tags": ["Team sport", "Indoor", "Fast-growing", "World Games"],
+    "overview": [
+      "Floorball is an indoor stick sport: five field players and a goalkeeper per side, short plastic sticks, a 23-gram perforated ball and a 40 x 20 m rink bounded by low boards. There is no offside, no icing and no checking — just continuous passing at running speed across three 20-minute periods of stopped time. Swedes call it innebandy, Czechs florbal, and it is among the fastest team games you can stage in a school gym.",
+      "Born in Swedish school gyms in the late 1960s, floorball now counts around seventy national federations, sold-out world championships and a place on the World Games program since 2022. Sweden has contested every men's world final, with Finland, Switzerland and Czechia in close pursuit and professional leagues feeding them all. Its genius is accessibility: a beginner plays within the hour, and the entry kit costs less than a night out.",
+      "A newcomer should master the wrist shot and head-up stickhandling before anything clever. The game rewards short passes, constant rotation and quick releases rather than individual heroics. Recreational and corporate leagues are the sport's social backbone across Scandinavia, and they welcome beginners by the busload."
+    ],
+    "facts": [
+      ["Origin", "Sweden's school gyms of the late 1960s and 1970s, where innebandy turned hockey technique into a dry-land game"],
+      ["Governing body", "International Floorball Federation (IFF), founded on 12 April 1986 in Huskvarna, Sweden, by the associations of Finland, Sweden and Switzerland"],
+      ["Team size", "Five field players plus a goalkeeper on court, with lines rotated on the fly"],
+      ["Match length", "Three 20-minute periods of effective, stopped-clock time"],
+      ["Playing area", "A 40 x 20 m rink enclosed by low boards, with goals 160 x 115 cm"],
+      ["World championships", "Men's WFC since 1996 and women's since 1997, alternating years in the modern calendar"],
+      ["Global reach", "Around seventy member associations, strongest in Sweden, Finland, Switzerland and Czechia"]
+    ],
+    "history": [
+      ["Late 1960s", "Plastic-stick indoor hockey variants circulate in Scandinavian schools and youth clubs."],
+      ["1979", "Sweden founds the world's first national floorball federation; innebandy receives official rules and league structures."],
+      ["1986", "Finland, Sweden and Switzerland found the IFF in Huskvarna and agree international match rules."],
+      ["1996", "The first men's World Floorball Championship is played, and Sweden wins it."],
+      ["1996-2006", "Sweden collects the first six men's world titles while the women's WFC and European club competitions fill the calendar."],
+      ["2022", "Floorball debuts on the World Games program in Birmingham, Alabama, and stays on it for Chengdu 2025."],
+      ["2024", "Sweden lifts an eleventh men's world title at the WFC, extending a final-appearance record that has never been broken."]
+    ],
+    "formats": [
+      ["Classic six-a-side", "Five field players and a goalkeeper on the full 40 x 20 m rink, the international and league standard."],
+      ["3 v 3", "A small-court sprint version on half rinks, with its own world championships since the 2020s."],
+      ["Small-floor school floorball", "Four-a-side on 20 x 12 m courts with soft balls, how nearly every junior in the heartlands starts."],
+      ["Wheelchair floorball", "An IFF-supported parasport variant with mixed teams on the standard rink."]
+    ],
+    "skills": [
+      ["Wrist shot", "The quick release off the middle of the blade, a short pull and snap; floorball's most-used shot.", "Fifty balls per session at marked corners of an empty goal from five to eight metres, alternating lead feet."],
+      ["Slap shot", "A full wind-up for point shots and one-timers, the blade whipping like a golf club.", "Thirty slow-motion repetitions for technique, then thirty into a net from nine or ten metres; accuracy before velocity."],
+      ["One-timer", "Striking a moving pass in a single motion, the power play's currency.", "Partner feeds from the wing for thirty one-times per session, aiming at a target hung in the far corner."],
+      ["Saucer pass", "A lofted pass that floats over a defender's blade and lands flat for the receiver.", "Pairs at eight metres: forty saucers over a stick laid flat, a clean pass landing within one stick-length of the receiver."],
+      ["Carrying under control", "Moving the ball with soft touches within a stick's length of the feet while scanning up-ice.", "Cone slaloms at speed with head-up checkpoints; the repetition is void if the ball strays or the eyes drop."],
+      ["Screening and deflection", "Tipping point shots from the slot, where floorball's low, fast goals are manufactured.", "Deflect thirty passes and shots from the point, working soft hands and quick repositioning either side of the keeper."],
+      ["Goaltending", "Knee-down tracking in the 160 x 115 cm frame; positioning beats reflexes.", "Lateral shadow drills along an arc just in front of the goal line, then one hundred shots in ten minutes from all angles."]
+    ],
+    "rules": [
+      "Six players a side including a goalkeeper, with line changes on the fly while play continues.",
+      "Matches run three 20-minute periods with the clock stopped at every whistle.",
+      "There is no offside and no icing; the boards keep the ball in play and the game moving.",
+      "The ball must be played with the stick below knee height, and field players may not use hands or head.",
+      "Body contact is limited to fair shoulder-to-shoulder contests for the ball; checking, pushing and tackling are fouls.",
+      "Penalties run two, five or ten minutes plus match penalties, and penalized teams defend short-handed.",
+      "Goalkeepers play without sticks and may handle the ball only inside their goal area."
+    ],
+    "equipment": [
+      ["Stick", "A carbon or composite shaft cut so the blade sits at navel height; durable starter sticks run $40-150."],
+      ["Ball", "A 23-gram plastic ball with 26 holes; buy several at $3-5 each because they vanish."],
+      ["Indoor court shoes", "Flat-soled, non-marking gym shoes with grip for hard stops — $60-120."],
+      ["Shin guards", "Soccer-style guards under socks, standard in organized play — $15-40."],
+      ["Eye protection", "Protective glasses, mandatory for juniors in many national federations — $20-60."],
+      ["Goalkeeper kit", "Helmet with cage, knee pads, padded pants and gloves — $200-500 for club-grade equipment."]
+    ],
+    "training": [
+      "Train the intermittent engine with ten repetitions of 30 seconds all-out and 90 seconds recovery, because floorball is played in repeated short shifts.",
+      "Strengthen one leg at a time — split squats, lunges, lateral bounds — because the game lives on single-leg cuts and shots.",
+      "Protect groins and hamstrings with Copenhagen planks and Nordic curls; adductor injuries are floorball's most common tax.",
+      "Shoot one hundred balls daily; the wrist shot is a fine-motor skill that decays within days of neglect.",
+      "Play small-area three-a-side games weekly; tight spaces build the quick hands and quicker decisions the full rink rewards.",
+      "Add vision work — stickhandling through cones while calling out a partner's raised fingers — because passing lanes close in half a second."
+    ],
+    "pathway": [
+      ["School and club juniors", "Physical-education classes and local clubs with soft-ball mini floorball from around age six in the Nordic countries."],
+      ["District youth teams", "District selections and junior series feeding under-19 national programs in the sport's heartlands."],
+      ["National leagues", "Sweden's SSL and the Swiss and Czech top divisions, the strongest club leagues in the world."],
+      ["National teams", "WFC squads and the World Games cycle, with senior debuts often coming before age 21."],
+      ["Career after playing", "Movement across European leagues and into coaching roles in fast-growing federations."]
+    ],
+    "events": [
+      ["Men's World Floorball Championship", "Held every two years since 1996; Sweden has contested every final and won eleven titles through 2024."],
+      ["Women's World Floorball Championship", "Held since 1997 on the alternating cycle, with Sweden leading the all-time table."],
+      ["IFF Champions Cup", "The annual European club crown contested by the continent's league champions."],
+      ["National leagues", "Sweden's SSL and the top divisions of Switzerland, Czechia and Finland, professional floorball from autumn to spring."],
+      ["World Games", "Floorball joined the program at Birmingham 2022 and remains on it for Chengdu 2025."]
+    ],
+    "legends": [
+      ["Sweden men's national team", "The sport's dynasty: every men's World Championship final since 1996 and eleven titles through 2024."],
+      ["Sweden women's national team", "Eleven women's world titles, the deepest talent pool in the sport and the standard every rival chases."],
+      ["SV Wiler-Ersigen", "The Swiss club dynasty of the 2000s and 2010s, with a double-digit haul of Swiss championships and European club crowns."],
+      ["Storvreta IBK", "The Uppsala club that made the Swedish league a fortress, with multiple league titles and Champions Cup wins."],
+      ["IBF Falun", "The Dalarna side that dominated Swedish and European club floorball through the mid-2010s."]
+    ],
+    "getting_started": [
+      "Buy one stick cut to size, three balls and gym shoes; that is the entire entry cost.",
+      "Learn the wrist shot first with fifty balls a day at a taped corner of any goal you can find.",
+      "Find a local club through your national federation; the IFF lists member associations in around seventy countries.",
+      "Join a recreational or corporate league in week two — in Scandinavia, lunchtime floorball is an institution.",
+      "Drill head-up stickhandling for fifteen minutes daily through five cones while a partner holds up fingers to call out.",
+      "Watch one Swedish SSL or WFC match a week and follow a single player off the ball to learn the constant rotation."
+    ],
+    "glossary": [
+      ["Innebandy", "Floorball's Swedish name, indoor bandy, and the word used across the sport's heartland."],
+      ["Florbal", "The Czech and Slovak name, badge of Czechia's huge club culture."],
+      ["One-timer", "A first-time strike of a moving pass, the power play's deadliest shot."],
+      ["Saucer pass", "A lofted pass that floats over a blade and lands flat."],
+      ["Screen", "A player planted in the goalkeeper's sightline as the point shot arrives."],
+      ["Power play", "Attacking five against four, or three, while an opponent serves a penalty."],
+      ["Board play", "Using the rink's boards to protect the ball or pin an opponent along the wall."],
+      ["Slot", "The prime shooting lane in front of the goal."],
+      ["Free hit", "The restart after a foul, taken from the spot with defenders held three metres away."],
+      ["Match penalty", "A full-game ejection for serious offences, always reviewed afterwards."]
+    ],
+    "related": ["ice-hockey", "field-hockey", "bandy", "handball"],
+    "crosslink": false
+  },
+  {
+    "slug": "bandy",
+    "name": "Bandy",
+    "category": "team-ball",
+    "glyph": "🏒",
+    "tagline": "Football on skates: eleven a side, huge ice, and a small orange ball.",
+    "origin": "England · 19th century",
+    "tags": ["Team sport", "Winter", "Ice", "World championship since 1957"],
+    "overview": [
+      "Bandy is eleven-a-side football on ice: a vast outdoor rink, a small orange ball, curved sticks, 45-minute halves, offside and corners. It reads like soccer played at blade speed, with wingers hitting speeds no footballer will ever know, and it is the only major ice game played without boards. The goalkeeper is the sole player allowed hands, and a loose touch can send the ball sailing out of a stadium-sized sheet.",
+      "Codified in 1890s England by the Bury Fen club, bandy found its true home in Sweden and Russia, where league finals draw tens of thousands and the season is a civic winter ritual. The world championship has been contested since 1957, with the Soviet Union and its successor Russia duelling Sweden for supremacy in every generation. For a century it was the biggest spectator sport the Olympics never adopted.",
+      "Newcomers need two skill sets at once, skating and soccer instincts, and the fastest route is through rink bandy or floorball while the edges develop. Matches are decided by speed, spacing and set pieces. If you can read a soccer match you can read bandy; you just cannot glide."
+    ],
+    "facts": [
+      ["Origin", "The fens of 19th-century England, where the Bury Fen club published the first bandy rules in 1891 and carried the game abroad"],
+      ["Governing body", "Federation of International Bandy (FIB), founded in Stockholm on 12 February 1955"],
+      ["Team size", "Eleven a side including a goalkeeper, the only player who may catch the ball"],
+      ["Match length", "Two 45-minute halves, with sudden-death extra time in knockout matches"],
+      ["Playing area", "An outdoor ice sheet 90-110 m long and 45-65 m wide, soccer's dimensions on frozen water"],
+      ["Olympic status", "A demonstration sport at the 1952 Oslo Winter Games; never yet a medal sport"],
+      ["World championships", "Men's since 1957 and women's since 2004, with Russia, heir to the Soviet line, and Sweden atop the tables"]
+    ],
+    "history": [
+      ["1891", "England's Bury Fen club under Charles Goodman Tebbutt publishes the first bandy rules and stages demonstration matches abroad."],
+      ["1907", "Sweden stages its first national championship, beginning a winter spectacle that still fills national finals."],
+      ["1952", "Bandy appears as a demonstration sport at the Oslo Winter Olympics, its single Olympic appearance."],
+      ["1955", "Sweden, the USSR, Finland and Norway found the international federation in Stockholm and unify the rules."],
+      ["1957", "Helsinki hosts the first World Championship, and the Soviet Union wins the first of eleven consecutive titles."],
+      ["1981", "Sweden finally breaks the Soviet run with its first world title, opening four decades of Sweden-Russia duopoly."],
+      ["2004", "The first Women's Bandy World Championship is played, adding a second Sweden-Russia rivalry to the calendar."]
+    ],
+    "formats": [
+      ["Full-size bandy", "The championship form: eleven a side on 90-110 m ice with offside, corners and 45-minute halves."],
+      ["Rink bandy", "A smaller variant on hockey-sized rinks with fewer players, the training and youth version in many countries."],
+      ["Women's bandy", "A full international program since the 2004 world championship, strongest in Sweden and Russia."],
+      ["School and lake bandy", "Swedish school series and lake hockey on natural ice, where most Scandinavians first chase the orange ball."]
+    ],
+    "skills": [
+      ["Skating stride", "Long, low crossovers and explosive starts; the huge sheet rewards efficiency over mere burst.", "Technique skates of six double laps alternating inside and outside edges, then ten 50-metre accelerations from a standstill."],
+      ["Carrying at speed", "Shielding and steering the ball one-handed while skating flat out, a stickhandling art particular to bandy.", "Cone lines at full skating speed with the ball never farther than a blade's length away, ten lengths per session."],
+      ["Wrist pass and slap shot", "The two releases: quick wrist passes across the rink and full slap shots for goal.", "Fifty passes onto a moving partner's blade, then fifty slap shots at corner targets from fifteen to twenty metres."],
+      ["Free strokes and penalties", "Set-piece shooting from free strokes and the 12 m penalty spot, where tight matches are settled.", "Fifty penalty shots per week in blocks of ten against rotating keepers, plus rehearsed free-stroke routines."],
+      ["Corners", "Attacking and defending the corner arc, bandy's set-piece laboratory.", "Ten choreographed corners each way per session, with defenders drilling first-post clears."],
+      ["Goaltending", "Bandy keepers play without a stick, catching or kicking clear behind a defence that leans on them heavily.", "Lateral shuffle drills along the goal arc, then one hundred shots in twelve minutes from every angle."]
+    ],
+    "rules": [
+      "Eleven players a side, including a goalkeeper who may catch and throw the ball — the only hands in the game.",
+      "Matches run two 45-minute halves on ice between 90-110 m long and 45-65 m wide, with no boards to keep the ball in.",
+      "The small orange or red ball is played with the stick below shoulder height, and high sticks are penalized.",
+      "Offside works as in soccer: an attacker beyond the second-last defender when the ball is played is flagged.",
+      "Restarts mirror football — stroke-ins from the sidelines, corners hit from the arc, and goal throws by the keeper.",
+      "Penalties run five and ten minutes plus red cards, and penalty shots are struck from 12 metres.",
+      "Knockout ties are broken by sudden-death extra time, the format behind bandy's most famous finals."
+    ],
+    "equipment": [
+      ["Bandy skates", "Low-cut, speed-style boots with long blades built for efficiency rather than agility — $150-400."],
+      ["Bandy stick", "A long, curved one-piece stick, more bent than hockey's and often taped for grip — $50-150."],
+      ["Helmet and visor", "A certified helmet with visor or cage, mandatory at all levels — $50-200."],
+      ["Shin and groin protection", "Soccer-style shin guards plus a box, because the ball flies at head height — $30-80."],
+      ["Gloves", "Thin grip gloves for stick feel with knuckle protection — $20-60."],
+      ["Team kit", "Numbered shirt, shorts and long socks in club colours; the look is deliberately football, not hockey."]
+    ],
+    "training": [
+      "Build the aerobic base first: bandy players cover soccer-scale distance on skates, so winter weeks mix long skating with running and skiing.",
+      "Sharpen repeated-sprint ability with eight to twelve 30-second all-out skating intervals and 60-90 seconds of rest, once or twice weekly.",
+      "Train edges daily — crossovers, stops and starts in both directions — because the rink punishes one-sided skaters.",
+      "Shoot one hundred balls a day; the slap shot off a rolling ball is the sport's hardest technical skill.",
+      "Protect hamstrings and adductors with Nordic curls and Copenhagen planks; the skating stride's injury list is long and predictable.",
+      "Play cross-ice small-area games weekly to compress skating, passing and shooting decisions into tight repetitions."
+    ],
+    "pathway": [
+      ["Lake and schoolyard bandy", "Frozen lakes, school series and club minis in Sweden and Russia, where skates come before sticks."],
+      ["Club juniors", "Youth series in the Swedish and Russian systems, progressing from rink bandy to full-size ice."],
+      ["Elitserien and Super League", "Sweden's Elitserien and Russia's Super League, the sport's professional peaks."],
+      ["National teams", "World Championship squads in the international window each winter."],
+      ["Veterans bandy", "Masters series that keep players on the ice deep into adulthood."]
+    ],
+    "events": [
+      ["Bandy World Championship", "The men's world championship, staged most winters since 1957 and dominated throughout by Russia and Sweden."],
+      ["Women's Bandy World Championship", "The women's world championship, held since 2004 with Sweden and Russia trading titles."],
+      ["Swedish Elitserien", "Sweden's top league, ending each winter in the national final in Uppsala, bandy's cup final day."],
+      ["Bandy World Cup", "The invitational autumn club tournament born in Ljusdal and now staged in Sandviken, bandy's festival of the year."],
+      ["Russian Super League", "Russia's professional league and the deepest talent pool outside Sweden."]
+    ],
+    "legends": [
+      ["The Soviet Union and Russia", "Eleven straight world titles from 1957 to 1979, a run Russia has extended as the championship's most consistent champion."],
+      ["Sweden", "The eternal challenger turned champion, first world title in 1981 and owner of the world's strongest league culture."],
+      ["Västerås SK", "Sweden's record club with 21 national championships and six club World Cups, the Manchester United of the frozen sheet."],
+      ["Villa Lidköping BK", "The modern Swedish power and recent national champion, a 21st-century title factory."],
+      ["Sweden's women's national team", "The leading nation of the women's game since the first world championship in 2004."]
+    ],
+    "getting_started": [
+      "Learn to skate before anything else; a term of skating lessons beats any stick work while your edges are new.",
+      "Find the sport through federations in Sweden, Russia, Finland, Norway or Kazakhstan, or through a growing diaspora of clubs.",
+      "Train stick skills with rink bandy or floorball when open ice is scarce; the technique transfers directly.",
+      "Watch a Swedish final or a world championship match and read it like soccer — the passing patterns are cousins.",
+      "Buy used gear for the first season; skates, helmet with visor and a stick run a few hundred dollars second-hand.",
+      "Get onto natural ice the first winter you can stand on skates, because the sport's soul is the lake game."
+    ],
+    "glossary": [
+      ["Free stroke", "The restart for fouls, struck rather than kicked from the spot — bandy's free kick."],
+      ["Stroke-in", "The sideline restart, hit into play with the stick."],
+      ["Corner", "A hit from the corner arc with both teams packed in front of goal, bandy's set-piece storm."],
+      ["Penalty shot", "A free run at goal from 12 metres with only the keeper to beat."],
+      ["Offside", "As in soccer: level with the second-last defender is onside, beyond is off."],
+      ["Elitserien", "Sweden's top division and the strongest bandy league in the world."],
+      ["Golden goal", "Sudden-death extra time, the standard tiebreaker in bandy's knockout matches."],
+      ["Red card", "An ejection for violent or repeated fouls; bandy's discipline mirrors soccer's card system."],
+      ["Goal throw", "The goalkeeper's restart after an attacker puts the ball behind the goal line."],
+      ["Bandy World Cup", "Not the national-teams championship but the autumn invitational for clubs in Sweden."]
+    ],
+    "related": ["ice-hockey", "field-hockey", "floorball", "soccer"],
+    "crosslink": false
+  },
+  {
+    "slug": "korfball",
+    "name": "Korfball",
+    "category": "team-ball",
+    "glyph": "🥅",
+    "tagline": "The world's only mixed-gender team sport: four men, four women a side.",
+    "origin": "Netherlands · 1902",
+    "tags": ["Team sport", "Mixed-gender", "World Games", "Netherlands"],
+    "overview": [
+      "Korfball is the world's only mixed-gender team sport played at world-championship level: eight a side, four men and four women, shooting at bottomless baskets called korfs mounted 3.5 m high on posts at each end of a 40 x 20 m court. There is no dribbling and no backboards; goals come from veering running-in shots and long shots released over an outstretched defender. Men mark men and women mark women, always and by law.",
+      "Amsterdam schoolteacher Nico Broekhuysen invented the game in 1902 after a study trip introduced him to Swedish ringboll, deliberately designing a sport boys and girls could play in one match. The Netherlands has since made korfball a national institution, winning eleven of twelve world championships, with Belgium the historic rival and Chinese Taipei leading Asia. The game was demonstrated at the 1920 Antwerp Olympics and still lives on the World Games program.",
+      "A newcomer should think basketball cuts with netball footwork. The defining law is the defended rule — you may not shoot over a defender within arm's length between you and the korf — so every goal begins by beating your marker with movement. Clubs in more than sixty countries welcome beginners, and the whole kit is a ball and indoor shoes."
+    ],
+    "facts": [
+      ["Origin", "Invented in 1902 by Amsterdam schoolteacher Nico Broekhuysen after seeing Swedish ringboll, as a game boys and girls could play together"],
+      ["Governing body", "International Korfball Federation (IKF), founded on 11 June 1933 in Antwerp with Broekhuysen as first president"],
+      ["Team size", "Eight a side — four men and four women — split between attack and defence zones"],
+      ["Match length", "Two 30-minute halves under the IKF's 2024 rules"],
+      ["Playing area", "A 40 x 20 m indoor court divided into two zones, with bottomless korfs hanging 3.5 m high in each"],
+      ["Olympic status", "A demonstration sport at the 1920 Antwerp Games; IOC-recognized but never a medal sport"],
+      ["World championships", "The IKF World Korfball Championship since 1978; the Netherlands has won eleven of twelve titles"]
+    ],
+    "history": [
+      ["1902", "Nico Broekhuysen returns from a Swedish teaching course with ringboll and rebuilds it for his Amsterdam playground as korfball."],
+      ["1905-1920", "The first clubs and a Dutch national structure appear, and korfball is demonstrated at the 1920 Antwerp Olympics."],
+      ["1933", "The IKF is founded in Antwerp, and the Netherlands-Belgium rivalry that still defines the sport begins."],
+      ["1978", "The first World Korfball Championship is played, and the Netherlands wins it."],
+      ["1985", "Korfball joins the World Games program, its biggest recurring international stage."],
+      ["1991", "Belgium wins its only world title to date, the single interruption of the Dutch run."],
+      ["2023", "The Netherlands takes an eleventh world championship in Chinese Taipei, beating the hosts 27-9 in the final."]
+    ],
+    "formats": [
+      ["Indoor korfball", "The standard: eight a side, 40 x 20 m, two 30-minute halves, the world-championship format."],
+      ["Outdoor korfball", "The historic form on 60 x 30 m grass with the same korfs, still played as summer competition in the Netherlands."],
+      ["Beach korfball", "A four-a-side sand variant with its own IKF events."],
+      ["Mono korfball", "The one-korf school version on half a court, used to teach shooting and defending to beginners."]
+    ],
+    "skills": [
+      ["Long shot", "The set-piece goal from beyond the defence's reach, released high over the outstretched marker.", "One hundred shots per session from six to ten metres, tracking weekly make-rate and extending range one metre at a time."],
+      ["Running-in shot", "The veering drive past a defender finished in front of the korf, korfball's layup.", "Twenty drives per side off a feeder's pass, first against a passive defender, then live."],
+      ["Penalty shot", "An unopposed shot from the spot 2.5 m in front of the korf, awarded when a shooter is fouled in the act.", "Fifty per week in sets of ten with identical routine — same breath, same rhythm, every time."],
+      ["Free pass", "A restart with defenders held 2.5 m from the ball; rehearsed plays win tight matches.", "Choreograph two free-pass plays per zone and run each ten times at match speed."],
+      ["Hindering", "Legal pressure: within arm's length, between attacker and korf, hands active — the definition of defended.", "One-on-one squares where defenders score a point for every shot they touch, rotating every 45 seconds."],
+      ["Rebounding", "Reading the unpredictable bounces off post and rim to win second balls.", "A coach feeds deliberate misses from eight metres; attackers and defenders contest thirty rebounds per session."],
+      ["Rotation", "Attackers swapping roles and positions to drag defenders out of their marks, korfball's chess.", "Conditioned games in which a goal only counts if every attacker has touched the ball in the move."]
+    ],
+    "rules": [
+      "Eight players a side, four men and four women; two of each gender attack one zone while two of each defend the other.",
+      "Each korf — a bottomless basket on a 3.5 m post — counts one point, and teams attack the korf in their attacking zone.",
+      "Players may not run with the ball or dribble; one pivot foot is allowed, netball-style.",
+      "A shot taken from a defended position — a defender within arm's length, between shooter and korf — does not count.",
+      "Men defend men and women defend women, a rule central to the game's mixed design.",
+      "Matches run two 30-minute halves, with teams swapping zones and roles at half-time.",
+      "Fouls on a shooter concede a penalty from 2.5 m, and rough physical contact is penalized."
+    ],
+    "equipment": [
+      ["Korf", "A bottomless cane basket on a post so the rim hangs 3.5 m high; portable posts run from about $300."],
+      ["Ball", "A soccer-size ball in white or high-visibility colour — $20-40."],
+      ["Indoor court shoes", "Flat, grippy shoes for constant stop-start cutting — $60-120."],
+      ["Team kit", "Coloured shirts and shorts distinguishing attack and defence, club-issued and cheap."],
+      ["Training markers", "Cones and a target ring for shooting practice where korfs are scarce."],
+      ["Ankle supports", "Braces for the cutting and landing loads — $20-50."]
+    ],
+    "training": [
+      "Train repeated 10-20 metre sprints with short recoveries, because korfball is a stop-start cutting game and every goal begins with a cut.",
+      "Build leg power for the long shot and the rebound contest: squats, lunges and jump work twice a week.",
+      "Protect shoulders and wrists for shooting volume with band work and gradual weekly load increases.",
+      "Practise pivoting under pressure in one-on-one hold-out drills where the carrier must protect the ball for five seconds.",
+      "Play mixed small games on half a court weekly; gender-paired defending teaches positioning faster than any drill.",
+      "Study the defended rule until it is instinct, because beginners lose more goals to defended calls than to any keeper."
+    ],
+    "pathway": [
+      ["School and university korfball", "Physical-education classes and university clubs in the Netherlands and Belgium, most players' first korf."],
+      ["Local club", "Community clubs across the Dutch and Belgian league pyramid, from recreational to semi-elite."],
+      ["Korfbal League", "The Dutch top division, the sport's summit, alongside Belgium's strong national league."],
+      ["National teams", "World-championship and World Games squads; the 24-team world championship is every program's target."],
+      ["IKF youth events", "European and world under-age championships feeding the senior pipeline."]
+    ],
+    "events": [
+      ["IKF World Korfball Championship", "Every four years since 1978; the Netherlands has won eleven of twelve editions, Belgium the exception in 1991."],
+      ["The World Games", "Korfball's recurring multi-sport stage since 1985."],
+      ["IKF Europa Cup", "The annual club championship for Europe's national champions, traded between Dutch and Belgian clubs."],
+      ["Dutch Korfbal League", "The Netherlands' top division, whose grand final is a stadium occasion."],
+      ["Belgian national league", "Belgium's top competition, the world's second strongest."]
+    ],
+    "legends": [
+      ["The Netherlands", "Eleven world titles in twelve championships, the deepest and most professional korfball nation on earth."],
+      ["Belgium", "The sport's co-founder nation and 1991 world champion, forever the Netherlands' great rival."],
+      ["Chinese Taipei", "Asia's korfball power, host and silver medallist of the 2023 world championship."],
+      ["PKC", "The record Dutch club champion from Papendrecht, the closest thing korfball has to a royal club."]
+    ],
+    "getting_started": [
+      "Find a club through the IKF or your national federation; korfball exists in more than sixty countries and nearly always welcomes beginners.",
+      "Learn the footwork before the shot with five minutes of daily pivot drills, because travelling is the beginner's tax.",
+      "Shoot fifty balls a session at any marked 3.5 m target before your first match.",
+      "Read the defended rule twice; it is the one law that changes every shooting decision you will make.",
+      "Start with mono korfball on half a court — one korf, four a side, all the core skills.",
+      "Watch one Korfbal League match online and follow a single attacker to see how every goal begins with a defender beaten by movement."
+    ],
+    "glossary": [
+      ["Korf", "The bottomless basket on its 3.5 m post, the Dutch word for basket and the sport's namesake."],
+      ["Running-in shot", "The veering drive finished in front of the korf, korfball's layup."],
+      ["Defended", "Illegal to shoot against: an arm's-length defender between shooter and korf voids the goal."],
+      ["Free pass", "The restart after a foul, with defenders held 2.5 m from the ball."],
+      ["Penalty", "An unopposed shot from 2.5 m in front of the korf."],
+      ["Zone", "One half of the court; teams swap zones and roles at half-time."],
+      ["Hindering", "The legal defensive pressure of position and hands; body contact beyond it is a foul."],
+      ["Mono korfball", "The one-korf school version played on half a court."],
+      ["Korfbal League", "The Dutch top division and the sport's strongest league."],
+      ["Ringboll", "The Swedish schoolyard game that inspired Broekhuysen in 1902."]
+    ],
+    "related": ["netball", "basketball", "handball", "ultimate-frisbee"],
+    "crosslink": false
+  },
+  {
+    "slug": "polo",
+    "name": "Polo",
+    "category": "team-ball",
+    "glyph": "🏇",
+    "tagline": "The game of kings: ball and mallet at the gallop.",
+    "origin": "Ancient Persia · codified 1875",
+    "tags": ["Team sport", "Equestrian", "Olympic 1900-1936", "Handicap system"],
+    "overview": [
+      "Polo is four-a-side stick-and-ball on horseback: riders strike a small white ball with long mallets toward goals eight yards wide on a field up to 300 yards long. Play runs in six seven-minute chukkas, with a fresh pony for each. It is hockey at the gallop, governed above all by the line of the ball, an imaginary right-of-way the whole game bends around.",
+      "It is the oldest team sport with a rulebook — Persian cavalry trained at it twenty-five centuries ago — and the British codified it at Hurlingham in 1875 before riding it into five Olympic Games from 1900 to 1936. Argentina then built the professional summit that Buenos Aires' Argentine Open has crowned since 1893. The handicap system, from minus-two to plus-ten goals, lets a weekend patron and a world champion share one field meaningfully.",
+      "Newcomers should budget honestly: riding lessons come first, and ponies are leased rather than bought in the early years. The skills stack — seat, then swing, then reading the line. Arena polo offers a cheaper, smaller door into the same game."
+    ],
+    "facts": [
+      ["Origin", "Played in Persia by the 6th century BC as cavalry training; codified by the Hurlingham Club in London in 1875"],
+      ["Governing bodies", "Federation of International Polo (FIP, 1982) worldwide; the Hurlingham Polo Association and the USPA run the historic heartlands"],
+      ["Team size", "Four a side outdoors; three a side in the arena game"],
+      ["Match length", "Six chukkas of seven minutes outdoors; four chukkas in the arena"],
+      ["Playing area", "Up to 300 yards by 160 yards of turf (274 x 146 m), with goals eight yards wide and no crossbar"],
+      ["Olympic status", "A medal sport at five Games, from Paris 1900 to Berlin 1936"],
+      ["Handicap system", "Every player is rated from minus-two to plus-ten goals, and team totals are balanced by starting goals"]
+    ],
+    "history": [
+      ["6th century BC", "Persian cavalry trains with a stick-and-ball game that court poetry will celebrate for centuries."],
+      ["1859-1862", "British tea planters in Manipur adopt the local game of pulu, and clubs form in Assam's tea country and Calcutta."],
+      ["1875", "The Hurlingham Club in London writes the rules of the modern game, recognizable to this day."],
+      ["1886", "The Westchester Cup opens polo's oldest international rivalry, between Britain and the United States."],
+      ["1900-1936", "Polo is an Olympic medal sport at five Games, with Argentina, Britain and the United States collecting the honours."],
+      ["1982-1987", "The FIP is founded and stages the first World Polo Championship in 1987."],
+      ["1993 onward", "Adolfo Cambiaso reaches a 10-goal handicap at 17 and leads Argentina's open era, the sport's undisputed summit."]
+    ],
+    "formats": [
+      ["Outdoor polo", "The classic four-a-side game on up to a 300 x 160 yard field, six chukkas of seven minutes."],
+      ["Arena polo", "Three a side on a smaller enclosed ground with the walls in play, four chukkas and a larger inflated ball."],
+      ["Snow polo", "Snowfield stadium versions, with St Moritz's frozen-lake tournament the most photographed of all."],
+      ["Club and university polo", "Handicapped chukkas, intercollegiate and interscholastic polo — the level at which most players happily live."],
+      ["FIP international polo", "The capped-handicap world championship where emerging nations compete beyond Argentina's professional leagues."]
+    ],
+    "skills": [
+      ["Seat and control", "A secure, forward seat with quick turns, stops and leads; the pony is most of the game.", "Ride twice weekly with spiral circles shrinking from 20 m to 5 m at canter on both reins."],
+      ["Offside forehand", "The basic hit, made from the pony's right side ahead of the rider's leg.", "Fifty forehands per session on the wooden horse, then fifty more at walk and trot before any canter work."],
+      ["Nearside backhand", "The defensive hit played behind the pony on the left, polo's most common clearance.", "Thirty nearside backhands per session off a coach-fed rolling ball."],
+      ["Line discipline", "Reading and holding the right of way created by the ball's line, the game's traffic law.", "Two-rider ride-off drills at half speed with a coach whistling every foul until instinct replaces thought."],
+      ["Ride-off", "A shoulder-to-shoulder bump, angled and speed-matched, used to push an opponent off the line.", "Paired shoulder drills at the trot, then the canter; angle and matched speed, never the elbows."],
+      ["Hooking", "Striking an opponent's mallet during the swing to spoil the stroke, legal when timed to it.", "Timed hooks against a partner hitting forehands; timing beats reach every time."],
+      ["Hitting at speed", "Forehands, backhands and neck shots struck off a running ball at the gallop.", "Down-the-field drills of hit, ride on, hit again — ten lengths per session at speed."]
+    ],
+    "rules": [
+      "Four players a side outdoors, every mallet swung from the right of the pony.",
+      "Matches run six chukkas of seven minutes outdoors and four in the arena, with pony changes between chukkas.",
+      "Goals score through the eight-yard posts at any height, because there is no crossbar.",
+      "Right of way belongs to the player on the line of the ball; crossing it dangerously or at an unsafe angle is a foul.",
+      "Ride-offs must be shoulder to shoulder and speed-matched; hooking is legal only when timed to the opponent's swing.",
+      "Penalties scale with severity, from an automatic goal to free hits at goal from 30, 40 and 60 yards and beyond.",
+      "Handicap ratings from minus-two to plus-ten are summed per team, and the weaker side starts with the difference as goals."
+    ],
+    "equipment": [
+      ["Mallet", "A cane shaft with hardwood head, 48-54 inches long — $120-250, and they do break."],
+      ["Helmet", "A certified polo helmet with face cage — $200-600, and never optional."],
+      ["Knee pads and gloves", "Knee guards and a grip glove for the mallet hand — $60-150."],
+      ["Whites and boots", "White trousers and polo boots; the uniform is law on most fields."],
+      ["Pony tack", "Saddle, bridle and leg boots for the pony, included with club leases at the start."],
+      ["The ponies", "Leased by the chukka at clubs, the sport's main running cost; a high-goal string of six or more mounts costs as much as a house."]
+    ],
+    "training": [
+      "Ride before you hit: two lessons a week of flatwork and quick turns until stops, spins and leads are automatic.",
+      "Hit off the wooden horse daily — one hundred strokes — building from static balls to canter-speed deliveries.",
+      "Train the core and adductors for rotational hitting with cable chops, side planks and heavy grip work.",
+      "Play practice chukkas weekly; reading ten other horses and riders cannot be simulated.",
+      "Condition the pony like the athlete it is, with interval trot-and-canter sets and disciplined cool-downs.",
+      "Study video of the Argentine open era, because positioning off the ball is learned by watching, not riding."
+    ],
+    "pathway": [
+      ["Lessons and the wooden horse", "Polo schools and riding programs; the hitting cage builds the swing before a moving pony adds pressure."],
+      ["Green chukkas", "Slow, supervised instructional chukkas on school ponies — most players' first match play."],
+      ["Club polo (0-2 goal)", "Local league chukkas and low-goal tournaments on leased ponies, the level most players happily inhabit."],
+      ["Mid and high goal (3-10)", "National-circuit tournaments and patron-funded professional teams at the US Open and Gold Cup level."],
+      ["Argentina", "The summit: the Triple Crown spring in Buenos Aires, where the world's 10-goal players live."]
+    ],
+    "events": [
+      ["Campeonato Argentino Abierto", "The Argentine Open at Palermo, Buenos Aires, every spring since 1893 — polo's summit and its most storied trophy."],
+      ["The Triple Crown", "The Tortugas, Hurlingham and Palermo opens in one Argentine season — the rarest achievement in the sport."],
+      ["FIP World Polo Championship", "The world championship for national teams, held since 1987 on a capped-handicap format."],
+      ["US Open Polo Championship", "The premier United States title, decided each spring in Wellington, Florida."],
+      ["Cowdray Park Gold Cup", "Britain's high-goal crown, contested at Midhurst each summer."],
+      ["Westchester Cup", "The Britain-USA challenge trophy, contested on and off since 1886 and polo's oldest international."]
+    ],
+    "legends": [
+      ["Adolfo Cambiaso", "Argentina's 10-goal genius — the youngest player ever to reach 10 goals, at 17 in 1993 — and record winner of the Argentine Open."],
+      ["La Dolfina", "The superclub Cambiaso built in 2000, winner of repeated Triple Crowns and a decade of Palermo titles."],
+      ["Tommy Hitchcock Jr.", "The American 10-goal star of the 1920s and 1930s and the benchmark player of polo's golden Olympic era."],
+      ["Argentina", "The superpower: Palermo's open tournaments attract every top professional, and the country supplies the world's best players and ponies."]
+    ],
+    "getting_started": [
+      "Take riding lessons first; polo is a riding sport with a ball attached, and six months of flatwork is a fine start.",
+      "Find a polo school through the HPA, USPA or FIP; most offer beginner packages with ponies and mallets included.",
+      "Hit one hundred strokes a session on the wooden horse, forehand before backhand, before your first chukka.",
+      "Watch one high-goal match with the line of the ball in mind; half of polo's rules are that single concept.",
+      "Budget honestly — lessons and leased ponies first, ownership much later, and arena polo as the cheaper door.",
+      "Learn pony care from day one, because in polo the athlete is a partnership."
+    ],
+    "glossary": [
+      ["Chukka", "A seven-minute period; players change ponies between them."],
+      ["Line of the ball", "The imaginary line the ball has travelled, creating right of way — polo's fundamental law."],
+      ["Ride-off", "A shoulder-to-shoulder bump used to push an opponent off the line."],
+      ["Hook", "Catching an opponent's mallet to spoil the stroke, legal when timed to the swing."],
+      ["Neck shot", "A ball struck under the pony's neck, the most useful of the angled hits."],
+      ["Tail shot", "A ball hit behind the pony's tail to turn defence into attack."],
+      ["Handicap", "A player's goal rating from minus-two to plus-ten, reassessed each season."],
+      ["Throw-in", "The umpire rolling the ball between the teams to start play and restart after goals."],
+      ["Divot stamping", "The half-time tradition of replacing turf kicked up by the ponies, the crowd's job."],
+      ["Patron", "An amateur who funds a team and plays alongside hired professionals, the sport's economic engine."]
+    ],
+    "related": ["horse-racing", "show-jumping", "eventing", "field-hockey"],
+    "crosslink": false
+  },
+  {
+    "slug": "roller-derby",
+    "name": "Roller Derby",
+    "category": "team-ball",
+    "glyph": "🛼",
+    "tagline": "Punk rock on eight wheels: jammers, blockers and the apex jump.",
+    "origin": "USA · 1935",
+    "tags": ["Team sport", "Women-led", "Full contact", "Grassroots"],
+    "overview": [
+      "Roller derby is a contact sport on quad skates: two teams of five circle a flat oval, each protecting a jammer whose job is to pass the opposing pack and score a point for every skater lapped. Blockers hit, hold and herd in jams of up to two minutes across two 30-minute periods. It is a sprint race welded to a wrestling match, and it is played almost entirely on floors borrowed from sports halls.",
+      "Invented as a Depression-era endurance spectacle in 1935 Chicago and reborn around 2001 in Austin, Texas, the modern game is proudly do-it-yourself: leagues are athlete-run, the rules come from the skater-governed WFTDA, and more than a thousand clubs now span dozens of countries. Women built the revival and still lead it, from beginner intake to world championships. Derby names — the alter-ego nicknames on every roster — are the sport's folk art.",
+      "A newcomer should expect the first months to be pure skating school, because falls, stops, crossovers and the minimum-skills tests come before any contact. The fitness demand is repeated sprinting with collisions attached. Every league teaches from zero, and none expects you to arrive able."
+    ],
+    "facts": [
+      ["Origin", "Leo Seltzer's Transcontinental Roller Derby, staged at the Chicago Coliseum on 13 August 1935 as an endurance spectacle"],
+      ["Governing bodies", "Women's Flat Track Derby Association (WFTDA, formed 2004) writes the global rules; MRDA and JRDA run men's and junior play"],
+      ["Team size", "Five a side per jam: one jammer, one pivot and three blockers"],
+      ["Match length", "Two 30-minute periods made of jams lasting up to two minutes"],
+      ["Playing area", "A flat oval traced in rope and tape on a sports-hall floor, laid out to WFTDA track specifications"],
+      ["Olympic status", "Not an Olympic sport; international play centres on the Roller Derby World Cup"],
+      ["Global reach", "More than a thousand leagues across dozens of countries, most founded since 2005 and athlete-run"]
+    ],
+    "history": [
+      ["1935", "Leo Seltzer packs the Chicago Coliseum with a marathon skating race styled as a transcontinental derby."],
+      ["1938", "Sportswriter Damon Runyon persuades Seltzer to add physical contact, and the modern derby is born."],
+      ["1950s-1970s", "The banked-track derby becomes a television staple under Seltzer's son Jerry, touring the country with made-for-television rivalries."],
+      ["2001", "Skaters in Austin, Texas revive the game as a do-it-yourself flat-track sport run by the athletes themselves."],
+      ["2004", "Skater-run leagues form what becomes the WFTDA, which now writes the rules used worldwide."],
+      ["2011", "The first Roller Derby World Cup is held in Toronto, and the United States wins it."],
+      ["2010s onward", "The sport spreads to more than forty countries, with men's and junior associations and continental championships joining the calendar."]
+    ],
+    "formats": [
+      ["Flat track", "The worldwide standard: a roped oval on any sports-hall floor, played under WFTDA rules."],
+      ["Banked track", "The curved wooden track of the television era, kept alive by a handful of dedicated leagues."],
+      ["Men's roller derby", "MRDA leagues playing the same rules with the same ferocity."],
+      ["Junior derby", "JRDA programs for skaters under 18, scaling contact as skill grows."],
+      ["World Cup derby", "National teams in the World Cup format, the sport's international summit."]
+    ],
+    "skills": [
+      ["Derby stance and stride", "Low, chest-up skating with short, powerful strides and knees always bent.", "Five laps low between waist-high markers per repetition; success is a burning quad set, not lap times."],
+      ["Crossovers", "Crossing the outer foot over the inner to gain speed through the corners, derby's engine.", "Ten minutes of clockwise crossover laps per session, progressing to crossovers under a blocker's shoulder."],
+      ["Blocking", "Legal contact: hips and shoulders into an opponent's torso, above the knee, from the side or front.", "Twenty hip checks per side against a padded partner at half speed, adding shoulders only when both skaters can fall safely."],
+      ["Positional blocking", "Building walls — linked blockers controlling the track's width without a single hit.", "Wall drills at 70 per cent speed: four linked blockers hold a line across the track for ten laps without breaking."],
+      ["Jamming", "Explosive first laps, jukes through walls and the nerve to take the inside line.", "Zero-to-full-speed starts through a gate of blockers, ten repetitions, plus five-cut cone slaloms at speed."],
+      ["Apex jump", "The jammer's airborne cut across the corner, passing blockers while in flight rather than through them.", "Twenty skating-only approaches, then jumps over a soft marker, always landing in full pads."],
+      ["Falling and recovery", "Single-knee slides and instant four-point recoveries, drilled until they are reflexes.", "Twenty fall-and-recover circuits per session: drop, slide, rise, skate."],
+      ["Jam endurance", "The classic benchmark is 27 laps in five minutes, the sport's shared fitness currency.", "Skate the 27-in-5 monthly as a benchmark and five 90-second jam simulations weekly at full effort."]
+    ],
+    "rules": [
+      "Games run two 30-minute periods divided into jams of up to two minutes.",
+      "Each team fields five skaters per jam: a jammer wearing the star, a pivot wearing the stripe, and three blockers.",
+      "The jammer scores one point for every opponent passed legally, after the initial pass that sets lead-jammer status.",
+      "The lead jammer — first through the pack legally — may end the jam at any moment by placing hands on hips.",
+      "A star pass lets the pivot take over jamming mid-jam, the sport's signature switch play.",
+      "Penalties are 30 seconds in the box, seven penalties mean expulsion, and back blocks, elbows and cutting the track are the everyday sins.",
+      "Blockers must keep the pack together; deliberately destroying it is as illegal as any hit."
+    ],
+    "equipment": [
+      ["Quad skates", "Low-cut boots on quad plates built for agility — $250-700, the one purchase not to cheap out on."],
+      ["Wheels and bearings", "Grippy wheels for slick floors and harder ones for grippy floors; a rotation of durometers, $50-120 a set."],
+      ["Helmet", "A certified multi-impact helmet, replaced after heavy knocks — $50-120."],
+      ["Pad set", "Knee, elbow and wrist guards, non-negotiable at every level — $60-150."],
+      ["Mouthguard", "Required for contact play — $10-50."],
+      ["Toe stops and tool kit", "Adjustable toe stops for starts, plus a bearing tool and spare nuts that live in every derby bag."]
+    ],
+    "training": [
+      "Complete your league's minimum-skills curriculum before contact — typically eight to twelve weeks of skating, stops and falls.",
+      "Build the derby engine with repeated 20-40 second all-out skates and incomplete rest, because a jam is a sprint with collisions in it.",
+      "Lift for the hit: squats, hip thrusts and single-leg work twice a week mean harder blocks and fewer injuries.",
+      "Train anti-rotation core with Pallof presses and carries, because blockers are shoved and pulled for thirty minutes at a time.",
+      "Practise falls deliberately, padded, every session; the reflex you drill is the collarbone you save.",
+      "Review footage of your own jams weekly, because derby is chess at speed and the board is clearest afterwards."
+    ],
+    "pathway": [
+      ["Fresh meat intake", "Every league runs a beginner program — skating, falls and rules — before anyone is allowed near contact."],
+      ["Minimum skills clearance", "Pass the league's skating and safety tests, with the 27-laps-in-five-minutes benchmark the famous hurdle."],
+      ["Roster and home season", "League teams play home-and-away seasons of bouts, capped by internal playoffs and promotion."],
+      ["Charter or travel team", "Each league's top rosters chase WFTDA rankings, Continental Cups and Championships."],
+      ["National team", "World Cup selection, the sport's international peak."]
+    ],
+    "events": [
+      ["WFTDA Championships", "The autumn climax of the global season, crowning the world's champion league."],
+      ["WFTDA Continental Cups", "Postseason brackets for leagues outside the global top tier, feeding the championship path."],
+      ["Roller Derby World Cup", "National teams, held in 2011, 2014 and 2018, with the United States winning every edition to date."],
+      ["MRDA Championships", "The men's association's end-of-season world bracket."],
+      ["League home seasons", "Local doubleheader bouts run by the skaters themselves, the DIY heart of the sport."]
+    ],
+    "legends": [
+      ["Bonnie Thunders", "Nicole Williams, the flat-track era's defining jammer, who led Gotham Girls Roller Derby to five WFTDA championships."],
+      ["Gotham Girls Roller Derby", "New York's five-time WFTDA champion between 2008 and 2014, the dynasty of the revival's first decade."],
+      ["Rose City Rollers", "Portland's league, WFTDA champions in 2015 and 2016, which broke Gotham's grip."],
+      ["Suzy Hotrod", "Gotham's poster jammer of the revival years and one of the first derby names casual fans ever knew."],
+      ["Team USA", "Winners of every women's Roller Derby World Cup to date, the deepest talent pool in the sport."]
+    ],
+    "getting_started": [
+      "Find your nearest league — most cities have one, and almost all run beginner intakes with loaner skates.",
+      "Buy pads before skates: helmet, knees, elbows and wrists; borrow or rent everything else for the first month.",
+      "Skate outdoors in week one, twenty minutes a day of stroking and gliding to flatten the learning curve.",
+      "Watch one full WFTDA bout and track only the jammers for the first half to learn the scoring.",
+      "Practice the 27-laps-in-five-minutes benchmark monthly once you can skate it safely; it is the sport's universal fitness currency.",
+      "Choose a derby name and number with care — the tradition is half the fun and yours to keep."
+    ],
+    "glossary": [
+      ["Jammer", "The point scorer, marked by a star on the helmet and the only skater who can score."],
+      ["Pivot", "The striped-helmet blocker who sets the pace and may inherit jamming through the star pass."],
+      ["Blocker", "The three hitters and holders whose twin jobs are stopping the opposing jammer and clearing a lane for their own."],
+      ["Jam", "A play of up to two minutes, ended early only by the lead jammer or the clock."],
+      ["Lead jammer", "The first jammer through the pack legally, alone allowed to call off the jam."],
+      ["Star pass", "Passing the jammer's star cover to the pivot, switching roles mid-jam."],
+      ["Apex jump", "The jammer's leap across the corner, passing blockers while airborne."],
+      ["Pack", "The largest group of blockers from both teams skating in proximity; its speed governs play."],
+      ["Penalty box", "The sin bin where penalties are served, thirty seconds at a time."],
+      ["Power jam", "A jam in which the opposing jammer sits in the box, derby's power play."]
+    ],
+    "related": ["short-track-speed-skating", "speed-skating", "ultimate-frisbee"],
+    "crosslink": false
+  },
+  {
+    "slug": "water-polo",
+    "name": "Water Polo",
+    "category": "team-ball",
+    "glyph": "🤽",
+    "tagline": "Swimming, wrestling and handball in deep water.",
+    "origin": "Britain · 1870s",
+    "tags": ["Team sport", "Olympic 1900", "Contact", "Pool"],
+    "overview": [
+      "Water polo is seven-a-side handball in deep water: six field players and a goalkeeper per team, throwing a ball one-handed into three-by-0.9-metre goals across four eight-minute quarters. Players cannot touch the bottom or hold the ball with two hands, so everything — passing, shooting, wrestling — happens while treading water. Exclusion fouls send offenders out for twenty seconds, turning matches into a chess of six-on-five power plays.",
+      "Victorian Britain brewed it as water football in the 1870s, and it became the first team sport of the modern Olympic Games at Paris in 1900. Hungary has since won nine men's golds — the 1956 Blood in the Water match against the USSR is sport history — while Serbia took the last three Olympic titles and the United States women won three straight from 2012 to 2021. In Hungary, Italy, Serbia, Spain and the Balkans, it is a professional sport that fills indoor arenas.",
+      "A newcomer's gateway skill is the eggbeater kick, and sixty seconds of it with hands clear of the water is the entry ticket. Swimming fitness is assumed rather than built at the sport's upper levels. Beginners should track one driver off the ball when watching, because the swimming you barely notice is the actual game."
+    ],
+    "facts": [
+      ["Origin", "Devised in 1870s Britain as water football; Scotland's William Wilson wrote the first rules, and the first international followed in 1890"],
+      ["Governing body", "World Aquatics, founded as FINA in 1908 and renamed in 2023"],
+      ["Team size", "Seven in the water — six field players and a goalkeeper — from squads of thirteen"],
+      ["Match length", "Four eight-minute quarters of stopped-clock time"],
+      ["Playing area", "Men historically 30 x 20 m and women 25 x 20 m with a 1.8 m minimum depth; World Aquatics standardized 25.60 x 20 m for its major events from 2025"],
+      ["Olympic status", "Men's gold contested since Paris 1900, the oldest Olympic team sport, and women's since Sydney 2000"],
+      ["World championships", "On the World Aquatics Championships program since 1973 for men and 1986 for women"]
+    ],
+    "history": [
+      ["1870s-1885", "British swimming clubs rough out water football; William Wilson publishes the first rules and the sport wins official recognition in 1885."],
+      ["1890", "Scotland beats England in London in the first water polo international."],
+      ["1900", "Water polo joins the Paris Olympics as the first team sport of the modern Games and never leaves the program."],
+      ["1908", "FINA is founded in London and takes charge of the international rules."],
+      ["1932-1964", "Hungary's golden era brings five Olympic titles in seven Games, etched forever by the 1956 Blood in the Water semifinal against the USSR in Melbourne."],
+      ["2000", "Women's water polo debuts at the Sydney Olympics, and Australia takes the first gold with a famous last-second goal."],
+      ["2012-2021", "The United States women win three straight Olympic titles and establish the modern game's defining dynasty."],
+      ["2023-2025", "FINA becomes World Aquatics, and from 2025 a standardized 25.60 x 20 m field of play applies at its major events."]
+    ],
+    "formats": [
+      ["Men's water polo", "The classic international and club format, the world of Hungary's and Serbia's dynasties."],
+      ["Women's water polo", "Olympic since 2000 and a world championship since 1986, led in the modern era by the United States."],
+      ["Youth and junior worlds", "World Aquatics youth and junior championships feeding every national pipeline."],
+      ["Club water polo", "Professional leagues in Hungary, Italy, Spain, Greece, Croatia and Serbia, crowned by the Champions League."],
+      ["College water polo", "The NCAA game, above all in California, the engine room of American international success."]
+    ],
+    "skills": [
+      ["Eggbeater", "The alternating circular kick that holds a player's shoulders above water for passing, shooting and wrestling.", "Three sixty-second sets daily with hands out, then with a weight belt or held ball, progressing to partner pressure."],
+      ["One-handed passing and catching", "Catching clean and releasing instantly; field players may never use two hands.", "Fifty dry passes then fifty wet passes in pairs at eight to twelve metres, both shoulders."],
+      ["Shooting", "Skip shots off the water, lobs over the keeper and cross-cage power shots behind a fake.", "Sixty shots per session after sprint swimming, because shooting tired is shooting in matches."],
+      ["Centre forward play", "The hole set: sealing a defender in front of goal, holding position and turning to shoot or draw exclusions.", "Ten thirty-second wrestling bouts with a defender on the back, turning to finish on the whistle."],
+      ["Driving and drawing", "Perimeter attackers cutting hard to goal to score or draw the exclusion foul.", "Repeated drive-and-cut patterns off a passer, six drives per repetition, the driver calling early for the wet pass."],
+      ["Counterattack", "Turnover to goal in three passes, the transition game that decides matches between equals.", "Sprint-lane relays ending in a two-on-one finish, with the coach releasing the ball on the whistle."],
+      ["Goalkeeping", "Positional blocking on the eggbeater, lunge saves and the authority to organize a defence.", "Circuits of one hundred shots in fifteen minutes from all angles, with lateral movement between cones."],
+      ["Press and drop defence", "Choosing when to press perimeter attackers outright and when to sag onto the centre forward.", "Walk-through five-on-six defence drills, then live man-down sets with communication as the target."]
+    ],
+    "rules": [
+      "Seven a side in the water — six field players and a goalkeeper — from squads of thirteen.",
+      "Four eight-minute quarters of stopped time; the shot clock allows thirty seconds per possession and twenty after certain restarts.",
+      "Field players may touch the ball with one hand only; goalkeepers may use two within five metres of their goal.",
+      "Ordinary fouls award a free throw; major fouls such as sinking, pulling back or kicking exclude the offender for twenty seconds.",
+      "A major foul on a shooter inside five metres concedes a penalty shot from the five-metre line.",
+      "A player with three major fouls is out for the match, and violent play brings a full match penalty.",
+      "After each goal, teams sprint back for a restart at the centre line — water polo's signature chaos."
+    ],
+    "equipment": [
+      ["Ball", "A waterproof, grip-textured ball, size 5 for the men's game — $40-80."],
+      ["Swimwear", "Reinforced suits built to survive wrestling; suits tear, so buy two — $40-90."],
+      ["Caps", "Numbered caps with hard ear guards, white and dark for the teams, red for keepers — $20-40."],
+      ["Mouthguard", "Legal, cheap and wise against the elbows that find every centre forward — $10-50."],
+      ["Training kit", "Fins, pull buoy and weight belt for swim and leg sets — $60-150."],
+      ["Goals", "A 3 x 0.9 m floating or wall-mounted goal, provided by clubs along with the pool."]
+    ],
+    "training": [
+      "Swim the base: three-to-five-kilometre sessions with kick and pull work build the engine everything else runs on.",
+      "Train the legs as a sport of their own, with eggbeater sets under resistance and vertical kicking, because the game is played at eggbeater height.",
+      "Protect the shoulders with rotator-cuff bands, scapular control and disciplined throwing volume — the throwing athlete's insurance.",
+      "Run repeated sprint sets of ten 15-metre efforts with twenty to thirty seconds rest, because every match is a series of short, violent swims.",
+      "Add wrestling strength with chin-ups, rows and grip work, plus partnered wrestling in the pool, the sport's hidden half.",
+      "Drill man-up and man-down sets weekly, because the six-on-five wins and loses most matches at every level."
+    ],
+    "pathway": [
+      ["Age-group club", "Under-10 to under-18 club water polo wherever pools exist, usually recruiting from swim teams."],
+      ["High school and college", "Scholastic leagues and, in the United States, the strongest intercollegiate pipeline in the sport."],
+      ["National junior teams", "Youth and junior world championships under the World Aquatics umbrella."],
+      ["Professional club", "Contracts in Hungary, Italy, Spain, Greece, Croatia and Serbia — modest wages, serious water polo."],
+      ["National team", "The full international cycle: worlds, World Cup, World League and the Olympic tournament every four years."]
+    ],
+    "events": [
+      ["Olympic water polo", "Every four years since 1900 for men and 2000 for women; Hungary leads the men's table with nine golds."],
+      ["World Aquatics Championships", "The sport's biggest prize outside the Games, on the championship program since 1973."],
+      ["Water Polo World Cup", "World Aquatics' cup for the top national teams, contested since 1979."],
+      ["Champions League", "European Aquatics' club championship, the strongest club competition on earth, with Italy's Pro Recco its most crowned club."],
+      ["NCAA championships", "The American college finals, the engine room of the United States' international program."]
+    ],
+    "legends": [
+      ["Dezső Gyarmati", "Hungarian great who won Olympic gold as a player in 1952, 1956 and 1964 and coached the 1976 champions — the sport's most complete winner."],
+      ["Manuel Estiarte", "Spain's six-time Olympian between 1980 and 2000, finally lifted to gold at Atlanta 1996."],
+      ["Tony Azevedo", "The American playmaker who competed at five Olympic Games from 2000 to 2016, won silver in 2008 and became the face of his generation."],
+      ["Maggie Steffens", "Engine of the United States' three straight Olympic titles in 2012, 2016 and 2021, twice the tournament MVP and by common consent the greatest woman to play."],
+      ["Serbia's men's team", "Olympic champions in 2016, 2021 and 2024, three in a row and the standard the rest of the world chases."]
+    ],
+    "getting_started": [
+      "Learn the eggbeater first; sixty seconds with hands out of the water is the entry ticket, and without it nothing else works.",
+      "Come from swimming if you can — a season of competitive freestyle makes the transition twice as fast.",
+      "Find a club through your national federation; masters programs welcome adult beginners in most pool cities.",
+      "Buy a ball and cap early and log twenty minutes of one-handed passing against a wall or partner three times a week.",
+      "Watch one Olympic match tracking a single driver, because the off-the-ball swimming is the actual game.",
+      "Drill wet passes and shooting at the end of training when the arms are dead; tired skills are the only ones that count."
+    ],
+    "glossary": [
+      ["Eggbeater", "The alternating circular kick that lifts a player's torso clear of the water."],
+      ["Exclusion", "A major foul sending the offender to the re-entry area for twenty seconds, creating the six-on-five."],
+      ["Centre forward", "The post-up attacker stationed in front of goal, the hole set around whom every attack orbits."],
+      ["Man-up and man-down", "The six-on-five power play after an exclusion, and the defence that must survive it."],
+      ["Skip shot", "A shot bounced off the water's surface to jump past the keeper."],
+      ["Lob", "A soft shot floated over an advancing goalkeeper."],
+      ["Counterattack", "The fast-break transition after a turnover, water polo's most decisive weapon."],
+      ["Dead-time foul", "A foul committed between the whistle and the restart, usually upgrading the punishment."],
+      ["Five-metre", "The line from which penalty shots are taken, and the zone in which keepers may use two hands."],
+      ["Wet pass", "A pass deliberately placed on the water ahead of a sprinting teammate."]
+    ],
+    "related": ["swimming", "handball", "open-water-swimming"],
+    "crosslink": false
+  }
+]

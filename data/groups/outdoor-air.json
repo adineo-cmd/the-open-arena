@@ -1,0 +1,1971 @@
+[
+  {
+    "slug": "sport-climbing",
+    "name": "Sport Climbing",
+    "category": "outdoor-air",
+    "glyph": "🧗",
+    "tagline": "Bolted walls and bold lines — rope, quickdraws, and the redpoint's long courtship.",
+    "origin": "Europe (1970s-80s bolt era) · IFSC 2007 · Olympic 2020",
+    "tags": [
+      "Olympic",
+      "Lead & speed",
+      "Roped climbing",
+      "Graded difficulty"
+    ],
+    "overview": [
+      "Sport climbing is roped climbing on protected routes: bolts placed into the rock (or plastic holds on gym walls) catch falls as climbers work moves protected by quickdraws. Its Olympic disciplines are lead (climbing as high as possible on a 15-meter wall in a fixed time), speed (a race up a standardized 15-meter route), and the bouldering branch (see bouldering) — with the combined formats making their Olympic debut at Tokyo 2020 and separating at Paris 2024.",
+      "The sport grew from 1970s-80s European climbing (the bolt wars of Verdon and the Frankenjura), through the grade inflation of the 1990s (Adam Ondra's era redefining what was climbable) into the IFSC's world cup circuit (founded 2007) and Olympic recognition. The greats — Lynn Hill's free ascent of The Nose, Tommy Caldwell's Dawn Wall, Janja Garnbret's dominance — sit alongside the gym boom that made climbing one of the fastest-growing activities of the 2020s.",
+      "Newcomers should start in a gym with a belay course: climbing's safety system (the belayer's brake hand, the checks, the communication calls) is learned in an evening and practiced forever. Lead climbing comes after top-rope confidence; grading systems (the French sport grades, the Yosemite Decimal System) give the ladder its language."
+    ],
+    "facts": [
+      [
+        "Modern origins",
+        "1970s-80s Europe — the bolting era (Verdon Gorge, Frankenjura) creates sport climbing; Alan Watts-era US development follows"
+      ],
+      [
+        "Governing body",
+        "International Federation of Sport Climbing (IFSC, 2007, merging the ICC era); world cups and world championships"
+      ],
+      [
+        "Olympic history",
+        "Tokyo 2020 (combined format: speed, boulder, lead); Paris 2024 (separate speed and combined boulder-and-lead)"
+      ],
+      [
+        "The disciplines",
+        "Lead (15 m wall, fixed time), speed (standardized 15 m wall, world records near 4.7 seconds), bouldering (see bouldering page)"
+      ],
+      [
+        "Grades",
+        "French sport grades (7a, 8c) and the YDS (5.10-5.15); the world's hardest routes sit at 9c grade frontiers by climber"
+      ],
+      [
+        "Speed records",
+        "Samuel Watson and Aleksandra Miroslaw's sub-5-second / sub-6-second era runs"
+      ]
+    ],
+    "history": [
+      [
+        "1800s-1970s",
+        "Alpinism's crag descendants: free climbing ethics develop (the YDS, the clean-climbing movement after Chouinard's era)."
+      ],
+      [
+        "1970s-1980s",
+        "The bolt era: Verdon and the Frankenjura's Sportklettern; Lynn Hill's free ascent of The Nose (1993) caps the movement's legitimacy."
+      ],
+      [
+        "1990s-2000s",
+        "Grade inflation's leap: 9a+ routes, Chris Sharma's era, and the gym boom's beginnings."
+      ],
+      [
+        "2007-2016",
+        "The IFSC consolidates competition climbing: world cups in lead, speed, and bouldering; gyms multiply worldwide."
+      ],
+      [
+        "2020-2024",
+        "Olympic debut (Tokyo's combined) and the Paris split-format era; Janja Garnbret's double golds and the sport's mainstream arrival."
+      ]
+    ],
+    "formats": [
+      [
+        "Lead climbing",
+        "15-meter routes, one attempt, highest hold counts: the Olympic lead discipline."
+      ],
+      [
+        "Speed climbing",
+        "The standardized 15-meter wall (IFSC homologated holds, twin lanes): pure sprint climbing."
+      ],
+      [
+        "Combined (boulder-and-lead)",
+        "Paris 2024's format: boulder scores and lead scores multiplied combined into one ranking."
+      ],
+      [
+        "Outdoor sport climbing",
+        "The crag game: redpoints of bolted routes at graded difficulty — the sport's soul."
+      ]
+    ],
+    "skills": [
+      [
+        "Footwork & body position",
+        "Climbing's real secret: precise feet, hips into the wall, and weight management that saves arms.",
+        "Silent-feet drills (climb a route listening for noise); hip-position practice (drop knee, flag); traverse laps focusing only on feet."
+      ],
+      [
+        "Route reading",
+        "The pre-climb plan: identifying holds, sequences, and rest positions from the ground.",
+        "Flash-reading drills (read, then climb without falls); sequence discussion with partners; memory rehearsal per route."
+      ],
+      [
+        "Lead technique & clipping",
+        "The lead game: rope management, clipping positions, and fall psychology.",
+        "Clipping practice (quickdraws at height); hang-dog falls (progressive lead falls) with a trusted belayer; no-fall commitment ladders."
+      ],
+      [
+        "Movement vocabulary",
+        "The techniques: drop knee, heel hook, toe hook, flag, deadpoint, and dynamic moves (dynos).",
+        "Technique circuits (one move-type per session); boulder problems built around each technique; video review monthly."
+      ],
+      [
+        "Finger & pulling strength",
+        "The sport's specific strength: hangboard (edge and pocket) work, weighted pulls, and the antagonists' care.",
+        "Hangboard protocols (7-on-3-off repeaters, progressive loads); pull-up ladders; antagonist work (push-ups, shoulder bands) to balance."
+      ],
+      [
+        "Redpoint strategy",
+        "The project method: working moves, linking sections, and the mental game of the send.",
+        "Project-day structure (moves, then links, then full attempts); rest-day discipline; fall analysis journals."
+      ]
+    ],
+    "rules": [
+      "Lead format: climbers attempt a 15 m wall in a fixed time (6 min), highest score by hold (top = 100 by scoring system); falls end the attempt.",
+      "Speed: standardized wall, false starts (reaction time checked), single two runs with the faster counting; world records ratified with sensor timing.",
+      "Combined (boulder + lead): scores from both disciplines multiplied (Paris 2024 era) into one ranking.",
+      "Outdoor ethics: bolted routes climbed from the ground (ground-up redpoint style), falls caught by the belayer, and the leave-no-trace chip-free ethic — route development has its own ethics wars.",
+      "Gym rules: belay certification required, checks before every climb, and the gym's grading honesty.",
+      "Competition conduct: isolation iso-zone protocols, route viewing periods, and the referees' hold scoring judgments.",
+      "Anti-doping applies at IFSC level (WADA code)."
+    ],
+    "equipment": [
+      [
+        "Rope & quickdraws",
+        "A 60-70 m dynamic rope ($150-300) and a dozen draws ($12-25 each) — the sport's protection system."
+      ],
+      [
+        "Harness & belay device",
+        "Comfortable harness ($50-90) and a belay device (ATC or assisted-braking, $20-90)."
+      ],
+      [
+        "Climbing shoes",
+        "The sport's most personal tool ($80-200): beginner comfort first, aggressive down-turned shoes later."
+      ],
+      [
+        "Chalk & brush",
+        "The chalk bag, chalk, and a route brush ($30-50) — gym etiquette includes brushing your marks."
+      ],
+      [
+        "Hangboard",
+        "The home training tool ($60-120) — used with discipline (finger injuries are the sport's tax)."
+      ]
+    ],
+    "training": [
+      "Climb more than you train: volume on varied routes builds the movement library fastest.",
+      "Train fingers carefully: hangboard twice weekly with progressive loads; never hang on injured fingers.",
+      "Technique over strength for the first two years: most plateaus are footwork problems.",
+      "Antagonist and shoulder work: push-ups, band work, and shoulder prehab keep climbers out of physio.",
+      "Rest as training: tendons adapt slower than muscles — the sport's hardest lesson."
+    ],
+    "pathway": [
+      [
+        "Gym intro & belay course",
+        "Top-rope certification and the movement ladder (V0-V3, 5.7-5.10)."
+      ],
+      [
+        "Lead & boulder progression",
+        "Lead class, then outdoor trips with experienced partners."
+      ],
+      [
+        "Local comps & outdoor seasons",
+        "Gym competitions and crag seasons building redpoints."
+      ],
+      [
+        "IFSC youth & national events",
+        "National championships and the youth world circuit."
+      ],
+      [
+        "World cups & the Olympics",
+        "The IFSC circuit and the Games' lead, speed, and combined events."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic climbing",
+        "Tokyo 2020's debut and Paris 2024's split formats: lead, speed, and boulder-and-lead."
+      ],
+      [
+        "IFSC World Championships & World Cups",
+        "Annual world titles and the circuit's stops (Kranj, Briançon, Chamonix)."
+      ],
+      [
+        "IFSC Speed world records",
+        "The sub-5-second era's sprints on the standard wall."
+      ],
+      [
+        "The outdoor majors",
+        "The world's hardest redpoints (Silence's 9c, the Dawn Wall's free ascent) — climbing's non-competition summit."
+      ],
+      [
+        "National championships & gym leagues",
+        "The grassroots calendar everywhere."
+      ]
+    ],
+    "legends": [
+      [
+        "Lynn Hill",
+        "USA — the first free ascent of The Nose (1993): 'It goes, boys' — climbing's declaration of equality."
+      ],
+      [
+        "Adam Ondra",
+        "Czechia — the grade frontier's great explorer: the world's hardest routes (Silence 9c) and world titles."
+      ],
+      [
+        "Janja Garnbret",
+        "Slovenia — multiple Olympic golds and near-perfect world cup seasons: the sport's most dominant champion."
+      ],
+      [
+        "Tommy Caldwell",
+        "USA — the Dawn Wall's first free ascent (with Kevin Jorgeson, 2015): climbing's greatest modern epic."
+      ],
+      [
+        "Chris Sharma",
+        "USA — the 2000s' grade-mover: the routes (La Dura Dura, Es Pontas) that dragged the frontier forward."
+      ]
+    ],
+    "getting_started": [
+      "Take the gym's belay course with a friend: a trusted belayer is the sport's real entry ticket.",
+      "Climb easy routes with perfect feet for a month: technique compounds faster than strength.",
+      "Buy shoes and chalk after two weeks; rope gear when you lead.",
+      "Find outdoor partners through the gym's community: mentorship is the sport's culture.",
+      "Learn to fall (on lead, progressively): the fear book deserves its own training.",
+      "Watch one IFSC lead final: the movement vocabulary at the top is its own education."
+    ],
+    "glossary": [
+      [
+        "Redpoint",
+        "Leading a route clean after practice — the sport's standard send."
+      ],
+      [
+        "Quickdraw",
+        "The two-carabiner sling connecting rope to bolt."
+      ],
+      [
+        "Crank 'Crimp'",
+        "The small-edge finger grip — the sport's bread and injury."
+      ],
+      [
+        "Drop knee",
+        "The hip-opening technique that turns walls into stairs."
+      ],
+      [
+        "Heel hook",
+        "Hooking the heel to pull with the leg — climbing's biomechanical cheat code."
+      ],
+      [
+        "Dyno",
+        "The dynamic jump between holds."
+      ],
+      [
+        "Flail",
+        "Losing control on the wall — every climber's tuition."
+      ],
+      [
+        "Belayer",
+        "The rope-handling partner: the sport's most important relationship."
+      ],
+      [
+        "Grade (5.12, 7c)",
+        "The difficulty ladder's language (YDS and French systems)."
+      ],
+      [
+        "Send",
+        "The successful climb — the culture's one-word cheer."
+      ]
+    ],
+    "related": [
+      "bouldering",
+      "mountaineering",
+      "orienteering",
+      "artistic-gymnastics",
+      "track-and-field"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "bouldering",
+    "name": "Bouldering",
+    "category": "outdoor-air",
+    "glyph": "🪨",
+    "tagline": "Ropeless puzzles on boulders — a few moves, total commitment, crash pads below.",
+    "origin": "UK (Pebble the 1950s era) & Fontainebleau · IFSC 1997",
+    "tags": [
+      "Olympic",
+      "Short & hard",
+      "Crash pads",
+      "Problem-solving"
+    ],
+    "overview": [
+      "Bouldering is climbing without ropes on problems short enough that a fall is survivable: boulders outdoors (with crash pads and spotters) or walls up to 4.5 meters in gyms. It is climbing distilled to its hardest moves — a handful of maximum-effort sequences called problems, graded by difficulty (the V-scale in the US, Fontainebleau's system in Europe) — and it has become climbing's most popular form thanks to the gym boom.",
+      "The discipline's roots run from John Gill's 1950s mathematical approach (the first bouldering specialist) through Fontainebleau's forest culture to the IFSC's world cup series (boulder discipline since 1997-era) and the Olympic stage (part of Tokyo 2020's combined format, and the boulder-and-lead combined at Paris 2024). Janja Garnbret and the Japanese team define the competition era; the outdoor game's peaks are the world's hardest problems (9A/V17 territory).",
+      "Newcomers should start at a gym with a belay-free intro: bouldering's entry is immediate (no knots, no partner required), and the etiquette (brush your holds, don't start under other climbers, spot when asked) is simple. Expect forearms to fail before technique does, and expect to be hooked within one session."
+    ],
+    "facts": [
+      [
+        "Founding era",
+        "1950s — John Gill's bouldering specialization (chalk, dynamics, the problem-solving mindset); Fontainebleau's forest tradition parallel"
+      ],
+      [
+        "Governing body",
+        "IFSC boulder discipline (world cups since 1997 1998-99 era); Olympic combined formats"
+      ],
+      [
+        "Grades",
+        "V-scale (V0-V17, US) and Fontainebleau grades (3-9A); gym grades usually softer than outdoor"
+      ],
+      [
+        "The wall",
+        "Gyms: up to 4.5 m with thick flooring; outdoors: boulders with crash pads (typically 2-4 pads per problem)"
+      ],
+      [
+        "Olympic status",
+        "Tokyo 2020 (combined with speed and lead); Paris 2024 (boulder-and-lead combined)"
+      ],
+      [
+        "Competition format",
+        "Four problems five problems per round (qualification), scored by tops and zones within time limits"
+      ]
+    ],
+    "history": [
+      [
+        "1950s",
+        "John Gill writes bouldering's manifesto: gymnastic movement, chalk, and difficulty as the point."
+      ],
+      [
+        "1960s-1980s",
+        "Fontainebleau's circuit culture and the pebble Sheffield gritstone's headpoint era build the game's outdoor canon."
+      ],
+      [
+        "1990s",
+        "Crash pads revolutionize the sport; the V-scale (John Sherman's Hueco Tanks system) standardizes grading; gym bouldering begins."
+      ],
+      [
+        "1997-2010",
+        "IFSC world cups professionalize; boulder-only gyms open; the training revolution (hangboards, spray walls) begins."
+      ],
+      [
+        "2020-2024",
+        "Olympic eras: Tokyo's combined, Paris's boulder-and-lead; the gym boom makes bouldering climbing's biggest branch."
+      ]
+    ],
+    "formats": [
+      [
+        "Gym bouldering",
+        "Color-coded problems by grade: the sport's daily bread and its entry point."
+      ],
+      [
+        "Outdoor bouldering",
+        "Boulders, pads, and spotters: the sport's spiritual home (Fontainebleau, Hueco, Magic Wood)."
+      ],
+      [
+        "IFSC competitions",
+        "Timed rounds on 4-5 problems: tops, zones, and attempts scored."
+      ],
+      [
+        "Combined boulder-and-lead",
+        "The Olympic format's merged ranking (Paris 2024)."
+      ]
+    ],
+    "skills": [
+      [
+        "Movement efficiency",
+        "Boulder problems are movement puzzles: hip positioning, momentum use, and the minimal-strength solution.",
+        "Volume climbing at 60-70% effort; technique-focused circuits (one theme per session); silent climbing drills."
+      ],
+      [
+        "Power moves",
+        "The dynamic vocabulary: deadpoints, dynos, and catch momentum moves on bad holds.",
+        "Board spray-wall sessions for power; parkour-style jump accuracy work; lag campusing introduced carefully."
+      ],
+      [
+        "Finger strength",
+        "The sport's specific engine: hangboard repeaters, limit bouldering, and the injury-prevention discipline.",
+        "Hangboard 2× weekly (repeaters: 7 s on, 3 s off); limit boulder sessions (few tries, full rest); antagonist work always."
+      ],
+      [
+        "Reading problems",
+        "Beta route reading before pulling on: sequence plans and memory rehearsal.",
+        "Flash-attempt discipline (read first); beta-sharing etiquette; memorization games."
+      ],
+      [
+        "Falling & spotting",
+        "The safety system: landing technique (feet-first feet and hips together), pad placement, and spotting zones.",
+        "Falling drills from increasing heights; pad-placement practice; spotter communication calls."
+      ],
+      [
+        "Project psychology",
+        "The outdoor game: working problems over sessions, the frustration management, and the send day.",
+        "Project structure (moves, links, sends); rest-day honesty; the tick-list's long game."
+      ]
+    ],
+    "rules": [
+      "Competition scoring: tops (25 points 25 for top, 10 for zone by format) with fewer attempts scoring higher; timed rounds with isolation.",
+      "Gym etiquette: brush holds after use, don't start under others, wait rotation discipline at popular problems.",
+      "Outdoor ethics: brush ticks off holds, minimize chalk, respect access agreements and seasonal closures (the environment is the gym).",
+      "Pads and spotting: enough pads under the line (2-4 typical); spotters guide falls to pads, they do not catch climbers.",
+      [
+        "Grades: V and Font scales for difficulty; gym grades generally 1-2 a notch softer outdoors; grade your gym honestly."
+      ],
+      "Combined Olympic format: boulder and lead scores multiplied into one ranking (Paris 2024 rules).",
+      "Anti-doping applies at IFSC level."
+    ],
+    "equipment": [
+      [
+        "Climbing shoes",
+        "Aggressive down-turned shoes for hard bouldering ($90-220): the sport's most personal purchase."
+      ],
+      [
+        "Chalk bag & chalk",
+        "The chalk bucket for bouldering ($20-40)."
+      ],
+      [
+        "Crash pads",
+        "For outdoor sessions ($150-300 each; most problems need 2-4)."
+      ],
+      [
+        "Brush",
+        "The hold-brushing tool — gym etiquette and outdoor ethics in one ($10)."
+      ],
+      [
+        "Hangboard & resistance bands",
+        "The home training kit ($80-150)."
+      ]
+    ],
+    "training": [
+      "Volume climbing at moderate effort: 60-90 minute sessions, 2-4× weekly — the movement library compounds.",
+      "Limit bouldering weekly: 3-4 tries on projects above your level, with full rest between.",
+      "Hangboard twice weekly after six months of base: finger strength arrives on schedule, not sooner.",
+      "Antagonists and shoulders every session's end: the injury-prevention tax.",
+      "Rest days are training: tendons and skin need 48 hours — the sport's most ignored rule."
+    ],
+    "pathway": [
+      [
+        "Gym introduction",
+        "V0-V2 circuit lapping and the etiquette course."
+      ],
+      [
+        "Grade progression",
+        "V3-V6 over the first two years, technique-first."
+      ],
+      [
+        "Local comps & outdoor trips",
+        "Citizen competitions and the first Font/Hueco pilgrimages."
+      ],
+      [
+        "National championships & IFSC youth",
+        "National titles and the youth world circuit."
+      ],
+      [
+        "World cups & the Olympics",
+        "The IFSC boulder circuit and the Games' combined formats."
+      ]
+    ],
+    "events": [
+      [
+        "IFSC Boulder World Championships",
+        "Annual world titles in the boulder discipline."
+      ],
+      [
+        "IFSC Boulder World Cup circuit",
+        "The season's stops (Meiringen, Salt Lake City, Innsbruck)."
+      ],
+      [
+        "Olympic climbing",
+        "Tokyo's combined debut and Paris 2024's boulder-and-lead format."
+      ],
+      [
+        "The outdoor majors",
+        "The world's hardest problems (9A/V17 frontier) — bouldering's non-competition summit."
+      ],
+      [
+        "National championships & gym leagues",
+        "The grassroots calendar everywhere."
+      ]
+    ],
+    "legends": [
+      [
+        "John Gill",
+        "USA — bouldering's founding mathematician: the 1950s specialist who invented the sport's mindset."
+      ],
+      [
+        "Nalle Hukkataival & Daniel Woods",
+        "USA/Finland — the V16-17 frontier's setters (Hukkataival's Burden of Dreams among the world's hardest)."
+      ],
+      [
+        "Janja Garnbret",
+        "Slovenia — Olympic gold and near-perfect world cup seasons: bouldering's dominant competitor."
+      ],
+      [
+        "Ashima Shiraishi",
+        "USA — the prodigy who climbed V15 as a teenager and redefined expectations."
+      ],
+      [
+        "Aidan Roberts & the new school",
+        "The board-era generation: the spray-wall athletes pushing indoor difficulty's frontier."
+      ]
+    ],
+    "getting_started": [
+      "Just go to the gym: bouldering needs no partner, no course, no knots — shoes and chalk to start.",
+      "Climb down climb down everything early: downclimbing saves joints and teaches control.",
+      "Learn the etiquette in session one: brush holds, rotation, and spotting when asked.",
+      "Rest 3-5 minutes between hard tries: bouldering is a strength sport; recovery is the training.",
+      "Add hangboard only after six months: fingers last decades when trained patiently.",
+      "Watch one IFSC boulder final: the movement solutions at the top are a free masterclass."
+    ],
+    "glossary": [
+      [
+        "Problem",
+        "A boulder route: the bouldering route's name."
+      ],
+      [
+        "Beta",
+        "The solution's description; beta-spraying is offering it unasked."
+      ],
+      [
+        "V-grade / Font grade",
+        "The difficulty scales (V0-V17; 3-9A)."
+      ],
+      [
+        "Zone",
+        "The competition's mid-point hold: partial scoring."
+      ],
+      [
+        "Flash / send",
+        "First-try ascent with beta / the successful climb."
+      ],
+      [
+        "Campus",
+        "Training on the campus board: rung-lapping for power."
+      ],
+      [
+        "Spray wall",
+        "The dense-hold training wall — the sport's gym-within-gym."
+      ],
+      [
+        "Brush",
+        "The tool that cleans holds: gym courtesy's symbol."
+      ],
+      [
+        "Pads & spotting",
+        "The outdoor safety system: foam below, guidance beside."
+      ],
+      [
+        "Top-out",
+        "The boulder's summit: the send's true end."
+      ]
+    ],
+    "related": [
+      "sport-climbing",
+      "mountaineering",
+      "parkour",
+      "orienteering",
+      "artistic-gymnastics"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "mountaineering",
+    "name": "Mountaineering",
+    "category": "outdoor-air",
+    "glyph": "🏔️",
+    "tagline": "The summit sports — alpinism's mix of climbing, endurance, and mountain judgment.",
+    "origin": "Europe (Alps) · 1786 (Mont Blanc first ascent)",
+    "tags": [
+      "Alpinism",
+      "Altitude & weather",
+      "UIAA heritage",
+      "8000m club"
+    ],
+    "overview": [
+      "Mountaineering is the complete mountain sport: rock climbing, snow and ice climbing, glacier travel, navigation, and altitude management combined to ascend peaks — from Alpine classics (the Matterhorn's 1865 first ascent) to the 8000-meter giants (Everest's 1953 first ascent) and the modern alpinism of single-push ascents (Ueli Steck's speed records, Reinhold Messner's oxygenless Everest). It is less a competition than a craft: the summit is the goal, and the descent — where most accidents happen — is the real test.",
+      "The sport's institutions run deep: the Alpine Club (1857, the world's first), the UIAA (1932), and the Himalayan Database's records of the 8000ers. Its modern debates — commercial Everest traffic, oxygen use, and the alpine-style ethos vs expedition logistics — are the sport's character questions, and its mountaineers (Messner, the Stecks, the Kaltenbrunners) are judged by style as much as summits.",
+      "Newcomers should enter through clubs and courses: mountaineering's safety system (rope work, crevasse rescue, avalanche judgment, weather reading) is taught by mountain guide associations worldwide, and the progression (hiking → scrambling → Alpine PD/AD routes → big mountains) is measured in seasons, not weekends. Fitness, judgment, and patience are the sport's three currencies."
+    ],
+    "facts": [
+      [
+        "Founding moment",
+        "8 August 1786 — Jacques Balmat and Michel-Gabriel Paccard's first ascent of Mont Blanc (4,809 m): alpinism's birth"
+      ],
+      [
+        "Governing bodies",
+        "UIAA (International Climbing and Mountaineering Federation, 1932); national Alpine Clubs (the AC 1857, the AAC, the CAI); IFMGA guide associations"
+      ],
+      [
+        "The 8000ers",
+        "Fourteen peaks above 8,000 m: Everest (8,849 m) first ascended 1953 (Hillary and Norgay); all fourteen completed by 1986 (Messner)"
+      ],
+      [
+        "Grading systems",
+        "The Alpine grading system (F, PD, AD, D, TD, ED), the IFAS ice scale, and route-specific grading"
+      ],
+      [
+        "Disciplines",
+        "Alpine style (light, fast, self-sufficient), expedition style (fixed ropes, camps), ski mountaineering's cousin branch"
+      ],
+      [
+        "Safety reality",
+        "Descents and objective hazards (avalanche, rockfall, weather) cause most accidents — judgment is the sport's core skill"
+      ]
+    ],
+    "history": [
+      [
+        "1786-1857",
+        "The Alpine golden age begins: Mont Blanc's first ascent, the Alpine Club's founding (1857), and the great first ascents (the Matterhorn, 1865, with the Whymper tragedy)."
+      ],
+      [
+        "1865-1950",
+        "The Alps' last problems fall; the Himalaya's reconnaissance era; the 8000ers' first attempts."
+      ],
+      [
+        "1950-1953",
+        "Annapurna's first 8000er (Herzog, 1950) and Everest's first ascent (Hillary and Norgay, 1953): the great expedition era peaks."
+      ],
+      [
+        "1970s-1986",
+        "The alpine-style revolution: Messner and Habeler's oxygenless Everest (1978), Messner's solo Everest (1980), and the all-fourteen completion (1986)."
+      ],
+      [
+        "1990s-2010s",
+        "Commercial Everest's growth; the speed-alpinism era (Ueli Steck's Eiger records); K2's winter first ascent (Nims Purja's project era)."
+      ],
+      [
+        "2020s",
+        "The 14-peaks speed records (Purja's six months), winter 8000er completions, and the sport's climate-change-era reckoning."
+      ]
+    ],
+    "formats": [
+      [
+        "Alpine climbing",
+        "Single-push, light-and-fast ascents of Alpine-scale routes: the purist discipline."
+      ],
+      [
+        "Expedition mountaineering",
+        "The big mountains' logistics: camps, fixed ropes, and Sherpa-supported team-supported ascents."
+      ],
+      [
+        "Ski mountaineering",
+        "The skin-and-ski ascents (see ski mountaineering within winter pages cross-country and skimo): the winter branch."
+      ],
+      [
+        "Via ferrata & hiking summits",
+        "The protected and walking entries into mountain terrain: every alpinist's start."
+      ]
+    ],
+    "skills": [
+      [
+        "Movement on mixed terrain",
+        "Rock, snow, and ice movement: crampon technique, ice axe use, and the mountain walker's scrambler's balance.",
+        "Crampon technique courses (flat-footing, front-pointing); ice axe self-arrest drills (learned on slopes); scrambling with mentorship."
+      ],
+      [
+        "Rope work & glacier travel",
+        "The safety system: roped glacier travel, crevasse rescue, and belayed climbing on ridges.",
+        "Crevasse-rescue courses (practiced annually); rope-team drills; prusik hauling systems rehearsed until automatic."
+      ],
+      [
+        "Navigation & weather judgment",
+        "The mountain's map: compass and GPS navigation, weather-reading, and the turnaround discipline.",
+        "Navigation courses; weather-forecast literacy (mountain forecasts read daily); turnaround times set and honored."
+      ],
+      [
+        "Altitude management",
+        "The body's altitude project: acclimatization schedules, hydration, and AMS/HACE/HAPE recognition.",
+        "Climb high, sleep low protocols; symptom knowledge (headache, ataxia, breath); gradual gain rates (300-500 m sleep-gain above 3,000 m)."
+      ],
+      [
+        "Avalanche & objective hazard",
+        "The winter mountain's law: terrain assessment, snowpack basics, and the decision frameworks (avalanche problem types).",
+        "AIARE-style avalanche courses; terrain-choice practice; the human-factor training (the heuristics that kill)."
+      ],
+      [
+        "Expedition craft",
+        "The big mountains' logistics: fitness, nutrition, gear systems, and the Sherpa-partnership ethics.",
+        "Load-carriage training (rucking with pack weight); expedition nutrition planning; camp skills (melting, shelter) practiced."
+      ]
+    ],
+    "rules": [
+      "No competition rules — mountaineering is governed by judgment: the weather, the mountain's condition, and the team's honesty are the referee.",
+      "The style debate: alpine style (self-sufficient pushes) versus expedition style (camps and fixed ropes) — the sport's ethical spectrum (Messner's essays define the vocabulary).",
+      "Guiding and qualifications: IFMGA guides carry the profession's standard; clients' responsibilities are defined by guide associations.",
+      [
+        "Access and ethics: permits (national park systems, Himalayan royalties), Leave No Trace, and the fixed-rope human-waste debates of the commercial era."
+      ],
+      "Rescue: self-sufficiency expected; helicopter rescue where available is emergency infrastructure, not a plan.",
+      "Environmental duty: the mountains' climate change is visible from base camp — the sport's modern stewardship conversations.",
+      "Insurance and medical: high-altitude insurance and evacuation coverage are expedition requirements."
+    ],
+    "equipment": [
+      [
+        "Layering system",
+        "The mountain's clothing science: base, insulation, and shell layers by mountain ($500-1,500 the system)."
+      ],
+      [
+        "Boots & crampons",
+        "Mountaineering boots (B2-B3 by grade) with crampons ($300-900 together)."
+      ],
+      [
+        "Axe, ropes & protection",
+        "Ice axe, rope (60 m), slings, and hardware ($300-600 the basic rack)."
+      ],
+      [
+        "Navigation & communication",
+        "GPS, maps, altimeter, and satellite communicator (inReach-class, $300-400): the modern safety layer."
+      ],
+      [
+        "Expedition kit",
+        "Sleeping system, shelter, stove, and the altitude pharmacy (Diamox prescriptions by doctor): the big-mountain list."
+      ]
+    ],
+    "training": [
+      "Build the aerobic engine: rucking (weighted hiking), stair climbs, and long endurance days — mountaineering is an aerobic sport.",
+      "Practice the skills annually: self-arrest, crevasse rescue, and navigation drift without rehearsal.",
+      "Train altitude gradually: graduated altitude gains, hydration discipline, and honest symptom tracking.",
+      "Strength for the pack: legs and core for load carriage; the downhill strength matters as much as up.",
+      "Learn judgment deliberately: debrief every objective-hazard decision with your team — the sport's real curriculum."
+    ],
+    "pathway": [
+      [
+        "Hiking & scrambling",
+        "Mountain walking and grade-1 scrambles with clubs."
+      ],
+      [
+        "Skills courses",
+        "Glacier school, avalanche courses, and self-arrest training."
+      ],
+      [
+        "Alpine routes (PD-AD)",
+        "Guided or club-led Alpine classics building experience."
+      ],
+      [
+        "Big mountains",
+        "Aconcagua, Denali, then the 8000ers (commercial or independent by style)."
+      ],
+      [
+        "The style's frontier",
+        "Alpine-style firsts, winter ascents, and speed records — the sport's cutting edge."
+      ]
+    ],
+    "events": [
+      [
+        "The 8000ers' first ascents",
+        "Everest (1953) through Shishapangma's completion and the winter ascents (K2's 2021 first winter ascent)."
+      ],
+      [
+        "Speed alpinism records",
+        "Ueli Steck's Eiger north face records (2:47) and the modern timed ascents."
+      ],
+      [
+        "The Piolet d'Or",
+        "Mountaineering's most prestigious honor: the year's finest ascents by style."
+      ],
+      [
+        "National Alpine Club calendars",
+        "Club meets and the membership's shared seasons."
+      ],
+      [
+        "Ski mountaineering racing",
+        "The skimo world cup's Olympic arrival (Milan-Cortina 2026) — the sport's competitive branch."
+      ]
+    ],
+    "legends": [
+      [
+        "Edmund Hillary & Tenzing Norgay",
+        "New Zealand/Nepal — the 1953 Everest first ascent: the 20th century's summit moment."
+      ],
+      [
+        "Reinhold Messner",
+        "Italy — the sport's philosophical revolutionary: oxygenless Everest, the solo Everest, and all fourteen 8000ers."
+      ],
+      [
+        "Ueli Steck",
+        "Switzerland — the Swiss Machine: Eiger north face speed records and alpine-style Himalayan ascents."
+      ],
+      [
+        "Gerlinde Kaltenbrunner",
+        "Austria — the first woman to climb all fourteen 8000ers without supplemental oxygen (2011)."
+      ],
+      [
+        "Nims Purja",
+        "Nepal — the Project Possible era: all fourteen 8000ers in six months (2019) and K2's winter first ascent team."
+      ]
+    ],
+    "getting_started": [
+      "Join an Alpine Club or hiking group: the community teaches what books cannot.",
+      "Take a glacier or mountaineering course within your first year: self-arrest and crevasse rescue are mandatory literacy.",
+      "Build the aerobic base with weighted hiking: the sport's fitness is walking uphill with a heavy pack.",
+      "Start with guided Alpine routes (PD grade): the mentorship buys seasons of experience safely.",
+      "Read the classics (Into Thin Air, The White Spider, Annapurna): the sport's judgment is taught through its stories.",
+      "Respect the turnaround: the summit is optional; the descent is mandatory."
+    ],
+    "glossary": [
+      [
+        "Alpine style",
+        "Light, fast, self-sufficient climbing — no camps hanging on the route."
+      ],
+      [
+        "8000er",
+        "The fourteen peaks above 8,000 meters."
+      ],
+      [
+        "Acclimatization",
+        "The body's altitude adaptation: climb high, sleep low."
+      ],
+      [
+        "Self-arrest",
+        "Stopping a slide with the ice axe — the sport's first safety skill."
+      ],
+      [
+        "Crevasse",
+        "The glacier's crack: roped travel exists because of it."
+      ],
+      [
+        "Col & couloir",
+        "The mountain's passes and gullies."
+      ],
+      [
+        "Objective hazard",
+        "The dangers no skill removes: rockfall, avalanche, weather."
+      ],
+      [
+        "Turnaround time",
+        "The hour you promised to descend — the sport's most honorable discipline."
+      ],
+      [
+        "Bivouac (bivy)",
+        "The emergency or planned bivouac's minimal shelter."
+      ],
+      [
+        "Piolet d'Or",
+        "The golden ice axe: mountaineering's highest honor."
+      ]
+    ],
+    "related": [
+      "sport-climbing",
+      "bouldering",
+      "cross-country-skiing",
+      "rucking",
+      "ultrarunning"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "orienteering",
+    "name": "Orienteering",
+    "category": "outdoor-air",
+    "glyph": "🧭",
+    "tagline": "The thought sport — map, compass, and the fastest route nobody else can find.",
+    "origin": "Scandinavia · 1890s military origins · IOF 1966",
+    "tags": [
+      "Navigation racing",
+      "Foot-O & ski-O",
+      "Forest & sprint",
+      "Scandinavian soul"
+    ],
+    "overview": [
+      "Orienteering is racing with a map and compass: competitors navigate point-to-point through checkpoints (controls) over unknown terrain, choosing their own routes between them — running as fast as they can think. The classic formats are foot-O (forest courses of 3-15 km), sprint-O (urban park courses at mile race pace), ski-O, and mountain-bike-O, all governed by the International Orienteering Federation (IOF) with world championships and a World Cup series.",
+      "Born from Scandinavian military land-navigation training (the first public competition in Norway, 1897), the sport became Sweden's and Finland's civic obsession — the O-Ringen's five-day festival draws thousands — and spread to 80+ nations. Its champions (Thierry Gueorgiou's 14 multiple world titles, Tove Alexandersson's modern dominance) are navigation artists: the sport's elite train map memory and route-choice logic as deliberately as speed.",
+      "Newcomers can start immediately: local clubs put on events with beginner courses (maps provided, instruction included), and the sport's age-graded structure welcomes every speed. The essential skill — keeping the map oriented to the terrain (thumbing the map, checking off features) — is learnable in one afternoon and deepens for a lifetime."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "1897 — the first public competition near Oslo (Norway's military origins); IOF founded 1961 (world championships since 1966)"
+      ],
+      [
+        "Governing body",
+        "International Orienteering Federation (IOF); national federations (the Swedish and Finnish federations the giants)"
+      ],
+      [
+        "Formats",
+        "Foot-O (forest, middle/long/relay), sprint-O (urban, knockout sprint world championships since 2018), ski-O, MTB-O, trail-O (precision for all abilities)"
+      ],
+      [
+        "The map",
+        "IOF-standard maps at 1:4,000-1:15,000 with five-color terrain symbology — regenerated laser-LiDAR era accuracy"
+      ],
+      [
+        "The controls",
+        "Orange-and-white flags with electronic punching (SportIdent) — the course's proof of visit"
+      ],
+      [
+        "The festivals",
+        "Sweden's O-Ringen (5 days, thousands), Finland's Jukola relay (the world's biggest night relay), Switzerland's the Swiss O-week"
+      ]
+    ],
+    "history": [
+      [
+        "1897-1950s",
+        "Norwegian and Swedish military roots; civilian clubs form; the map-making craft develops."
+      ],
+      [
+        "1961-1970s",
+        "The IOF's founding and standardized symbols; world championships begin (1966); the sport spreads beyond Scandinavia."
+      ],
+      [
+        "1980s-2000s",
+        "Electronic punching (1990s) transforms the sport; sprint-O's urban growth; the World Cup's professionalization."
+      ],
+      [
+        "2018-2024",
+        "The knockout sprint format's arrival (TV-friendly city racing); Tove Alexandersson's era; the sport's laser-map revolution."
+      ]
+    ],
+    "formats": [
+      [
+        "Forest foot-O",
+        "Middle (4-6 km), long (10-15 km), and relay formats through forest terrain — the classic discipline."
+      ],
+      [
+        "Sprint & knockout sprint",
+        "Urban park and city-center racing at 4 km, winning times 12-15 minutes: the modern TV format."
+      ],
+      [
+        "Ski-O & MTB-O",
+        "Winter's and wheels' branches: navigation on skis and bikes."
+      ],
+      [
+        "Night-O & relays",
+        "Headlamp racing and the team formats (Jukola's seven-leg night relay is the sport's Wembley)."
+      ]
+    ],
+    "skills": [
+      [
+        "Map orientation & thumbing",
+        "The core technique: keeping the map turned to the terrain, thumb parked at your position — the sport's constant habit.",
+        "Map-walk drills (walk a course keeping the map oriented); thumb map-contact discipline every step; beginner courses with map-in-hand coaching."
+      ],
+      [
+        "Route choice",
+        "The strategic layer: comparing lines (trail vs straight), climb costs, and attack-point planning — orienteering's chess.",
+        "Route-choice training exercises (plan before each leg); post-race route comparisons; head-to-head analysis at relays."
+      ],
+      [
+        "Compass bearings",
+        "Precision navigation across featureless low-visibility terrain: the bearing-and-distance technique.",
+        "Bearing drills (short legs, compass only); pacing practice (count double-paces per 100 m); night-O as the graduate school."
+      ],
+      [
+        "Attack points & relocation",
+        "The safety system: navigating to a near-the-control feature first, and relocating fast when lost.",
+        "Attack-point leg design in training; stop-and-relocate drills (deliberate planned confusion); the five-second pause-and-look habit."
+      ],
+      [
+        "Running speed & terrain fitness",
+        "The sport's engine: running fast on rough ground, uphill-downhill strength, and the map-under-fatigue discipline.",
+        "Terrain running 2× weekly; hill strength (uphill repeats); map-sprint simulations (hard running, hard thinking)."
+      ],
+      [
+        "Sprint-O technique",
+        "The urban game: reading complex multi-level maps (stairs, passages, canopies) at race pace.",
+        "Sprint-map training in cities; passable barrier passage symbols mastered; knockout-sprint heat practice."
+      ]
+    ],
+    "rules": [
+      "Course: controls visited in numbered order; electronic punching proves the visit; the fastest total time wins.",
+      "Maps: IOF symbology at scale by format (1:4,000 sprint to 1:15,000 forest); out-of-bounds uncrossable features marked and law.",
+      "Fairness: no GPS navigation devices (watches logged GPS only for post-race analysis); the map is the only instrument beyond the compass.",
+      "Starts: staggered intervals (2-minute starts in forest, mass knockouts in sprint) to prevent following.",
+      "Categories by age and gender (from 10 to 95+); elite classes by world-ranking.",
+      "The referee's calls: mispunching (missing a control) disqualifies; course boundary violations penalized.",
+      [
+        "Safety: whistle carried in forest events, emergency checkpoint rescue protocols by organizer; weather holds at the organizer's call."
+      ]
+    ],
+    "equipment": [
+      [
+        "Orienteering compass",
+        "Thumb compass (the Nordic choice) or baseplate ($15-60)."
+      ],
+      [
+        "O-shoes",
+        "Studded orienteering shoes for forest grip ($80-150); trail shoes suffice to start."
+      ],
+      [
+        "Gaiters & kit",
+        "Shin gaiters for forest brush ($30-50); a whistle for safety ($5)."
+      ],
+      [
+        "SI card (finger stick)",
+        "The electronic punching card ($40-60; rentals at events)."
+      ],
+      [
+        "Headlamp",
+        "For night-O (400-800 lumens, $40-120) — the sport's most atmospheric branch."
+      ]
+    ],
+    "training": [
+      "O-technique sessions weekly: one training run where navigation is the workout (slow legs, fast map).",
+      "Terrain running: the sport's speed is rough-ground running — train on forest tracks and hills.",
+      "Map memory drills: study the map at the start, run the leg from memory where safe.",
+      "Race every weekend in season: O-meets are the sport's coaching system.",
+      "Winter ski-O or indoor sprint training keeps the navigation brain alive year-round."
+    ],
+    "pathway": [
+      [
+        "Local events & beginner courses",
+        "Club O-meets with instruction: the sport's welcoming base."
+      ],
+      [
+        "Regional leagues & color-coded courses",
+        "The color-coded ladder (white through brown by difficulty)."
+      ],
+      [
+        "National championships",
+        "National titles by age class and discipline."
+      ],
+      [
+        "World ranking & elite squads",
+        "National team pathways through ranking events."
+      ],
+      [
+        "World championships & World Cup",
+        "The IOF's summit: forest, sprint, ski, and the knockout formats."
+      ]
+    ],
+    "events": [
+      [
+        "IOF World Orienteering Championships",
+        "Annual: forest, sprint, and knockout-sprint world titles."
+      ],
+      [
+        "The O-Ringen (Sweden)",
+        "Five days, thousands of runners, one festival: the sport's biggest gathering."
+      ],
+      [
+        "Jukola Relay (Finland)",
+        "Seven-leg night relay for 1,700+ teams: orienteering's Wembley."
+      ],
+      [
+        "IOF World Cup series",
+        "The elite season's ranking circuit."
+      ],
+      [
+        "National & club calendars",
+        "Every weekend's O-meets worldwide."
+      ]
+    ],
+    "legends": [
+      [
+        "Thierry Gueorgiou",
+        "France — the middle-distance king: 14 multiple world titles and the sport's navigation artist."
+      ],
+      [
+        "Tove Alexandersson",
+        "Sweden — the modern dominator: world titles across foot-O, sprint, ski-O, and ski mountaineering."
+      ],
+      [
+        "Simone Niggli-Luder",
+        "Switzerland — the pre-Alexandersson standard: multiple world titles across formats."
+      ],
+      [
+        "Olav Lundanes & Matthias Kyburz",
+        "Norway/Switzerland — the long-distance and sprint era's leading men."
+      ],
+      [
+        "The Scandinavian club culture",
+        "The sport's true engine: thousands of volunteers map the forests every year."
+      ]
+    ],
+    "getting_started": [
+      "Find your national federation's event calendar and enter a beginner course: maps and instruction included.",
+      "Walk your first course: orienteering is learned walking before running.",
+      "Buy the thumb compass and O-shoes after three events: the sport's starter kit is cheap.",
+      "Practice thumbing the map every step: the constant map-contact habit is the sport's foundation.",
+      "Race night-O once per season: headlamp navigation is the sport's deep end and its greatest thrill.",
+      "Attend a multi-day festival (O-Ringen or a national O-week): five days of racing teaches a season's worth."
+    ],
+    "glossary": [
+      [
+        "Control",
+        "The orange-and-white flag with its electronic punch."
+      ],
+      [
+        "Leg",
+        "One navigation segment between controls."
+      ],
+      [
+        "Thumbing the map",
+        "Parking your thumb at your position: the sport's constant habit."
+      ],
+      [
+        "Attack point",
+        "The last reliable feature before the control."
+      ],
+      [
+        "Handrail",
+        "The linear feature (stream, path, wall) followed to the control."
+      ],
+      [
+        "Bearing",
+        "The compass direction across featureless terrain."
+      ],
+      [
+        "Relocation",
+        "Finding yourself again after losing contact with the map."
+      ],
+      [
+        "Route choice",
+        "The strategic decision between lines — the sport's chess."
+      ],
+      [
+        "Mispunch",
+        "Missing a control: instant disqualification."
+      ],
+      [
+        "Jukola",
+        "The night relay festival: the sport's greatest team day."
+      ]
+    ],
+    "related": [
+      "adventure-racing",
+      "mountaineering",
+      "cross-country-running",
+      "cross-country-skiing"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "paragliding",
+    "name": "Paragliding",
+    "category": "outdoor-air",
+    "glyph": "🪂",
+    "tagline": "Foot-launched flight — thermals, cross-country lines, and the sky as a racecourse.",
+    "origin": "France/Switzerland · early 1980s · FAI world cups",
+    "tags": [
+      "Free flight",
+      "XC racing",
+      "Thermals",
+      "FAI league"
+    ],
+    "overview": [
+      "Paragliding is foot-launched free flight: a ram-air wing (canopy) inflated and launched from slopes or hills, flown by weight-shift and brake inputs, with pilots using rising air (thermals, ridge lift) to stay aloft and fly cross-country courses of 50-300+ km. It is flight's most accessible form — a wing fits in a backpack — and its competition side runs FAI world cups and the X-Alps adventure race's legendary crossing of the Alps by foot and wing.",
+      "The sport grew from 1980s parachute-ski experiments in the French and Swiss Alps (the slope-soaring pioneers) into a global free-flight culture: the FAI's World Cup and world championships, the Red Bull X-Alps (since 2003), and a thermal-soaring knowledge base that turns meteorology into a competitive skill. Chrigel Maurer's X-Alps dynasty (ten multiple wins) and the XC league's record flights define the sport's frontier.",
+      "Newcomers should take a certified course (national federations' licensing systems): paragliding's safety culture is the sport's real foundation, and the learning ladder (ground handling → small hills → high flights → thermalling → cross-country) is measured in flight hours and conditions judgment. The sport's great truth: the wing is safe; the sky requires reading."
+    ],
+    "facts": [
+      [
+        "Founding era",
+        "1980s — French and Swiss slope-soaring pioneers adapt square parachutes for foot launch (the Annecy and Chamonix-era experiments)"
+      ],
+      [
+        "Governing body",
+        "Fédération Aéronautique Internationale (FAI) paragliding commission; national federations (DHV, FFVL) for licensing"
+      ],
+      [
+        "The wing",
+        "Ram-air canopy 20-30 m² (by class EN-A beginner to EN-D competition), with the harness and reserve parachute"
+      ],
+      [
+        "Flight physics",
+        "Sink rates near 1 m/s; thermals climbed at 2-6 m/s; XC flights of 100-500+ km in the record era"
+      ],
+      [
+        "Competition formats",
+        "FAI World Cup task racing (turnpoints, GPS-verified), the X-Alps's foot-and-fly adventure, and accuracy events"
+      ],
+      [
+        "XC records",
+        "Open-distance flights beyond 600 km (the Konstantinov record era) and declared-goal racing"
+      ]
+    ],
+    "history": [
+      [
+        "1965-1985",
+        "The sailwing parafoil era: Domina Jalbert's ram-air kite concepts, NASA's parafoil research, and the slope-soaring pioneers' first foot launches."
+      ],
+      [
+        "1985-1995",
+        "The sport's codification: French manufacturers (the Annecy scene), the first world championship (1991 Kössen era), and schools' licensing systems."
+      ],
+      [
+        "1995-2010",
+        "The thermal-XC era: GPS verification, the XC leagues, and wings' performance classes (EN system)."
+      ],
+      [
+        "2003-today",
+        "The Red Bull X-Alps redefines the adventure format; Chrigel Maurer's decade of dominance; comp wings' EN-D frontier and record flights past 600 km."
+      ]
+    ],
+    "formats": [
+      [
+        "XC task racing",
+        "FAI World Cup tasks: GPS turnpoints, elapsed-time racing, and the leader task-completion scoring."
+      ],
+      [
+        "Cross-country (XC) flying",
+        "Open-distance and out-and-return flights logged in the online leagues."
+      ],
+      [
+        "Red Bull X-Alps",
+        "The adventure race: Salzburg to Monaco by foot and wing, nonstop — the sport's Everest."
+      ],
+      [
+        "Acro & accuracy",
+        "Aerobatic wing maneuvers and precision-landing competitions."
+      ]
+    ],
+    "skills": [
+      [
+        "Ground handling (kiting)",
+        "The sport's first art: inflating and controlling the wing overhead in wind — every good pilot's foundation.",
+        "Daily kiting sessions in moderate wind; inflation forward and reverse launch drills; small light-wind control games."
+      ],
+      [
+        "Launch & landing",
+        "The committed moments: hill launches by wind window and approach landing patterns (the aircraft-style circuit).",
+        "Launch reviews with instructors; approach landing pattern discipline (downwind, base, final); no-wind and strong-wind techniques."
+      ],
+      [
+        "Thermalling",
+        "The lift game: feeling and centering thermals, coring efficiently, and climbing with gliders — the sport's engine.",
+        "Thermal-feel training with instructors (vario feedback); coring centering drills; gaggle-flying group thermalling etiquette."
+      ],
+      [
+        "XC navigation & strategy",
+        "The racecourse in the sky: line choice between thermals, wind reading, and airspace law.",
+        "Flight-plan rehearsals in simulator ground study; cloud-street strategy; post-flight GPS track analysis."
+      ],
+      [
+        "SIV & safety skills",
+        "The maneuver training: active piloting (pitch control), asymmetric collapses, and reserve deployment (practiced over water).",
+        "SIV courses (safety training over lakes); wing-over progressions; reserve repacks and deployment rehearsals."
+      ],
+      [
+        "Meteorology",
+        "The sky's literacy: thermal cycles, cloud development, inversions, and wind gradients — the pilot's true instrument.",
+        "Weather-course study; daily forecast practice; flight conditions logs correlated with sky observations."
+      ]
+    ],
+    "rules": [
+      "Licensing: national federation ratings (e.g., the German IPPI card system) gate access to sites and conditions — training is mandatory.",
+      [
+        "Flight law: airspace classes respected (visual flight rules), altitude caps near controlled airspace, and site rules set by clubs."
+      ],
+      "Competition: FAI task rules (turnpoints GPS-verified, start window gates, goal line), scoring by speed and distance; the X-Alps's own foot-and-fly rules.",
+      "Equipment classes: EN certification (A-D) by test wing wing class; comp wings carry the sport's performance and risk trade-off.",
+      "Safety doctrine: reserve parachutes mandatory, pre-flight checks ritualized, and the conditions-honesty culture (the sport's lives-saved norm).",
+      "Site ethics: landowner relations, landing field respect, and the access-preserving culture.",
+      "Anti-doping applies at FAI championship level."
+    ],
+    "equipment": [
+      [
+        "Wing (canopy)",
+        "EN-A/B beginner-intermediate wings ($2,500-4,500); comp wings beyond."
+      ],
+      [
+        "Harness & reserve",
+        "The pod or open harness with reserve parachute ($800-2,500)."
+      ],
+      [
+        "Variometer & GPS",
+        "The vario (climb-rate audio) and flight computer ($300-700)."
+      ],
+      [
+        "Helmet & radio",
+        "EN-966 aviation-rated helmet and a 2 m band radio ($150-400)."
+      ],
+      [
+        "Course kit",
+        "The licensed school supplies the training kit: bring curiosity and good boots."
+      ]
+    ],
+    "training": [
+      "Ground-handle daily when possible: kiting skill separates good pilots from lucky ones.",
+      "Fly with schools and clubs: conditions judgment is learned with mentors.",
+      "Log every flight: hours, conditions, and lessons — the pilot's log is the coach.",
+      "SIV every two years: maneuver training over water refreshes the safety skills.",
+      "Study weather daily: the sport's best pilots are amateur meteorologists."
+    ],
+    "pathway": [
+      [
+        "Certified beginner course",
+        "The national license's first steps: ground school, first solo flights."
+      ],
+      [
+        "Club flying & site experience",
+        "Ratings progression through varied sites and conditions."
+      ],
+      [
+        "Thermalling & XC seasons",
+        "The cross-country apprenticeship in the Alps or the season's big sites."
+      ],
+      [
+        "FAI competitions & XC leagues",
+        "World cup qualification and the online league's rankings."
+      ],
+      [
+        "The X-Alps & record flights",
+        "The sport's adventure summit and its distance frontier."
+      ]
+    ],
+    "events": [
+      [
+        "Red Bull X-Alps",
+        "The Salzburg-to-Monaco adventure race: foot and wing, nonstop, since 2003."
+      ],
+      [
+        "FAI Paragliding World Championship",
+        "The world title: task racing across a championship week."
+      ],
+      [
+        "FAI World Cup series",
+        "The professional task-racing circuit's stops."
+      ],
+      [
+        "XC league season",
+        "The online cross-country rankings' record flights."
+      ],
+      [
+        "Acro & accuracy worlds",
+        "The aerobatic and precision-landing world titles."
+      ]
+    ],
+    "legends": [
+      [
+        "Chrigel Maurer",
+        "Switzerland — the X-Alps's dominant force: multiple wins a record six wins the event's defining athlete."
+      ],
+      [
+        "The Annecy pioneers",
+        "France — the 1980s slope-soaring generation who invented foot-launched free flight."
+      ],
+      [
+        "Antoine Girard",
+        "France — the vol-biv bivouac-flying explorer: Alpine vol-biv traverses and the sport's expedition branch."
+      ],
+      [
+        "The women's XC frontier",
+        "The women's record-holders and World Cup racers building the sport's female side."
+      ],
+      [
+        "The women's XC frontier",
+        "The women's record-holders and World Cup racers building the sport's female side."
+      ]
+    ],
+    "getting_started": [
+      "Book a certified beginner course (national federation schools): never learn paragliding from YouTube.",
+      "Ground-handle every windy day: the wing overhead is the sport's practice field.",
+      "Buy your own wing only after the license: school wings teach better.",
+      "Join a club for site mentorship: conditions judgment is passed person-to-person.",
+      "Do an SIV course within your first 50 hours: safety skills decay without rehearsal.",
+      "Watch one X-Alps documentary: the sport's spirit in its most distilled form."
+    ],
+    "glossary": [
+      [
+        "Thermal",
+        "The rising column of warm air — the sport's elevator."
+      ],
+      [
+        "Ground handling (kiting)",
+        "Controlling the wing on the ground: every pilot's foundation."
+      ],
+      [
+        "Vario",
+        "The climb-rate instrument: beeping up, silent down."
+      ],
+      [
+        "Gaggle",
+        "The thermal's climbing group — etiquette applies in the sky."
+      ],
+      [
+        "SIV",
+        "Simulation de Vol en Incidence: the safety maneuver training over water."
+      ],
+      [
+        "EN class",
+        "The wing's certification class (A beginner through D comp)."
+      ],
+      [
+        "Vol-biv",
+        "Fly-and-camp bivouac flying — the sport's expedition branch."
+      ],
+      [
+        "Reserve",
+        "The second parachute: packed, checked, and prayed about rarely."
+      ],
+      [
+        "XC",
+        "Cross-country flying: distance and task racing."
+      ],
+      [
+        "Wingover",
+        "The acro maneuver family's gentle entry."
+      ]
+    ],
+    "related": [
+      "skydiving",
+      "sailing",
+      "mountaineering",
+      "kitesurfing",
+      "orienteering"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "skydiving",
+    "name": "Skydiving",
+    "category": "outdoor-air",
+    "glyph": "☁️",
+    "tagline": "Freefall as a sport — formations, vertical flight, and the canopy's final art.",
+    "origin": "Parachute heritage (1797 Garnerin) · sport era 1950s+",
+    "tags": [
+      "Freefall",
+      "Formation skydiving",
+      "Canopy piloting",
+      "USPA/FAI"
+    ],
+    "overview": [
+      "Skydiving is controlled freefall: jumpers exit aircraft from 3,000-4,500 meters, fly their bodies in freefall (falling at 200 km/h belly-down, or faster in vertical flight modes), deploy canopies around 1,200 meters, and pilot the parachute to a landing. Its competitive disciplines are formation skydiving (teams build scored formations in time), vertical/Freefly (head-down and sit-fly flight), canopy piloting (swooping courses), and accuracy landing — governed internationally by the FAI and nationally by bodies like USPA.",
+      "The sport descends from parachute development (André-Jacques Garnerin's 1797 descent from a balloon) through military airborne traditions to the post-war sport culture (the 1950s-60s club era, then the freefall photography and boogie culture). Its modern era: relative work's team precision, the vertical world records (the 164-person large-formation records), wingsuit flying's cousin branch, and a safety record transformed by AADs (automatic activation devices) and square reserves.",
+      "Newcomers enter through tandem jumps (instructor-harnessed) and then AFF (Accelerated Freefall) courses: skydiving's licensing ladder (A through D licenses) is standardized and safety-cultured — the sport's training is rigorous because gravity is unforgiving. The community is famously tight; the drop zone is its own world."
+    ],
+    "facts": [
+      [
+        "Founding moments",
+        "1797 — André-Jacques Garnerin's first parachute descent (from a balloon); the sport era begins post-WWII with surplus parachutes"
+      ],
+      [
+        "Governing bodies",
+        "FAI (world records and championships); USPA (US Parachute Association) and national bodies for licensing"
+      ],
+      [
+        "The jump",
+        "Typical altitude 3,000-4,500 m (10,000-14,000 ft); freefall 50-60 seconds; canopy ride 3-5 minutes"
+      ],
+      [
+        "Disciplines",
+        "Formation skydiving (4-way and 8-way teams), vertical/Freefly, canopy piloting (swooping), accuracy, wingsuit (the cousin discipline), and artistic events"
+      ],
+      [
+        "Safety systems",
+        "AADs (automatic activation devices), square reserve parachutes, and the USPA licensing ladder (A-D)"
+      ],
+      [
+        "Records",
+        "The 400-person large-formation records (the 2012-era 138-way modern head-down records), and wingsuit distance records"
+      ]
+    ],
+    "history": [
+      [
+        "1797-1940s",
+        "Garnerin's balloon descent, the barnstormer era, and military parachuting's development."
+      ],
+      [
+        "1950s-1970s",
+        "The sport's club culture: round canopies, the first world championships (1951 Yugoslavia era), and the relative work revolution."
+      ],
+      [
+        "1980s-1990s",
+        "Square (ram-air) canopies transform the sport; the 4-way formation competition matures; camera flyers build the media culture."
+      ],
+      [
+        "2000s-2010s",
+        "Vertical/Freefly's rise; wingsuit flight's emergence; the large-formation records' engineering (the 400-way era attempts)."
+      ],
+      [
+        "2020s",
+        "Canopy piloting's professional circuit; AAD-equipped safety records; indoor wind tunnels as training infrastructure."
+      ]
+    ],
+    "formats": [
+      [
+        "Formation skydiving (RW)",
+        "Teams build scored formations in freefall time: 4-way and 8-way competition."
+      ],
+      [
+        "Vertical/Freefly",
+        "Head-down and sit-fly flight: faster fall rates, three-dimensional formations."
+      ],
+      [
+        "Canopy piloting",
+        "Swooping: high-performance canopy approaches through scored courses (speed, distance, accuracy)."
+      ],
+      [
+        "Accuracy & style",
+        "Precision landing on target discs; the classic artistic event's heritage."
+      ],
+      [
+        "Wingsuit & tracking",
+        "The glide-focused disciplines: wingsuits add lift and distance (a license-gated specialty)."
+      ]
+    ],
+    "skills": [
+      [
+        "Freefall body flight",
+        "The core skill: stable belly flight (arch), and the vertical modes' sit-fly and head-down control.",
+        "Wind-tunnel sessions (the safest classroom); AFF progression levels; coach jumps after licensing."
+      ],
+      [
+        "Formation skills",
+        "The team craft: docking (grip-taking) smoothly, slot-flying, and the dive plan's timing.",
+        "4-way practice jumps; tunnel formation training; load-organizing at boogies."
+      ],
+      [
+        "Canopy control",
+        "The parachute's art: flare timing, accuracy approaches, and rear-riser front-riser control.",
+        "Canopy courses (the post-license education); accuracy training on target discs; high-performance approaches learned with coaches."
+      ],
+      [
+        "Emergency procedures",
+        "The sport's survival literacy: malfunction recognition, reserve deployment, and the altitude discipline.",
+        "Currency requirements maintained; rig gear checks ritualized; the pull priorities internalized (altitude, altitude, altitude)."
+      ],
+      [
+        "Exit & freefall planning",
+        "The jump's architecture: exit order, separation, and tracking away before deployment.",
+        "Dive-plan briefings; exit techniques per aircraft; tracking break-off at altitude discipline."
+      ],
+      [
+        "Judgment & weather",
+        "The ground school that matters: cloud ceilings, winds, and the go/no-go discipline.",
+        "Weather minimums learned and honored; the sport's go/no-go culture practiced without ego."
+      ]
+    ],
+    "rules": [
+      "Licensing: USPA A-license (25 jumps requirements through skills) through D; instructor ratings above — the sport's gates are earned.",
+      "Altitude discipline: deploy by license minimums (3,000-4,000 ft typically); AADs mandatory at most drop zones.",
+      "Equipment: tandem and student rigs with dual reserve systems inspected and packed by certified riggers; main canopies by size and experience.",
+      "Freefall conduct: break-off altitudes (3,500-4,000 ft for groups), tracking separation before deployment, and the cloud visual flight rules (no jumps through clouds).",
+      "Canopy rules: downwind landing patterns per drop zone, high-performance swooping in designated areas only.",
+      [
+        "Wingsuit gating: 200-jump minimum experience (USPA recommendation) before wingsuit first flights."
+      ],
+      "Weather minimums: cloud ceilings and wind limits by drop zone — judgment calls governed by the S&TA (safety and training advisor).",
+      "Alcohol and drugs: zero tolerance — the sport's culture enforces its own sobriety."
+    ],
+    "equipment": [
+      [
+        "Parachute system",
+        "Main canopy, reserve, and AAD in the rig ($6,000-12,000 new; rentals and used markets exist)."
+      ],
+      [
+        "Jumpsuit & helmet",
+        "Freefall suits by discipline and an open-face or full-face helmet ($200-600)."
+      ],
+      [
+        "Altimeter & audible",
+        "Visual altimeter plus audible altimeters ($100-300) — the altitude discipline's tools."
+      ],
+      [
+        "Rigger services",
+        "Reserve repacks every 180 days (by law) — the sport's maintenance rhythm ($50-80)."
+      ],
+      [
+        "Wind tunnel time",
+        "The training accelerator ($100-200 per 15 min): freefall skills learned safely indoors."
+      ]
+    ],
+    "training": [
+      "AFF course first (7-8 instructor-accompanied jumps): the licensing ladder's start.",
+      "Tunnel time accelerates everything: freefall skills learned in 15-minute tunnel sessions beat a season of jumps.",
+      "Canopy education after licensing: the parachute phase causes most sport injuries — train it deliberately.",
+      "Jump frequently for currency: skills decay in weeks; consistency builds the license ladder.",
+      "Debrief every jump: the logbook and the landing reviews are the sport's coaching system."
+    ],
+    "pathway": [
+      [
+        "Tandem jump",
+        "The introduction jump: harnessed to an instructor."
+      ],
+      [
+        "AFF course & A-license",
+        "The 25-jump progression to the first license."
+      ],
+      [
+        "Discipline selection & teams",
+        "Formation teams, Freefly, or canopy piloting apprenticeships."
+      ],
+      [
+        "Competition & records",
+        "National championships, FAI world cups, and the record events."
+      ],
+      [
+        "Instructor & professional tracks",
+        "Coach, AFF instructor, tandem master, and the pro ratings."
+      ]
+    ],
+    "events": [
+      [
+        "FAI World Parachuting Championships",
+        "The world titles across formation, Freefly, canopy, and accuracy disciplines."
+      ],
+      [
+        "World record events",
+        "The large-formation records (the 138-way head-down record era vertical records) and wingsuit records."
+      ],
+      [
+        "National championships & leagues",
+        "USPA nationals and the 4-way leagues' seasons."
+      ],
+      [
+        "Canopy piloting pro circuit",
+        "The swooping tour's professional events."
+      ],
+      [
+        "Boogies & festivals",
+        "The drop zone culture's gathering events worldwide."
+      ]
+    ],
+    "legends": [
+      [
+        "André-Jacques Garnerin",
+        "France — the 1797 balloon-parachute descent: the sport's founding act."
+      ],
+      [
+        "Bill Booth",
+        "USA — the gear innovator: the hand-deploy pilot chute and 3-ring release system that modernized the sport."
+      ],
+      [
+        "The 4-way world champions",
+        "The Arizona Airspeed and French the golden teams whose formation records define precision."
+      ],
+      [
+        "Jay Moledzki & the swooping era",
+        "The canopy piloting champions of the PDPT-era professional circuit."
+      ],
+      [
+        "Felix Baumgartner",
+        "Austria — the stratospheric jump (2012, 39 km): the sport's stratosphere moment."
+      ]
+    ],
+    "getting_started": [
+      "Book a tandem at a reputable drop zone (USPA-affiliated): the first jump is the hook.",
+      "Start AFF when you're ready for the commitment: 25 jumps to the A-license.",
+      "Buy gear only after license progression: rentals are the honest early path.",
+      "Do wind-tunnel time early: 15 minutes teaches what 20 jumps cannot.",
+      "Take canopy courses post-license: the landing is the sport's real skill.",
+      "Respect the culture's rules absolutely: the sport's safety norms exist because they work."
+    ],
+    "glossary": [
+      [
+        "Freefall",
+        "The 200 km/h body flight between exit and deployment."
+      ],
+      [
+        "Arch",
+        "The stable belly position: freefall's foundation."
+      ],
+      [
+        "Dock",
+        "Taking a grip on a formation."
+      ],
+      [
+        "Break-off",
+        "The planned separation before deployment."
+      ],
+      [
+        "AAD",
+        "The automatic activation device: the sport's silent guardian."
+      ],
+      [
+        "Swoop",
+        "The high-performance canopy approach."
+      ],
+      [
+        "AFF",
+        "Accelerated Freefall: the licensing course's method."
+      ],
+      [
+        "Boogie",
+        "The skydiving festival: mass jumps and record attempts."
+      ],
+      [
+        "Malfunction",
+        "The canopy emergency: recognized, decided, and acted on in seconds."
+      ],
+      [
+        "Rigger",
+        "The certified parachute packer: the sport's quiet professional."
+      ]
+    ],
+    "related": [
+      "paragliding",
+      "freediving",
+      "sport-climbing",
+      "orienteering",
+      "drone-racing"
+    ],
+    "crosslink": false
+  },
+  {
+    "slug": "drone-racing",
+    "name": "Drone Racing (FPV)",
+    "category": "outdoor-air",
+    "glyph": "🚁",
+    "tagline": "First-person view at 150 km/h — video-game reflexes flown through real gates.",
+    "origin": "2010s hobbyist era · Drone Racing League 2016 · FAI worlds",
+    "tags": [
+      "FPV racing",
+      "Pilot skill",
+      "Gate courses",
+      "Esports-adjacent"
+    ],
+    "overview": [
+      "Drone racing flies first-person-view (FPV) quadcopters through gated courses at 100-150+ km/h: pilots wear video goggles receiving a live camera feed from the aircraft, flying by sight alone through three-dimensional tracks of gates, flags, and obstacles. The sport fused 2010s hobbyist FPV culture with professional league spectacle — the Drone Racing League (DLR DRL) broadcasts, the FAI's world championships, and the multirotor community's maker culture (every pilot builds, tunes, and repairs their own machine).",
+      "The technical stack is the sport's soul: brushless motors, flight controllers running open-source firmware (Betaflight), analog or digital video links, and the pilot's radio — a craft learned as much at the workbench as in the air. The skills are pure hand-eye: 200-millisecond reactions, track memorization, and the simulator-to-real transfer that makes FPV the most training-efficient motorsport (hours in Velocidrone and Liftoff translate directly to gates).",
+      "Newcomers should start in the simulator before buying anything: FPV simulators (free to cheap) teach the muscle memory safely, then a beginner build or RTF kit follows. The community is maker-culture warm — local clubs fly micro drones indoors in winter and full-size outdoors in summer, and the progression from tiny-whoop to racing quad takes months, not years."
+    ],
+    "facts": [
+      [
+        "Founding era",
+        "2014-2016 — the FPV hobbyist boom and the Drone Racing League's founding (2016); FAI drone racing world championships from 2016-18 era"
+      ],
+      [
+        "Governing bodies",
+        "FAI drone racing commission (world championships); DRL (professional league); MultiGP (the community racing network)"
+      ],
+      [
+        "The machine",
+        "5-inch racing quads: brushless motors, 4S-6S LiPo batteries, FPV cameras, 150+ km/h top speeds; micro (whoop) and macro classes"
+      ],
+      [
+        "The link",
+        "Analog video (low latency) or digital systems; pilots fly by goggles' live feed — visual, not line-of-sight"
+      ],
+      [
+        "The simulator",
+        "Velocidrone, Liftoff, and FPV Freerider: the sport's training infrastructure (skills transfer directly)"
+      ],
+      [
+        "Race format",
+        "Qualifying laps into heats and finals; lap times to hundredths; crash-and-repair culture built into the event"
+      ]
+    ],
+    "history": [
+      [
+        "2010-2014",
+        "The FPV hobby roots: GoPro-era cameras, early multirotor kits, and the first racing meetups."
+      ],
+      [
+        "2015-2016",
+        "The breakout: DRL's founding, ESPN broadcasts, and the World Games-era recognition debates."
+      ],
+      [
+        "2016-2019",
+        "The league era: DRL's neon courses, FAI world championships (2018's Shenzhen first FAI worlds), and the MultiGP community's growth."
+      ],
+      [
+        "2020-2020s",
+        "Digital video systems (DJI's era) transform the flying experience; indoor micro leagues thrive; the esports crossovers continue."
+      ]
+    ],
+    "formats": [
+      [
+        "FPV racing",
+        "Gated circuit heats: qualifying lap times into knockout finals."
+      ],
+      [
+        "Drone racing leagues",
+        "DRL's produced events (levels on custom tracks) and MultiGP's community championships."
+      ],
+      [
+        "FAI world championships",
+        "The national-team world title with standardized classes."
+      ],
+      [
+        "Freestyle & cinematic FPV",
+        "The trick-flying and filming branches (the culture's creative half)."
+      ],
+      [
+        "Tiny whoop leagues",
+        "Indoor micro racing: the winter and living-room branch."
+      ]
+    ],
+    "skills": [
+      [
+        "Simulator proficiency",
+        "The sport's true entry: hours in Velocidrone or Liftoff build the muscle memory safely and cheaply.",
+        "Daily 20-30 minute sim sessions; track repetition until lap times plateau; race simulations against ghosts."
+      ],
+      [
+        "Acro flight mode",
+        "The pilot's language: full manual control (no self-leveling), flips, rolls, and the throttle discipline.",
+        "Acro training in the simulator first; real-world open-field acro practice; rate tuning per pilot preference."
+      ],
+      [
+        "Gate racing craft",
+        "The race: memorized lines, gate-center gate-discipline consistent gate hits, and the racing line's optimization.",
+        "Track repetition with lap timing; split sector analysis; race-pace pressure simulations in heats."
+      ],
+      [
+        "Building & tuning",
+        "The maker half: soldering builds, Betaflight configuration, and PID filter tuning by feel.",
+        "Build-your-first-quad guides; bench soldering practice; tune-one-variable discipline."
+      ],
+      [
+        "Repairs & reliability",
+        "The crash economy: field repairs in minutes, spare parts stocked, and the motors' props' consumable culture.",
+        "Repair drills (swap a motor in 10 minutes); parts bag organization; pre-flight checklist discipline."
+      ],
+      [
+        "Video link craft",
+        "The eyes' engineering: antenna choice, channel frequency discipline at events, and the video feed's reading.",
+        "Antenna theory basics; frequency management at races; DVR review of flights."
+      ]
+    ],
+    "rules": [
+      "Race format: qualifying laps (best time) seed heats; finals by knockout or points; lap timing via IR gates or transponder timing systems.",
+      "The machine: class rules by propeller frame size (the 5-inch standard; micro classes for indoors); power limits by venue.",
+      "Video link: frequency channel assignments assigned by the race director; pilots fly blind to coordinated to avoid interference.",
+      [
+        "Conduct: line-of-sight visual observers required by law in most countries; the pilot spotter pairing is the legal standard."
+      ],
+      "Airspace law: recreational drone regulations (registration, altitude caps, no-flight zones) apply everywhere — the sport's legal layer.",
+      "Crash etiquette: retrieve repair discipline, return-to-home walker protocols, and the heat's timeout rules.",
+      "MultiGP and FAI class structures: skill divisions from novice to pro, keeping racing fair at every level."
+    ],
+    "equipment": [
+      [
+        "Racing quad",
+        "5-inch build or RTF kit ($250-600 for components; prebuilt $400-800)."
+      ],
+      [
+        "FPV goggles",
+        "Analog or digital goggles ($150-650): the pilot's actual eyes."
+      ],
+      [
+        "Radio transmitter",
+        "The controller with gimbals ($100-350)."
+      ],
+      [
+        "Batteries & charger",
+        "4S-6S LiPos and a smart charger ($100-200; batteries are consumables)."
+      ],
+      [
+        "Spares & tools",
+        "Props, motors, soldering iron, and the repair bag ($100-200)."
+      ],
+      [
+        "Simulator",
+        "Velocidrone or Liftoff ($10-20): the first and best purchase."
+      ]
+    ],
+    "training": [
+      "Simulator daily: 20-30 minutes of acro practice builds more skill than any crash can teach.",
+      "Fly micro indoors: tiny whoops keep skills alive in winter and small spaces.",
+      "Practice one track repeatedly: consistency before speed, always.",
+      "Learn repairs: the pilot who fixes their own quad doubles their flight time.",
+      "Race locally once comfortable: MultiGP chapters welcome every level."
+    ],
+    "pathway": [
+      [
+        "Simulator & first quad",
+        "Sim hours, then a first real build or RTF kit."
+      ],
+      [
+        "Local MultiGP chapter & micro leagues",
+        "Community racing's friendly entry."
+      ],
+      [
+        "Regional championships",
+        "MultiGP regional series and national qualifier events."
+      ],
+      [
+        "FAI national teams & worlds",
+        "The national-team pathway to FAI world championships."
+      ],
+      [
+        "Professional leagues & content",
+        "DRL-era contracts and the FPV content-creator career."
+      ]
+    ],
+    "events": [
+      [
+        "FAI Drone Racing World Championship",
+        "The national-team world title."
+      ],
+      [
+        "Drone Racing League events",
+        "The produced professional league's seasons."
+      ],
+      [
+        "MultiGP championships",
+        "The community network's annual championship."
+      ],
+      [
+        "National championships",
+        "Federation titles in every drone nation."
+      ],
+      [
+        "Freestyle & film events",
+        "The creative branch's contests (and the content economy around it)."
+      ]
+    ],
+    "legends": [
+      [
+        "The DRL champions",
+        "The league era's stars, including Jordan Temkin's DRL dominance."
+      ],
+      [
+        "MultiGP's community builders",
+        "The chapter organizers who built the sport's racing infrastructure."
+      ],
+      [
+        "The Betaflight developers",
+        "The open-source flight-firmware community — the sport's true engineering backbone."
+      ],
+      [
+        "FPV content pioneers",
+        "The YouTubers (Mr Steele's freestyle era and the cinematic FPV artists) who grew the culture."
+      ],
+      [
+        "The FAI world champions",
+        "The national-team racers (the 2018-era world title holders) crowning the sport's international branch."
+      ]
+    ],
+    "getting_started": [
+      "Buy the simulator first ($10-20): twenty hours in Velocidrone before a single real quad.",
+      "Start with a tiny whoop indoors: crash-proof learning in the living room.",
+      "Learn local drone law (registration, altitude, observers): the legal layer is part of the sport.",
+      "Join a MultiGP chapter or club: gates and friends make racing real.",
+      "Build your second quad yourself: the maker skill is the sport's rite of passage.",
+      "Watch one DRL race and one freestyle edit: racing's lines and freestyle's flow are the culture's two poles."
+    ],
+    "glossary": [
+      [
+        "FPV",
+        "First-person view: flying by the onboard camera's feed."
+      ],
+      [
+        "Acro",
+        "The full-manual flight mode: no self-leveling."
+      ],
+      [
+        "Gate",
+        "The course's hoops and flags."
+      ],
+      [
+        "Whoop",
+        "The tiny ducted micro drone: indoor racing's platform."
+      ],
+      [
+        "Betaflight",
+        "The open-source flight firmware every racer tunes."
+      ],
+      [
+        "DVR",
+        "The goggles' flight recording: review and post-mortem tool."
+      ],
+      [
+        "LOS",
+        "Line of sight: the legal observer requirement."
+      ],
+      [
+        "RTF",
+        "Ready-to-fly kits: the no-soldering entry."
+      ],
+      [
+        "Tune",
+        "The PID and filter settings: the quad's personality."
+      ],
+      [
+        "Crash-and-bash",
+        "The repair culture: props off, motors swapped, flying again."
+      ]
+    ],
+    "related": [
+      "skydiving",
+      "esports",
+      "formula-1",
+      "motocross",
+      "rallying"
+    ],
+    "crosslink": false
+  }
+]

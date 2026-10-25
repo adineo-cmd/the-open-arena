@@ -1,0 +1,3656 @@
+[
+  {
+    "slug": "boxing",
+    "name": "Boxing",
+    "category": "combat",
+    "glyph": "🥊",
+    "tagline": "Two fists, twelve rounds, and the sweet science of distance.",
+    "origin": "England (prize ring) · 1867 (Queensberry) · Olympic since 1904",
+    "tags": [
+      "Combat sport",
+      "Olympic",
+      "The sweet science",
+      "Weight classes"
+    ],
+    "overview": [
+      "Boxing is a fistfight with laws: two opponents in padded gloves trade punches within a roped square over timed rounds, winning by knockout, by judges' decision, or by the referee's stoppage. Beneath the violence lies the most studied striking art in history — footwork, feints, ring geometry, and the economy of the jab — earning the sport its old name, the sweet science.",
+      "The Queensberry Rules (1867) ended bare-knuckle's lawless era and created modern boxing: three-minute rounds, padded gloves, and ten counts. Olympic since 1904, professional since before living memory, boxing produced sport's first global superstars and its most mythic narratives — Ali's exile and return, Louis's crosses of America, Hagler-Hearms wars — and it remains, alongside football and athletics, one of the only sports where one dramatic night can rewrite a life.",
+      "Newcomers should learn stance, jab, and footwork before ever dreaming of hooks: boxing is fought from the legs, and six months of bag work and shadow boxing build the base that makes sparring productive. Find a gym with a coach, buy wraps and gloves, and respect the sport's first rule — protect yourself at all times, including from the enthusiasm of beginners."
+    ],
+    "facts": [
+      [
+        "Modern codification",
+        "1867 — Queensberry Rules (published by John Graham Chambers, patronized by the 9th Marquess of Queensberry)"
+      ],
+      [
+        "Governing bodies",
+        "Professional: four 'major' sanctioning bodies (WBA, WBC, IBF, WBO); amateur: World Boxing (the IOC-recognized successor to AIBA from 2023)"
+      ],
+      [
+        "Rounds",
+        "Professional: 3-minute rounds, up to 12; amateurs: 3 rounds of 3 minutes (elite), with headgear historically and removed for men at Rio 2016"
+      ],
+      [
+        "Weight classes",
+        "Professional ladder from minimumweight (105 lb) to heavyweight (unlimited); amateurs 13 classes Olympic-adjacent"
+      ],
+      [
+        "Olympic history",
+        "Since St. Louis 1904; women's boxing Olympic since London 2012"
+      ],
+      [
+        "Judging",
+        "Ten-point must system; knockdowns, ring generalship, and clean punching decide 10-9 rounds and 10-8 knockdown rounds"
+      ]
+    ],
+    "history": [
+      [
+        "Ancient-1700s",
+        "Fist fighting as sport from Greek Olympia's pyx; Jack Broughton's 1743 rules end the era of fighting to the death, of a sort."
+      ],
+      [
+        "1867-1892",
+        "Queensberry Rules; John L. Sullivan, the last bare-knuckle champion, loses gloves-on to Jim Corbett — the modern era begins."
+      ],
+      [
+        "1904-1950s",
+        "Olympic boxing institutionalizes; the golden era of Joe Louis and the radio age makes boxing America's second sport."
+      ],
+      [
+        "1960s-1980s",
+        "Ali's three-lineal-eras, closed-circuit television fortunes, and the Four Kings (Leonard-Hagler-Hearns-Duran) build boxing's biggest decade."
+      ],
+      [
+        "1990s-2000s",
+        "Pay-per-view economics: Tyson's 1980s dominance, Holyfield's wars, De La Hoya's crossover stardom, and the Mayweather-Pacquiao era's money records."
+      ],
+      [
+        "2012-2020s",
+        "Women's boxing arrives at the Games and grows a full professional pyramid; crossover exhibitions (Paul-Tyson-era spectacles) and Saudi-funded supercards reshape the calendar."
+      ]
+    ],
+    "formats": [
+      [
+        "Professional boxing",
+        "Four-rounders to twelve-round championship fights; four belts and interims govern the pro world."
+      ],
+      [
+        "Olympic/elite amateur",
+        "Three-round bouts, scored on clean punches and dominance; Olympic brackets of sixteen per weight."
+      ],
+      [
+        "White-collar & amateur circuits",
+        "Novice and corporate boxing under supervision — the sport's safest entry point and its community engine."
+      ],
+      [
+        "Bare-knuckle & crossovers",
+        "The BKFC revival and MMA crossovers occupy the sport's wilder edges."
+      ]
+    ],
+    "skills": [
+      [
+        "Jab",
+        "The sport's ruler: distance-keeper, offense-starter, and the punch thrown more than any other.",
+        "Five rounds of jab-only shadow boxing daily; heavy-bag jabs counted in hundreds; partner drills for range-finding."
+      ],
+      [
+        "Stance & footwork",
+        "Orthodox or southpaw base: weight distribution, small steps, pivot turns that change angles without crossing feet.",
+        "Ladder and cone footwork drills; shadow boxing with pivots every ten seconds; mirror work on stance width and guard height."
+      ],
+      [
+        "The cross (straight right)",
+        "The power line: rotation through hips and shoulder delivered straight down the pipe.",
+        "Two-round cross-only bag work; slip-and-cross partner drills; rotation drills with a band."
+      ],
+      [
+        "Hooks & uppercuts",
+        "The power pair: lead hook for angles, uppercut for the pocket — both thrown from the legs.",
+        "Uppercut-bag drills; angle-change combinations with a coach holding pads; hook mechanics videoed from the side."
+      ],
+      [
+        "Defense (slip, roll, block)",
+        "Head movement that makes you hard to hit: slipping punches with the knees, rolling under hooks, blocking with shoulders and gloves.",
+        "Slip-rope drills daily; partner-feeder defense rounds; defensive-only sparring (light contact, defense scores)."
+      ],
+      [
+        "Conditioning & the round",
+        "Three-minute intervals with one-minute rests, at fight pace, forever: the round is the sport's true unit.",
+        "Round-based bag and pad circuits; roadwork with intervals; neck and core strength for taking and absorbing clean."
+      ],
+      [
+        "Ring craft",
+        "Distance management, ring positioning, feints, and reading opponents in real time — the invisible championship skill.",
+        "Controlled sparring with goals (survive a round center-ring, box the outside, work off the jab); fight-film study per opponent archetype."
+      ]
+    ],
+    "rules": [
+      "Scoring: ten-point must — the round's winner takes 10, the loser 9 (8 after a knockdown; 10-10 for even rounds).",
+      "Knockdowns: a knockdown is any fall or hang on the ropes from a legal blow; the referee counts to ten, three knockdowns can end a fight by rule (by commission).",
+      "Legal targets: above the belt, front and sides of head and body; rabbit punches, kidney shots, and holding-and-hitting draw warnings and point deductions.",
+      "Clinching: holding without punching draws breaks; excessive holding is penalized.",
+      "Cuts and fouls: accidental headbutts score to the cards after four rounds (technical decisions); intentional fouls can mean disqualification.",
+      "Weight: fighters weigh in the day before (professionals) or hours before (amateurs); missing weight forfeits belts and often the purse.",
+      "Medical rules: pre- and post-fight medicals, suspensions after knockouts, and commission oversight — the sport's hardest-won infrastructure."
+    ],
+    "equipment": [
+      [
+        "Gloves",
+        "Training gloves 14-16 oz for sparring, bag gloves 10-12 oz; competition wears 8-10 oz ($60-200 a pair)."
+      ],
+      [
+        "Hand wraps",
+        "180-inch cotton or Mexican-style wraps worn under gloves, always ($10-20 for a three-pack)."
+      ],
+      [
+        "Heavy bag",
+        "80-120 lb hanging bags or free-standing versions ($80-300) — the sport's gym-in-one."
+      ],
+      [
+        "Pads & mitts",
+        "Focus mitts and body pads for coached work ($40-150) — the fastest skill accelerator."
+      ],
+      [
+        "Ringside kit",
+        "Mouthguard (custom fitted is worth every cent), headgear for amateurs, and a good skipping rope."
+      ]
+    ],
+    "training": [
+      "The boxer's week: 3-5 gym sessions (bag, pads, sparring, drills) plus roadwork (3-5 miles with intervals) and strength twice weekly.",
+      "Condition like the clock: 3-minute rounds with 1-minute rests — everything at fight pace, recovery trained too.",
+      "Neck and core training reduces whiplash and improves punch absorption — the sport's least glamorous, most protective work.",
+      "Sparring is a dialogue, not a war: controlled sessions with clear goals, built by trust with partners.",
+      "Fight-film study: one great boxer per week, jab-footwork focus — the sweet science is learned through the eyes too."
+    ],
+    "pathway": [
+      [
+        "Beginner gym",
+        "Learn-to-box classes: wraps, stance, bag, and first pad rounds."
+      ],
+      [
+        "Amateur & novice tournaments",
+        "Local novice shows and national amateur brackets — the classic ladder (90% of pros walked it)."
+      ],
+      [
+        "Pro debut & building record",
+        "Four-rounders, managed carefully: the record's first ten fights shape careers."
+      ],
+      [
+        "Rankings & title fights",
+        "Regional titles, world rankings, and championship fights across four belts."
+      ],
+      [
+        "The money era",
+        "Superfights, unification bouts, and crossover spectacles — boxing's commercial summit."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic Games",
+        "Since 1904; women since 2012 — the amateur sport's four-yearly summit and its greatest stories."
+      ],
+      [
+        "World championship unifications",
+        "Four-belt politics: unification bouts and undisputed crowns (the rarest boxing achievement)."
+      ],
+      [
+        "Continental & world amateur championships",
+        "World Boxing championships (men and women) — the elite-amateur ladder."
+      ],
+      [
+        "Mega-cards & superfights",
+        "The era's biggest events: record gates, record purses, record television audiences."
+      ],
+      [
+        "Golden Gloves & national novices",
+        "The sport's historic proving grounds — every champion's first newspaper clipping."
+      ]
+    ],
+    "legends": [
+      [
+        "Muhammad Ali",
+        "USA — three-time lineal heavyweight champion; The Greatest in the ring and beyond it."
+      ],
+      [
+        "Sugar Ray Robinson",
+        "USA — 173-19-6 across welterweight and middleweight; the sport's pound-for-pound gold standard."
+      ],
+      [
+        "Joe Louis",
+        "USA — heavyweight champion for nearly twelve years and twenty-five defenses; a nation's symbol in war and peace."
+      ],
+      [
+        "Katie Taylor & Claressa Shields",
+        "Ireland/USA — the women's era's twin engines: Olympic golds and undisputed professional crowns in multiple divisions."
+      ],
+      [
+        "Marvin Hagler, Hearns, Leonard, Duran",
+        "The Four Kings of the 1980s middleweights — the sport's highest-quality rivalry cluster ever staged."
+      ]
+    ],
+    "getting_started": [
+      "Join a gym with a coach before buying anything — wraps, gloves, and basics come from the coach's list.",
+      "Learn the jab and stance for a month before every other punch: the foundation decides everything.",
+      "Skip rope daily: boxing's conditioning and rhythm live in the rope.",
+      "Spar only when your coach says, and only with controlled partners — the sport rewards patience with longevity.",
+      "Watch one classic fight a week (Ali-Frazier, Hagler-Hearns): the geometry teaches better than tutorials.",
+      "Respect recovery: your hands, neck, and brain are the equipment — protect all three."
+    ],
+    "glossary": [
+      [
+        "Jab",
+        "The lead-hand straight punch — boxing's distance-keeper and its most thrown punch."
+      ],
+      [
+        "Southpaw",
+        "A left-handed stance (right hand leading) — the geometry's mirror."
+      ],
+      [
+        "Clinch",
+        "Tying up an opponent at close range; broken by the referee."
+      ],
+      [
+        "Slip & roll",
+        "Defensive head movement past a punch and under a hook — the sweet science's dance steps."
+      ],
+      [
+        "Knockdown / count",
+        "A legal fall judged by the referee's ten count; three-and-rule by commission."
+      ],
+      [
+        "Technical knockout (TKO)",
+        "The referee or corner stops the fight — mercy and sense codified."
+      ],
+      [
+        "Unanimous / split decision",
+        "The judges' verdicts: all agreeing, or not."
+      ],
+      [
+        "Southpaw's mirror / switch-hitter",
+        "Fighting both stances — the rarest and most disorienting craft."
+      ],
+      [
+        "Chin",
+        "The colloquial currency of punch resistance — trained by genetics, guarded by defense."
+      ],
+      [
+        "Ring generalship",
+        "Controlling distance, angles, and pace — the invisible skill behind every decision win."
+      ]
+    ],
+    "related": [
+      "kickboxing",
+      "mixed-martial-arts",
+      "wrestling",
+      "muay-thai",
+      "fencing"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "wrestling",
+    "name": "Wrestling",
+    "category": "combat",
+    "glyph": "🤼",
+    "tagline": "The oldest sport in the Olympic record — take them down, turn them, pin them.",
+    "origin": "Ancient Greece · 708 BC · modern UWW 1912",
+    "tags": [
+      "Olympic original",
+      "Takedowns & pins",
+      "Folkstyle & freestyle",
+      "Grappling base"
+    ],
+    "overview": [
+      "Wrestling is human chess at body temperature: two athletes seek takedowns, turns, and pins — or points for control, exposure, and escapes — under rules that forbid striking but permit nearly everything else two bodies can do. It was on the ancient Olympic program by 708 BC, it anchors every modern Games since 1896, and its styles (freestyle, Greco-Roman, and America's folkstyle) form the technical base of most grappling sports on Earth.",
+      "The modern international game is governed by United World Wrestling (founded 1912 as FILA) with six weight classes per style per sex at the Olympics. The sport's deepest nations — Iran, Russia's lineage, the USA, Japan (whose women's program is the most dominant in Olympic wrestling history), and the Caucasus — treat wrestling as civic identity, and its legends (Karelin's thirteen years without a single point conceded in international competition, Icho's four golds, Gable's perfection) are national monuments.",
+      "Newcomers should learn sprawls, stance, and level changes before throws: wrestling rewards position over heroics, and the safest entry is a club with structured drilling. conditioning is the sport's honest tax — six minutes of wrestling feels like an hour of running — and every takedown you learn transfers to judo, BJJ, and MMA."
+    ],
+    "facts": [
+      [
+        "Ancient roots",
+        "Wrestling on the Olympic program by 708 BC; depicted in Mesopotamian and Egyptian art millennia earlier"
+      ],
+      [
+        "Governing body",
+        "United World Wrestling (1912 as FILA, renamed 2014); continental and national federations"
+      ],
+      [
+        "Olympic styles",
+        "Greco-Roman (no attacks below the waist) and freestyle (men and women); the USA's collegiate folkstyle is the fourth great code"
+      ],
+      [
+        "Weights & formats",
+        "Six Olympic classes per style; matches run two three-minute periods in the current format, with a ground-position (par terre) phase"
+      ],
+      [
+        "Scoring",
+        "Takedowns 2-5 (exposure bonus), reversals 2, escapes 1, pins end the match instantly"
+      ],
+      [
+        "Parterre phases",
+        "The ground-position restart (the par terre position in Greco; the leg-attack restart in freestyle) keeps matches moving and tests both positions"
+      ]
+    ],
+    "history": [
+      [
+        "708 BC",
+        "Wrestling joins Olympia's program; Milo of Croton becomes the ancient era's defining champion."
+      ],
+      [
+        "1896-1912",
+        "Wrestling anchors the first modern Olympics; FILA (UWW) founds to unify international rules."
+      ],
+      [
+        "1904-1970s",
+        "Freestyle and Greco-Roman alternate and settle; the Soviet system builds its machine; the USA's collegiate pipeline industrializes."
+      ],
+      [
+        "1980s-2000s",
+        "Karelin's invincibility, the Schultz-Schultz era, and the sport's Olympic near-death experience (2013 IOC vote, reversed after reform)."
+      ],
+      [
+        "2004-2016",
+        "Women's freestyle Olympic debut (Athens 2004); Japan's women's dynasty (Icho, Yoshida) becomes historic."
+      ],
+      [
+        "2020s",
+        "Rule modernization continues (leg attacks in Greco's parterre debates, scoring clarity); Bajrang Punia, Taha Akgül, and the new generation carry it forward."
+      ]
+    ],
+    "formats": [
+      [
+        "Freestyle",
+        "Leg attacks legal everywhere, exposure scoring, fast action — the Olympic style for men and women."
+      ],
+      [
+        "Greco-Roman",
+        "No attacks below the waist: throws, lifts, and upper-body artistry — the ancient style."
+      ],
+      [
+        "Folkstyle (collegiate)",
+        "The USA's school code: riding time, escapes, and the control-focused rules of NCAA wrestling."
+      ],
+      [
+        "Team duals & World Cups",
+        "Nation versus nation dual meets and the World Cup's team format."
+      ]
+    ],
+    "skills": [
+      [
+        "Stance, motion & level changes",
+        "The wrestling stance: knees bent, back straight, head up, always moving — level changes create every attack.",
+        "Stance-and-motion drills (5-minute continuous motion); level-change repetitions by the hundred; mirror and video checks weekly."
+      ],
+      [
+        "Penetration step & takedowns",
+        "The double and single leg: deep penetration, hips through, finishes (runs, trips, lifts) adapted per defense.",
+        "Penetration-step repetitions (50 daily); finish ladders against resistance; chain-wrestling drills (miss-to-second-attack)."
+      ],
+      [
+        "Sprawls & defense",
+        "The sprawl that stuffs takedowns, whizzer replies, and front headlocks — defense first, always.",
+        "Sprawl reps by the hundred; defense-only drilling rounds; reactive drills with a partner calling shots."
+      ],
+      [
+        "Riding, turns & pinning",
+        "The ground game: breakdowns, rides (bar-arm, half-nelson family), turns to pin combinations.",
+        "Position sparring from referees' positions; pin-combination chains drilled weekly; near-fall awareness (exposure points)."
+      ],
+      [
+        "Throws (Greco & freestyle)",
+        "Lifts, hip throws, and suplayssuplexes: the sport's highlight scoring when landed cleanly.",
+        "Throw technique with crash pads; grip-and-lift strength (5×5 heavy); timing throws off opponent attacks."
+      ],
+      [
+        "Conditioning & cut management",
+        "The six-minute engine and weight-class discipline: wrestling-specific conditioning with sound weight management.",
+        "Interval circuits (30 s on/15 s off × 12); live-wrestling rounds at full pace; weight managed by eating, not cutting (young athletes especially)."
+      ]
+    ],
+    "rules": [
+      "Match format: two three-minute periods at senior level (Olympic freestyle/Greco); the wrestler with more scoring at the end wins.",
+      "Scoring: takedown 2 (4-5 with exposure or grand amplitude throws), reversal 2, escape 1, near-fall/exposure 2-4; pins (both shouldersshoulder blades to the mat) end everything instantly.",
+      "Greco-Roman's law: no holds or attacks below the waist, no leg use in defense or offense — upper body only.",
+      "Par terre/position restarts: after certain stoppages wrestlers restart in the ground position — the sport's built-in ground phase.",
+      "Caution points and passivity: referees enforce action; passivity warnings and cautions award points and position.",
+      "Weight classes: senior freestyle weights of 57, 65, 74, 86, 97, and 125 kg, same structure for Greco and women; weigh-ins the day before at majors.",
+      "Medical and conduct rules: blood timeouts, injury defaults, and conduct penalties (flagrant fouls disqualify) — the sport's respect structure."
+    ],
+    "equipment": [
+      [
+        "Singlet",
+        "The one-piece uniform of competition ($30-80); women's cut and youth sizes standard."
+      ],
+      [
+        "Headgear",
+        "Mandatory in school and collegiate wrestling, strongly advised everywhere ($25-45) — ears are the sport's honest casualties."
+      ],
+      [
+        "Wrestling shoes",
+        "Thin-soled, ankle-supporting shoes ($60-120) — flexibility and grip over everything."
+      ],
+      [
+        "Mats",
+        "Competition mats (FILA/UWW spec) and roll-out home mats — clubs own; garage wrestlers buy roll-outs ($200-600)."
+      ],
+      [
+        "Knee pads & tape",
+        "One or two knee pads by preference; tape for fingers and ankles — the grapple's consumables."
+      ]
+    ],
+    "training": [
+      "Drill to live ratio: 60% technique drilling, 40% live wrestling — technique without live application is decoration.",
+      "The engine: interval circuits and live rounds build the six-minute machine; hill sprints and rope climbs supplement.",
+      "Strength for the chain: deadlifts, rows, pull-ups, and neck work — wrestling strength is posterior-chain strength.",
+      "Film study of your style's greats (Karelin for Greco, the Iowa program for folkstyle, Japan's women for technique under pressure).",
+      "Weight management done right: eat to perform, cut only with supervision, and never for young athletes — the sport's hardest lesson."
+    ],
+    "pathway": [
+      [
+        "School & club wrestling",
+        "Youth programs and middle-school seasons: the sport's nursery and its culture's base."
+      ],
+      [
+        "High school & collegiate",
+        "State tournaments and the NCAA system (folkstyle) — America's massive development engine."
+      ],
+      [
+        "Senior national & UWW age groups",
+        "U20 and U23 worlds, national trials — the international ladder."
+      ],
+      [
+        "World Championships & World Cup",
+        "Annual worlds (non-Olympic years full program), team World Cups."
+      ],
+      [
+        "Olympic Games",
+        "Six classes per style: wrestling's four-yearly summit since 708 BC's version of it."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic Games",
+        "Greco and freestyle (men), freestyle (women): wrestling's ancient-modern summit."
+      ],
+      [
+        "UWW World Championships",
+        "Annual (non-Olympic years for Olympic weights): the sport's deepest tournament."
+      ],
+      [
+        "NCAA Championships",
+        "Folkstyle's national summit — sold-out arenas and the sport's loudest crowds."
+      ],
+      [
+        "UWW World Cup & team duals",
+        "National-team wrestling's team format."
+      ],
+      [
+        "National trials & open tournaments",
+        "USA's Olympic Trials and the open-circuit's qualifier ladders."
+      ]
+    ],
+    "legends": [
+      [
+        "Aleksandr Karelin",
+        "USSR/Russia — Greco-Roman's super-heavy titan: three Olympic golds and thirteen years unbeaten in international competition."
+      ],
+      [
+        "Dan Gable",
+        "USA — Olympic gold (1971 1972, without a point scored against him) and Iowa's dynasty-building coach (15 NCAA titles); wrestling's mythic teacher."
+      ],
+      [
+        "Kaori Icho",
+        "Japan — four consecutive Olympic golds (2004-2016); the most dominant Olympic wrestler in history."
+      ],
+      [
+        "Saori Yoshida",
+        "Japan — three Olympic golds and thirteen world titles; Icho's era-partner in Japan's golden women's program."
+      ],
+      [
+        "John Smith",
+        "USA — two Olympic golds and the low-single the low-single technique that bears his name."
+      ]
+    ],
+    "getting_started": [
+      "Join a club with structured drilling: wrestling's techniques are learned through thousands of quality reps.",
+      "Buy headgear early — ear protection from week one is cheaper than the alternative.",
+      "Learn sprawl and stance before shots: defense-first wrestlers improve fastest and stay healthiest.",
+      "Condition for the clock: six minutes of live wrestling weekly minimum, at full pace.",
+      "Watch one style deeply (freestyle for speed, Greco for throws, folkstyle for control) and steal its champions' habits.",
+      "Respect weight classes: wrestle where your body lives, not where the scale can visit."
+    ],
+    "glossary": [
+      [
+        "Takedown",
+        "Taking the opponent from feet to mat — wrestling's primary currency."
+      ],
+      [
+        "Sprawl",
+        "The defense that stuffs leg attacks — legs back, hips heavy."
+      ],
+      [
+        "Near fall / exposure",
+        "Turning an opponent toward a pin for bonus points."
+      ],
+      [
+        "Par terre",
+        "The ground-restart position (Greco's backbone phase)."
+      ],
+      [
+        "Pin / fall",
+        "Both shoulder blades to the mat: instant, absolute victory."
+      ],
+      [
+        "Whizzer",
+        "The overhook defense that kills inside ties."
+      ],
+      [
+        "Grand amplitude",
+        "A throw lifting the opponent through a full arc — 5 points and a highlight."
+      ],
+      [
+        "Riding time",
+        "Folkstyle's control-clock bonus point."
+      ],
+      [
+        "Double leg / single leg",
+        "The two great leg attacks — wrestling's opening moves."
+      ],
+      [
+        "Chain wrestling",
+        "Linking attacks when the first fails — the sport's real offensive skill."
+      ]
+    ],
+    "related": [
+      "judo",
+      "brazilian-jiu-jitsu",
+      "mixed-martial-arts",
+      "boxing",
+      "sambo"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "judo",
+    "name": "Judo",
+    "category": "combat",
+    "glyph": "🥋",
+    "tagline": "The gentle way — Kano's throws, pins, and the Olympic mat's moral curriculum.",
+    "origin": "Japan · 1882 (Kodokan, Jigoro Kano) · Olympic 1964",
+    "tags": [
+      "Olympic",
+      "Throws & pins",
+      "Kodokan",
+      "Grappling art"
+    ],
+    "overview": [
+      "Judo — the gentle way — is Jigoro Kano's synthesis of Japanese jujutsu into a modern martial art and sport: throws (nage-waza) and grappling (katame-waza: pins, chokes, jointlocks) used to control an opponent by leveraging their balance against them. Kano's genius was pedagogical: he stripped dangerous techniques, built randori (free practice) at its heart, and wrapped the whole thing in a moral philosophy (jita kyoei — mutual benefit) that made judo the world's first modern martial art.",
+      "Founded at Tokyo's Kodokan in 1882, judo became the first martial art in the Olympics (Tokyo 1964, permanent from 1972) and the template for every modern grappling sport that followed — sambo, BJJ, and the pedagogy of most national combatives systems. The IJF's world circuit and the Olympic mat's seven weight classes per sex define elite judo, where a single throw for ippon ends the match instantly and cleanly.",
+      "Newcomers should start at a club with proper mats and instructors: falling (ukemi) is the sport's first and most important skill — taught before throws — and judo's learning curve is famously kind to beginners because you cannot learn to throw without learning to be thrown. Grip fighting, footwork, and one good throw beat a shallow arsenal of twenty."
+    ],
+    "facts": [
+      [
+        "Founded",
+        "1882 — Jigoro Kano opens the Kodokan in Tokyo, synthesizing Kito-ryu and Tenjin Shin'yo-ryu jujutsu"
+      ],
+      [
+        "Governing body",
+        "International Judo Federation (1951); continental unions; national federations"
+      ],
+      [
+        "Olympic history",
+        "Tokyo 1964 (men), permanent from Munich 1972; women from Barcelona 1992"
+      ],
+      [
+        "Scoring",
+        "Ippon (a clean throw, a decisive pin, a choke, or an armbar) ends the match; waza-ari (weaker throw or shorter pin) — two waza-ari = ippon"
+      ],
+      [
+        "Match length",
+        "Four minutes senior (golden-score overtime on ties, with newer formats capping the overtime and falling back to flag decisions"
+      ],
+      [
+        "Weight classes",
+        "Seven per sex: men -60 to +100 kg, women -48 to +78 kg"
+      ]
+    ],
+    "history": [
+      [
+        "1882",
+        "Kano opens the Kodokan with nine students; randori and the moral syllabus define the art against classical jujutsu."
+      ],
+      [
+        "1886-1930s",
+        "The Kodokan's police tournament victories establish judo's dominance in Japan; Kano serves on the IOC, planting Olympic seeds."
+      ],
+      [
+        "1951-1964",
+        "The IJF forms; Tokyo 1964 hosts judo's Olympic debut; Anton Geesink's open-class gold announces the sport's globalization."
+      ],
+      [
+        "1972-1990s",
+        "Permanent Olympic status; the Soviet judo school (sambo crossover) and Japanese tradition trade eras; women's Olympic debut in 1992."
+      ],
+      [
+        "2000s-2010s",
+        "Leg-grab ban (2010-2013) reshapes technique; grip-fighting professionalism and the referee code's constant evolution."
+      ],
+      [
+        "2020s",
+        "Teddy Riner's third Olympic gold (Paris 2024) and the mixed-team event's popularity define the modern era."
+      ]
+    ],
+    "formats": [
+      [
+        "Olympic & world judo",
+        "Individual tournaments by weight class in single elimination with bronze-medal repêchage brackets, plus the mixed-team event since Tokyo 2020."
+      ],
+      [
+        "Kata",
+        "The formal syllabus: Nage-no-kata, Katame-no-kata and others — technique as preservation, judged at dedicated events."
+      ],
+      [
+        "Kodokan & traditional practice",
+        "Randori, Shiai, and the dan grading system — the art's root structure."
+      ],
+      [
+        "Kosen & collegiate rules",
+        "Japan's university judo variant emphasizing newaza (groundwork) — the historical bridge to BJJ."
+      ]
+    ],
+    "skills": [
+      [
+        "Ukemi (falling)",
+        "The sport's first skill: breakfalls (back, side, forward) that make being thrown safe forever.",
+        "Daily ukemi from kneeling to standing; rolling fall progressions; falling is tested in every warm-up, forever."
+      ],
+      [
+        "Kumi-kata (grip fighting)",
+        "The invisible battle: obtaining your grip while denying theirs — the sport's opening chess.",
+        "Grip-breaking drills (high collar versus sleeve, two-on-one breaks); grip-only sparring rounds; hand speed and wrist strength work."
+      ],
+      [
+        "Throws (nage-waza)",
+        "The Kodokan's sixty-seven classic throws across hip, foot, hand, sacrifice families — learn three deeply before thirty shallowly.",
+        "Uchi-komi (repetition entries) by the hundred; nage-komi (throws onto crash mats); randori application of one tokui-waza (favorite throw)."
+      ],
+      [
+        "Newaza (groundwork)",
+        "Pins (osaekomi), escapes, turns, chokes (shime-waza) and armlocks (kansetsu-waza, elbow only in sport).",
+        "Groundwork rounds starting from pin positions; turn-over technique chains; transition timing (throw-to-pin) drilled as one motion."
+      ],
+      [
+        "Combination & counters",
+        "Renraku-waza: throw-to-throw combinations and counters (kaeshi-waza) — the mature randori skill.",
+        "Combination drilling (attack-drives-attack); counter-of-the-month practice; situational randori with announced intentions."
+      ],
+      [
+        "Randori & competition craft",
+        "Free practice as the sport's laboratory: pace management, score awareness, and the last thirty seconds' discipline.",
+        "Structured randori with goals; tournament simulation with scoring rules enforced; shiai experience accumulated deliberately."
+      ]
+    ],
+    "rules": [
+      "Scoring: ippon (full control throw, 20-second pin, choke submission, clean armlock) ends the match; waza-ari (partial) — two waza-ari score ippon.",
+      "Penalties: shido (three = disqualificationhansoku-make) for non-combativity, false attacks, and illegal grips; direct hansoku-make for dangerous or prohibited acts.",
+      "Prohibited: leg grabs (since 2010-2013 rules), direct attacks below the belt, and techniques judged dangerous (divingkani-basami banned).",
+      "Match time: four minutes senior with golden-score overtime; the rules' evolution is constant — check the current IJF sport code.",
+      "Uniform: IJF-approved judogi, regulated sizes, blue and white sets; belt ranks (kyu/dan) formalized by Kano himself.",
+      "Weight-ins the day beforeday-of by event; weigh-in rules by competition format.",
+      "Medical: blood rules, injury time, and the doctor's authority — safety infrastructure at every sanctioned event."
+    ],
+    "equipment": [
+      [
+        "Judogi",
+        "A regulation gi (jacket, pants, belt): rice-weave jackets for gripping ($80-250)."
+      ],
+      [
+        "Belts",
+        "Colored kyu belts to black dan: the ranking system's visible grammar ($10-40)."
+      ],
+      [
+        "Mats (tatami)",
+        "Competition tatami or roll-out mats for clubs — the sport's true infrastructure (club-owned)."
+      ],
+      [
+        "Grip & conditioning kit",
+        "Grip trainers, resistance bands, and crash mats for nage-komi ($60-150 home setup)."
+      ],
+      [
+        "Competition bibs & blue gi",
+        "The blue judogi of the circuit — required at ranked events ($100-200)."
+      ]
+    ],
+    "training": [
+      "The classic session: warm-up and ukemi, uchi-komi, technique, randori — the Kodokan's structure survives every innovation.",
+      "Randori 2-4× weekly at varied intensities: hard randori builds champions, soft randori builds technique.",
+      "Strength and conditioning: pulls (the grip game's engine), squats, and rotational power — judo strength is grip-and-hip strength.",
+      "Cross-train thoughtfully: wrestling makes judoka harder to throw; BJJ deepens the newaza; each borrows well.",
+      "Kata and technique study preserve the art's depth: one kata worked per season keeps the classical syllabus alive."
+    ],
+    "pathway": [
+      [
+        "Dojo beginnings",
+        "Youth and adult classes: ukemi, first throws, first gradings."
+      ],
+      [
+        "Kyu grades & local shiai",
+        "Club gradings and local tournaments — the ladder's friendly early rungs."
+      ],
+      [
+        "National junior & senior circuit",
+        "National championships and ranking events by weight class."
+      ],
+      [
+        "IJF world circuit",
+        "Grand Slams, Grand Prix, Continental Opens — the professional tour."
+      ],
+      [
+        "Worlds & Olympics",
+        "The world championship and Olympic mat: seven classes, one gold each, one dream."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic Games",
+        "Seven weight classes per sex plus mixed team: the mat's four-yearly summit."
+      ],
+      [
+        "IJF World Championships",
+        "Annual (odd years individuals, even years team formats evolving): the sport's deepest field."
+      ],
+      [
+        "IJF Grand Slam & Grand Prix",
+        "Paris, Tokyo, Baku, Tashkent-era tour stops: the professional circuit's rhythm."
+      ],
+      [
+        "Kodokan kata championships",
+        "The formal syllabus's competitive branch."
+      ],
+      [
+        "Continental championships",
+        "European, Asian, Pan-American championships — the qualification and prestige layer."
+      ]
+    ],
+    "legends": [
+      [
+        "Jigoro Kano",
+        "Japan — the founder: educator, Kodokan builder, IOC member, and the modern martial arts' great systematizer."
+      ],
+      [
+        "Teddy Riner",
+        "France — three Olympic golds (2012, 2016, 2024) and a decade of invincibility: the sport's modern colossus."
+      ],
+      [
+        "Ryoko Tani",
+        "Japan — the first woman to win back-to-back Olympic judo golds (2000, 2004); the women's game's founding superstar."
+      ],
+      [
+        "Anton Geesink",
+        "Netherlands — the 1961 world and 1964 Olympic open-class champion who proved judo's universality."
+      ],
+      [
+        "Yasuhiro Yamashita",
+        "Japan — undefeated through a 203-match career 528-match competitive career; the golden-era heavyweight standard."
+      ]
+    ],
+    "getting_started": [
+      "Find an IJF-affiliated club or a university judo club: mats, instructors, and community are the sport's entry ticket.",
+      "Learn ukemi religiously for a month: everything in judo rests on safe falling.",
+      "Pick one throw and marry it: tokui-waza (favorite technique) is how every champion's judo is built.",
+      "Grip-fight consciously from day one: the sport's hidden half deserves its own practice time.",
+      "Enter novice shiai within six months: competition teaches composure that randori cannot.",
+      "Respect the etiquette: bowing, mat hygiene, and the culture are the art's moral syllabus in action."
+    ],
+    "glossary": [
+      [
+        "Ippon",
+        "The full point: a clean throw, decisive pin, choke, or armlock — match over."
+      ],
+      [
+        "Waza-ari",
+        "The partial score; two make an ippon."
+      ],
+      [
+        "Ukemi",
+        "Breakfalls — the art of being thrown safely."
+      ],
+      [
+        "Kumi-kata",
+        "Grip fighting — judo's opening battle."
+      ],
+      [
+        "Randori",
+        "Free practice: the sport's laboratory."
+      ],
+      [
+        "Shiai",
+        "Competition."
+      ],
+      [
+        "Tokui-waza",
+        "A favorite technique — the signature throw every judoka builds."
+      ],
+      [
+        "Ne-waza",
+        "Groundwork: pins, chokes, jointlocks (elbows only in sport)."
+      ],
+      [
+        "Hansoku-make",
+        "Disqualification for serious or repeated infractions."
+      ],
+      [
+        "Jita kyoei",
+        "Mutual benefit and welfare — Kano's moral core, spoken with every bow."
+      ]
+    ],
+    "related": [
+      "brazilian-jiu-jitsu",
+      "wrestling",
+      "sambo",
+      "mixed-martial-arts",
+      "karate"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "brazilian-jiu-jitsu",
+    "name": "Brazilian Jiu-Jitsu",
+    "category": "combat",
+    "glyph": "🥋",
+    "tagline": "Position before submission — the gentle art that rebuilt grappling for the ground.",
+    "origin": "Brazil (Belem/Rio) · early 1900s (Mitsuyo Maeda → Gracies)",
+    "tags": [
+      "Grappling art",
+      "Gi & no-gi",
+      "IBJJF & ADCC",
+      "Positional chess"
+    ],
+    "overview": [
+      "Brazilian jiu-jitsu is ground fighting as a science: control positions (guard, mount, back), sweeps, escapes, and submissions (chokes, joint locks) refined so a smaller, skilled practitioner can neutralize and defeat a larger one. Its premise — position before submission, technique over strength — made it the technical engine of mixed martial arts and one of the fastest-growing martial arts in the world.",
+      "The art descends from judo's groundwork (Kano's newaza and the Kosen university tradition) brought to Brazil by Mitsuyo Maeda, transformed by Carlos and Helio Gracie (Helio's leverage adaptations for a smaller frame), tested in the Gracie challenge matches, and globalized through the UFC's first event (1993) and Royce Gracie's wins. Today it splits into gi competition (IBJJF's worlds and the belt system) and no-gi grappling (ADCC's superfight crown), with academies in every city on Earth.",
+      "Newcomers should expect to be submitted daily for six months and to love it: BJJ's culture is built on controlled resistance, and its curriculum (positions before submissions) is the most teachable in grappling. Start with fundamentals classes, learn to tap early and often, and trust the belt system's long arc — blue belt takes about two years, and the journey is the point."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "Early 1900s — Mitsuyo Maeda (a Kodokan judoka) teaches the Gracie family in Belem; Carlos and especially Helio Gracie adapt the art through the 1920s-50s"
+      ],
+      [
+        "Governing bodies",
+        "IBJJF (International Brazilian Jiu-Jitsu Federation, 1994-era), ADCC (Submission Fighting World Championship, 1998), UWW's grappling branch, plus IBJJF-independent pro circuits"
+      ],
+      [
+        "Belt system",
+        "White → blue → purple → brown → black (with degrees), red-black and red at the apex; youth belts interleave"
+      ],
+      [
+        "Competition formats",
+        "Gi and no-gi by weight, age, and belt; match scoring by takedowns, sweeps, passes, and control points; submissions end everything"
+      ],
+      [
+        "The 1993 moment",
+        "UFC 1: Royce Gracie wins three fights by submission in one night — the art's global proof of concept"
+      ],
+      [
+        "Scale today",
+        "Practitioners number in the millions by most estimates; IBJJF worlds and ADCC trials anchor the competitive calendar"
+      ]
+    ],
+    "history": [
+      [
+        "1900s-1930s",
+        "Maeda's judo arrives in Brazil; Carlos Gracie teaches, Helio adapts for leverage; the Gracie Academy opens in Rio."
+      ],
+      [
+        "1950s-1980s",
+        "The Gracie challenge era: vale tudo matches in Brazil test the art against all comers; and Carlson Gracie's school spreads to new generations."
+      ],
+      [
+        "1993-2000s",
+        "UFC 1's proof; the IBJJF forms and world championships professionalize; Machado, Gracie, and Saulo-era lineages spread globally."
+      ],
+      [
+        "2000s-2010s",
+        "The ADCC crown's prestige peaks; no-gi and leglock modernization (Danaher death squad era) revolutionize technique; academy culture explodes worldwide."
+      ],
+      [
+        "2020s",
+        "Professional circuits (IBJJF pro series, crossover superfights) and a youth participation boom — the gentle art's mainstream decade."
+      ]
+    ],
+    "formats": [
+      [
+        "Gi competition",
+        "IBJJF rules: points for takedown (2), sweep (2), guard pass (3), knee-on-belly mount and back (4); advantages, penalties, and submissions decide matches."
+      ],
+      [
+        "No-gi & ADCC-style",
+        "Gripless grappling with submission-only scoring variants; ADCC's points-plus-submission format is grappling's most prestigious stage."
+      ],
+      [
+        "Submission-only (EBI-style)",
+        "No points: matches decided by submission or overtime rounds (ride-outs and escape challenges) — the purist format."
+      ],
+      [
+        "Academy sport & in-house",
+        "In-house tournaments, graduation ceremonies, and the belt system's own rhythms."
+      ]
+    ],
+    "skills": [
+      [
+        "Guard & guard retention",
+        "The defining position: closed, open, and modern guards (De La Riva, worm, 50/50) that keep you dangerous from your back.",
+        "Guard retention drills (posture control, hip escapes); open-guard chaining by grip or leg entanglement; retention against pressure passing weekly."
+      ],
+      [
+        "Passing",
+        "Beating the guard: pressure passing (knee-cut, headquarters, and leg-drag) and speed passing — the point scorer's engine.",
+        "Passing drills by guard type (one guard per month); combination passing (pressure-to-speed); positional sparring from standing."
+      ],
+      [
+        "Mount & back control",
+        "The finishing positions: controlling, attacking chokes and jointlocks from mount and back mount — where matches end.",
+        "Positional sparring (mount escape versus attack rounds); back-take chains (guard-to-back); submission chains from dominant control."
+      ],
+      [
+        "Sweeps & reversals",
+        "Reversing the position from guard: sweeps that turn defense into points and top position.",
+        "Sweep ladders per guard family; timing drills against standing and kneeling passers; transition-to-pass chains after sweeps."
+      ],
+      [
+        "Escapes & defense",
+        "Survival first: escapes from mount, side control, back — the skill that keeps beginners training for years.",
+        "Escalating escape drills (percent resistance positional sparring); framing and hip movement fundamentals; defense scored by survival time."
+      ],
+      [
+        "Submission systems",
+        "Chokes (rear naked, triangle, bow-and-arrow) and jointlocks (armbars, omoplatas, heel hooks in no-gi) as chains, not moves.",
+        "Submission chains per position (mount: armbar-to-triangle); leg-lock systems (no-gi, learned progressively); drilling with resistance scaled honestly."
+      ]
+    ],
+    "rules": [
+      "IBJJF scoring: takedown 2, sweep 2, guard pass 3, mount/back control 4; stalling and negativepenalties accumulate; advantages break ties.",
+      "Submissions: chokes and jointlocks (elbows, shoulders, knees by belt level — heel hooks reserved for brown and black belt in gi, allowed earlier in no-gi), with prohibited techniques per belt (wristlocks at white, reaping at lower belts).",
+      "Match times: white 5 minutes through black 10 (gi); no-gi formats by event; ADCC's ten-minute plus overtime ride-out structure at the top.",
+      "Weight classes: rooster (57.5 kg) through ultra-heavy (100.5+ kg men'smen's adult gi classes); absolute (open-weight) divisions crown the champions' champion.",
+      "Uniform: gi events require regulation kimono (IBJJF inspections); no-gi requires rashguard and shorts without pockets.",
+      "Conduct: no stalling, no fleeing the mat, no disrespect — penalties and disqualification protect the sport's cooperative culture.",
+      "Belt promotion: instructor-decided, time-and-skill gated (IBJJF publishes minimum ages/times for degrees) — the art's social contract."
+    ],
+    "equipment": [
+      [
+        "Kimono (gi)",
+        "Weave by weight (pearl, gold, pearl weave as the standard), jacket and pants ($80-250)."
+      ],
+      [
+        "Rashguard & no-gi shorts",
+        "Ranked rashguards (belt colors on sleeves) and board shorts or grappling shorts ($40-90)."
+      ],
+      [
+        "Belt",
+        "The rank itself: white through black ($15-40)."
+      ],
+      [
+        "Mats & space",
+        "Home practice mats (roll-outs $200-600) — though academies supply the real ones."
+      ],
+      [
+        "Protection",
+        "Mouthguard, cauliflower-ear protection (headgear optional), and tape for fingers (gi) — the grappling consumables."
+      ]
+    ],
+    "training": [
+      "The academy's session arc: warm-up and movement drills, technique of the day, positional sparring, free rolling — the structure that works.",
+      "Roll 3-5× weekly: mat time is the sport's only true teacher; consistency beats intensity every year of the journey.",
+      "Positional sparring over free rolling for learning: controlled starts (passer versus guard, mount escape) triple skill acquisition speed.",
+      "Study one system at a time: a guard, a pass, a submission chain — depth compounds while novelty scatters.",
+      "Recovery and honesty: tap early, protect joints, and treat training partners as collaborators in the art's cooperative experiment."
+    ],
+    "pathway": [
+      [
+        "Fundamentals class",
+        "Structured beginner curriculum: positions, escapes, first submissions."
+      ],
+      [
+        "White belt to blue",
+        "The two-year apprenticeship: survival, vocabulary, and first in-house tournaments."
+      ],
+      [
+        "Local & regional tournaments",
+        "IBJJF local opens, in-house events, and gradings."
+      ],
+      [
+        "Purple-brown circuits",
+        "National and continental IBJJF events, ADCC trials for no-gi specialists."
+      ],
+      [
+        "Black belt & the professional scene",
+        "Worlds, Pans, the ADCC crown: the art's competitive summits."
+      ]
+    ],
+    "events": [
+      [
+        "IBJJF World Championship",
+        "Gi's world title: Long Beach's summer summit since 1996."
+      ],
+      [
+        "ADCC Submission Fighting World Championship",
+        "Biennial no-gi's crown: invitation-only trials and the superfight tradition."
+      ],
+      [
+        "IBJJF Pan & European championships",
+        "The sport's second-largest tournaments — qualification season for worlds."
+      ],
+      [
+        "IBJJF Grand Slam & pro circuits",
+        "The professional gi series (worlds, Pans, Europeans, Brasileiros) with prize structures."
+      ],
+      [
+        "In-house & local opens",
+        "Every academy's tournament culture — where the art's community is built."
+      ]
+    ],
+    "legends": [
+      [
+        "Helio Gracie",
+        "Brazil — the art's adaptive genius: leverage over strength, the philosophy beneath every sweep and escape."
+      ],
+      [
+        "Rickson Gracie",
+        "Brazil — the family's unbeaten mystique (400+ claimed matches); the art's spiritual standard."
+      ],
+      [
+        "Marcelo Garcia",
+        "Brazil/USA — five ADCC titles and world championships; the modern game's beloved technician."
+      ],
+      [
+        "Roger Gracie",
+        "Brazil/UK — ten IBJJF world titles at black belt and the sport's most dominant gi career."
+      ],
+      [
+        "Gordon Ryan",
+        "USA — the no-gi era's king: multiple ADCC titles and the leglock system's public face."
+      ]
+    ],
+    "getting_started": [
+      "Take fundamentals classes for three months before open mat: positions first, submissions later.",
+      "Tap early and often: the tap is the art's safety valve and its sign of intelligence, not weakness.",
+      "Buy a decent gi (pearl weave, $100) and a rashguard; wash both after every class.",
+      "Learn one guard and one pass deeply before collecting more: depth beats breadth for two years straight.",
+      "Do positional sparring whenever offered: controlled starts teach faster than chaos.",
+      "Trust the timeline: blue at two years, purple at five — the belt system is a marathon's mile markers, not a sprint's finish line."
+    ],
+    "glossary": [
+      [
+        "Guard",
+        "Fighting from your back with legs between you and the opponent — BJJ's defining position."
+      ],
+      [
+        "Sweep",
+        "Reversing from guard to top position — two points and a momentum shift."
+      ],
+      [
+        "Pass",
+        "Beating the guard to side control or beyond — three points."
+      ],
+      [
+        "Mount / back",
+        "The two finishing positions: control from which submissions flow."
+      ],
+      [
+        "Roll (rolling)",
+        "Free sparring in BJJ dialect."
+      ],
+      [
+        "Tap",
+        "The submission signal — physical or verbal, always honored."
+      ],
+      [
+        "Gi / no-gi",
+        "The two competition worlds: with kimono grips, or without."
+      ],
+      [
+        "Omoplata",
+        "The shoulder lock from guard — the art's signature submission geometry."
+      ],
+      [
+        "Heel hook",
+        "The no-gi leg attack — powerful, respected, and belt-gated for good reason."
+      ],
+      [
+        "Rolling(ver) ‘OSS’",
+        "The academy's all-purpose word of respect and effort. (OSS)"
+      ]
+    ],
+    "related": [
+      "judo",
+      "wrestling",
+      "mixed-martial-arts",
+      "sambo",
+      "boxing"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "karate",
+    "name": "Karate",
+    "category": "combat",
+    "glyph": "🥋",
+    "tagline": "The empty hand way — Okinawa's art of one strike, one point.",
+    "origin": "Okinawa → Japan · 1900s codification · WKF global",
+    "tags": [
+      "Striking art",
+      "Kata & kumite",
+      "WKF",
+      "Olympic Tokyo 2020"
+    ],
+    "overview": [
+      "Karate — the way of the empty hand — is Okinawa's indigenous fighting tradition (blending Chinese quanfa with local te) codified into modern Japan's most exported martial art. It practices through three pillars: kihon (basics), kata (formal sequences preserving technique), and kumite (sparring), with sport karate's two Olympic disciplines being kata (demonstration judged) and kumite (point sparring to the clean decisive blow).",
+      "The art traveled from Okinawa's schools (Funakoshi's 1922 Tokyo demonstration seeding Shotokan) through Japan's universities to the world, organizing under the World Karate Federation (WKF) with hundreds of national federations. Its Olympic debut at Tokyo 2020 celebrated the art's homecoming; the sport's deepest nations — Japan, France, Spain, Turkey, Iran, Azerbaijan, and Egypt — trade world titles in kumite's electric, chess-like point fighting.",
+      "Newcomers should expect a class structure that is itself the pedagogy: basics, kata, and sparring rotate in every session, and the dojo's etiquette (bowing, the kun) is the art's moral frame. Point sparring rewards timing, distance, and the clean finishing technique (the ippon concept: one clean strike, one point) — one strike, one point — which makes karate's sport form as much a reaction game as a fighting art."
+    ],
+    "facts": [
+      [
+        "Modern origins",
+        "Okinawa's te and Chinese-derived traditions codify early 1900s; Funakoshi Gichin demonstrates in Tokyo, 1922"
+      ],
+      [
+        "Governing body",
+        "World Karate Federation (WKF, 1990-era as WUKO-F merger lineage); 200+ national federations"
+      ],
+      [
+        "Olympic debut",
+        "Tokyo 2020 (kata and kumite, three weight classes each sex); not on the Paris 2024 program"
+      ],
+      [
+        "Kumite scoring",
+        "yuko 1, waza-ari 3, ippon 3: clean decisive techniques to legal targets with control and zanshin"
+      ],
+      [
+        "Kata competition",
+        "Demonstration judged on technical performance and athletic performance panels; eliminatory rounds by flag or score"
+      ],
+      [
+        "Styles",
+        "Shotokan, Goju-ryu, Shito-ryu, Wado-ryu (the four great houses) plus Kyokushin's full-contact lineage"
+      ]
+    ],
+    "history": [
+      [
+        "1400s-1800s",
+        "Okinawan te develops under weapons bans; Chinese martial influence (the 36 families of Kumemura tradition) shapes the art."
+      ],
+      [
+        "1900s-1922",
+        "Okinawa's schools adopt karate into PE; Funakoshi's 1922 Tokyo demonstration opens the mainland era."
+      ],
+      [
+        "1930s-1950s",
+        "The great styles codify (Shotokan, Goju, Shito, Wado); Japan's universities spread karate; the JKA forms (1948)."
+      ],
+      [
+        "1960s-1970s",
+        "The WUKO forms and world championships begin (1970); the point-sparring sport format standardizes."
+      ],
+      [
+        "1990s-2010s",
+        "The WKF consolidates recognition; kata competition's scoring evolves; the Olympic campaign runs for decades."
+      ],
+      [
+        "2020-2024",
+        "Tokyo 2020's debut (kata and kumite) crowns the art's Olympic moment; the Paris absence and LA28's failed bid keep the sport's future in debate."
+      ]
+    ],
+    "formats": [
+      [
+        "Kumite (point sparring)",
+        "Three-minute bouts, scoring by clean technique to legal targets with control: the sport's fast, reactive form."
+      ],
+      [
+        "Kata",
+        "Individual and team demonstration judged on technique and athletic expression — the art's living archive."
+      ],
+      [
+        "Kyokushin & full-contact lineages",
+        "Knockdown karate's bare-knuckle tournaments — a parallel competitive world of endurance and spirit."
+      ],
+      [
+        "Traditional & style-specific",
+        "JKA and style federations' own championship structures preserving house technique."
+      ]
+    ],
+    "skills": [
+      [
+        "Kihon (basics)",
+        "Stances (zenkutsu, kiba-dachi, kokutsu), punches, blocks, kicks drilled to automaticity — the art's alphabet.",
+        "Basics by the hundred per class; stance endurance holds; line-work with instructor correction; mirror and video monthly."
+      ],
+      [
+        "Kata",
+        "The formal sequences (Heian series through Bassai, Kanku, Empi in Shotokan; house-specific curricula) — technique stored in motion.",
+        "Kata in sections with bunkai (application) study; tournament-performance rehearsal under pressure; one new kata per grading cycle."
+      ],
+      [
+        "Kumite distance & timing",
+        "Maai (combative distance) and the reaction game: reading the opponent's front hand and entering on the half-beat.",
+        "Partner distance drills (enter-exit ladders); reaction drills off the opponent's attack; controlled sparring with scoring focus."
+      ],
+      [
+        "Clean scoring technique",
+        "The sport's currency: one technique, correct target, control, zanshin (finished awareness) — quality over volume.",
+        "Pad work for scoring precision; scored sparring simulations with referees; video review of near-misses."
+      ],
+      [
+        "Defense & counters",
+        "Blocks that become attacks: uke-waza transitions into counters — the classical sequence modernized.",
+        "Block-counter chains; kaeshi (counter) drills; sweep-and-score combinations."
+      ],
+      [
+        "Conditioning & flexibility",
+        "Explosive legs for kicks, hip flexibility, and the aerobic base for three-minute blitzes.",
+        "Kicking mobility daily; interval conditioning (3-minute rounds); plyometrics for the sport's bursts."
+      ]
+    ],
+    "rules": [
+      "Kumite scoring: yuko (1 point), waza-ari (3), ippon (3actually 3 total structure: 1/3clarify: yuko 1, waza-ari 3, ipponWKF's 2020-era format scores yuko 1, waza-ari 3, ipponthe winning score is 8 points lead or higher at time).",
+      "Legal targets: head, face, neck, abdomen, chest, back, side — with contact controlled (touch for head techniques in senior kumite).",
+      "Prohibited: excessive contact, attacks to joints, open-hand strikes to the face, throws withoutcontrolled throws allowed with follow-up; dangerous techniques draw warnings and disqualification.",
+      "Warnings and penalties: chukoku (warning), keikoku, hansoku-chui, hansoku (disqualification); shikkaku for gross misconduct.",
+      "Kata: judged by sevenscoring panels on technical and athletic performance; eliminations by selection of prescribed and free-choice kata by round.",
+      "Equipment: WKF-approved mitts (red/blue), body protectors for cadetsyouth protection rules, gumshields, and shin guards by category.",
+      "Weight classes: three per sex at Olympic format (-67, -75, +75 men; -50, -61, +61 women), five at world championshipsby event structure."
+    ],
+    "equipment": [
+      [
+        "Karate gi",
+        "White uniform by weight (kata gi heavier and stiffer; kumite gi lighter): $60-200."
+      ],
+      [
+        "Belt (obi)",
+        "Kyu-colored belts to black dan ($10-30)."
+      ],
+      [
+        "Sparring kit",
+        "WKF mitts, gumshield, shin-and-instep guards, body protector for juniors ($80-150 the set)."
+      ],
+      [
+        "Makiwara & home kit",
+        "The Okinawan striking post (or wall pad), stretch bands, and a mirror for kata ($50-150)."
+      ],
+      [
+        "Kata performance kit",
+        "A heavier tournament gi and the discipline to rehearse under lights."
+      ]
+    ],
+    "training": [
+      "The classic class arc: kihon, kata, kumite — rotate all three every session; the balance IS the pedagogy.",
+      "Basics volume forever: 100 of each core technique per class keeps form honest under fatigue.",
+      "Kata with bunkai: every kata learned with its applications; performance and meaning trained together.",
+      "Sparring with control as the skill: point sparring's clean-technique discipline improves reaction and safety both.",
+      "Conditioning for the three-minute sprint: intervals, kicking mobility, and explosive leg work."
+    ],
+    "pathway": [
+      [
+        "Dojo foundations",
+        "Kihon and first kata: the grading ladder's base."
+      ],
+      [
+        "Kyu gradings & local competitions",
+        "Club gradings and regional kumite/kata events."
+      ],
+      [
+        "National championships",
+        "National kumite and kata titles by category."
+      ],
+      [
+        "Karate 1 Premier League",
+        "The WKF's world cup series: the sport's professional-era circuit."
+      ],
+      [
+        "Worlds & the Olympic moment",
+        "WKF world championships; Tokyo 2020's kata and kumite golds remain the art's summit."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic Games Tokyo 2020",
+        "Kata and kumite's Olympic debut: Ryo Kiyuna's kata gold and the kumite crowns headline the art's homecoming."
+      ],
+      [
+        "WKF World Championships",
+        "Biennial across all categories: the sport's deepest fields."
+      ],
+      [
+        "Karate 1 Premier League",
+        "The world cup circuit (Paris, Tokyo, Cairo-era stops): rankings and prize money."
+      ],
+      [
+        "Continental championships",
+        "European, Asian, Pan-American titles feeding world qualification."
+      ],
+      [
+        "Kyokushin world tournaments",
+        "The full-contact lineage's quadrennial worlds — karate's other summit."
+      ]
+    ],
+    "legends": [
+      [
+        "Gichin Funakoshi",
+        "Okinawa/Japan — the art's great ambassador: the 1922 Tokyo demonstration, Shotokan's founder, and karate's philosophical voice."
+      ],
+      [
+        "Kenwa Mabuni & Chojun Miyagi",
+        "The style-builders: Shito-ryu's codifier and Goju-ryu's founder (the Karate Kid fiction's nod notwithstanding)."
+      ],
+      [
+        "Rafael Aghayev",
+        "Azerbaijan — five world championships and multiple European titles; kumite's modern master."
+      ],
+      [
+        "Sandra Sánchez",
+        "Spain — world and European kata dominance and Tokyo 2020's kata silver gold (2021); the women's kata standard."
+      ],
+      [
+        "Ryo Kiyuna",
+        "Japan — Tokyo 2020 kata gold; the art's Olympic champion at home."
+      ]
+    ],
+    "getting_started": [
+      "Find a WKF-affiliated or style club with structured gradings: the syllabus is the sport's ladder.",
+      "Learn stances and basics with patience: karate's depth is in its fundamentals, and they are trained forever.",
+      "Study kata with applications: bunkai makes the forms meaningful and the performance honest.",
+      "Spar with control as the goal: point-fighting discipline builds reaction speed that transfers everywhere.",
+      "Buy the gi after month one and the sparring kit before your first competition.",
+      "Honor the dojo culture: the bow, the kun, and the etiquette are the art's moral training."
+    ],
+    "glossary": [
+      [
+        "Kata",
+        "Formal technique sequences — the art's living archive."
+      ],
+      [
+        "Kumite",
+        "Sparring: point competition's controlled duel."
+      ],
+      [
+        "Kihon",
+        "Basics: the drilled alphabet of technique."
+      ],
+      [
+        "Zanshin",
+        "Remaining awareness after the technique — scored, and trained."
+      ],
+      [
+        "Yuko / waza-ari / ippon",
+        "The scoring ladder of sport kumite."
+      ],
+      [
+        "Maai",
+        "Combative distance: karate's invisible geometry."
+      ],
+      [
+        "Bunkai",
+        "Kata application study — the forms' meaning."
+      ],
+      [
+        "Makiwara",
+        "The striking post: Okinawa's conditioning tool."
+      ],
+      [
+        "Hansoku",
+        "Disqualification by penalty accumulation."
+      ],
+      [
+        "Dojo kun",
+        "The training hall's precepts: karate's moral spine."
+      ]
+    ],
+    "related": [
+      "taekwondo",
+      "judo",
+      "kickboxing",
+      "mixed-martial-arts",
+      "fencing"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "taekwondo",
+    "name": "Taekwondo",
+    "category": "combat",
+    "glyph": "🥋",
+    "tagline": "The way of the foot and fist — kicks first, Olympic scoring, and lightning timing.",
+    "origin": "Korea · 1950s unification · WT 1973 · Olympic 2000",
+    "tags": [
+      "Olympic",
+      "Kicking art",
+      "Poomsae & kyorugi",
+      "Point sparring"
+    ],
+    "overview": [
+      "Taekwondo — the way of the foot and fist — is Korea's national martial art, famous for its kicking arsenal (spinning, jumping, and fast linear kicks) and its Olympic sport form: electronic-body-armor sparring (kyorugi) where kicks to the head and body score instantly, plus poomsae (forms) as a judged discipline. The sport's essence is timing and range: three two-minute rounds of reactive, scoring-first combat where a head kick flips a match in one touch.",
+      "Unified in the 1950s from Korea's kwans (schools) — General Choi Hong Hi's Oh Do Kwan and the KTA's unification work — taekwondo organized internationally under the World Taekwondo federation (1973, as WTF) and reached the Olympics as a demonstration in 1988-92 and a medal sport from Sydney 2000. Korea's Kukkiwon certifies technique and black belts worldwide, and the WT's daedo-era electronic scoring turned the sport into a game of exquisite reaction and footwork.",
+      "Newcomers should expect kicking to be the curriculum's center: flexibility (hips, hamstrings) is trained daily, and the belt system (geup to dan) gives the journey its structure. Olympic-style sparring rewards control and speed over power — scoring is by clean contact with permitted techniques — making taekwondo one of the most accessible entry points into combat sports for young athletes."
+    ],
+    "facts": [
+      [
+        "Modern founding",
+        "1955 — the name taekwondo adopted; 1959 KTA (Korea Taekwondo Association) unifies the kwans; Kukkiwon founded 1972 as the technical home"
+      ],
+      [
+        "Governing body",
+        "World Taekwondo (WT, 1973 as WTF, renamed 2017); national associations; Kukkiwon for certification"
+      ],
+      [
+        "Olympic history",
+        "Demonstration Seoul 1988 and Barcelona 1992; medal sport since Sydney 2000"
+      ],
+      [
+        "Olympic format",
+        "Kyörugi: three two-minute rounds, eight weight classes (four per sex by Games), electronic scoring (PSS - Protector and Scoring System)"
+      ],
+      [
+        "Scoring",
+        "Punch to trunk 1, body kick 2, turning body kick 4, head kick 3, turning head kick 5; gam-jeom penalties; PSS sensors register scoring contact"
+      ],
+      [
+        "Poomsae",
+        "Recognized and free-style poomsae competition: judged demonstrations with a growing world championship program"
+      ]
+    ],
+    "history": [
+      [
+        "1940s-1950s",
+        "Post-liberation kwans blend Japanese karate influence with Korean kicking traditions; Choi names the art (1955) and the ITF spreads it."
+      ],
+      [
+        "1960s-1970s",
+        "The KTA unifies; the Kukkiwon (1972) and WTF (1973) formalize the modern art; first world championships (1973)."
+      ],
+      [
+        "1988-2000",
+        "Olympic demonstrations then medal status (Sydney 2000): the sport's Games era begins."
+      ],
+      [
+        "2000s-2010s",
+        "Electronic scoring (PSS) transforms sparring; the sport's Olympic program stabilizes at eight classes; poomsae championships grow."
+      ],
+      [
+        "2020s",
+        "Paris 2024's mixed-gender team event debuts; rule evolution (gam-jeom emphasis, video replay) continues; global participation passes 80 nations' elite programs."
+      ]
+    ],
+    "formats": [
+      [
+        "Kyörugi (sparring)",
+        "Three two-minute rounds with PSS electronic scoring: the Olympic and world championship format."
+      ],
+      [
+        "Poomsae",
+        "Recognized forms competition by age/belt: judged on accuracy and presentation, plus freestyle poomsae's acrobatic division."
+      ],
+      [
+        "Demonstration & breaking",
+        "Board-breaking and demo-team traditions: the art's performance culture."
+      ],
+      [
+        "Mixed-gender team",
+        "The newest Olympic format (Paris 2024): mixed teams of men and women in relay-style bouts."
+      ]
+    ],
+    "skills": [
+      [
+        "Kicking fundamentals",
+        "The art's core: front, roundhouse, side, back, axe, and hook kicks drilled from both legs at every height.",
+        "Kicking line-drills by the hundred; target work (paddles and shields) for speed and accuracy; flexibility training daily (hips, hamstrings)."
+      ],
+      [
+        "Footwork & distance",
+        "Slide-step entries, switching stances, and range management: the scoring game's geometry.",
+        "Ladder and ring-footwork drills; distance games with a partner (enter-score-exit); mirror shadow sparring."
+      ],
+      [
+        "PSS scoring technique",
+        "Electronic armor's grammar: registered pressure on legal zones, chopclean contact, and the timing that beats the opponent's reaction.",
+        "PSS-equipped practice where available; scoring-target drills (body targets then head); video review of scoring angles."
+      ],
+      [
+        "Head kicks & turning techniques",
+        "The match-flippers: head-height roundhouse, spinning hook, and back kick — trained progressively and safely.",
+        "Progressive head-kick ladders (pad height climbing); turning-technique drills with controlled partners; neck strength for defense."
+      ],
+      [
+        "Poomsae",
+        "The formal syllabus (Taegeuk series through dan-grade forms): technique, balance, and breath in sequence.",
+        "Poomsae section-by-section with correction; performance rehearsal under lights; one form mastered per grading."
+      ],
+      [
+        "Competition craft",
+        "Ring management, clinch-break timing, and the last-ten-seconds scoring push.",
+        "Controlled sparring with scoring rules; simulated matches with PSS; conditioning for three two-minute rounds."
+      ]
+    ],
+    "rules": [
+      "Match: three two-minute rounds (one-minute rests); highest score wins; tie broken by superiority criteria (aggressiveness and technique).",
+      "Scoring (PSS era): punch to trunk protector 1 point; kick to trunk 2; turning kick to trunk 4; kick to head 3; turning kick to head 5; gam-jeom (penalty) awards a point to the opponent.",
+      "Legal techniques: foot techniques to head and body, fist techniques to the trunk protector only; sweeps permitted to the below-the-waist zone, with scoring only for legal strikes.",
+      "Penalties (gam-jeom): falling, avoiding, crossing the boundary line, grabbing, pushing, attacking below the waist, and passive behavior.",
+      "Weight classes: Olympic four per sex (men -58/-68/-80/+80; women -49/-57/-67/+67); world championships run eight per sex by cycle.",
+      "Equipment: PSS trunk protector and headgear (electronic), forearm and shin guards, gumshield, and groin guard; the daedo-era body sensors register legal scoring contact.",
+      "Video replay: coaches' challenges on scoring and penalties — the sport's officiating has gone fully electronic."
+    ],
+    "equipment": [
+      [
+        "Dobok",
+        "The uniform (white V-neck WT style; black-trim for dan ranks): $40-120."
+      ],
+      [
+        "Belt (tti)",
+        "Colored geup belts to black dan ($10-25)."
+      ],
+      [
+        "Sparring kit",
+        "PSS trunk protector, electronic headgear (at events), forearm/shin guards, gumshield, groin guard ($120-250 the set)."
+      ],
+      [
+        "Targets & shields",
+        "Kicking paddles, double-kick paddles, and body shields for class and home ($40-100)."
+      ],
+      [
+        "Stretching kit",
+        "Resistance bands and a flexibility routine — the kicking game's true foundation."
+      ]
+    ],
+    "training": [
+      "Flexibility daily: hips and hamstrings are the kicking game's gatekeepers — 15 minutes every session.",
+      "Kicking volume with targets: speed, accuracy, and switching legs; hundreds of quality repetitions weekly.",
+      "Footwork and reaction drills: taekwondo's scoring is a timing game, trained with partners and PSS simulation.",
+      "Poomsae practice as balance and technique training: the forms refine kicks and stances under control.",
+      "Conditioning for three two-minute rounds: interval work plus explosive leg power (plyometrics, jump training)."
+    ],
+    "pathway": [
+      [
+        "Dojo/dojang beginnings",
+        "Belt-ladder classes: basics, poomsae, first sparring."
+      ],
+      [
+        "Local & regional tournaments",
+        "Geup-level sparring and poomsae competitions."
+      ],
+      [
+        "National championships",
+        "National titles by age and weight; national team selection pathways."
+      ],
+      [
+        "World Taekwondo events",
+        "Grand Prix, Grand Slam, and world championships — the elite circuit."
+      ],
+      [
+        "Olympic Games",
+        "Eight weight classes plus the mixed team: the kicking art's four-yearly summit."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic Games",
+        "Since Sydney 2000: kyorugi's eight classes plus Paris 2024's mixed-gender team debut."
+      ],
+      [
+        "WT World Championships",
+        "Biennial: sparring and poomsae world titles."
+      ],
+      [
+        "WT Grand Prix & Grand Slam",
+        "The elite circuit: rankings, quotas, and prize money."
+      ],
+      [
+        "Kukkiwon hanmadang",
+        "The annual festival of poomsae, breaking, and demonstration arts."
+      ],
+      [
+        "Continental championships",
+        "European, Asian, Pan-American titles — the qualification ladder."
+      ]
+    ],
+    "legends": [
+      [
+        "Steven Lopez",
+        "USA — five Olympics, two golds (2000, 2004): the sport's American standard-bearer."
+      ],
+      [
+        "Hadi Saei",
+        "Iran — two Olympic golds (2004, 2008) and multiple world titles; the Middle East's great champion."
+      ],
+      [
+        "Jade Jones",
+        "Great Britain — back-to-back Olympic golds (2012, 2016); the head-kick era's star."
+      ],
+      [
+        "Hwang Kyung-seon",
+        "South Korea — three Olympic medals across three Games (gold 2008, 2012); the home nation's standard."
+      ],
+      [
+        "Lee Dae-hoon",
+        "South Korea — multiple world titles and Olympic medals across three Olympic cycles; the flyweight era's artist."
+      ]
+    ],
+    "getting_started": [
+      "Join a Kukkiwon-certified dojang: the belt syllabus and PSS-era technique come standard.",
+      "Stretch daily from day one: kicking range is earned, not bought.",
+      "Learn the Taegeuk poomsae in order: forms teach the art's stances and rhythm.",
+      "Spar with control: the scoring game rewards precision, and head contact for juniors is governed strictly.",
+      "Buy the sparring kit before your first tournament; start with paddle work at home.",
+      "Watch Olympic kyorugi finals: the footwork and scoring rhythm teach in minutes what words struggle to explain."
+    ],
+    "glossary": [
+      [
+        "Kyörugi",
+        "Sparring — the Olympic discipline."
+      ],
+      [
+        "Poomsae",
+        "Forms: the formal technique syllabus."
+      ],
+      [
+        "Charyeot / kyeong-nye",
+        "The attention-and-bow ritual of the dojang."
+      ],
+      [
+        "Dollyo chagi",
+        "The roundhouse kick — taekwondo's workhorse."
+      ],
+      [
+        "Gam-jeom",
+        "The penalty point: falls, grabs, and passivity all cost a point."
+      ],
+      [
+        "PSS",
+        "The electronic Protector and Scoring System: sensors decide the score."
+      ],
+      [
+        "Dan / geup",
+        "Black-belt degrees and colored-belt student ranks."
+      ],
+      [
+        "Hodul? no — Dodul? no; 'step back'Pihagi'",
+        "Avoidance: the penalized art of not being there."
+      ],
+      [
+        "Taegeuk",
+        "The eight poomsae forms of the geup syllabus."
+      ],
+      [
+        "Kye-shi",
+        "The referee's pause call for injury or equipment."
+      ]
+    ],
+    "related": [
+      "karate",
+      "kickboxing",
+      "judo",
+      "muay-thai",
+      "fencing"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "muay-thai",
+    "name": "Muay Thai",
+    "category": "combat",
+    "glyph": "🥊",
+    "tagline": "The art of eight limbs — fists, elbows, knees, shins, and the clinch that owns them all.",
+    "origin": "Thailand (Ayutthaya era) · modern code 1930s",
+    "tags": [
+      "Striking art",
+      "Clinch",
+      "Thailand's sport",
+      "Rajadamnern & Lumpinee"
+    ],
+    "overview": [
+      "Muay Thai is Thailand's national sport and the art of eight limbs: punches, elbows, knees, and shins — plus the clinch, where knee strikes and control decide close-range exchanges. Fought over five three-minute rounds to traditional music (the sarama), it combines the sport's Buddhist-temple origins, the wai kru ritual dance, and the most punishing conditioning culture in striking sports.",
+      "The art's modern code crystallized in the 1930s (rounds, gloves, and rings replacing the older muay boran rules), and its stadium culture — Bangkok's Rajadamnern (1945) and Lumpinee (1956) stadiums as the sport's Wimbledon — crowns champions whose names are national news. Internationally, muay thai anchors kickboxing's technical base, grows through IFMA's world championships and IOC-recognized federation status, and stars in ONE Championship's global broadcasts.",
+      "Newcomers should respect the shin: conditioning (bag work, pad rounds) builds the tool, and technique before power keeps knees and shins intact. The clinch is the art's hidden graduate school — learn it early, and the teep (push kick) is the art's distance manager."
+    ],
+    "facts": [
+      [
+        "Historical roots",
+        "Siamese battlefield arts (muay boran) formalize into ring sport by the Ayutthaya-era records; the 1930s code modernizes rounds and gloves"
+      ],
+      [
+        "Governing bodies",
+        "Royal Thai government-licensed stadium councils; IFMA (International Federation of Muaythai Associations, IOC-recognized); WBC Muay Thai, ONE Championship's professional circuit"
+      ],
+      [
+        "The stadiums",
+        "Rajadamnern Stadium (1945) and Lumpinee (1956, relocated 2014): the sport's sacred titles"
+      ],
+      [
+        "Format",
+        "Five three-minute rounds with two-minute rests (professionals); scoring favors clean kicks, knees, elbows, and clinch dominance"
+      ],
+      [
+        "The music",
+        "Pi muay (the sarama) plays throughout — the fight's rhythm and its cultural heart"
+      ],
+      [
+        "Rituals",
+        "Wai kru ram muay (the pre-fight dance honoring teachers) and the mongkon headband tradition"
+      ]
+    ],
+    "history": [
+      [
+        "Ayutthaya era-1800s",
+        "Muay as soldier training and festival sport; Nai Khanom Tom's legendary 1774 Burmese captivity fights become national myth."
+      ],
+      [
+        "1930s",
+        "Modernization: gloves, rounds, weight classes, and the ring replace the older code — muay thai's modern form is born."
+      ],
+      [
+        "1945-1970s",
+        "Rajadamnern opens (1945), Lumpinee follows; stadium championships define the sport's hierarchy; radio and then television nationalize it."
+      ],
+      [
+        "1980s-2000s",
+        "Farang (Western) pioneers and Japanese kickboxing's cross-pollination; K-1's era borrows muay thai's techniques into the global kickbox scene."
+      ],
+      [
+        "2010s-2020s",
+        "ONE Championship globalizes the sport; IFMA's IOC recognition (2016) and The World Games status; Rodtang's era makes muay thai streaming television."
+      ]
+    ],
+    "formats": [
+      [
+        "Stadium muay thai",
+        "Five-round professional fights under the stadiums' rules: the sport's traditional summit."
+      ],
+      [
+        "IFMA amateur & youth",
+        "Olympic-style amateur muay thai with headgear and scoring rules — the global development ladder."
+      ],
+      [
+        "ONE Championship & pro circuits",
+        "The global professional stage: global broadcast rules with knockdown-focused scoring emphasis."
+      ],
+      [
+        "Kard chuek & heritage events",
+        "The rope-bound heritage displays and muay boran exhibitions — the art's cultural branch."
+      ]
+    ],
+    "skills": [
+      [
+        "The teep (push kick)",
+        "The art's distance manager: front teep for range, side teep for angles — probing, stopping, and scoring.",
+        "Teep ladders on pads (100 per session); teep-and-reset footwork drills; balance training for the single-leg platform."
+      ],
+      [
+        "Roundhouse (the thai kick)",
+        "The art's signature: shin-first through the target with hip rotation and the counter-swing arm.",
+        "Heavy-bag thai kicks with shin conditioning; pad rounds alternating legs; the swing-arm mechanics videoed from behind."
+      ],
+      [
+        "Elbows & knees",
+        "The close-range arsenal: horizontal and upward elbows in the pocket, knees from the clinch and from range (the spearstraight knee).",
+        "Elbow technique on bags with control; clinch knee drills on pads; pocket-work rounds with a coach."
+      ],
+      [
+        "The clinch (plum)",
+        "Muay thai's signature position: double-collar-tie control, off-balancing, and knee attacks — the graduate school.",
+        "Clinch rounds (2-3 minutes of position work); sweep technique from the clinch; neck strength training twice weekly."
+      ],
+      [
+        "Sweeps & dumps",
+        "The clinch's scoring finish: sweeps from inside control that put the opponent down without harm.",
+        "Sweep drills with cooperative partners; timing sweeps off caught kicks; balance-for-the-sweeper conditioning."
+      ],
+      [
+        "Defense & the shin guard",
+        "Checking kicks with the shin, catching teeps, and the art's blocking geometry — trained as reflexes.",
+        "Check drills (alternating shin checks); leg-conditioning rounds (light contact); catch-and-return games."
+      ]
+    ],
+    "rules": [
+      "Professional format: five three-minute rounds (two-minute rests); amateur: three rounds with headgear under IFMA rules.",
+      "Scoring: clean powerful techniques score most (kicks and knees over punches); clinch control and sweeps score; effectivedamage-averse aggression matters — Thai scoring favors the fighter who lands harder, cleaner shots.",
+      "Legal targets: everywhere above the belt except the groin; elbows to the face legal at professional level (elbow rules vary by promotion).",
+      "Fouls: strikes to the groin, holding the ropes, biting, head-butts; points deducted or disqualification by referee.",
+      "The wai kru and round breaks: rituals respected; the corner's work between rounds is the fight's second half.",
+      "Weight-ins: same-day for Thai stadium fights (fighter welfare rules vary); glove weights by class.",
+      "Medical: commission-style oversight at international events; stadium tradition relies on cornermen and ringside physicians."
+    ],
+    "equipment": [
+      [
+        "Gloves",
+        "8-12 oz competition and 14-16 oz training gloves ($60-180)."
+      ],
+      [
+        "Shin guards",
+        "Padded shin-and-instep guards for sparring ($40-120) — the sport's non-negotiable safety gear."
+      ],
+      [
+        "Heavy bag",
+        "The thai banana bag (long, dense): the art's home gym ($100-250)."
+      ],
+      [
+        "Mongkon & pra jiad",
+        "The headband and armbands of tradition ($20-60) — worn with respect, not fashion."
+      ],
+      [
+        "Hand wraps & gumshield",
+        "The universal combat-sport consumables."
+      ]
+    ],
+    "training": [
+      "The thai gym's rhythm: skip rope, shadow, bag, pads, clinch, and conditioning — five- to six-day weeks at fighting gyms.",
+      "Shin conditioning gradually: heavy-bag kicks build the tool; sparring checks build the guard reflex.",
+      "Clinch every session: two rounds minimum — the position that defines muay thai against every other striking art.",
+      "Run and skip: the art's aerobic base is roadwork plus thousands of rope turns.",
+      "Respect the ritual: the wai kru is learned as technique and honored as culture."
+    ],
+    "pathway": [
+      [
+        "Gym foundations",
+        "Beginner classes: stance, teep, thai kick, and first pad rounds."
+      ],
+      [
+        "Amateur & novice fights",
+        "IFMA-rule amateur events and gym novice shows."
+      ],
+      [
+        "Stadium & regional pro circuit",
+        "Regional titles and the stadium systems' qualifying fights."
+      ],
+      [
+        "Bangkok stadiums & international ranks",
+        "Rajadamnern and Lumpinee championships: the sport's traditional crowns."
+      ],
+      [
+        "ONE & global supercards",
+        "The global professional era: streamed superfights and crossover stardom."
+      ]
+    ],
+    "events": [
+      [
+        "Rajadamnern & Lumpinee stadium titles",
+        "The sport's sacred championships — every thai fighter's dream."
+      ],
+      [
+        "IFMA World Championships",
+        "Amateur muay thai's world title: 100+ nations, Olympic-recognized federation."
+      ],
+      [
+        "ONE Championship muay thai",
+        "The global broadcast era's biggest stage: Rodtang's flyweight reign among its icons."
+      ],
+      [
+        "The World Games & IFMA events",
+        "The multi-sport stage since 2017 — the art's international institutional presence."
+      ],
+      [
+        "Wai kru & festival muay",
+        "Songkran-era fights and temple festivals: the art's cultural calendar."
+      ]
+    ],
+    "legends": [
+      [
+        "Samart Payakaroon",
+        "Thailand — the 'Muay Thai Mozart': four-division stadium champion and the art's technical artist."
+      ],
+      [
+        "Saenchai",
+        "Thailand — the modern era's most creative technician; decades of world-class competition without losing his joy."
+      ],
+      [
+        "Buakaw Banchamek",
+        "Thailand — the global face of muay thai through the K-1 era and beyond; kickboxing's thai ambassador."
+      ],
+      [
+        "Rodtang Jitmuangnon",
+        "Thailand — ONE's flyweight muay thai king; the iron-chinned face of the sport's streaming era."
+      ],
+      [
+        "Yodsanklai Fairtex",
+        "Thailand — the stadium champion who conquered international kickboxing; the bridge generation's standard."
+      ]
+    ],
+    "getting_started": [
+      "Join a thai gym with authentic lineage (thai trainers are the gold standard): pads and clinch make the art.",
+      "Buy shin guards and 16 oz gloves before your first sparring session — the shins and partners will thank you.",
+      "Learn the teep and check before chasing power: defense is the art's long game.",
+      "Do the clinch every class: it is what makes muay thai muay thai.",
+      "Skip rope daily: the sport's rhythm lives in the rope.",
+      "Watch one Rajadamnern main event: the scoring logic (clean technique over volume) teaches instantly."
+    ],
+    "glossary": [
+      [
+        "Teep",
+        "The push kick: range-keeper and rhythm-breaker."
+      ],
+      [
+        "Clinch (plum)",
+        "The collar-tie control position with knee attacks — the art's signature."
+      ],
+      [
+        "Check",
+        "Blocking a kick with the shin."
+      ],
+      [
+        "Wai kru ram muay",
+        "The pre-fight ritual dance honoring teachers."
+      ],
+      [
+        "Sarama",
+        "The traditional fight music playing throughout."
+      ],
+      [
+        "Mongkon",
+        "The sacred headband worn in the wai kru."
+      ],
+      [
+        "Sweep",
+        "The clinch takedown that scores without damage."
+      ],
+      [
+        "Sok",
+        "The elbow: the art's cut-tool in the pocket."
+      ],
+      [
+        "Khao",
+        "The knee: from clinch or as the straight spear."
+      ],
+      [
+        "Farang",
+        "The Western fighter — now half the sport's global face."
+      ]
+    ],
+    "related": [
+      "kickboxing",
+      "boxing",
+      "taekwondo",
+      "mixed-martial-arts",
+      "karate"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "kickboxing",
+    "name": "Kickboxing",
+    "category": "combat",
+    "glyph": "🦵",
+    "tagline": "Boxing's hands, karate's legs — the global striking sport of K-1's legacy.",
+    "origin": "Japan/USA · 1960s-1970s · K-1 era 1993",
+    "tags": [
+      "Striking sport",
+      "K-1 rules",
+      "Low kicks",
+      "Glory era"
+    ],
+    "overview": [
+      "Kickboxing is the global striking sport: boxing's hands combined with karate's and muay thai's kicks under rules that favor fast, judgeable action. Its modern flagship is the K-1 style — punches, kicks, and knees (no elbows, limited clinch) over three rounds — the format that built the sport's greatest era in Japan's Tokyo Dome and continues today through GLORY's world tour and ONE Championship's striking divisions.",
+      "The sport grew from 1960s karate fighters (Joe Lewis's full-contact experiments in America, Osamu Noguchi and the Japanese 'kickboxing' coinage) through the full-contact karate boom, into K-1's 1993 founding — which turned kickboxing into stadium spectacle with heavyweight legends (Aerts, Hoost, Bonjasky, Schilt) and the greatest tournament format in striking sports. GLORY (2012) inherited the crown, and the sport's two worlds (point-fighting semi-contact lineages and full-contact K-1 rules) coexist in one family.",
+      "Newcomers get the best of two worlds: boxing's hands teach first, low kicks (the art's great equalizer) teach second, and the combination game — punch-to-kick entries — is the sport's signature. Find a gym teaching dutch-style kickboxing (the K-1 lineage's technical school) and condition your shins early."
+    ],
+    "facts": [
+      [
+        "Modern founding",
+        "1960s-70s — Osamu Noguchi coins 'kickboxing' in Japan; Joe Lewis and the US full-contact karate era (PKA 1974) build the western branch"
+      ],
+      [
+        "Governing bodies",
+        "GLORY (the premier world tour since 2012), ONE Championship's striking divisions, WAKO (the amateur federation, The World Games sport), and ISKA/WKO title bodies"
+      ],
+      [
+        "K-1 era",
+        "1993-2012: the Tokyo Dome tournaments and the K-1 World Grand Prix crown striking's heaviest legends"
+      ],
+      [
+        "Format",
+        "Three three-minute rounds (K-1/GLORY rules): punches, kicks, knees; clinch limited; elbows banned"
+      ],
+      [
+        "Scoring",
+        "Ten-point must per round: clean power techniques score over volume; knockdowns round to 10-8"
+      ],
+      [
+        "Amateur development",
+        "WAKO world championships and The World Games: the sport's global amateur ladder"
+      ]
+    ],
+    "history": [
+      [
+        "1960s-1974",
+        "Karate's full-contact pioneers (Lewis, Wallace in the US; Noguchi's school in Japan) build the sport's two roots."
+      ],
+      [
+        "1974-1992",
+        "The PKA's television era in America; dutch kickboxing's gym culture (Mejiro, Chakuriki) hybridizes karate and thai technique."
+      ],
+      [
+        "1993-2000s",
+        "K-1 launches in Tokyo: Aerts, Hoost, and Bonjasky's three-time Grand Prix era; the sport's biggest stadiums and purses."
+      ],
+      [
+        "2012-2020s",
+        "GLORY's world tour carries the flagship; ONE Championship's striking divisions globalize further; crossover stars (Badr Hari's era and Rico Verhoeven's reign) headline."
+      ],
+      [
+        "2020s",
+        "ONE's muay thai/kickboxing crossovers and the amateur WAKO pipeline feed the professional era's next generation."
+      ]
+    ],
+    "formats": [
+      [
+        "K-1 / GLORY rules",
+        "The flagship: three rounds, punches-kicks-knees, limited clinch — the world's premier kickboxing."
+      ],
+      [
+        "Full contact (American rules)",
+        "Kicks above the waist, no low kicks: the PKA lineage's purist format."
+      ],
+      [
+        "Amateur WAKO rules",
+        "Light-contact and full-contact amateur divisions: the development and world championship format."
+      ],
+      [
+        "Tournament formats",
+        "Eight-man one-night Grand Prix brackets — the sport's signature spectacle."
+      ]
+    ],
+    "skills": [
+      [
+        "Boxing fundamentals",
+        "The hands come first: jab-cross-hook foundations with dutch-style combination entries.",
+        "Bag combinations (four-punch entries); pad rounds alternating hands and levels; footwork ladders for angle changes."
+      ],
+      [
+        "Low kicks",
+        "The equalizer: thai-style roundhouse to the thigh, checked or absorbed — kickboxing's signature weapon.",
+        "Low-kick ladders on pads and bags; check defense drills; set-up combinations (punch-to-low-kick) drilled both sides."
+      ],
+      [
+        "Combination entries",
+        "The sport's signature: punch-to-kick and kick-to-punch chains that hide the kick's arrival.",
+        "Combination drilling (jab-cross-low, cross-hook-body kick); pad rounds with called transitions; reaction entries with a coach."
+      ],
+      [
+        "Knees & the clinch boundary",
+        "Knees from range and in the permitted clinch: the scoring finisher that rules allow.",
+        "Knee technique on bags; clinch-knee rounds within rule limits; timing knees off caught punches."
+      ],
+      [
+        "Defense & checking",
+        "Blocking with the shin, slipping punches, and the art's leg-defense geometry.",
+        "Check drills against low kicks; slip-and-return games; defensive-only sparring rounds."
+      ],
+      [
+        "Tournament conditioning",
+        "Three-round pace, then three more: the one-night tournament's specific engine.",
+        "Round-based circuits with short rests; multi-round simulation days; recovery protocols between bouts."
+      ]
+    ],
+    "rules": [
+      "K-1 and GLORY: three three-minute rounds; ten-point must scoring; knockdowns 10-8; a fighter knocked down three times in a round loses (by promotion).",
+      "Legal techniques: punches, kicks (low included), and knees to legal targets (head, body, legs); elbows banned; clinch strikes limited (one strikeby promotion rules).",
+      "Prohibited: elbows, holding and hitting, sweeps above the anklesweeps' legality by ruleset, and strikes to the back of the head.",
+      "Weight classes: GLORY's heavyweight crown through flyweight divisions; WAKO's amateur ladder parallel.",
+      "Amateur WAKO: headgear, and light-contact or full-contact divisions with scored techniques.",
+      "Gloves: 10 oz professional standard; shin guards in amateur full-contact.",
+      "Medical and commission standards apply at professional events (suspensions, same-day medicals)."
+    ],
+    "equipment": [
+      [
+        "Gloves",
+        "10 oz competition, 14-16 oz training gloves ($60-180)."
+      ],
+      [
+        "Shin guards",
+        "Full shin-and-instep protection for sparring ($40-120)."
+      ],
+      [
+        "Heavy bag & pads",
+        "The gym's core: a dense bag plus thai pads for combination work ($100-300)."
+      ],
+      [
+        "Hand wraps & gumshield",
+        "The universal combat consumables."
+      ],
+      [
+        "Optional kit",
+        "Headgear for amateur sparring, and ankle supports for the kicking game's wear."
+      ]
+    ],
+    "training": [
+      "Train dutch-style sessions: bag combinations, pad rounds with called transitions, and clinch-knee work within rules.",
+      "Low-kick volume: the weapon needs hundreds of reps weekly plus check defense.",
+      "Boxing base twice weekly: the hands' quality decides kickboxing's ceiling.",
+      "Conditioning for tournaments: three-round blocks with short rests, repeated — the one-night format's specific fitness.",
+      "Spar under the ruleset you'll fight: K-1 rules sparring (no elbows, limited clinch) builds the right instincts."
+    ],
+    "pathway": [
+      [
+        "Gym foundations",
+        "Dutch-style classes: combinations, low kicks, first pad rounds."
+      ],
+      [
+        "Amateur WAKO circuit",
+        "National amateur titles and world championships — the development ladder."
+      ],
+      [
+        "Regional professional events",
+        "Local and regional pro cards building a record."
+      ],
+      [
+        "GLORY & ONE feeder events",
+        "The major promotions' qualification routes and rising-star cards."
+      ],
+      [
+        "World titles & Grand Prix",
+        "GLORY/ONE championships and one-night tournaments — striking's summit."
+      ]
+    ],
+    "events": [
+      [
+        "GLORY world title events",
+        "The premier kickboxing world championships across divisions."
+      ],
+      [
+        "ONE Championship striking events",
+        "Muay thai and kickboxing's global broadcast stage."
+      ],
+      [
+        "WAKO World Championships",
+        "The amateur world title: The World Games sport's flagship."
+      ],
+      [
+        "K-1's revival events",
+        "The Japanese brand's modern tournaments — the legacy format alive."
+      ],
+      [
+        "National championships",
+        "Every kickboxing nation's pro and amateur titles."
+      ]
+    ],
+    "legends": [
+      [
+        "Ernesto Hoost",
+        "Netherlands — four K-1 World Grand Prix titles; the textbook dutch-style technician."
+      ],
+      [
+        "Peter Aerts",
+        "Netherlands — three Grand Prix crowns and the famous high kick; the Lumberjack era's heart."
+      ],
+      [
+        "Semmy Schilt",
+        "Netherlands — four consecutive Grand Prix titles (2005-2009); the 2.12 m unanswerable question."
+      ],
+      [
+        "Rico Verhoeven",
+        "Netherlands — GLORY's long-reigning heavyweight king; the modern era's dominant champion."
+      ],
+      [
+        "Giorgio Petrosyan",
+        "Italy/Armenia — 'the Doctor': technical perfection across a decade of GLORY and ONE dominance."
+      ]
+    ],
+    "getting_started": [
+      "Find a dutch-style kickboxing gym: combinations and low kicks are the art's center of gravity.",
+      "Learn boxing's hands properly — jab-cross-hook is the entry to every combination.",
+      "Condition shins gradually with bag work; check defense becomes reflex through drills, not pain.",
+      "Buy shin guards and 14 oz gloves; spar only when your coach green-lights you.",
+      "Watch one K-1 Grand Prix final (Aerts-Hoost era): tournament kickboxing's textbook.",
+      "Build the engine: three-round circuits with one-minute rests are the sport's honest fitness."
+    ],
+    "glossary": [
+      [
+        "Low kick",
+        "The thai roundhouse to the thigh — kickboxing's great equalizer."
+      ],
+      [
+        "Check",
+        "Blocking a kick with the raised shin."
+      ],
+      [
+        "K-1 rules",
+        "Punches, kicks, knees; elbows banned; limited clinch — the flagship ruleset."
+      ],
+      [
+        "Grand Prix",
+        "The one-night eight-man tournament — striking sport's signature spectacle."
+      ],
+      [
+        "Dutch style",
+        "The hybrid school: boxing combinations into thai kicks, the technical gold standard."
+      ],
+      [
+        "Ten-point must",
+        "Round scoring with knockdowns at 10-8."
+      ],
+      [
+        "Clinch rules",
+        "The permitted gripping window for knees — promotion-dependent."
+      ],
+      [
+        "Counter left hook",
+        "The pocket counter that ends dutch-style wars."
+      ],
+      [
+        "Feint-to-kick",
+        "The hands that buy the kick's entry — the sport's core deception."
+      ],
+      [
+        "GLORY",
+        "The world tour that inherited K-1's crown."
+      ]
+    ],
+    "related": [
+      "muay-thai",
+      "boxing",
+      "karate",
+      "taekwondo",
+      "mixed-martial-arts"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "mixed-martial-arts",
+    "name": "Mixed Martial Arts (MMA)",
+    "category": "combat",
+    "glyph": "🏆",
+    "tagline": "Everything, against everyone — the full-contact synthesis that settled sport's oldest argument.",
+    "origin": "Brazil (vale tudo) & Japan · modern UFC 1993 · Unified Rules 2000-01",
+    "tags": [
+      "Full-contact synthesis",
+      "UFC era",
+      "Striking + grappling",
+      "Modern combat sport"
+    ],
+    "overview": [
+      "MMA is the synthesis sport: striking (boxing, kickboxing, muay thai) and grappling (wrestling, jiu-jitsu, judo) combined under one ruleset in a fenced arena, won by knockout, submission, or judges' decision. It grew from Brazil's vale tudo tradition and Japan's shoot wrestling experiments into the Unified Rules era (2001), and the UFC's global rise made it the fastest-growing combat sport in history — where every older discipline meets its ultimate test.",
+      "The sport's arc runs from UFC 1's style-versus-style curiosity (Royce Gracie's jiu-jitsu proofs) through the athletic commission era to today's professional mainstream: unified weight classes, medical suspensions, and a broadcast economy that made Conor McGregor, Amanda Nunes, and Jon Jones household names. Beneath the UFC runs a deep ecosystem: ONE Championship's Asian empire, PFL's season format, Bellator's legacy, and the amateur/IMMAF pathway feeding the professional ranks.",
+      "Newcomers should build the base in layers: one striking art and one grappling art trained concurrently (boxing + BJJ or muay thai + wrestling), then MMA-specific transitions (takedown entries off strikes, ground-and-pound defense) layered on. The cage rewards the complete athlete, and the sport's gym culture — where every discipline's coach shares the floor — is its quiet achievement."
+    ],
+    "facts": [
+      [
+        "Modern founding",
+        "1993 — UFC 1 in Denver (Rorion Gracie's showcase); unified rules codified 2000-01 under the New Jersey State Athletic Control Board"
+      ],
+      [
+        "Governing bodies",
+        "Athletic commissions (US state system) for professional governance; IMMAF for amateur; promotions (UFC, ONE, PFL) as the professional leagues"
+      ],
+      [
+        "The cage & format",
+        "Enclosed octagonal cage (eight-meter diameter), three five-minute rounds (five in title fights); ten-point must scoring"
+      ],
+      [
+        "Winning",
+        "KO/TKO, submission (tap out), judges' decision, or disqualification; ten-point must with 10-8 dominant rounds"
+      ],
+      [
+        "Weight classes",
+        "Eight men's classes (125-265 lb) and women's classes from strawweight to featherweight; day-before weigh-ins with hydration policies by promotion"
+      ],
+      [
+        "Amateur pathway",
+        "IMMAF world championships: the sport's international amateur ladder into professional ranks"
+      ]
+    ],
+    "history": [
+      [
+        "1920s-1990s roots",
+        "Vale tudo in Brazil, shoot wrestling in Japan: the style-versus-style idea predates its global platform by decades."
+      ],
+      [
+        "1993",
+        "UFC 1: Royce Gracie's submissions win the night — the ground game's public revelation."
+      ],
+      [
+        "1997-2001",
+        "The rules crisis and reform: unified rules, weight classes, gloves standards, and commission oversight save the sport."
+      ],
+      [
+        "2001-2016",
+        "The Zuffa era: TUF's reality-TV boom, Brock-era spectacle, Ronda Rousey's women's breakthrough (first women in the octagon, 2013), and McGregor's global crossover."
+      ],
+      [
+        "2016-2020s",
+        "The ESPN era and record revenues; Amanda Nunes' double-champion dominance; ONE's Asian mainstream; Islam Makhachev and Jon Jones' new chapters."
+      ],
+      [
+        "2020s",
+        "Olympic-adjacent growth continues (IMMAF's institutional push), hydration weigh-in policies spread, and the sport's scientific training era matures."
+      ]
+    ],
+    "formats": [
+      [
+        "Professional MMA",
+        "Three-round non-title, five-round title fights under Unified Rules (or promotion variants)."
+      ],
+      [
+        "Amateur MMA & IMMAF",
+        "Modified rules with modified safety rules for strikes to grounded opponents: the development ladder."
+      ],
+      [
+        "Tournament & season formats",
+        "PFL's points-and-playoffs season and historical one-night tournaments (PRIDE's legacy)."
+      ],
+      [
+        "Regional circuits",
+        "The feeder shows where every professional record begins."
+      ]
+    ],
+    "skills": [
+      [
+        "MMA striking",
+        "Striking adapted for takedown defense: wider stance management, the jab as a takedown-probe, and kicks thrown with sprawl awareness.",
+        "MMA sparring (striking with live takedown threats and sprawl responsibility); cage-work rounds (angles against the fence); low-kick defense with wrestling bases."
+      ],
+      [
+        "Takedowns & takedown defense",
+        "Wrestling's engine: double legs and singles entered off strikes, clinch takedowns against the fence, and the sprawl game.",
+        "Chain wrestling drills off strikes; fence takedowns (mat returns); sprawl-and-brawl rounds with opponents shooting."
+      ],
+      [
+        "Ground and pound",
+        "The MMA-specific craft: striking from guard, mount, and half-guard with posture management.",
+        "Ground-and-pound rounds from positions; posture-break defense drilling; transition striking (pass-to-punch) chains."
+      ],
+      [
+        "Submissions & submission defense",
+        "BJJ's tools under striking threat: guillotines off sprawls, rear-naked chokes from back takes, and the defense that survives round one.",
+        "Submission chains adapted for striking; submission-defense rounds (survive, escape, stand); choke defenses drilled from every position."
+      ],
+      [
+        "The clinch & fence work",
+        "MMA's middle kingdom: muay thai clinch, underhooks, and the cage as a tool for both fighters.",
+        "Clinch rounds with knees and takedowns; wall-wrestling drills; cage escape and cage-control techniques."
+      ],
+      [
+        "Fight IQ & pacing",
+        "Reading opponents across styles, managing a five-round pace, and the corner's guidance under fire.",
+        "Style-simulation sparring (wrestler-heavy rounds, kicker-heavy rounds); five-round conditioning blocks; film study of archetype matchups."
+      ]
+    ],
+    "rules": [
+      "Winning: knockout, technical knockout (referee stoppage), submission (tap or verbal), judges' decision, or disqualification.",
+      "Fouls: eye pokes, groin strikes, headbutts, strikes to the back of the head, small-joint manipulation, grabbing the fence, 12-6 elbows' historic ban (revisited 2024), and hair-pulling — fouls draw points or DQ.",
+      "Grounded opponent: knees and kicks to the head of a grounded opponent are illegal under Unified Rules — the sport's key safety line.",
+      "Rounds: three five-minute rounds (five in title fights); one-minute rests; ten-point must scoring with 10-8 for dominant rounds.",
+      "Weight classes: flyweight (125 lb) through heavyweight (265 lb) men; strawweight through featherweight women; weigh-ins the day before with commission oversight.",
+      "Gloves: 4-6 oz open-finger gloves; no shoes; mouthpiece required; vaseline rules govern cuts.",
+      "Medical: pre- and post-fight medicals, suspensions by knockout type, and commission physician authority — the sport's institutional spine."
+    ],
+    "equipment": [
+      [
+        "MMA gloves",
+        "4-6 oz open-finger gloves for sparring and competition ($40-120)."
+      ],
+      [
+        "Shin guards & grappling kit",
+        "MMA sparring shin guards, rashguards, and board shorts ($100-200)."
+      ],
+      [
+        "Cage access",
+        "Gym cages and panels — the sport's true arena is gym infrastructure (clubs own)."
+      ],
+      [
+        "Mouthguard & cup",
+        "Custom mouthguard non-negotiable; cups mandatory for men."
+      ],
+      [
+        "Recovery kit",
+        "Ice, compression, and honest sleep: the sport's training loads demand professional recovery."
+      ]
+    ],
+    "training": [
+      "Two-discipline base: striking (muay thai or boxing) and grappling (wrestling or BJJ) trained 2-3 sessions each weekly, then MMA classes layered.",
+      "Transitions are the sport: takedown entries off strikes, sprawl-to-ground-and-pound, submission defense under strikes — train the seams, not just the arts.",
+      "Condition in rounds: five-minute blocks with one-minute rests across all positions — standing, clinch, ground.",
+      "Strength and conditioning periodized to camps: the professional camp's 8-10 weeks taper to the fight.",
+      "Film and game-plan: every opponent archetype has answers; the corner and the film room win as many fights as the cage."
+    ],
+    "pathway": [
+      [
+        "Gym foundation",
+        "Multi-disciplinary MMA gyms: base arts first, MMA classes second."
+      ],
+      [
+        "Amateur record & IMMAF",
+        "Amateur bouts (safer rules) and IMMAF tournaments — the development ladder."
+      ],
+      [
+        "Regional professional circuit",
+        "First pro fights: four-to-six-fight regional records build craft."
+      ],
+      [
+        "Contender series & major promotions",
+        "The UFC's Contender Series, ONE's qualifiers, PFL's seasons: the gates to the top."
+      ],
+      [
+        "Championship MMA",
+        "Title fights, pound-for-pound lists, and the sport's global stardom."
+      ]
+    ],
+    "events": [
+      [
+        "UFC numbered & Fight Night events",
+        "The sport's flagship promotion: monthly cards and the biggest pay-per-views in combat sports."
+      ],
+      [
+        "ONE Championship",
+        "Asia's major: muay thai, kickboxing, and MMA on one card — the global alternative."
+      ],
+      [
+        "PFL season & playoffs",
+        "The points-based season format ending in championship nights."
+      ],
+      [
+        "IMMAF World Championships",
+        "Amateur MMA's world title: the sport's international development summit."
+      ],
+      [
+        "National championships & regional circuits",
+        "Every MMA nation's amateur and professional base."
+      ]
+    ],
+    "legends": [
+      [
+        "Georges St-Pierre",
+        "Canada — two-division champion and the sport's most complete technician; wrestling-plus-striking's blueprint."
+      ],
+      [
+        "Jon Jones",
+        "USA — the light heavyweight era's dominant champion and heavyweight's new king; the sport's most debated greatness."
+      ],
+      [
+        "Amanda Nunes",
+        "Brazil — the first simultaneous two-division women's champion (featherweight and bantamweight); the GOAT case without argument."
+      ],
+      [
+        "Anderson Silva",
+        "Brazil — the middleweight reign (ten defenses) that made MMA art; the spider's era defined precision."
+      ],
+      [
+        "Khabib Nurmagomedov",
+        "Russia — 29-0 and the sambo-wrestling system's public proof; the sport's most dominant retiree."
+      ]
+    ],
+    "getting_started": [
+      "Join a real MMA gym with coaches for each discipline: the floor's quality is the sport's ceiling.",
+      "Build one striking and one grappling base before MMA-specific classes: the synthesis needs ingredients.",
+      "Buy gloves, shins, mouthguard, and a rashguard before sparring — the kit keeps you training.",
+      "Spar under graduated rules: striking-only, then grappling, then MMA rounds with safety agreed.",
+      "Watch fights as a student: pick one matchup per week and name the transitions you missed.",
+      "Respect recovery and honesty about goals: the sport rewards the patient and punishes the rushed."
+    ],
+    "glossary": [
+      [
+        "Sprawl",
+        "The takedown defense — legs back, hips heavy, fight stays standing."
+      ],
+      [
+        "Ground and pound",
+        "Striking from top position — MMA's signature synthesis."
+      ],
+      [
+        "Rear-naked choke",
+        "The back-mount finish: the sport's most common submission."
+      ],
+      [
+        "Clinch",
+        "The tied-up middle range: knees, takedowns, or separation."
+      ],
+      [
+        "Sprawl-and-brawl",
+        "The style: defend takedowns, win with strikes."
+      ],
+      [
+        "Grounded opponent rule",
+        "No head kicks or knees to a downed opponent — the Unified Rules' safety line."
+      ],
+      [
+        "10-8 round",
+        "The dominant round: near-finish or total control."
+      ],
+      [
+        "Game plan",
+        "The corner's script: where the fight is won before it starts."
+      ],
+      [
+        "Cut & weight",
+        "The weigh-in's water mathematics — managed, never improvised."
+      ],
+      [
+        "Pound-for-pound",
+        "The imaginary list where weight classes dissolve and greatness is argued forever."
+      ]
+    ],
+    "related": [
+      "boxing",
+      "brazilian-jiu-jitsu",
+      "wrestling",
+      "muay-thai",
+      "judo"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "fencing",
+    "name": "Fencing",
+    "category": "combat",
+    "glyph": "🤺",
+    "tagline": "Physical chess at 30 km/h — foil, épée, and sabre on the piste.",
+    "origin": "Europe (dueling heritage) · modern sport 1896",
+    "tags": [
+      "Olympic original",
+      "Three weapons",
+      "Priority rules",
+      "Swordsmanship"
+    ],
+    "overview": [
+      "Fencing is swordplay formalized into sport: three weapons — foil (thrusts to the torso, right-of-way rules), épée (thrusts anywhere, simultaneous double-touches possible), and sabre (cutting and thrusting above the waist) — fought on a narrow piste with electric scoring. It has been in every modern Olympics since 1896, and its essence is a duel of timing and geometry: attacks begin as distances close, parries answer, and ripostes land in the half-second the blade gives you.",
+      "The sport descends directly from European dueling culture — the Renaissance schools of Italy and France wrote the theory (Achille Marozzo to the French school), and the classical masters converted it into sport. Modern fencing's powers are France, Italy, Russia's lineage, Hungary (sabre's eternal house), Korea, and the USA's rising generation; the FIE governs world cups and world championships, and the weapon-specific rulebooks (especially sabre's simultaneity and foil's right-of-way) make fencing the most refereed of combat sports.",
+      "Newcomers should expect the sport's manners and its mathematics: distance, tempo, and blade work are learned as one subject. Start at a club with all three weapons tried (most fencers settle into one within months), learn footwork before blades, and trust the sport's kind aging curve — fencers compete at world level into their forties."
+    ],
+    "facts": [
+      [
+        "Modern roots",
+        "Dueling heritage formalized by the Italian and French schools; the Amateur Fencers League and FIE (1913) codify sport rules"
+      ],
+      [
+        "Governing body",
+        "Fédération Internationale d'Escrime (FIE, 1913); national federations"
+      ],
+      [
+        "Olympic history",
+        "Since Athens 1896 (the only combat sport on every modern program); women's foil from 1924; full parity by events now"
+      ],
+      [
+        "The weapons",
+        "Foil (thrust, torso, right-of-way), épée (thrust, whole body, simultaneous), sabre (cut/thrust, above waist, priority)"
+      ],
+      [
+        "The piste",
+        "14 m × 1.5-2 m strip; electric scoring via body cords and weapon tips since the 1930s-50s eras"
+      ],
+      [
+        "Scoring",
+        "Five touches (pools) to fifteen (direct elimination); sabre bouts to 15 within three three-minute periods, with the clock stopping at each halt"
+      ]
+    ],
+    "history": [
+      [
+        "1500s-1800s",
+        "Dueling schools (Marozzo, Capo Ferro, the French school) write fencing's theory; the dueling sword evolves into the sport's weapons."
+      ],
+      [
+        "1896-1913",
+        "Fencing is the only combat sport at the first modern Olympics; the FIE founds to unify rules."
+      ],
+      [
+        "1920s-1950s",
+        "The classical era: Nedo Nadi's five weapons at Antwerp 1920; electronic épée arrives (1936)."
+      ],
+      [
+        "1960s-1980s",
+        "Foil's electrical era, sabre's Russian-Hungarian duels, and the Soviet school's systematic dominance."
+      ],
+      [
+        "1990s-2010s",
+        "New powers rise (Korea's sabre dynasty, Italy's foil factory, the USA's women's program); replay video review arrives (2005-08)."
+      ],
+      [
+        "2020s",
+        "Paris 2024's Grand Palais showcase and the sport's continued evolution of timing rules (sabre's simultaneous-call refinements)."
+      ]
+    ],
+    "formats": [
+      [
+        "Individual competition",
+        "Pools (round-robin to 5 touches) seeding direct elimination (15 touches): the standard tournament format."
+      ],
+      [
+        "Team events",
+        "Three fencers per nation in a 45-touch relay — the Olympic team format's nine-bout structure."
+      ],
+      [
+        "Weapon-specific circuits",
+        "FIE Grand Prix and World Cup events by weapon: the professional season."
+      ],
+      [
+        "Veteran fencing",
+        "40+ age groups with world championships — the sport's famously long careers."
+      ]
+    ],
+    "skills": [
+      [
+        "Footwork",
+        "Advance, retreat, lunge, and flèche: distance is the sport's first weapon.",
+        "Footwork-only sessions (15-20 minutes of patterns); ladder work for speed; distance games with a partner (stay in measure)."
+      ],
+      [
+        "Blade work",
+        "The Engagement grammar: attacks (straight, disengage, cut-over), parries (the numbered parries, by weapon), and ripostes.",
+        "Targetwall drills (blade technique without opponent); partner blade-work (parry-riposte chains); point-control drills without looking at the target."
+      ],
+      [
+        "Distance & tempo",
+        "Reading when the distance breaks: attacks launched on the opponent's preparation — the sport's decisive skill.",
+        "Distance drills (attack-on-preparation games); tempo changes (slow-slow-fast); coach-led situation bouting."
+      ],
+      [
+        "Right-of-way & tactics",
+        "The rules as weapons: priority attacks, taking-over-the-attack, and counter-time — each weapon's rulebook shapes its game.",
+        "Refereeing study (sit the chair); rules-situation bouting; video review of priority calls."
+      ],
+      [
+        "Point control & precision",
+        "The tip's placement: small targets (foil's bibépée's wrist) won by millimeter craft.",
+        "Target-practice drills (hand targets, bib work); point-control games; weapon maintenance as ritual."
+      ],
+      [
+        "Physical & mental conditioning",
+        "Explosive legs, core rotation, and the sport's unique stress management (pistes are quiet and cruel).",
+        "Lunge and squat strength; interval conditioning for 15-touch bouts; sports-psychology routines (reset after every touch)."
+      ]
+    ],
+    "rules": [
+      "Bouts: five touches in pools, fifteen in direct elimination; team relay to 45 touches.",
+      "Foil: thrusts only to the torso; right-of-way (priority) governs simultaneous actions — the attacker's advantage, parried attacks transferring priority.",
+      "Épée: thrusts anywhere; double touches score for both within 40300 milliseconds (electric timing); no priority.",
+      "Sabre: cuts and thrusts above the waist (including head and arms); priority rules like foil; simultaneous actions judged by the referee.",
+      "The piste: leaving the strip concedes a meter or a touch (by rules); crossing the rear line gives the opponent a touch.",
+      "Equipment: electric scoring mandatory (lamé vests for foil/sabre, body cords); weapon specs regulated (weights, blade flexibility, tip pressure).",
+      "Penalties: yellow (warning), red (touch to opponent), black (exclusion) cards; the referee's authority is absolute on the piste."
+    ],
+    "equipment": [
+      [
+        "Weapon",
+        "Foil, épée, or sabre with electric tip: $80-250 per weapon (starter), electric-scoring gear separate."
+      ],
+      [
+        "Lamé & body cord",
+        "The conductive vest (foil: torso; sabre: jacket and mask sabre lamé covers arms and mask bib) plus body cord ($100-180)."
+      ],
+      [
+        "Mask, jacket, and glove",
+        "FIE club-level protective set ($150-350): the sport's armor."
+      ],
+      [
+        "Plastron & breeches",
+        "The underarm protector and knicker breeches — safety rules require both at clubs."
+      ],
+      [
+        "Grip & maintenance kit",
+        "French or pistol grip by preference; screwdrivers, spare blades, and tips — the fencer's pocket toolkit."
+      ]
+    ],
+    "training": [
+      "Footwork first, every session: 15 minutes minimum — distance is the sport's whole foundation.",
+      "Blade drills with a partner: parry-riposte chains and attack-on-preparation games build the reflexes.",
+      [
+        "Bout with purpose: every bout has a tactical assignment (attack on preparation, second intention) — Randori with a thesis."
+      ],
+      "Conditioning for the lunge: legs and core are the sport's engine; plyometrics for the flèche.",
+      "Watch weapon-specific greats (foil: the Italians; épée: the French school; sabre: the Koreans and Hungarians): each weapon is its own sport."
+    ],
+    "pathway": [
+      [
+        "Club & school fencing",
+        "Beginner courses (all three weapons tried), first pools."
+      ],
+      [
+        "Local & regional tournaments",
+        "Rated events (E through A ratings in the US system): the ladder's early rungs."
+      ],
+      [
+        "National circuit & junior teams",
+        "National championships, cadet/junior worlds."
+      ],
+      [
+        "FIE circuit",
+        "Grand Prix and World Cup events by weapon; world championships."
+      ],
+      [
+        "Olympic Games",
+        "Six individual events plus six team events team events by cycle: fencing's four-yearly summit since 1896."
+      ]
+    ],
+    "events": [
+      [
+        "Olympic Games",
+        "Foil, épée, sabre — individual and team, men and women: the sport's summit every four years."
+      ],
+      [
+        "FIE World Championships",
+        "Annual across all weapons and categories."
+      ],
+      [
+        "Grand Prix & World Cup circuit",
+        "The professional season's stops (Paris, Turin, Seoul by weapon)."
+      ],
+      [
+        "Junior & cadet worlds",
+        "The development world championships."
+      ],
+      [
+        "Veteran world championships",
+        "40+ fencing's world title — the sport's longest careers."
+      ]
+    ],
+    "legends": [
+      [
+        "Edoardo Mangiarotti",
+        "Italy — the most decorated fencer in Olympic history: six golds and thirteen total medals across épée and foil."
+      ],
+      [
+        "Aladár Gerevich",
+        "Hungary — six consecutive Olympic sabre golds (1932-1960 through team events); the longest championship span in Olympic history."
+      ],
+      [
+        "Valentina Vezzali",
+        "Italy — six Olympic golds in foil; the women's sport's greatest."
+      ],
+      [
+        "Aron Szilágyi",
+        "Hungary — three consecutive individual sabre golds (2012-2020); the modern weapon's master."
+      ],
+      [
+        "Lee Kiefer",
+        "USA — back-to-back foil golds (Tokyo, Paris); the American school's first double champion."
+      ]
+    ],
+    "getting_started": [
+      "Take a beginner course that teaches all three weapons: your weapon will choose you within months.",
+      "Footwork before blades: the lunge and recovery are the sport's real foundation.",
+      "Buy your own weapon only after choosing (club gear first): the grip choice (French versus pistol) matters more than the blade.",
+      "Learn the right-of-way rules as tactics, not bureaucracy: priority is foil and sabre's chessboard.",
+      "Referee when asked: sitting in the chair teaches the rules faster than any manual.",
+      "Embrace the sport's age curve: fencing rewards craft, and careers last decades."
+    ],
+    "glossary": [
+      [
+        "Piste",
+        "The 14-meter strip — fencing's narrow world."
+      ],
+      [
+        "En garde / lunge / flèche",
+        "The stance, the attack, and the running attack."
+      ],
+      [
+        "Parry & riposte",
+        "The block and the answer — fencing's fundamental exchange."
+      ],
+      [
+        "Right-of-way (priority)",
+        "Foil and sabre's rule that the attack claims the touch."
+      ],
+      [
+        "Touché",
+        "The touch landed — the bout's currency."
+      ],
+      [
+        "Disengage",
+        "The blade evasion around the opponent's parry."
+      ],
+      [
+        "Counter-time",
+        "Attacking the opponent's riposte — the rules' deepest tactic."
+      ],
+      [
+        "Simultaneous (épée)",
+        "Double touches inside 300 milliseconds — both score."
+      ],
+      [
+        "Salute",
+        "The bout's opening courtesy — the sport's manners made visible."
+      ],
+      [
+        "Bout",
+        "One fencing match, to 5 or 15 touches."
+      ]
+    ],
+    "related": [
+      "boxing",
+      "kendo",
+      "modern-pentathlon",
+      "karate",
+      "taekwondo"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "sumo",
+    "name": "Sumo",
+    "category": "combat",
+    "glyph": "🤼",
+    "tagline": "Japan's national sport — push, throw, or force them out of the ring.",
+    "origin": "Japan · ritual roots 1500+ years · modern honbasho era 1909",
+    "tags": [
+      "National sport of Japan",
+      "Push & throw",
+      "Dohyō",
+      "Rikishi ranks"
+    ],
+    "overview": [
+      "Sumo is Japan's national sport: two rikishi (wrestlers) collide in a 4.55-meter dohyō (clay ring), and one wins by pushing the opponent out or making any part of them besides the soles of the feet touch the ground. Behind the massive physiques is explosive technique — the initial charge (tachi-ai), grip fights over the mawashi (belt), throws, pushes, and trips — compressed into matches that average under ten seconds.",
+      "Sumo's roots are ritual: Shinto purification ceremonies and imperial court performances (the sumai sechie of 700s-1100s) preceded the professional era, which stabilized with the Edo-period patronage and the modern honbasho (official tournaments) structure. Six honbasho a year (January, March, May, July, September, November), the banzuke (rankings bulletin), and the top division's makuuchi with its yokozuna (grand champions) form a sporting world as ritualized as it is competitive.",
+      "Newcomers should watch before judging: the tachi-ai's violence is tactical (the initial charge decides most matches), and the kimarite (winning techniques) catalogue — 82 recognized techniques plus non-technique wins — is a martial encyclopedia. Foreign fans find the sport's fastest-growing home online; Japan's stables (heya) train wrestlers in a communal life whose discipline is as much the sport as the bouts."
+    ],
+    "facts": [
+      [
+        "Ritual roots",
+        "Shinto-offering bouts and the imperial sumai sechie (700s-1100s); Edo-period professionalization under patronage"
+      ],
+      [
+        "Governing body",
+        "Japan Sumo Association (Nihon Sumo Kyokai, 1925-era formalization); the International Sumo Federation (IFS) for amateur world sumo"
+      ],
+      [
+        "Honbasho",
+        "Six tournaments yearly, 15 days each: January (Tokyo), March (Osaka), May (Tokyo), July (Nagoya), September (Tokyo), November (Fukuoka)"
+      ],
+      [
+        "Ranks",
+        "Makuuchi (top division: yokozuna, ozeki, sekiwake, komusubi, maegashira), juryo, makushita, sandanme, jonidan, jonokuchi"
+      ],
+      [
+        "The dohyō",
+        "4.55 m diameter clay ring with rice-straw bales; the shikiri-sen pre-charge rituals and the tachi-ai's simultaneous start"
+      ],
+      [
+        "Winning",
+        "Push out (yorikiri-family), throw (nage-family), or forcing any body part besides soles to the clay; 82 recognized kimarite"
+      ]
+    ],
+    "history": [
+      [
+        "700s-1100s",
+        "The sumai sechie: imperial court ritual bouts; the sport's ceremonial DNA is fixed."
+      ],
+      [
+        "1500s-1600s",
+        "Dohyō rings formalized (Oda Nobunaga era); temple and shrine fundraising bouts begin."
+      ],
+      [
+        "Edo period-1909",
+        "Professional sumo's golden organization: ranking bulletins (banzuke), stable system, and the ring-entering ceremonies' codification."
+      ],
+      [
+        "1925-1958",
+        "The Japan Sumo Association modernizes: 15-day honbasho system fixed (1958), yushō (championship) scoring standardized."
+      ],
+      [
+        "1958-2000",
+        "The television era and foreign champions: Taihō's dominance, then Chiyonofuji's, then the Hawaiian (Akebono, Musashimaru) and Mongolian (Asashōryū, Hakuhō) waves."
+      ],
+      [
+        "2000s-2020s",
+        "Hakuhō's record 45 top-division championships; Terunofuji's ozeki-to-yokozuna redemption; sumo's global fandom grows through streaming."
+      ]
+    ],
+    "formats": [
+      [
+        "Honbasho (professional tournaments)",
+        "Six per year, 15 days: makuuchi's nightly single bouts, championship by most wins (yūshō), with playoffs for ties."
+      ],
+      [
+        "Basho daily structure",
+        "Lower divisions in the morning, juryo and makuuchi in the afternoon — the whole pyramid fights daily."
+      ],
+      [
+        "Jungyō tours & exhibition sumo",
+        "Regional tours between tournaments: the sport's nationwide presence."
+      ],
+      [
+        "Amateur & international sumo",
+        "IFS world championships and university sumo: weight-classed amateur variants worldwide."
+      ]
+    ],
+    "skills": [
+      [
+        "Tachi-ai (the initial charge)",
+        "The sport's decisive moment: low, explosive, simultaneous collision — most bouts are decided in two seconds.",
+        "Butsukari-geiko (charging drills against a partner or the pole); teppo (palm-striking drills against wooden posts) by the hundred daily."
+      ],
+      [
+        "Mawashi grip fighting",
+        "Winning the belt: inside grip (migi-yotsu/hidari-yotsu) versus outside, and the over-under battles that set throws.",
+        "Mawashi grip drills (grip-and-hold contests); yotsu-sumo positioning practice; grip strength (rice buckets, thick holds)."
+      ],
+      [
+        "Pushing & the belt throw",
+        "Oshi-zumo (pushing out) and yori (forcing out): the fundamental win, driven by legs and hips.",
+        "Shiko (leg-stomps) and matawari (splits) for the sumo body; pushing drills (suri-ashi footwork, partner pushes); endurance yorikiri practice."
+      ],
+      [
+        "Throws (nage-waza)",
+        "The spectacular finishes: uwatenage (overarm throw), shitatenage, kotenage (armlock throw) — technique over mass.",
+        "Throw drills with cooperative partners (the kimarite catalog worked in sections); balance training; low center-of-gravity strength."
+      ],
+      [
+        "Leg techniques & trips",
+        "Ashi-tori (leg picks) and ketaguri (inner-thigh sweep): the counters that fell giants.",
+        "Trip technique with padded partners; single-leg strength (sumo squats, horse stance endurance); reaction drills."
+      ],
+      [
+        "Ritual & readiness",
+        "The shiko, chikara-mizu, and ring-entering ceremonies as physical preparation: sumo's warm-up is liturgy.",
+        "Shiko repetitions (hundreds daily build hip strength); squat-thrust and matawari flexibility work; ritual practiced as technique."
+      ]
+    ],
+    "rules": [
+      "Winning: push or throw the opponent out of the dohyō, or make any body part besides the soles of the feet touch its surface (or the bales).",
+      "The tachi-ai: simultaneous initial charge after the pre-charge rituals; false starts (matta) draw warnings.",
+      "Fouls: hair-pulling, striking with a closed-hand punching, striking vital areas, and the other acts on the prohibited list; the dohyō's edge is the boundary.",
+      "Mawashi law: the belt must be grippedgrabbing the mawashi is legal; pulling the opponent's topknot is not.",
+      "Kimarite: the referee (gyōji) names the winning technique; the shimpan (judges) may review with video and call mono-ii (deliberations).",
+      "Rankings and promotion: the banzuke recalculated each tournament; kachi-koshi (winning records) promote, make-koshi demote; yokozuna by appointment (never demoted, expected to retire).",
+      "Rikishi regulations: stables' daily life governed by the Sumo Association — training, dress, and conduct rules define the wrestler's whole life."
+    ],
+    "equipment": [
+      [
+        "Mawashi",
+        "The 5-7 meter silk competition belt (or cotton for training): the sport's single garment ($300-900 for competition silk)."
+      ],
+      [
+        "Dohyō",
+        "The clay ring itself — built and maintained by yobidashi (ring attendants); clubs and stables own practice dohyō."
+      ],
+      [
+        "Chonmage & kit",
+        "The topknot (hairdresser's craft), keshō-mawashi (ceremonial aprons), and training wear."
+      ],
+      [
+        "Training gear",
+        "Practice mawashi, teppo posts, and rice bales for grip work — stable infrastructure."
+      ],
+      [
+        "Fans' kit",
+        "Cushions (zabuton) thrown after upsets — the sport's most charming crowd tradition."
+      ]
+    ],
+    "training": [
+      "Stable life: 4:30-5:00 a.m. starts, butsukari and teppo before breakfast, the day structured around training and chores — the keiko (training) is total.",
+      "Shiko and suri-ashi daily: hip strength and footwork are the sport's foundation, hundreds of repetitions.",
+      "Butsukari-geiko builds the charge: full-power collision work against senior wrestlers or posts.",
+      "Technique through repetition: the kimarite catalog drilled against partners of all sizes — technique must beat mass.",
+      "Recovery as duty: baths, meals (chanko-nabe), and naps prescribed as part of the wrestler's professional care."
+    ],
+    "pathway": [
+      [
+        "Joining a heya (stable)",
+        "Recruitment into a stable: the wrestler's life begins with the lowest rank and the chores."
+      ],
+      [
+        "The lower divisions",
+        "Jonokuchi through makushita: technique, body, and patience built over years."
+      ],
+      [
+        "Juryo & salaried ranks",
+        "Sekitori status: salary, attendants, and the sport's middle class."
+      ],
+      [
+        "Makuuchi & sanyaku",
+        "The top division and its champion ranks (komusubi, sekiwake, ozeki)."
+      ],
+      [
+        "Yokozuna",
+        "The grand champion: appointed by the Yokozuna Deliberation Council, expected to dominate with dignity."
+      ]
+    ],
+    "events": [
+      [
+        "Six honbasho yearly",
+        "January/May/September in Tokyo, March Osaka, July Nagoya, November Fukuoka: 15 days each."
+      ],
+      [
+        "Yūshō races",
+        "The championship battles across 15 bouts — 13-2 usually wins, playoffs on ties."
+      ],
+      [
+        "Dohyō-iri ceremonies",
+        "The yokozuna's ring-entering ritual (unryū/shiranui styles) — the sport's greatest spectacle."
+      ],
+      [
+        "World sumo championships (amateur)",
+        "The IFS's weight-classed world titles: international sumo's summit."
+      ],
+      [
+        "Jungyō regional tours",
+        "The nationwide exhibition circuit between tournaments."
+      ]
+    ],
+    "legends": [
+      [
+        "Hakuhō Shō",
+        "Mongolia — 45 top-division championships: the most dominant record in sumo's long history."
+      ],
+      [
+        "Taihō Kōki",
+        "Japan — 32 championships and a 45-bout winning streak (1968-69); the Showa era's hero."
+      ],
+      [
+        "Chiyonofuji",
+        "Japan — 31 championships and the artful yotsu style; the sport's beloved technician of the 1980s."
+      ],
+      [
+        "Asashōryū",
+        "Mongolia — the first yokozuna to win all six tournaments in a calendar year (2005); brilliance with controversy."
+      ],
+      [
+        "Futabayama",
+        "Japan — the pre-war god: 69 consecutive victories (1936-1939), a streak unapproached in any era."
+      ]
+    ],
+    "getting_started": [
+      "Watch a full honbasho day (NHK streams international broadcasts): the divisions' ladder makes the sport's structure clear.",
+      "Learn the kimarite names as you watch: the technique catalogue is sumo's vocabulary.",
+      "Amateur sumo clubs exist worldwide (IFS-affiliated): weight classes make entry accessible.",
+      "Train the foundation anywhere: shiko, suri-ashi, and teppo-style palm work need no ring.",
+      "Visit a honbasho if in Japan: morning tickets are cheap and the lower divisions are wonderful.",
+      "Respect the rituals: sumo's ceremonies are the sport's spine, not its decoration."
+    ],
+    "glossary": [
+      [
+        "Dohyō",
+        "The clay ring: 4.55 m of sacred geometry."
+      ],
+      [
+        "Tachi-ai",
+        "The simultaneous initial charge — most matches end within it."
+      ],
+      [
+        "Mawashi",
+        "The silk belt gripped for throws and pushes."
+      ],
+      [
+        "Kimarite",
+        "The winning technique, announced by the gyōji: 82 recognized kinds."
+      ],
+      [
+        "Yokozuna",
+        "The grand champion rank: appointed, never demoted."
+      ],
+      [
+        "Banzuke",
+        "The rankings bulletin before each tournament."
+      ],
+      [
+        "Yūshō",
+        "The tournament championship: most wins over 15 days."
+      ],
+      [
+        "Mono-ii",
+        "The judges' deliberation on a close finish."
+      ],
+      [
+        "Shiko",
+        "The leg-stomp ritual that is also sumo's deepest strength drill."
+      ],
+      [
+        "Heya",
+        "The training stable where a wrestler's entire life is organized."
+      ]
+    ],
+    "related": [
+      "judo",
+      "wrestling",
+      "mixed-martial-arts",
+      "sambo",
+      "arm-wrestling"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "sambo",
+    "name": "Sambo",
+    "category": "combat",
+    "glyph": "🔴",
+    "tagline": "The Soviet synthesis — jacket wrestling with the world's fastest throws.",
+    "origin": "USSR · 1938 official recognition",
+    "tags": [
+      "Jacket grappling",
+      "Combat sambo",
+      "Red Devil lineage",
+      "Soviet system"
+    ],
+    "overview": [
+      "Sambo — from the Russian acronym SAMozashchita Bez Oruzhiya (self-defense without weapons) — is the Soviet Union's martial synthesis: judo's jacket throws, folk wrestling's leg attacks, and military close-combat fused into a sport codified in 1938. Sport sambo resembles jacket wrestling with fast leg reaps and a points game; combat sambo adds strikes and is the cage-ready cousin that produced Fedor Emelianenko and Khabib Nurmagomedov.",
+      "The art was created through the work of Vasili Oshchepkov (a judo black belt under Kano, later a purge victim) and Viktor Spiridonov (a disabled veteran's softer system), with Anatoly Kharlampiev championing its official recognition in 1938. Today the international federation (FIAS) governs sport and combat sambo world championships, Russian schools dominate, and the art's influence runs through MMA's greatest grapplers and military combatives worldwide.",
+      "Newcomers with a judo or wrestling base will feel at home: sambo's jacket grips reward judoka, its leg attacks reward wrestlers, and its kurtka (jacket) is the sport's great technical equalizer. Find a FIAS-affiliated club or a combat sambo gym, learn the safety-critical leglock progressions slowly, and enjoy the world's fastest-paced jacket grappling."
+    ],
+    "facts": [
+      [
+        "Founding",
+        "1938 — official recognition as USSR combat sport (Oshchepkov's judo synthesis + Spiridonov's system; Kharlampiev the public champion)"
+      ],
+      [
+        "Governing body",
+        "Fédération Internationale de Sambo (FIAS); Russian national dominance with growing European, Asian, and American scenes"
+      ],
+      [
+        "Disciplines",
+        "Sport sambo (throws, holds, leglocks — no chokes), combat sambo (strikes + grappling), and beach/CS variants"
+      ],
+      [
+        "Match format",
+        "Sport sambo: 5-minute bouts scored by throws (four points for a clean back-landing throw), holds, and submissions; combat sambo adds strikes"
+      ],
+      [
+        "The kurtka",
+        "The jacket (kurtka) with belt: grips define the game, as in judo — but leg attacks and faster scoring differentiate it"
+      ],
+      [
+        "Olympic pursuit",
+        "Recognized by the IOC (2018-era GAISF membership); The World Games inclusion; Olympic bid ongoing"
+      ]
+    ],
+    "history": [
+      [
+        "1920s-1938",
+        "Oshchepkov's judo school and Spiridonov's system merge through Soviet sport institutes; official recognition (1938)."
+      ],
+      [
+        "1940s-1980s",
+        "The Soviet sports machine adopts sambo: national championships, military adoption, and dominance that supplies judo's Olympic teams."
+      ],
+      [
+        "1990s-2000s",
+        "Post-Soviet spread; combat sambo's MMA crossover era begins (Fedor's Pride dominance rooted in Russian sambo teams)."
+      ],
+      [
+        "2010s-2020s",
+        "FIAS consolidation and IOC recognition pursuit; Khabib's UFC dominance credits sambo worldwide; world championships' globalization continues."
+      ]
+    ],
+    "formats": [
+      [
+        "Sport sambo",
+        "Throws and ground holds with leglocks, five-minute bouts: the classic discipline."
+      ],
+      [
+        "Combat sambo",
+        "Strikes added (with hand protection), takedowns and submissions: the MMA-adjacent format."
+      ],
+      [
+        "Beach sambo & variants",
+        "Sand-based sport sambo and demonstration formats."
+      ],
+      [
+        "Army & police sambo",
+        "The military close-combat lineage: applied, not sportive."
+      ]
+    ],
+    "skills": [
+      [
+        "Jacket grip fighting",
+        "The kurtka game: collar-and-sleeve, belt grips, and the grip breaks that launch sambo's speed.",
+        "Grip-fight rounds (judo-style but faster); grip strength (rice buckets, towel pulls); two-on-one breaks drilled."
+      ],
+      [
+        "Leg attacks & reaps",
+        "The sport's signature: the kouchi and ouchi reap families and knee picks and knee picks executed faster than judo's rules allow.",
+        "Reap ladders (both sides, both grips); leg-pick entries from grips; drilling speed before resistance."
+      ],
+      [
+        "Throws & the four-point throw",
+        "Perfect throws landing the opponent on the back score 4 — instant victory margins built on technique.",
+        "Throw progressions onto crash mats; throw-for-throw sparring; combination throws (attack-counter chains)."
+      ],
+      [
+        "Leglocks (safety-first)",
+        "Sambo's notorious weapon: ankle locks, kneebars, and heel hooks taught with strict progression and taps honored instantly.",
+        "Leglock mechanics on compliant partners; positional entries (the saddle positions); gradual resistance; absolutely no cranking."
+      ],
+      [
+        "Ground control & pins",
+        "Holds scored like judo's pins, with turnovers and ride variations from wrestling.",
+        "Pin and turnover drills; ride chains; escaping positions under time pressure."
+      ],
+      [
+        "Combat sambo strikes",
+        "Punch integration with takedowns: the hand that buys the grip and the shot.",
+        "Striking-to-takedown chains; ground-and-pound rounds; sparring under combat sambo rules with protection."
+      ]
+    ],
+    "rules": [
+      "Sport sambo: throws scored 1-4 (4 for a back-landing perfect throw), holds (20 seconds) score, submissions (leglocks only — no chokes) end the bout.",
+      "Bouts: five minutes; equal scores broken by penalties then activity (kriteriyactivity criteria).",
+      "Combat sambo: strikes legal (punches, with protection), takedowns, submissions; head strikes add KO risk — professional formats vary.",
+      "Uniform: kurtka (jacket), belt, and shorts; sambovka shoes (soft-soled); red and blue corners.",
+      "Leglock safety: jointlock progressions are coach-gated in clubs; competitions enforce tap discipline strictly.",
+      "Weigh-ins and classes: FIAS weight categories (52-100+ kg men's sport; parallel women's classes).",
+      "Anti-doping: FIAS follows WADA code at international events."
+    ],
+    "equipment": [
+      [
+        "Kurtka",
+        "The sambo jacket with belt: stiffer than a gi top, designed for fast grips ($60-150)."
+      ],
+      [
+        "Sambovka",
+        "Soft-soled wrestling shoes protecting ankles on the mat ($40-90)."
+      ],
+      [
+        "Shorts",
+        "The regulation shorts worn under the kurtka ($20-40)."
+      ],
+      [
+        "Mats",
+        "Standard wrestling/martial mats — clubs supply; home roll-outs for drills."
+      ],
+      [
+        "Combat sambo kit",
+        "Hand wraps, gloves (competition headgear by rules), and gumshield for the striking discipline."
+      ]
+    ],
+    "training": [
+      "Grip-and-go pace: sambo's speed comes from grip fighting drills run hotter than judo's traditional rhythm.",
+      "Throws daily with landings: the four-point throw is technique plus timing, drilled onto mats.",
+      "Leglock education slow and safe: months of mechanics before resistance; taps always honored instantly.",
+      "Wrestling cross-training: rides and leg attacks sharpen the sport's fastest exchanges.",
+      "Condition for five fast minutes: interval rounds matching the sport's tempo."
+    ],
+    "pathway": [
+      [
+        "Club foundations",
+        "FIAS-affiliated or Russian-school clubs: grips, falls, first throws."
+      ],
+      [
+        "Regional & national tournaments",
+        "Sport sambo's competition ladder by weight class."
+      ],
+      [
+        "National team & European/Asian championships",
+        "Continental titles feeding world selection."
+      ],
+      [
+        "FIAS World Championships",
+        "Sport and combat sambo's world titles."
+      ],
+      [
+        "Professional combat sambo & MMA",
+        "The crossover path into MMA's professional ranks."
+      ]
+    ],
+    "events": [
+      [
+        "FIAS World Championships",
+        "Sport and combat sambo's world titles (men and women)."
+      ],
+      [
+        "The World Games",
+        "Sambo's multi-sport stage since 2022 (Birmingham)."
+      ],
+      [
+        "Russian national championships",
+        "The sport's deepest and most feared nationals."
+      ],
+      [
+        "European & Asian championships",
+        "The continental qualification layer."
+      ],
+      [
+        "Combat sambo pro events",
+        "Professional formats feeding MMA's ranks."
+      ]
+    ],
+    "legends": [
+      [
+        "Vasili Oshchepkov & Viktor Spiridonov",
+        "The founders: the judoka and the veteran whose systems became one art (Oshchepkov's fate in the purges is the art's tragic footnote)."
+      ],
+      [
+        "Anatoly Kharlampiev",
+        "The champion of recognition: the public face of sambo's 1938 codification and decades of development."
+      ],
+      [
+        "Fedor Emelianenko",
+        "Russia — the last emperor: Pride's heavyweight dominance built on Russian sambo's ground-and-pound and submissions."
+      ],
+      [
+        "Khabib Nurmagomedov",
+        "Dagestan — 29-0 UFC champion; sambo-wrestling's most dominant modern ambassador."
+      ],
+      [
+        "Fedor's the Red Devil team lineage",
+        "The Russian Top Team and the sambo gyms of Dagestan that supply the sport's professional elite."
+      ]
+    ],
+    "getting_started": [
+      "Find a club with mats and a coach: leglock-heavy arts demand supervision from day one.",
+      "If you know judo or wrestling, expect fast progress: the kurtka game rewards existing grip skills.",
+      "Learn falls and safety first: sambo's throws are faster than judo's by design.",
+      "Buy the kurtka and sambovka early: jacket grips are the sport's alphabet.",
+      "Treat leglocks as a long apprenticeship: tap early, drill slowly, respect the joints.",
+      "Watch Fedor's Pride era and Khabib's UFC run: the art's proof of concept, twice over."
+    ],
+    "glossary": [
+      [
+        "Kurtka",
+        "The sambo jacket — grip-fighting's battleground."
+      ],
+      [
+        "Sambovka",
+        "The soft-soled shoes of the mat."
+      ],
+      [
+        "Four-point throw",
+        "The perfect throw landing the opponent flat on the back — near-decisive."
+      ],
+      [
+        "Kriteriy",
+        "The activity tiebreaker when scores equal."
+      ],
+      [
+        "Reap (podsechka)",
+        "The leg sweep family: sambo's fastest scoring techniques."
+      ],
+      [
+        "Leglock",
+        "The submission family sport sambo permits and chokes it forbids."
+      ],
+      [
+        "Combat sambo",
+        "The strikes-plus-grappling discipline: MMA's Russian cousin."
+      ],
+      [
+        "SAM",
+        "The acronym's root: samozashchita — self-defense."
+      ],
+      [
+        "Red corner",
+        "One of the two corners (red versus blue) of every bout."
+      ],
+      [
+        "Dagestan school",
+        "The mountain republic's wrestling-sambo pipeline supplying MMA's elite."
+      ]
+    ],
+    "related": [
+      "judo",
+      "wrestling",
+      "mixed-martial-arts",
+      "brazilian-jiu-jitsu",
+      "boxing"
+    ],
+    "crosslink": true
+  },
+  {
+    "slug": "kendo",
+    "name": "Kendo",
+    "category": "combat",
+    "glyph": "⚔️",
+    "tagline": "The way of the sword — bamboo blades, armor, and the shout that scores.",
+    "origin": "Japan · kenjutsu roots · modern 1952",
+    "tags": [
+      "Sword art",
+      "Shinai & bōgu",
+      "Ki-ken-tai-ichi",
+      "Japanese tradition"
+    ],
+    "overview": [
+      "Kendo — the way of the sword — is Japanese swordsmanship as modern budo: two practitioners in armor (bōgu) strike with split bamboo swords (shinai) at four sanctioned targets (head, wrists, torso, throat), with every valid strike requiring ki-ken-tai-ichi — the unification of spirit (the kiai shout), sword, and body. Points are awarded by three referees by majority; matches are won by two points or at time.",
+      "Descended from kenjutsu (the samurai's battlefield sword schools), kendo was systematized for education and police training, formalized as modern sport post-war (the All Japan Kendo Federation, 1952), and today counts millions of practitioners worldwide. Its technique is shouted into existence — men (head), kote (wrist), dō (torso), tsuki (throat thrust) — and its etiquette (the rei before and after everything) is the art's spine.",
+      "Newcomers should expect the footwork and the shout before the sword: kendo's unique stamp is that every strike announces itself, and the first six months are spent learning stance, footwork, and basic strikes in the air before armor. The All Japan Kendo Championship's winners and the Kyoto taikai's atmosphere are the tradition's summit; the sport's global federations (FIK) hold world championships every few years."
+    ],
+    "facts": [
+      [
+        "Historical roots",
+        "Kenjutsu schools (kenjutsu's Edo-era heyday: Niten'ichi, Jigen-ryu); shinai introduced mid-1700s for safer practice; bōgu develops through the 1800s"
+      ],
+      [
+        "Governing body",
+        "All Japan Kendo Federation (ZNKR, 1952); International Kendo Federation (FIK); national federations"
+      ],
+      [
+        "Targets",
+        "Men (head), kote (forearm/wrist), dō (torso), tsuki (throat thrust — practiced only by experienced kendoka)"
+      ],
+      [
+        "Valid strike",
+        "Ki-ken-tai-ichi: spirit, sword, and body unified, with zanshin (continued awareness) after the strike"
+      ],
+      [
+        "Match format",
+        "Three-point matches (sanbon shōbu): two points win; five-minute bouts with enchō (overtime) sudden-death points"
+      ],
+      [
+        "Ranks",
+        "Kyu grades then dan ranks from first to eighth dan, with honorary ninth with written examinations at higher dan"
+      ]
+    ],
+    "history": [
+      [
+        "Edo era-1700s",
+        "Kenjutsu schools flourish; the shinai (from Jikishinkage-ryu lineage) and protective gear make continuous sparring possible."
+      ],
+      [
+        "1868-1945",
+        "Modernization: kendo enters schools and police training; militarization shadows the art; post-war occupation bans then restores it."
+      ],
+      [
+        "1952-1980s",
+        "The All Japan Kendo Federation founds; kendo rebuilds as education and sport; international spread begins."
+      ],
+      [
+        "1990s-2020s",
+        "The FIK's world championships (since 1970) globalize the art; Korea's and Japan's rivalry defines the elite; kendo's million-plus practitioners span 60+ nations."
+      ]
+    ],
+    "formats": [
+      [
+        "Shiai (competition)",
+        "Sanbon shōbu three-point bouts by age/category: individual and team matches with five-player relay formats."
+      ],
+      [
+        "Kata",
+        "The Nihon Kendo Kata: ten classical forms (tachi and kodachi) preserving sword tradition."
+      ],
+      [
+        "Gradings",
+        "Kyu and dan examinations: technique, kata, and written papers at higher ranks."
+      ],
+      [
+        "Team matches",
+        "The five-player relay formats of school and world championship team events."
+      ]
+    ],
+    "skills": [
+      [
+        "Kihon & footwork",
+        "The basics: chudan-no-kamae (middle stance), suri-ashi (sliding feet), and the basic strikes — thousands of air repetitions.",
+        "Suburi (air strikes) by the hundreds daily; footwork lines (forward-back diagonal); kiri-kaeshi (the continuous diagonal cutting drill) as the session's spine."
+      ],
+      [
+        "Kiai & ki-ken-tai-ichi",
+        "The shouted strike: naming the target as you cut, with body weight driving through — the art's signature unity.",
+        "Kiai volume drills (men! kote! dō!); strike timing with the shout exactly on contact; partner-confirmed strikes for scoring quality."
+      ],
+      [
+        "Maai (distance)",
+        "The issoku-itto-no-maai (one-step-one-cut distance): kendo's entire strategic map.",
+        "Distance drills with partner (enter-exit cycles); debana-waza (striking the opponent's attack start) timing games; pressure-testing in jigeiko."
+      ],
+      [
+        "Shikake & ōji waza",
+        "Attacks (shikake: tobikomi-men, harai-men) and responses (ōji: debana, kaeshi, nuki) — the tactical grammar.",
+        "Waza-of-the-month drilling; reaction games (attacker signals, defender counters); scripted scenario sparring."
+      ],
+      [
+        "Zanshin & etiquette",
+        "The finished awareness after every strike and the rei before everything: kendo's manners are its technique.",
+        "Zanshin practice in every drill (post-strike posture held); reihō (etiquette) studied explicitly; kata as the etiquette's living classroom."
+      ],
+      [
+        "Jigeiko & competition craft",
+        "Free practice and shiai: the sport's laboratory and its scoreboard.",
+        "Jigeiko with higher-ranked partners; shiai simulation with referees; conditioning for five-minute bouts at full spirit."
+      ]
+    ],
+    "rules": [
+      "Valid strike: accurate strike to a target with ki-ken-tai-ichi and zanshin — three referees judge by majority (flags).",
+      "Targets: men, kote, dō, tsuki (tsuki by senior practitioners only); cuts must be with the shinai's the datotsu-bu (the shinai's designated striking section).",
+      "Match: sanbon shōbu (first to two points) within five minutes; enchō (overtime) for ties, next point wins.",
+      "Tsubazeriai: the close-quarters bind — the hiki-waza (stepping-back techniques) score from the bind.",
+      "Fouls: striking outside the datotsu-bu, dropping the shinai, stepping out, and dangerous play — fouls concede points or draw warnings (by rules).",
+      "Equipment law: shinai regulation (weight, length by age/sex), bōgu standards, and inspection at tournaments.",
+      "Etiquette: the rei at the start and end of everything — kendo's rules begin and end with manners."
+    ],
+    "equipment": [
+      [
+        "Shinai",
+        "The bamboo (or carbon) practice sword: four staves, leather handle — replaced as they crack ($30-80 each; buy spares)."
+      ],
+      [
+        "Bōgu",
+        "The armor set: men (helmet/face), kote (gauntlets), dō (torso), tare (waist): $400-1,200 student-grade; custom beyond."
+      ],
+      [
+        "Keikogi & hakama",
+        "The training jacket and pleated trousers ($80-150)."
+      ],
+      [
+        "Bokken & kata set",
+        "The wooden sword for kata and suburi ($30-80)."
+      ],
+      [
+        "Tenugui",
+        "The cloth worn under the men — changed, washed, and folded with care ($5-15)."
+      ]
+    ],
+    "training": [
+      "Suburi and kiri-kaeshi daily: the air work builds every strike's quality before an opponent exists.",
+      "Kata weekly: the Nihon Kendo Kata preserves the sword's meaning beneath the sport.",
+      "Jigeiko with seniors: kendo's learning is vertical — seek higher-ranked partners constantly.",
+      "Conditioning for spirit: kendo bouts are fought at full shout; aerobic and anaerobic base both matter.",
+      "Care the equipment: shinai maintenance and tenugui washing are part of the art's discipline."
+    ],
+    "pathway": [
+      [
+        "Dojo foundations",
+        "Kihon, footwork, and first shinai: months before armor."
+      ],
+      [
+        "Bōgu & jigeiko",
+        "Armor acquired (often club-loaned first): free practice begins."
+      ],
+      [
+        "Kyu/dan gradings & local shiai",
+        "The rank ladder and local tournaments."
+      ],
+      [
+        "National championships & teams",
+        "National titles; university kendo's deep programs."
+      ],
+      [
+        "World kendo championships",
+        "The FIK's world title every few years: Japan's standard against the world."
+      ]
+    ],
+    "events": [
+      [
+        "All Japan Kendo Championship",
+        "The sport's most prestigious individual title (Nippon Budokan, each November)."
+      ],
+      [
+        "World Kendo Championships",
+        "The FIK's world title: individual and team, men and women."
+      ],
+      [
+        "Kyoto Taikai",
+        "The May gathering at Butokuden: thousands of practitioners, the tradition's great festival."
+      ],
+      [
+        "8th dan examinations",
+        "The art's summit: pass rates historically in the fractions of a percent."
+      ],
+      [
+        "National & university championships",
+        "Japan's deep domestic calendar and international national titles."
+      ]
+    ],
+    "legends": [
+      [
+        "Takano Sasaburo",
+        "Japan — the Meiji-era master whose teaching (Kendo, 1916) systematized modern kendo."
+      ],
+      [
+        "Chiba Masashi",
+        "Japan — the Shōwa era's legendary 8-dan; technique as calligraphy."
+      ],
+      [
+        "The Kyoto elders",
+        "The hachidan sensei whose yearly Kyoto Taikai performances are the art's living museum."
+      ],
+      [
+        "Korea's international champions",
+        "The Korean kendo elite (world championship contenders across decades) who push Japan's standard."
+      ],
+      [
+        "Ōta Tadanori",
+        "Japan — the All Japan Championship era's dominant figure (multiple titles in the 1960s-70s)."
+      ]
+    ],
+    "getting_started": [
+      "Find a FIK-affiliated dojo: beginners train in keikogi first, armor comes months later.",
+      "Buy a shinai and a bokken before bōgu: air work starts immediately.",
+      "Expect the shout: kiai is technique, not noise — train it consciously.",
+      "Learn the etiquette as diligently as the strikes: kendo's manners are its moral curriculum.",
+      "Attend practice twice weekly minimum: kendo's repetition culture rewards consistency.",
+      "Watch the All Japan Championship: the highest-level kendo ever filmed, and a masterclass in timing."
+    ],
+    "glossary": [
+      [
+        "Shinai",
+        "The bamboo practice sword: four staves bound in leather."
+      ],
+      [
+        "Bōgu",
+        "The armor: men, kote, dō, tare."
+      ],
+      [
+        "Kiai",
+        "The shouted spirit: naming the strike as it lands."
+      ],
+      [
+        "Ki-ken-tai-ichi",
+        "Spirit, sword, and body as one — the valid strike's law."
+      ],
+      [
+        "Men / kote / dō / tsuki",
+        "The four targets: head, wrist, torso, throat."
+      ],
+      [
+        "Zanshin",
+        "Post-strike awareness — the difference between a cut and a point."
+      ],
+      [
+        "Jigeiko",
+        "Free practice — the art's laboratory."
+      ],
+      [
+        "Kiri-kaeshi",
+        "The continuous diagonal cutting drill: every session's spine."
+      ],
+      [
+        "Maai",
+        "Distance: kendo's invisible geometry."
+      ],
+      [
+        "Rei",
+        "The bow: the art's first and last technique."
+      ]
+    ],
+    "related": [
+      "fencing",
+      "karate",
+      "judo",
+      "archery",
+      "boxing"
+    ],
+    "crosslink": true
+  }
+]
