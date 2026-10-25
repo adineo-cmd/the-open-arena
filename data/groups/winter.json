@@ -1,0 +1,1593 @@
+[
+  {
+    "slug": "alpine-skiing",
+    "name": "Alpine Skiing",
+    "category": "winter",
+    "glyph": "⛷️",
+    "tagline": "Racing straight down the fall line, where one hundredth of a second separates legends.",
+    "origin": "Norway to the Alps · 1931",
+    "tags": ["Olympic", "Speed", "Individual", "Winter"],
+    "overview": [
+      "Alpine skiing races a skier down a mountain against the clock. Four disciplines split the job: downhill and super-G are single-run speed events reaching 140 km/h, while giant slalom and slalom demand quick, precise turns through gates set just meters apart. Times are measured to the hundredth, and the combined event adds a speed run to a technical run.",
+      "It is the Alps' civic theater: Austria, Switzerland, Italy, and France shut valleys down for race weekends, and tens of thousands line the Hahnenkamm in Kitzbühel each January to watch the Streif. Careers are made on named pieces of snow — the Mausefalle, the Hausbergkante — and a crystal globe counts the way a national title counts in soccer.",
+      "Newcomers should know the sport is learned bottom-up: parallel turns before carving, carving before gates. Lessons and rentals cost less than one race ski, and recreational race leagues like NASTAR give any skier a handicap score and a reason to keep improving."
+    ],
+    "facts": [
+      ["Governing body", "FIS (Fédération Internationale de Ski), founded 1924 in Chamonix"],
+      ["Disciplines", "Downhill, super-G, giant slalom, slalom, and alpine combined"],
+      ["Race format", "Downhill and super-G are one-run speed races; giant slalom and slalom run two heats with times added"],
+      ["Course scale", "The Lauberhorn downhill at Wengen runs 4.4 km with a 1,027 m vertical drop; slalom courses carry 55-75 gates"],
+      ["Top speeds", "World Cup downhill racers exceed 140 km/h — Johan Clarey was timed at 161.9 km/h at Wengen in 2013"],
+      ["Olympic status", "Olympic sport since 1936 at Garmisch-Partenkirchen"],
+      ["First world championship", "Mürren, Switzerland, 1931"],
+      ["Global reach", "More than 130 national associations under FIS, with Europe's Alpine nations supplying most World Cup podiums"]
+    ],
+    "history": [
+      ["1868", "Sondre Norheim tours Norway demonstrating the Telemark and parallel turns — the technical ancestry of every alpine turn."],
+      ["1920s", "Hannes Schneider's Arlberg method turns descending into a teachable system and spreads ski schools across the Alps."],
+      ["1931", "The first Alpine World Ski Championships at Mürren give racing its own calendar, separate from Nordic jumping and cross-country."],
+      ["1936", "Alpine skiing joins the Olympics at Garmisch-Partenkirchen with a combined event; Germany's Christl Cranz takes the women's title."],
+      ["1967", "The FIS Alpine World Cup launches from an idea by French journalist Serge Lang — a season-long points race that turns one-off races into a league."],
+      ["1988", "Super-G joins the Olympic program at Calgary, splitting the difference between downhill and giant slalom."],
+      ["2023", "Mikaela Shiffrin passes Ingemar Stenmark's record of 86 World Cup wins, a mark long considered untouchable."]
+    ],
+    "formats": [
+      ["Downhill", "The longest, fastest course: full tucks, jumps, and compressions — one run, no second chances."],
+      ["Super-G", "One run at giant-slalom turns on a downhill-length course, typically more than 30 gates at speed."],
+      ["Giant slalom", "Two runs of mid-length carved turns between gates set roughly 10-18 m apart."],
+      ["Slalom", "The tightest test: 55-75 quick gates, cross-blocking, and two runs decided by hundredths."],
+      ["Alpine combined", "One speed run plus one slalom run, times added — the traditional all-rounder's title."],
+      ["Parallel and team events", "Head-to-head bracket racing on mirrored courses, a World Cup and Olympic crowd format."]
+    ],
+    "skills": [
+      ["Carving", "Riding the ski's edge so the sidecut, not a skid, steers the turn — the basis of all modern racing.", "Link ten clean carved turns on easy terrain; two ski-width rails in the snow are the evidence."],
+      ["Edging and angulation", "Tilting the ski on edge while balancing over it, with angles created at the hip, knee, and ankle rather than the waist.", "One-ski drills: lift the inside ski for a whole run, then side-slip on steep pitch to feel edge release and engagement."],
+      ["Fall line reading", "Seeing where gravity pulls straightest and where shape must replace speed.", "Ski an entire bowl top to bottom without stopping, then repeat drawing a different line."],
+      ["Gate technique", "Taking the shortest arc: shins and inside hand against the gate while the skis run under it.", "Brush-gate sessions at half speed; add tempo only when the line stays tight to the turning pole."],
+      ["Aerodynamic tuck", "The egg position in straights — poles under arms, helmet low, knees together — worth seconds in downhill.", "Hold a static tuck on gentle terrain for 30 seconds at a time, then carry it through giant slalom arcs."],
+      ["Pressure management", "Absorbing compressions and terrain like the Streif's Mausefalle while staying weighted over the skis.", "Progressive bumps and small jumps; flex ankle, knee, and hip in sequence to swallow the landing."],
+      ["Start and finish", "Explosive poling out of the start gate and a held, high tuck across the finish line.", "Twenty timed starts per session; measure reaction and the first three gates, not just the clock."]
+    ],
+    "rules": [
+      "Four disciplines, two characters: downhill and super-G are one-run speed races; giant slalom and slalom are two-run technical races with combined times deciding.",
+      "A gate is passed correctly when both ski tips and both feet cross the imaginary line between the gate's poles — missing one means disqualification.",
+      "Racers may slip the course before racing to learn the line, but may not ski through the gates.",
+      "Equipment is regulated by FIS: minimum ski lengths per discipline (165 cm slalom, 195 cm giant slalom, 218 cm downhill for men), plus suit thickness and air-permeability limits to cap aerodynamic gain.",
+      "Start order draws from world ranking; racers launch at fixed intervals against the clock, not against each other.",
+      "Alpine combined adds one downhill or super-G run to one slalom run; the lowest total time wins.",
+      "A crash does not end a race — racers who finish count, and those who stop or hike are out."
+    ],
+    "equipment": [
+      ["Race skis", "One pair per discipline: slalom skis are short and quick, downhill skis long and stable. Race-stock pairs run $800-1,800."],
+      ["Boots", "Stiff, precise, and fitted by a bootfitter — the single most important purchase. $400-900."],
+      ["Poles", "Slalom poles wear hand and shin guards; downhill poles are bent for the tuck. $100-300 with guards."],
+      ["Helmet and goggles", "FIS-approved helmets are mandatory in racing; slalom adds a chin guard. $150-400."],
+      ["Speed suit", "Skin-tight, padded suit with regulated fabric thickness. $300-900."],
+      ["Back protector", "Flexible spine armor, standard in junior and speed programs. $100-250."]
+    ],
+    "training": [
+      "Strength is leg-centric: front squats, split squats, and heavy isometric holds, because a carved turn loads the outside leg with several times body weight.",
+      "Energy systems mirror the race: 45-90 second high-lactate efforts plus an aerobic base that survives a six-month season at altitude.",
+      "Protect knees and hamstrings with Nordic curls, single-leg Romanian deadlifts, and balance work — ACL injuries are the sport's epidemic.",
+      "Summer means glacier camps at Zermatt and Saas-Fee plus dryland conditioning; ski hours never fully stop.",
+      "Video review every session — technique lives or dies in single turns, and hundredths hide in posture."
+    ],
+    "pathway": [
+      ["Ski school", "Learn to turn, stop, and ride lifts comfortably — every racer's first hundred days."],
+      ["Club racing (U8-U16)", "Regional clubs introduce gates, skill drills, and age-class races near home."],
+      ["FIS racing", "A FIS license at about 16 opens international starts and national junior championships."],
+      ["Continental Cup", "The Europa Cup or North American Cup — the proving ground below the World Cup."],
+      ["World Cup and national team", "Points, globes, and selection for world championships and the Olympics."]
+    ],
+    "events": [
+      ["FIS Alpine World Cup", "The season-long circuit, October to March, awarding crystal globes for overall and per-discipline titles."],
+      ["Hahnenkamm downhill", "Kitzbühel's Streif, every January — the sport's most feared course, watched from the slope by tens of thousands."],
+      ["Alpine World Ski Championships", "Every odd-numbered year since 1931."],
+      ["Winter Olympics", "Alpine events every four years since 1936; five medal events per gender."],
+      ["Continental Cups", "The Europa Cup and North American Cup circuits that feed the World Cup week by week."]
+    ],
+    "legends": [
+      ["Jean-Claude Killy", "France — swept all three golds at Grenoble 1968 and retired on top; the sport's first television superstar."],
+      ["Ingemar Stenmark", "Sweden — 86 World Cup wins, almost all in giant slalom and slalom; the greatest technical racer ever measured."],
+      ["Annemarie Moser-Pröll", "Austria — six overall World Cup titles in the 1970s and 62 race wins; downhill's first queen."],
+      ["Marcel Hirscher", "Austria — eight consecutive overall World Cup titles from 2012 to 2019; slalom and giant slalom perfected."],
+      ["Mikaela Shiffrin", "United States — first racer past 100 World Cup wins; the most decorated alpine skier in history."]
+    ],
+    "getting_started": [
+      "Take lessons on rental gear first — a beginner package costs less than a single race ski.",
+      "Learn to stop and turn on blue terrain before dreaming of gates; parallel turns come before carving, carving before racing.",
+      "Enter a recreational race league such as NASTAR — a handicap score makes every run measurable.",
+      "Spend your first real money on boots fitted by a professional, not on skis.",
+      "Add dryland twice a week: cycling for the engine, squats and single-leg work for the turns.",
+      "Watch World Cup slalom and follow one racer's hands and hips for a whole run — imitation is the oldest coach."
+    ],
+    "glossary": [
+      ["Fall line", "The straightest downhill path a ball would roll — the axis every turn is built around."],
+      ["Edging", "Setting the ski's metal edge into the snow at an angle to steer or brake."],
+      ["Angulation", "Creating edge angles with hip, knee, and ankle while keeping the torso balanced and upright."],
+      ["Carving", "Turning on the ski's sidecut so the edge cuts, rather than skids, a clean arc in the snow."],
+      ["Sidecut", "The ski's hourglass shape — narrower waist, wider tip and tail — that makes the ski turn when rolled on edge."],
+      ["Cross-block", "Driving the inside hand or shin into a slalom gate to keep the line tight."],
+      ["Tuck", "The aerodynamic egg position held in straightaways to shed drag."],
+      ["Schuss", "A straight, fast run down the fall line with no turns."],
+      ["Forerunner", "A skier who tests the course before competitors — no ranking, all risk."],
+      ["Piste", "A groomed, marked ski run; racing pistes are closed to the public on race day."]
+    ],
+    "related": ["cross-country-skiing", "freestyle-skiing", "ski-jumping", "snowboarding", "biathlon"],
+    "crosslink": false
+  },
+  {
+    "slug": "cross-country-skiing",
+    "name": "Cross-Country Skiing",
+    "category": "winter",
+    "glyph": "🎿",
+    "tagline": "Human power over snow, uphill and down — winter's purest engine sport.",
+    "origin": "Scandinavia · codified 1924",
+    "tags": ["Endurance", "Olympic", "Nordic", "Winter"],
+    "overview": [
+      "Cross-country skiing races athletes over rolling terrain on narrow, lightweight skis, in two distinct techniques: classic, gliding in parallel tracks, and skate, pushing side to side like ice skating. It is winter's purest endurance sport — no lift, no gravity discount, every meter earned by the engine inside the suit.",
+      "Norway, Sweden, and Finland treat it as civic religion: Holmenkollen draws tens of thousands up an Oslo hillside, and the Tour de Ski turns the sport into a multi-day stage race with cycling-style drama. Elite skiers post VO2max values above 90 ml/kg/min, numbers matched by almost no other athletes on Earth.",
+      "Newcomers should start classic on groomed trails at a Nordic center — rentals, lesson, and trail pass fit inside an afternoon. The first goal is not speed but a quiet kick: planting the ski flat so it grips, then gliding long enough to breathe."
+    ],
+    "facts": [
+      ["Governing body", "FIS, which has governed Nordic skiing since its founding in 1924"],
+      ["Techniques", "Classic (parallel tracks, diagonal stride and double pole) and skate (free technique) — raced separately"],
+      ["Race formats", "Sprint heats, individual and mass-start distances from 10 to 50 km, skiathlon, and relays"],
+      ["Physiology", "Elite skiers test above 90 ml/kg/min VO2max — among the highest values ever recorded in sport"],
+      ["Olympic status", "On the program since the first Winter Olympics, Chamonix 1924; women's events since Oslo 1952"],
+      ["First world championship", "1925 at Johannisbad, now Janské Lázně in the Czech Republic"],
+      ["Global reach", "Centered in Norway, Sweden, Finland, and Russia, with rising programs in Switzerland, the United States, and Japan"]
+    ],
+    "history": [
+      ["7000+ years", "Rock carvings at Alta in Norway and ancient wooden ski fragments show skiing as transport long before it was sport."],
+      ["1206", "Two Birkebeiner warriors ski the infant king Håkon Håkonsson to safety — commemorated today by Norway's 54 km Birkebeinerrennet, skied with a 3.5 kg pack."],
+      ["1892", "The first Holmenkollen ski festival near Oslo crowns Nordic champions; cross-country racing gains its cathedral."],
+      ["1924-1952", "Olympic debut at Chamonix 1924; the women's 10 km arrives at Oslo 1952."],
+      ["1982", "The FIS Cross-Country World Cup launches as a season-long circuit of sprints and distance races."],
+      ["1985", "American Bill Koch skates to the front at the world championships; within two seasons FIS separates classic and freestyle events for good."],
+      ["2007", "The first Tour de Ski packs multiple stages and a brutal final climb up the Alpe Cermis into the World Cup calendar."]
+    ],
+    "formats": [
+      ["Sprint and team sprint", "A 1.2-1.6 km prologue, then knockout heats of six; the team sprint pairs two skiers over six legs."],
+      ["Individual start", "10, 15, or 50 km against the clock at 30-second intervals — the pure time trial."],
+      ["Mass start", "30 or 50 km side by side, tactics and drafting included; the 50 km at Holmenkollen is the classic's classic."],
+      ["Skiathlon", "Half the race classic, half skate, with a pit-stop ski change in between — 2x7.5 km women, 2x15 km men."],
+      ["Relay", "Four skiers, 4x7.5 km men and 4x5 km women, the first two legs classic and the last two skate."],
+      ["Ski marathons", "Citizens' classics like the 90 km Vasaloppet, run since 1922, fill the trails with fields of thousands."]
+    ],
+    "skills": [
+      ["Diagonal stride", "The classic running step: kick one ski flat to grip, glide long on the other, pole in opposition.", "Kick-timing drills on a gentle uphill, ten times twenty strides — if the ski slips, the kick came late or light."],
+      ["Double pole", "Both poles plant together; the core crunches and arms compress through the poling motion — the fastest classic move.", "Four by four minute double-pole intervals on flat terrain with full compression every stroke."],
+      ["Skate V2 (one skate)", "Pushing to the side with one pole plant per skate, used on fast flats and moderate climbs.", "Rhythm drills: twenty V2 strokes per side without breaking cadence; film the hips for rotation."],
+      ["Skate V1 (offset)", "The steep-hill skate with asymmetric poling — one side leads, the other braces.", "Eight by 90 seconds on a 6-10 percent grade, switching the lead side at the halfway mark."],
+      ["Downhill and tuck", "Free speed hides on descents: skis parallel, hips over heels, tuck low and still.", "Ski every training descent with intent; practice holding a quiet, flexed stance until corners feel boring."],
+      ["Waxing", "Matching kick wax or klister to snow temperature and grain — the classic racer's daily chess game.", "Keep a wax logbook; test three candidates at the venue every session and record the snow at noon."],
+      ["Threshold pacing", "Racing the red line for 15-50 km without detonating — the sport's defining skill.", "Weekly three by ten minute lactate-threshold intervals at the pace you could hold for one hour."]
+    ],
+    "rules": [
+      "Free-technique races allow any method, which in practice means skating; classic races forbid it entirely and confine skis to parallel tracks.",
+      "Sprint races run a qualification prologue, then knockout heats of six skiers through quarterfinals, semifinals, and a final.",
+      "Skiathlon opens classic and finishes skate, with a marked pit where skis are changed — a fumbled exchange can cost a medal.",
+      "Relays run 4x7.5 km for men and 4x5 km for women, the first two legs classic and the last two skate.",
+      "Fluorinated waxes are banned by FIS as of the 2020-21 season, with equipment tests and sanctions for violations.",
+      "Shortcuts, skating in classic zones, or unsporting blocking bring disqualification from the jury."
+    ],
+    "equipment": [
+      ["Classic skis", "With a grip zone underfoot for wax or built-in skins; a first pair runs $150-400, race models $600-900."],
+      ["Skate skis", "Shorter, stiffer, no grip zone. $250-500 entry, $700-1,000 race stock."],
+      ["Bindings and boots", "NNN and SNS systems dominate; boots are flex-rated for each technique. Boots $150-500."],
+      ["Poles", "Carbon, sized to the shoulder for classic and the chin for skate. $100-400."],
+      ["Wax kit", "Kick waxes, klisters, cork, scraper, iron, and glide wax — $60-300 to start."],
+      ["Rollerskis", "Summer training on pavement with rubber ferrules for grip. $200-450."]
+    ],
+    "training": [
+      "Volume builds champions: professionals log 700-900 hours a year, mostly low intensity — amateurs should target 300 with patience.",
+      "Two hard sessions weekly: VO2max intervals of four by four minutes and lactate threshold of three by ten minutes, on snow or rollerskis.",
+      "Rollerski and run with poles in summer; sport-specific load keeps technique and spares the knees from running-only attrition.",
+      "Strength double-poles the body: dips, pull-ups, heavy rows, and anti-rotation core work feed the poling engine.",
+      "Train both techniques weekly — modern race programs mix styles, and skiathlon demands both in one morning."
+    ],
+    "pathway": [
+      ["Nordic center and school programs", "Groomed trails, rental fleets, and after-school ski clubs — the sport's front door in snowy regions."],
+      ["Junior club racing", "Regional youth series and junior nationals; talent identification happens here, usually between ages 10 and 16."],
+      ["National junior and college ranks", "Junior World Championships at U20 and U23, or NCAA skiing in the United States."],
+      ["Continental circuit", "Scandinavian Cup and similar series — the bridge to full World Cup starts."],
+      ["World Cup and national team", "Season-long circuit, Tour de Ski, world championships, and the Olympics."]
+    ],
+    "events": [
+      ["FIS Cross-Country World Cup", "The annual league of sprints and distance races, November to March, with crystal globes for overall, distance, and sprint."],
+      ["Tour de Ski", "A multi-day stage race each New Year, finishing up the Alpe Cermis wall in Val di Fiemme."],
+      ["Nordic World Ski Championships", "Every odd-numbered year, shared with ski jumping and nordic combined."],
+      ["Winter Olympics", "Cross-country has been on the program since Chamonix 1924."],
+      ["Vasaloppet", "The 90 km classic from Sälen to Mora, Sweden, since 1922, with a field of roughly 15,800 skiers."],
+      ["Holmenkollen Ski Festival", "Oslo's March institution — 50 km finals in front of a hillside crowd."]
+    ],
+    "legends": [
+      ["Bjørn Dæhlie", "Norway — eight Olympic golds and six overall World Cup titles in the 1990s; the benchmark all endurance skiers are measured against."],
+      ["Marit Bjørgen", "Norway — fifteen Olympic medals, the most of any Winter Olympian, spanning sprints and 50 km finals."],
+      ["Therese Johaug", "Norway — the dominant distance skier of the 2020s, with three golds at Beijing 2022."],
+      ["Sixten Jernberg", "Sweden — nine Olympic medals across the 1950s and 1960s; the first superstar of the long races."],
+      ["Bill Koch", "United States — 1976 Olympic silver and the 1982 overall World Cup title; the skater who changed how the sport moves."]
+    ],
+    "getting_started": [
+      "Start at a Nordic center with a rental package and one lesson — about $40-70 covers trail pass, skis, and coaching for a morning.",
+      "Master the kick before the glide: a balanced diagonal stride beats a hundred frantic pole plants.",
+      "Size poles to the chin for skate, the shoulder for classic — wrong length ruins both techniques.",
+      "Buy boots first, then poles; skis can be rented until you know which technique you prefer.",
+      "Run or cycle in the off-season and try rollerskis — the engine is transferable, the snow is not required.",
+      "Enter a citizens' loppet — nearly every snowy town hosts a 10-25 km race with a start wave for every pace."
+    ],
+    "glossary": [
+      ["Classic technique", "Racing in parallel tracks with diagonal stride and double pole — the original style."],
+      ["Skate technique", "Pushing skis outward in a V like ice skating — legal only in free-technique races."],
+      ["Diagonal stride", "The classic running step, one kick and one glide at a time."],
+      ["Double pole", "Both poles planting together to compress the core and accelerate the skis."],
+      ["Kick zone", "The wax pocket under the foot of a classic ski that grips when weighted."],
+      ["Klister", "Sticky gel wax for coarse or transforming snow — legendary grip, legendary mess."],
+      ["Skin ski", "A classic ski with a mohair strip built into the kick zone — grip without waxing."],
+      ["Skiathlon", "A race split half classic, half skate, with a pit-stop ski change between."],
+      ["Loppet", "A citizens' mass-participation ski race — the sport's community heart."],
+      ["Bonk", "Running out of glycogen mid-race; prevention is pacing, feeding, and training."]
+    ],
+    "related": ["biathlon", "nordic-combined", "ski-jumping", "alpine-skiing"],
+    "crosslink": false
+  },
+  {
+    "slug": "freestyle-skiing",
+    "name": "Freestyle Skiing",
+    "category": "winter",
+    "glyph": "🎿",
+    "tagline": "Moguls, aerials, halfpipe, and big air — gymnastics with skis, judged to the tenth.",
+    "origin": "United States · 1960s",
+    "tags": ["Olympic", "Judged", "Acrobatic", "Winter"],
+    "overview": [
+      "Freestyle skiing is judged skiing: athletes perform runs or tricks that panels score for difficulty, execution, and style. Six Olympic disciplines share the tent — moguls, aerials, halfpipe, slopestyle, big air, and the racing offshoot ski cross — each with its own course, judging scale, and subculture.",
+      "The sport grew from 1960s American hot dogging into a global progression machine, with the X Games as its laboratory and the Olympics as its crown. Trampoline-first training means twelve-year-olds learn triple flips before they drive, and stars like Eileen Gu turn finals into mainstream television.",
+      "Newcomers should know the progression ladder: trampoline, water ramp, airbag, then snow. Air sense is trainable, fear is managed with repetition, and a mogul field is still the best teacher of balance the mountains offer."
+    ],
+    "facts": [
+      ["Governing body", "FIS runs the Olympic disciplines and World Cup; rider-led events like the X Games shape style and progression"],
+      ["Disciplines", "Moguls, aerials, halfpipe, slopestyle, big air, and ski cross"],
+      ["Olympic status", "Moguls since 1992, aerials since 1994, ski cross 2010, halfpipe and slopestyle 2014, big air 2022"],
+      ["Judging", "Moguls score turns 60 percent, air 20 percent, speed 20 percent; halfpipe and slopestyle runs are judged to 100 points"],
+      ["Course specs", "Mogul courses run 235-270 m with two jump lines; aerial landings sit on a hill steepened to about 37 degrees"],
+      ["Halfpipe", "Olympic superpipes stand 6.7 m (22 ft) from floor to lip"],
+      ["First world championship", "Tignes, France, 1986"]
+    ],
+    "history": [
+      ["1960s-1970s", "Hot doggers flip and spread-eagle down California and Vermont slopes; mogul competitions and early aerial shows organize into a scene."],
+      ["1979", "FIS recognizes freestyle and imposes equipment and safety rules — competitive hot dogging becomes a regulated sport."],
+      ["1986", "The first FIS Freestyle World Ski Championships at Tignes, France."],
+      ["1992-1994", "Moguls debuts at Albertville with France's Edgar Grospiron winning the first gold; aerials follows at Lillehammer 1994."],
+      ["1997", "The first Winter X Games anoint halfpipe and big-air culture as mainstream spectacle."],
+      ["2014-2022", "Slopestyle and halfpipe join the Olympics at Sochi; Eileen Gu's two golds and a silver at Beijing 2022 seal the superstar era."]
+    ],
+    "formats": [
+      ["Moguls and dual moguls", "A steep bumped course with two jumps; duals run head-to-head on parallel lines."],
+      ["Aerials", "Flips and twists off a kicker onto a 37-degree landing hill, scored by form times degree of difficulty."],
+      ["Halfpipe", "A 6.7 m superpipe; amplitude, rotation, grabs, and flow judged out of 100."],
+      ["Slopestyle", "One run chaining rails, boxes, and jumps into a single judged descent."],
+      ["Big air", "One enormous jump, three attempts, best two scored — the purest trick contest."],
+      ["Ski cross", "Four skiers race a course of rollers, banks, and gaps at once — freestyle's only pure race."]
+    ],
+    "skills": [
+      ["Mogul absorption", "Flexing the legs to swallow each bump while the torso stays quiet — speed survives only through quiet upper bodies.", "Ten runs on a gentle mogul field focused only on still hands and head; add speed only when the line stays straight."],
+      ["Air sense", "Knowing which way you are spinning mid-air and what the ground is doing — the skill under every trick.", "Trampoline work three times weekly: straight bounces, then half and full twists, 200 touches a session."],
+      ["Takeoff and landing", "Even pops off the lip, knees up in the air, hips under the feet on landing.", "Water-ramp and airbag progressions: straight airs, then layouts, then twists — twenty clean landings before each step."],
+      ["Grabs", "Hands on the skis mid-rotation — mute, tail, Japan — the style points that separate clean runs from rotations alone.", "Grab every jump from the smallest onward; hold each grab a full second before releasing."],
+      ["Spins", "Rotations from 360 to 1440, frontside and backside, on-axis and corked.", "Count rotations on the trampoline; take each new increment to the airbag before the mountain."],
+      ["Rail riding", "Sliding boxes and rails balanced over the skis — commitment and low speed to start.", "Flat boxes first, one rail session weekly all winter, eyes at the end of the feature."],
+      ["Run composition", "Building a scored run: amplitude, variety, difficulty, and landings arranged to maximize the rubric.", "Study judging sheets with a coach; design and film mock runs, then rebuild them from the scores."]
+    ],
+    "rules": [
+      "Moguls are scored out of 100: turns 60 percent from a five-judge panel, aerial maneuvers 20 percent from two judges, speed 20 percent against a pace time.",
+      "Aerials multiply a form score by each jump's degree of difficulty, so a harder trick done worse can lose to a simple one done perfectly.",
+      "Halfpipe, slopestyle, and big air runs are judged to 100 points for difficulty, amplitude, variety, execution, and progression.",
+      "Big air counts an athlete's best two of three jumps, rewarding consistency alongside difficulty.",
+      "Helmets are mandatory in all FIS freestyle competition; landing zones are stepped, netted, and padded.",
+      "Dual moguls run head-to-head on parallel courses; the higher-scoring skier advances through a bracket."
+    ],
+    "equipment": [
+      ["Twin-tip skis", "Upturned tails for switch landings — the park and pipe workhorse. $400-900."],
+      ["Mogul skis", "Shorter and softly flexing for absorption. $400-800."],
+      ["Boots", "Softer flex than alpine racing for control on landings and rails. $300-700."],
+      ["Helmet and mouthguard", "Mandatory in competition; full coverage saves more careers than it costs. $100-300."],
+      ["Impact gear", "Padded shorts and hip protection for rail weeks and hard learning days. $40-120."],
+      ["Trampoline", "The off-season classroom — a home trampoline is the sport's best value purchase. $300-800."]
+    ],
+    "training": [
+      "Trampoline before everything: three sessions a week builds rotation sense that transfers directly to snow.",
+      "Summer camps move tricks from trampoline to water ramp to airbag; land twenty clean repetitions before taking anything to a real landing hill.",
+      "Power over endurance: single-leg squats, hip hinges, and plyometrics for landings that load five or more times body weight.",
+      "Ski moguls weekly regardless of discipline — bumps teach absorption that jumps never will.",
+      "Visualize full runs daily; judged sports are won in rehearsal as much as repetition."
+    ],
+    "pathway": [
+      ["Resort park programs", "Intro park camps and small features — the entry for most kids between 6 and 12."],
+      ["Club and academy teams", "Mogul pipelines or park-and-pipe squads with trampoline, water ramps, and coach-led progression."],
+      ["Regional series", "NorAm, Europa Cup, and Revolution Tour events — first FIS points and rankings."],
+      ["World Cup", "Annual circuits per discipline, from the season opener in Ruka to the March finals."],
+      ["X Games and Olympics", "Invitation and qualification via rankings; the top of a very public pyramid."]
+    ],
+    "events": [
+      ["Winter Olympics", "Six freestyle disciplines on the program since Beijing 2022."],
+      ["FIS Freestyle Ski World Championships", "Every odd-numbered year across all disciplines."],
+      ["FIS World Cup", "Annual per-discipline circuits; moguls open each season at Ruka, Finland."],
+      ["X Games", "Aspen each January since 1997 — the culture's proving ground for new tricks."],
+      ["FIS Junior World Championships", "The U20 pipeline for aerialists and mogul skiers."]
+    ],
+    "legends": [
+      ["Alexandre Bilodeau", "Canada — first Canadian to win Olympic gold on home soil (moguls, Vancouver 2010), then defended it at Sochi 2014."],
+      ["Mikael Kingsbury", "Canada — the most decorated mogul skier ever, with PyeongChang 2018 gold and a record shelf of World Cup wins."],
+      ["Eileen Gu", "China — born in the United States, competing for China; two golds and a silver at Beijing 2022 at age 18."],
+      ["Sarah Burke", "Canada — four-time X Games halfpipe champion whose campaigning put superpipe skiing on the Olympic program; died training in 2012."],
+      ["Jonny Moseley", "United States — 1998 Olympic moguls gold landed with a 360 mute grab; freestyle's showman."]
+    ],
+    "getting_started": [
+      "Start in a beginner park: mini jumps and flat boxes at low speed, one feature at a time.",
+      "Book trampoline sessions — most ski academies run them year-round and they are the fastest route to air sense.",
+      "Ski moguls every week; absorption learned there shows up in every landing you will ever make.",
+      "Wear a helmet always, and impact shorts through the rail-learning phase.",
+      "Film every trick and review it the same day — progression in judged sports is video-driven now.",
+      "Find a club or academy program once the jumps outgrow the lesson format; coaching is the difference between progression and injury."
+    ],
+    "glossary": [
+      ["Moguls", "A course of snow bumps skied with rhythm, two jumps, and judged turns."],
+      ["Aerials", "Flips and twists off a kicker onto a steep landing hill, scored by form and difficulty."],
+      ["Halfpipe", "A U-shaped snow channel; height, rotation, and grabs are judged on each wall."],
+      ["Slopestyle", "A judged run through rails and jumps combining the park's whole vocabulary."],
+      ["Big air", "One giant jump, best two of three scored — trick-taking at maximum size."],
+      ["Cork", "An off-axis rotation where the head drops below the hips mid-spin."],
+      ["Rodeo", "An off-axis flip-rotation hybrid, tumbling backward through the spin."],
+      ["Grab", "Holding a ski mid-air — the style marker judges reward."],
+      ["Jib", "Sliding or playing on any feature: rails, boxes, walls, bonnets."],
+      ["Stomp", "Landing a trick cleanly, directly on the feet — the word every edit wants."]
+    ],
+    "related": ["alpine-skiing", "snowboarding", "ski-jumping", "skateboarding"],
+    "crosslink": false
+  },
+  {
+    "slug": "ski-jumping",
+    "name": "Ski Jumping",
+    "category": "winter",
+    "glyph": "🛫",
+    "tagline": "Two hundred meters of human flight — aerodynamics, courage, and style points over Planica.",
+    "origin": "Norway · 1860s",
+    "tags": ["Olympic", "Nordic", "Flying", "Winter"],
+    "overview": [
+      "Ski jumping sends athletes down an inrun at up to 100 km/h, off a takeoff table, and into a flight of 100 to 250 meters, scored for distance and style. The landing is a telemark — one leg forward, deep bend — and five judges grade the whole sequence from takeoff to outrun.",
+      "Norway invented it; Poland, Austria, and Germany worship it. The Four-Hills Tournament packs stadiums through the New Year, and Planica's flying hill is a March pilgrimage. No sport merges physics and nerve so nakedly — a jump is a wind tunnel reading made human.",
+      "Newcomers should know that everything is measured: ski length is capped at 145 percent of body height, inrun gates adjust for weight and wind, and juniors start on 10-to-30-meter hills inside clubs that lend the gear. Courage matters; geometry matters more."
+    ],
+    "facts": [
+      ["Governing body", "FIS, which has governed ski jumping since its 1924 founding"],
+      ["Hill sizes", "Normal hills HS106-109, large hills HS134-140, ski flying hills HS200-240"],
+      ["Distances", "Jumps of 90-140 m on Olympic hills; flying-hill records have passed 250 m at Vikersund and Planica"],
+      ["Scoring", "Distance points plus style points from five judges, with wind and gate compensation equalizing conditions"],
+      ["Olympic status", "Men's events since Chamonix 1924; women's since Sochi 2014; mixed team since Beijing 2022"],
+      ["Ski rule", "Ski length capped at 145 percent of body height, with weight-based adjustments to inrun gates"],
+      ["First world championship", "Inside the FIS Nordic championships since 1925; dedicated ski-flying world titles since 1972"]
+    ],
+    "history": [
+      ["1808", "Danish-Norwegian officer Olaf Rye launches himself 9.5 m as a military demonstration — the first recorded ski jump."],
+      ["1861-1892", "Organized competitions spread from Trysil and Morgedal; the first Holmenkollen festival in 1892 makes jumping Norway's winter showpiece."],
+      ["1936", "Josef Bradl becomes the first jumper past 100 m, at Planica."],
+      ["1953", "The Four-Hills Tournament begins its German-Austrian tour of Oberstdorf, Garmisch-Partenkirchen, Innsbruck, and Bischofshofen — jumping's annual Super Bowl."],
+      ["1985", "Sweden's Jan Boklöv popularizes the aerodynamic V-style, worth meters over the old parallel position, and it soon becomes universal."],
+      ["1994", "Finland's Toni Nieminen breaks the 200 m barrier at Planica."],
+      ["2014", "Women jump at the Olympics for the first time at Sochi, a decade after the first women's World Cup season of 2011-12."]
+    ],
+    "formats": [
+      ["Normal hill individual", "Two competition rounds from the HS106-109 hill, cut to the top 50 after round one."],
+      ["Large hill individual", "The same format on HS134-140, where distances push past 140 m and flight time stretches beyond four seconds."],
+      ["Team events", "Four jumpers per nation over two rounds; men's and mixed-team titles at the Olympics."],
+      ["Ski flying", "On HS200-240 hills only, with flatter takeoffs, longer flights, and its own world championships since 1972."],
+      ["Summer jumping", "Plastic and ceramic inruns keep the circuit alive June through October, with a summer Grand Prix."]
+    ],
+    "skills": [
+      ["Inrun crouch", "A still, aerodynamic crouch on the bars — any wobble in the last meters costs distance.", "Video every inrun; dryland holds of a 60-second static crouch build the stillness."],
+      ["Takeoff timing", "The single explosive extension off the table, timed to the final meter — the most-trained movement in the sport.", "Box jumps onto mats simulate the table; fifty coached repetitions per session, rhythm counted aloud."],
+      ["Flight position", "Body stretched flat over skis held in a V, arms locked — the shape that turns height into glide.", "Wind-tunnel camps for national teams; at club level, glide drills on small hills and constant video."],
+      ["Telemark landing", "One leg forward, deep bend, arms quiet — style points and knee protection in one motion.", "Landing reps from small hills, scored 0-20 exactly as judges would; the outrun must follow calm."],
+      ["Wind reading", "Headwind lifts, tailwind drops; the flags, the anemometers, and the gate board tell the story before the bar opens.", "Study live gate changes on broadcasts; keep a notebook pairing readings with distances."],
+      ["Weight management", "Weight sits inside the equipment rules: dropping below the norm shrinks your skis and your inrun gate.", "Team nutritionists set targets; strength work preserves lean mass and health inside the limits."],
+      ["Composure", "The bar drops onto a 100-meter drop with 30,000 watching; adrenaline must become stillness.", "Breathing routines and full-run visualization before every single jump, training included."]
+    ],
+    "rules": [
+      "Score is distance plus style: the K-point is worth 60 points, each meter beyond adds 2.0 points on normal hills and 1.8 on large hills, with subtraction for short jumps.",
+      "Five style judges mark takeoff, flight, and landing out of 20 each; the highest and lowest marks are dropped.",
+      "Wind and start-gate compensation add or subtract points, so a headwind jump is not punished and a tailwind jump is not gifted.",
+      "Suits must pass strict permeability and size checks — fabric that catches air is banned because it can both add meters and kill.",
+      "Ski length follows a 145 percent body-height cap with BMI-based adjustments, a rule designed to end dangerous weight loss.",
+      "A jump counts only if the landing is ridden to the outrun; falls bring heavy style deductions and can void the result."
+    ],
+    "equipment": [
+      ["Jumping skis", "Wide, long, and regulated — 145 percent of body height at most. $600-1,200."],
+      ["Suit", "A snug, permeability-tested one-piece that must pass FIS checks. $300-700."],
+      ["Helmet", "Aerodynamic, fitted, mandatory. $150-400."],
+      ["Goggles", "Low-profile, tuned for inrun glare and landing light. $50-150."],
+      ["Boots", "Rear-flexing jumping boots that let the ankle load the takeoff. $200-500."],
+      ["Glide wax", "Special low-friction waxes matched to snow and temperature — teams guard their formulas."]
+    ],
+    "training": [
+      "Dryland is the year's bulk: trampoline, imitated jumps onto mats, sprints, and mobility — snow time is precious and rationed.",
+      "Explosive power for one second of takeoff: hurdle hops, box jumps, and jump squats.",
+      "General strength and core hold the flight shape; flexibility protects hips and hamstrings in the flat position.",
+      "Hill progression is coach-gated: K10 to K40 for juniors, plastic hills in summer, big hills only on clearance.",
+      "Mental training is formal: visualization, routines, and debriefs after every session — courage is organized here."
+    ],
+    "pathway": [
+      ["Club small hills", "Children start at 6-9 on K10-K30 plastic or snow hills; clubs lend skis and suits."],
+      ["Regional and national junior series", "Age-class competitions and national junior championships through the teens."],
+      ["FIS Cup and Continental Cup", "The international proving circuit below the World Cup."],
+      ["World Cup", "A winter of roughly 30 events across Europe, plus the Four-Hills Tournament."],
+      ["Ski flying elite", "Vikersund and Planica are reserved for the ranking's top jumpers — the sport's final frontier."]
+    ],
+    "events": [
+      ["Four-Hills Tournament", "Oberstdorf, Garmisch-Partenkirchen, Innsbruck, Bischofshofen around New Year, since 1953 — the sport's loudest fortnight."],
+      ["FIS Ski Flying World Championships", "Every two years since 1972, on hills of HS200 and beyond."],
+      ["Winter Olympics", "On the program since the first Winter Games in 1924."],
+      ["Nordic World Ski Championships", "Every odd-numbered year, sharing the bill with cross-country and nordic combined."],
+      ["World Cup season", "November to March across Europe, ending with the Planica flying finals each March."]
+    ],
+    "legends": [
+      ["Matti Nykänen", "Finland — four Olympic golds across 1984 and 1988; the most naturally gifted jumper ever, and the sport's wildest personality."],
+      ["Jens Weißflog", "Germany — Olympic champion in 1984 and again in 1994; a career that bridged two political eras of the sport."],
+      ["Adam Małysz", "Poland — three consecutive overall World Cup titles from 2001 to 2003; the jumper who made Poland a ski-jumping superpower."],
+      ["Kamil Stoch", "Poland — Olympic champion at Sochi 2014 and PyeongChang 2018 with multiple Four-Hills victories."],
+      ["Maren Lundby", "Norway — PyeongChang 2018 Olympic champion and the first dominant overall champion of the women's World Cup era."]
+    ],
+    "getting_started": [
+      "Find a club with a plastic or ceramic summer hill — most Nordic and Alpine valleys have one, and kids start on 10-20 m jumps.",
+      "Expect to borrow first: clubs lend starter skis, suits, and helmets; the barrier is courage, not cash.",
+      "Take trampoline classes — takeoff timing transfers directly from mat to table.",
+      "Follow the coach-gated progression through hill sizes; nobody jumps a bigger hill uninvited.",
+      "Watch Four-Hills broadcasts with the inrun camera on — it teaches flight position better than any diagram.",
+      "Build a gymnast's profile: legs, core, and mobility transfer better than size."
+    ],
+    "glossary": [
+      ["Inrun", "The ramped start chute where jumpers accelerate to 90-100 km/h before the table."],
+      ["Takeoff table", "The curved lip at the inrun's end — the launch point where the jump begins."],
+      ["K-point", "The hill's calibration point, worth 60 points; distance is measured from it."],
+      ["Hill size (HS)", "The official size measure of a jumping hill, from HS106 normal hills to HS240 flying hills."],
+      ["Telemark", "The required landing: one leg forward, deep bend, arms out — style points live here."],
+      ["Outrun", "The flat run-out after landing where the jump slows to a stop."],
+      ["V-style", "Skis held in a V during flight, the aerodynamic standard since the late 1980s."],
+      ["Ski flying", "Competition on HS200-plus hills, a discipline of its own since 1972."],
+      ["Start gate", "The adjustable bar on the inrun — higher gates mean more speed, and the jury sets it for safety."],
+      ["Wind compensation", "Points added or subtracted for headwind and tailwind so jumps stay comparable."]
+    ],
+    "related": ["nordic-combined", "cross-country-skiing", "freestyle-skiing", "alpine-skiing"],
+    "crosslink": false
+  },
+  {
+    "slug": "nordic-combined",
+    "name": "Nordic Combined",
+    "category": "winter",
+    "glyph": "🎿",
+    "tagline": "Jump in the morning, race 10 kilometers in the afternoon — winter's two-event test.",
+    "origin": "Norway · 1892",
+    "tags": ["Nordic", "Olympic", "Two disciplines", "Endurance"],
+    "overview": [
+      "Nordic combined asks one athlete to be two specialists: a ski jumper and a cross-country racer. The jumping result sets the start order — the Gundersen method converts jump points into seconds — and the 10 km race that follows is a literal chase, first across the line wins.",
+      "Norwegians call it kongsgrenen, the king's discipline, and it headlined the first Winter Olympics in 1924. Its drama is built in: a perfect jump buys a head start, one wobble hands the peloton a weapon, and the finish is the most legible in Nordic sport.",
+      "Newcomers should know both parents matter: kids who run and jump early adapt best, and clubs that offer hill and track together are the entry point. The women's World Cup, running since 2020, is still fighting for the Olympic place the men's program has held for a century."
+    ],
+    "facts": [
+      ["The formula", "Ski jumping points convert to start seconds — one point equals four seconds in the individual Gundersen format"],
+      ["Standard format", "One competition jump from the normal or large hill, then a 10 km cross-country pursuit"],
+      ["Governing body", "FIS — nordic combined has sat under the federation since its 1924 founding"],
+      ["Olympic status", "On the program since Chamonix 1924; team events since 1988; no women's Olympic events yet"],
+      ["Physiology", "The sport demands both jump power and a 90-plus VO2max — a rare physiological double"],
+      ["First world championship", "1925 at Johannisbad, part of the Nordic world championships ever since"],
+      ["Global reach", "Strongest in Norway, Germany, Austria, Finland, Japan, and France"]
+    ],
+    "history": [
+      ["1800s", "Norwegian village meets and military drills jump and race on the same day — the combination is the original test of a complete skier."],
+      ["1892", "The first Holmenkollen festival crowns a combined champion three decades before the Winter Olympics exist."],
+      ["1924", "Nordic combined headlines the first Winter Olympics at Chamonix."],
+      ["1985-1988", "Gunder Gundersen's pursuit format — jumping points as start seconds — is adopted at the world championships and then the Calgary Olympics, replacing point totals with a visible chase."],
+      ["2010s", "Germany's Eric Frenzel and Johannes Rydzek lead a golden generation as the compact one-jump-plus-10-km format becomes standard."],
+      ["2020", "The first women's World Cup season launches at Ramsau in December 2020 — the long road to Olympic inclusion begins in earnest."]
+    ],
+    "formats": [
+      ["Individual Gundersen", "One jump, then 10 km of skating cross-country from converted start times — the World Cup staple."],
+      ["Two-jump individual", "Two jumps from the hill and 10 km of racing, used at some world championships."],
+      ["Mass start", "A 10 km mass-start race first, jumping afterward; results convert to points."],
+      ["Team relay (4x5 km)", "Four jumpers whose points set one team start, then four 5 km legs at the Olympics and championships."],
+      ["Team sprint", "Two athletes pool their jump points and split the cross-country legs."]
+    ],
+    "skills": [
+      ["Takeoff timing", "The same explosive table jump the specialists train — one second that buys or costs 20 meters.", "Mat-jump drills from boxes, fifty repetitions per session with a coach counting the rhythm."],
+      ["Glide composure", "Holding the aerodynamic V while the ground falls away — a jumper's panic lives in the first second of flight.", "Summer plastic-hill volume: hundreds of small jumps build the glide reflex one meter at a time."],
+      ["Skate technique", "The cross-country leg is skated at full racing speed, on the same gear the distance specialists use.", "Rollerski intervals twice weekly; four by four minute VO2max pieces on rolling terrain."],
+      ["The transition", "From outrun to race start in about an hour: helmet off, legs switched on, adrenaline repurposed.", "Train the switch deliberately — jump in the morning, race a hard 3 km piece an hour later, weekly."],
+      ["Chase pacing", "Starting 30-90 seconds back means racing a clock you cannot see, alone at the front of your own race.", "Time-trial 10 km pieces against split targets; learn your exact per-kilometer threshold pace."],
+      ["Downhill courage", "Descents at 60 km/h on thin skis, minutes after 100 meters of flight — composure must be rationed.", "Ski every training descent aggressively; practice tucks immediately after hard climbs."],
+      ["Nerves under deficit", "A bad jump hands you a chase that feels hopeless; the sport rewards those who race it anyway.", "Set process goals like split times instead of place goals; rehearse comeback races in training series."]
+    ],
+    "rules": [
+      "Jump points convert to start seconds at one point equals four seconds in individual Gundersen racing.",
+      "The track decides everything after the start: the first racer across the 10 km finish line wins, with no post-race points arithmetic.",
+      "Jumping is judged as in ski jumping — distance from the K-point plus five style judges, high and low marks dropped.",
+      "The cross-country leg uses free skate technique, usually over two 5 km laps of a closed course.",
+      "In the Olympic team event, four athletes' jump points merge into one team start for a 4x5 km relay.",
+      "Athletes carry two full setups: jumping skis governed by the 145 percent rule on the hill, skating skis on the track — service crews wax both."
+    ],
+    "equipment": [
+      ["Jumping skis", "Regulated to 145 percent of body height, tuned per hill. $600-1,200."],
+      ["Skate skis", "Race-grade skating pairs, waxed for glide. $400-900."],
+      ["Skate boots and poles", "Boots $250-500, carbon poles sized to the chin $150-400."],
+      ["Jumping suit", "Permeability-tested one-piece for the hill. $300-700."],
+      ["Racing suit", "A skating skinsuit for the track, plus warmups for the outrun-to-start window. $150-400."],
+      ["Rollerskis", "The summer cross-country tool. $200-450."]
+    ],
+    "training": [
+      "Split days build both engines: jump or imitate in the morning, endurance in the afternoon — the classic combined double.",
+      "Endurance volume of 500-600 hours a year with weekly threshold and VO2max blocks.",
+      "Explosive strength for the takeoff: hurdle hops, box jumps, heavy squats — power, not size.",
+      "Summer plastic-hill camps and winter hill sessions keep jumping volume alive without snow dependence.",
+      "Recovery is part of the job: two technical sports means sleep, food, and load management are coached, not optional."
+    ],
+    "pathway": [
+      ["Club juniors", "Kids learn cross-country and small-hill jumping together from about age 8 — the sport's ideal entry."],
+      ["National junior ranks", "Junior championships and Junior World Championships through the teens."],
+      ["Continental Cup", "The international development circuit below the World Cup."],
+      ["World Cup", "The annual circuit of Gundersen races across the Nordic heartlands."],
+      ["Olympics and worlds", "Individual and team titles on the sport's biggest stages."]
+    ],
+    "events": [
+      ["Winter Olympics", "On the program since the first Games in 1924; individual and 4x5 km team events."],
+      ["FIS Nordic World Ski Championships", "Every odd-numbered year alongside jumping and cross-country."],
+      ["World Cup", "The annual circuit since 1984, running November to March."],
+      ["Holmenkollen", "Oslo's March festival — the combined finale in front of a hillside crowd."],
+      ["Lahti Ski Games", "Finland's classic March meeting, a World Cup fixture since the circuit began."]
+    ],
+    "legends": [
+      ["Georg Thoma", "Germany — 1960 Olympic champion and a jumping specialist who redefined what combined athletes could do on the hill."],
+      ["Ulrich Wehling", "Germany — three consecutive Olympic titles from 1972 to 1980, a feat no other combined athlete has matched."],
+      ["Eric Frenzel", "Germany — three Olympic golds and six straight overall World Cup titles across the 2010s."],
+      ["Jarl Magnus Riiber", "Norway — the dominant jumper-racer of the late 2010s and early 2020s, with four straight overall titles and dozens of wins."],
+      ["Johannes Rydzek", "Germany — PyeongChang 2018 champion and multiple world titles; the tactician of Germany's golden generation."]
+    ],
+    "getting_started": [
+      "Join a club that offers both parents: cross-country tracks and small jumping hills under one program.",
+      "Prioritize the engine early — running, cycling, and skiing volume carries you further than early jumping heroics.",
+      "Expect two-session days once committed: hill or mats in the morning, rollerskis or runs in the afternoon.",
+      "Start with club loaner gear in both disciplines; the full four-ski quiver comes later.",
+      "Watch a Gundersen race live — the conversion board makes the chase format the most readable finish in Nordic sport.",
+      "Rollerski in summer, jump on mats year-round; the sport is built on repetition of two very different rhythms."
+    ],
+    "glossary": [
+      ["Gundersen method", "Converting jump points into start seconds so the cross-country race becomes a visible chase."],
+      ["Kongsgrenen", "Norwegian for the king's discipline — the sport's nickname at home."],
+      ["Pursuit start", "The staggered start order set by jumping results."],
+      ["K-point", "The hill's calibration distance, worth 60 jump points."],
+      ["Telemark", "The required one-leg-forward landing on the hill."],
+      ["Skate technique", "The free-technique skating style used for the cross-country leg."],
+      ["Double pole", "Both poles planting together — the combined racer's flat-terrain weapon."],
+      ["Start deficit", "The seconds owed after jumping; ten points down means forty seconds back."],
+      ["Plastic hill", "A summer jumping hill with brushed plastic or ceramic inrun surface for year-round jumping."],
+      ["Compact hill", "The modern one-jump-plus-10-km individual format."]
+    ],
+    "related": ["ski-jumping", "cross-country-skiing", "biathlon", "modern-pentathlon"],
+    "crosslink": false
+  },
+  {
+    "slug": "snowboarding",
+    "name": "Snowboarding",
+    "category": "winter",
+    "glyph": "🏂",
+    "tagline": "One board, four edges, and a halfpipe wall taller than a two-story house.",
+    "origin": "United States · 1965",
+    "tags": ["Olympic", "Board sports", "Judged", "Winter"],
+    "overview": [
+      "Snowboarding rides a single board with a sideways stance: halfpipe, slopestyle, and big air are judged for amplitude, difficulty, and style, while snowboard cross and parallel giant slalom race head to head. Every discipline begins from the same two tools — heel edge, toe edge — and one stance choice: regular or goofy.",
+      "The sport began as a toy and a rebellion — Sherman Poppen's 1965 Snurfer, Jake Burton Carpenter's Vermont garage — and reached the Olympics at Nagano in 1998. It changed winter sports culture permanently: baggy pants became committee rooms, video parts became resumes, and style became a scoring criterion rather than a bonus.",
+      "Newcomers should take one lesson and expect sore wrists: heel side, toe side, linked turns, then tiny park features. Regular or goofy is decided by which foot you lead with sliding across a smooth floor — and the wrong guess only costs a binding swap."
+    ],
+    "facts": [
+      ["Governing body", "FIS runs Olympic qualification and the World Cup; the X Games and rider-led events shape culture and progression"],
+      ["Disciplines", "Halfpipe, slopestyle, big air, snowboard cross, parallel giant slalom, and parallel slalom"],
+      ["Olympic status", "Debuted at Nagano 1998; big air added at PyeongChang 2018"],
+      ["Halfpipe specs", "Olympic superpipes stand 6.7 m (22 ft) from floor to lip"],
+      ["Stance", "Regular means left foot forward, goofy means right — the rider's first choice before any binding is mounted"],
+      ["First world championship", "The FIS Snowboard World Championships date to 1996"],
+      ["Global reach", "World Cup stops across North America, Europe, and Asia, with Japan and China now major medal powers"]
+    ],
+    "history": [
+      ["1965", "Sherman Poppen bolts two skis into the Snurfer for his daughters in Muskegon, Michigan — the toy that starts everything."],
+      ["1977", "Jake Burton Carpenter founds Burton Snowboards in Vermont; Tom Sims and others turn backyard prototypes into an industry."],
+      ["1980s", "Ski areas lift their bans one by one as national races and magazines build a scene from underground to mainstage."],
+      ["1998", "Snowboarding debuts at the Nagano Olympics; Canada's Ross Rebagliati wins the first gold, in giant slalom."],
+      ["2002-2014", "Halfpipe becomes the marquee through Shaun White's era, and slopestyle joins the Olympics at Sochi 2014."],
+      ["2018-2022", "Big air enters at PyeongChang; Ayumu Hirano's triple cork 1440 and Chloe Kim's back-to-back titles reset the ceiling at Beijing 2022."]
+    ],
+    "formats": [
+      ["Halfpipe", "A judged run wall to wall in a 6.7 m superpipe — amplitude, rotation, grabs, flow."],
+      ["Slopestyle", "Rails, boxes, and jumps chained into one judged descent."],
+      ["Big air", "One massive kicker, three jumps, best two scored."],
+      ["Snowboard cross", "Four to six riders race a course of rollers, berms, and features — contact included."],
+      ["Parallel giant slalom", "Head-to-head bracket racing on mirrored courses, decided by combined times."]
+    ],
+    "skills": [
+      ["Edge control", "Pressure and release on heel and toe edges — every turn, check, and landing starts here.", "Garland drills: ride one edge across the hill and release to flat, twenty repetitions per edge."],
+      ["Ollie and nollie", "Popping off the tail or nose without a lip — the foundation of all park riding.", "Ten ollies on every flat run; measure progress against your own bindings."],
+      ["Spins", "180 through 1080 and beyond, frontside and backside, switch included.", "Trampoline and airbag progressions; land each rotation ten times clean before sizing up."],
+      ["Grabs", "Method, melon, indy, stalefish — hands decide style scores as much as rotation does.", "Grab every jump from day one and hold each grab a full second before release."],
+      ["Pipe riding", "Reading the transition and pumping walls for amplitude — speed is generated, not just carried.", "Progress pipe sizes in order: 8-foot walls long before 22-foot superpipes; take a pipe-specific lesson early."],
+      ["Jibbing", "Boardslides and 50-50s on rails and boxes, balanced and unbothered.", "Flat boxes first at walking speed; eyes at the end of the feature, always."],
+      ["Boardercross tactics", "Pack racing over rollers and berms — line choice, drafting, and passing under contact.", "Race friends on a natural course; practice following tight for three features, then swinging outside to pass."]
+    ],
+    "rules": [
+      "Judged events — halfpipe, slopestyle, big air — score runs to 100 points for difficulty, variety, amplitude, execution, and progression.",
+      "Big air counts an athlete's best two of three jumps; consistency with difficulty wins, one-hit runs do not.",
+      "Snowboard cross runs four to six riders at once; racing contact is part of the sport, deliberate interference is a disqualification.",
+      "Parallel giant slalom races two riders on mirrored courses; the faster combined time advances the bracket.",
+      "Helmets are mandatory in FIS competition, and course inspection happens at low speed only, before racing.",
+      "Halfpipe and slopestyle finals usually trim the field — qualification decides who rides the last runs."
+    ],
+    "equipment": [
+      ["Snowboard", "All-mountain decks $300-600; park boards with durable bases and edges $250-500."],
+      ["Bindings", "Strap-ins for control, rear-entry for convenience. $100-300."],
+      ["Boots", "The most important purchase — fit beats flex graphics. $150-350."],
+      ["Helmet", "Certified, audio-ready, mandatory in competition. $80-200."],
+      ["Impact gear", "Impact shorts and wrist protection for the learning months — wrist injuries are the sport's beginner tax. $40-100."],
+      ["Goggles", "Lens tints for flat light and bluebird days. $60-200."]
+    ],
+    "training": [
+      "Skateboard and surf in the off-season — edge control and fear calibration transfer almost one-to-one.",
+      "Trampoline for spins, slackline for balance — the judged disciplines are won in the summer.",
+      "Strength for landings: unilateral leg work, hip hinges, and rotational core for spins and checks.",
+      "Interval conditioning matches pipe runs: 45-90 second all-out efforts, repeated with recovery.",
+      "Ride in good conditions — early-morning corduroy for carving, softened landings for new tricks; frustration and injury live in bad snow."
+    ],
+    "pathway": [
+      ["Resort lessons and park camps", "Beginner progression and first terrain-park features, typically ages 6-14."],
+      ["Club and academy programs", "Snowboard clubs and academies with trampoline, airbags, and coaching."],
+      ["Regional opens and FIS races", "US Open qualifiers, Revolution Tour, and Europa Cup events build rankings."],
+      ["World Cup circuit", "Annual FIS events across the disciplines, plus invite-only pro contests."],
+      ["X Games and Olympics", "The sport's two biggest stages, reached through rankings and selection."]
+    ],
+    "events": [
+      ["Winter Olympics", "Snowboarding's medal program since Nagano 1998; six disciplines by Beijing 2022."],
+      ["FIS Snowboard World Cup", "The annual circuit across halfpipe, slopestyle, big air, cross, and parallel racing."],
+      ["X Games", "Aspen each January since 1997 — where new tricks debut before the Olympics see them."],
+      ["Burton US Open", "Vail each March — halfpipe and slopestyle's longest-running classic, dating to 1982."],
+      ["FIS Snowboard World Championships", "Every two years across all disciplines."]
+    ],
+    "legends": [
+      ["Shaun White", "United States — three Olympic halfpipe titles (2006, 2010, 2018) and an X Games dynasty; the sport's first crossover superstar."],
+      ["Terje Håkonsen", "Norway — the purist's champion of the 1990s whose style set the template every judged run still follows."],
+      ["Kelly Clark", "United States — 2002 Olympic champion at 18 and the longest career at the top of women's halfpipe."],
+      ["Chloe Kim", "United States — back-to-back Olympic halfpipe titles (2018, 2022) and the first woman with back-to-back 1080s in competition."],
+      ["Jamie Anderson", "United States — slopestyle gold at both Sochi 2014 and PyeongChang 2018; the discipline's most decorated woman."]
+    ],
+    "getting_started": [
+      "Book a beginner lesson with rentals — $80-150 buys the fastest possible start.",
+      "Learn heel-side and toe-side sideslips, then the falling leaf, then linked turns; order matters more than talent.",
+      "Decide stance by sliding across a smooth floor — the leading foot is your front foot: left is regular, right is goofy.",
+      "Buy boots before a board; a fitted boot makes every other piece of gear better.",
+      "Protect wrists and hips during the first weeks — the learning curve is written in falls.",
+      "Learn park etiquette early: clear landings fast, never stop inside a feature, call your drop."
+    ],
+    "glossary": [
+      ["Regular", "Stance with the left foot forward."],
+      ["Goofy", "Stance with the right foot forward."],
+      ["Heel edge", "The board's heel-side edge; heelside turns brake and carve on it."],
+      ["Toe edge", "The toe-side edge; toe-side turns face uphill and feel inverted at first."],
+      ["Ollie", "A jump off the tail without a lip — the sport's foundational pop."],
+      ["Frontside", "A rotation direction where the rider's front side leads the spin."],
+      ["Backside", "The opposite rotation direction, back to the spin."],
+      ["Switch", "Riding and landing with the non-preferred foot forward — judges reward it heavily."],
+      ["Method air", "The classic halfpipe grab — back knee bent, board pulled high behind."],
+      ["Superpipe", "A halfpipe with 22-foot (6.7 m) walls, the Olympic standard."]
+    ],
+    "related": ["freestyle-skiing", "alpine-skiing", "skateboarding", "surfing", "bmx-freestyle"],
+    "crosslink": false
+  },
+  {
+    "slug": "biathlon",
+    "name": "Biathlon",
+    "category": "winter",
+    "glyph": "🎯",
+    "tagline": "Ski hard, then shoot straight — a race where one heartbeat costs a medal.",
+    "origin": "Norway · 1767",
+    "tags": ["Endurance", "Precision", "Olympic", "Nordic"],
+    "overview": [
+      "Biathlon alternates maximum-effort cross-country skiing with rifle marksmanship: race a loop, stop at the range, hit five targets from prone or standing, then race again. Every miss costs a 150 m penalty loop or, in individual races, a full minute — the sport's cruel arithmetic.",
+      "Born from Scandinavian military patrol skiing, it is now winter's television giant in Germany, Norway, and France, drawing six-figure on-site crowds at Oberhof and Antholz. The appeal is legible: the world's fittest skiers trying to hold a rifle still while their pulse exceeds 170.",
+      "Newcomers should know the range is where races are won and lost, that prone targets are 45 mm wide and standing targets 115 mm, and that the rifle rides the back the whole race. Start with a club that uses laser or air rifles — the ski fitness, not the gun, is the long project."
+    ],
+    "facts": [
+      ["The equation", "Ski as fast as possible, then slow the pulse enough to hit 45 mm (prone) or 115 mm (standing) targets at 50 m"],
+      ["Governing body", "IBU — International Biathlon Union, founded 1993 from the old pentathlon federation"],
+      ["Race formats", "Sprint, pursuit, individual, mass start, relays, and mixed relays"],
+      ["Penalties", "A miss means a 150 m penalty loop, about 20-25 seconds, or a one-minute penalty in individual races"],
+      ["Rifle", "Smallbore .22 long rifle, minimum 3.5 kg with harness, carried on the back throughout"],
+      ["Olympic status", "Men's biathlon since Squaw Valley 1960; women's since Albertville 1992"],
+      ["First world championship", "Saalfelden, Austria, 1958"]
+    ],
+    "history": [
+      ["1767", "Norwegian-Swedish border patrols hold the first recorded ski-and-shoot contest — the sport grows straight out of soldiering."],
+      ["1924", "Military patrol, biathlon's ancestor, is a medal event at the first Winter Olympics in Chamonix."],
+      ["1958", "The first modern World Championships at Saalfelden formalize the 20 km individual as the sport's core test."],
+      ["1960", "Biathlon joins the Olympic program at Squaw Valley, with the 20 km individual as the only race."],
+      ["1993", "The IBU is founded and rebuilds the sport for television — pursuits, mass starts, and relays turn penalties into visible drama."],
+      ["2002-2018", "Ole Einar Bjørndalen collects eight Olympic golds; Martin Fourcade answers with five and seven straight overall World Cup titles."]
+    ],
+    "formats": [
+      ["Sprint", "7.5 km women, 10 km men, two shooting stages (prone, standing); misses mean 150 m loops."],
+      ["Pursuit", "Start gaps copied from the sprint results, 10 km women, 12.5 km men, four stages — the chase format."],
+      ["Individual", "15 km women, 20 km men, four stages; each miss adds one minute instead of a loop."],
+      ["Mass start", "The season's top-ranked skiers together over 12.5 km women, 15 km men, with four shooting stages."],
+      ["Relays", "4x7.5 km per gender, plus mixed relay and single mixed relay — three spare rounds per stage, hand-loaded."]
+    ],
+    "skills": [
+      ["Prone shooting", "Flat on the ground, elbows anchored, sights steady on a 45 mm circle — the easier position with the smaller target.", "Dry-fire ten minutes daily at home; live practice twice weekly with a coach checking position geometry."],
+      ["Standing shooting", "Offhand stance, knees soft, rifle locked high on the shoulder — 115 mm targets that look tiny at 170 beats per minute.", "Train under load: twenty burpees, then five shots, repeated ten times — pulse control is the drill."],
+      ["Range transitions", "Arriving at race pace and leaving composed: ski in, breathe, five shots, ski out.", "Rehearse full-speed entries every session, timing from the 200 m board to the first shot."],
+      ["Pulse management", "The last 200 meters before the range decide the shot — back off five percent and breathe in rhythm.", "Interval sessions that end on the range; learn the personal pace that leaves your sight steady."],
+      ["Skating under load", "Racing with 3.5 kg on your back shifts balance and poling rhythm.", "Do one rollerski session weekly with the rifle on; change nothing else."],
+      ["Wind reading", "Range flags and mirage tell how far to hold off center.", "Deliberate wind sessions: aim upwind of the target and let the bullet drift — log every hold."],
+      ["Zeroing", "Sighting the rifle to the day's conditions before the start — a ritual, not a chore.", "Confirm zeros after warmup with the coach; keep a logbook of zero notes per venue and weather."]
+    ],
+    "rules": [
+      "Each shooting stage is five targets; every miss costs a 150 m penalty loop, except individual races where a miss adds one minute.",
+      "Targets sit 50 m away: 45 mm diameter prone, 115 mm standing.",
+      "Rifles are .22 caliber, minimum 3.5 kg, carried on a harness — athletes never leave them at the range.",
+      "Skis, boots, and poles follow FIS cross-country rules; skating technique is universal.",
+      "Relays allow three spare rounds per stage, hand-loaded one at a time after the five-shot magazine fails.",
+      "Safety is absolute: shooting happens only from the assigned mat, and mishandling a rifle means disqualification."
+    ],
+    "equipment": [
+      ["Biathlon rifle", "Smallbore .22 with harness, diopter sights, and custom stock — $2,500-6,000 at race level."],
+      ["Skate skis", "The same gear cross-country racers use, waxed for glide. $300-900."],
+      ["Poles and boots", "Carbon poles $150-400; skate boots $250-500."],
+      ["Training rifle", "Laser or air rifles for juniors and home dry-fire — $500-2,000."],
+      ["Ammunition", "Match-grade .22 rounds — precision costs about $10-20 per box of 50."],
+      ["Range kit", "Mats, spotting scopes, and a zeroing log — the club provides most of it."]
+    ],
+    "training": [
+      "The engine comes first: 500-700 hours a year of skiing, running, and rollerskiing, with weekly threshold and VO2max blocks.",
+      "Shooting is daily and small: dry-fire at home, limited perfect live rounds — sloppy volume builds sloppy habits.",
+      "Combined sessions are sacred: intervals that finish on the range train the sport's actual demand.",
+      "Strength for stability: anti-rotation core, upper back, and shoulder endurance hold the rifle still under fatigue.",
+      "Pressure practice with consequences — push-ups per miss is standard team currency — turns range nerves into routine."
+    ],
+    "pathway": [
+      ["Club youth biathlon", "Laser and air rifles for kids from about age 10, on foot and on skis."],
+      ["Regional and junior racing", "National junior series and IBU Youth and Junior World Championships."],
+      ["IBU Cup", "The second-tier international circuit — where shooting averages decide who moves up."],
+      ["World Cup", "The sport's winter league, December to March, at venues like Oberhof, Antholz, and Oslo."],
+      ["Olympics and worlds", "Medals decided by seconds and single targets."]
+    ],
+    "events": [
+      ["Winter Olympics", "Biathlon's five individual and three relay events per Games since 1960."],
+      ["IBU World Cup", "The annual circuit, December to March — Oberhof, Antholz, and Holmenkollen draw the biggest crowds."],
+      ["IBU World Championships", "Every year except Olympic years."],
+      ["IBU Youth and Junior World Championships", "The development pipeline for youth and junior shooters and skiers."],
+      ["IBU Cup", "The second-tier circuit feeding the World Cup week by week."]
+    ],
+    "legends": [
+      ["Ole Einar Bjørndalen", "Norway — eight Olympic golds and 13 total medals across six Games; Mr. Biathlon himself."],
+      ["Martin Fourcade", "France — five Olympic golds and seven straight overall World Cup titles from 2012 to 2018; the man who made biathlon prime-time television at home."],
+      ["Magdalena Neuner", "Germany — two Olympic titles at Vancouver 2010 and a record 12 world championship golds, retired at 25."],
+      ["Johannes Thingnes Bø", "Norway — multiple overall World Cup titles and the sport's deadliest standing stage in the 2020s."],
+      ["Darya Domracheva", "Belarus — three golds at Sochi 2014 alone; the most complete female shooter-skier of her era."]
+    ],
+    "getting_started": [
+      "Build skate-ski fitness first — biathlon spends most of its time on skis, and the range only rewards those who arrive composed.",
+      "Find a club with laser or air rifles — juniors learn positions before owning anything.",
+      "Learn prone with a coach before standing; position errors compound at 50 m.",
+      "Add race simulations early: ski a loop, shoot five, take your penalty loop, repeat.",
+      "Keep a range logbook from day one — zeros, wind holds, and pulse notes become your coaching staff.",
+      "Budget patience: a race rifle is a purchase for year three, not month one."
+    ],
+    "glossary": [
+      ["Prone", "Shooting lying flat — smaller 45 mm targets, steadier hold."],
+      ["Standing", "Offhand shooting — bigger 115 mm targets, a racing pulse."],
+      ["Penalty loop", "The 150 m lap skied per missed target outside individual races."],
+      ["Zeroing", "Sighting the rifle to the day's conditions before competition."],
+      ["Sighting shot", "Warm-up shots on the range before the start, separate from competition."],
+      ["Hold-off", "Aiming deliberately upwind of center so the bullet drifts onto the target."],
+      ["Clean stage", "Five hits in five shots — no penalties taken."],
+      ["Pursuit", "The chase race where start gaps copy the sprint's finishing times."],
+      ["Mass start", "The season's top skiers together over four shooting stages."],
+      ["Wind flag", "The range's visible wind gauge — flags read like instruments once you train."]
+    ],
+    "related": ["cross-country-skiing", "nordic-combined", "shooting-sport", "orienteering"],
+    "crosslink": false
+  },
+  {
+    "slug": "figure-skating",
+    "name": "Figure Skating",
+    "category": "winter",
+    "glyph": "⛸️",
+    "tagline": "Quads on four-millimeter blades — a winter sport scored like gymnastics, danced like ballet.",
+    "origin": "Netherlands · 1892",
+    "tags": ["Olympic", "Judged", "Artistic", "Winter"],
+    "overview": [
+      "Figure skating is judged skating on one edge at a time: singles, pairs, and ice dance programs combine jumps, spins, steps, and lifts, scored since 2004 by the International Judging System — a technical score per element plus program component scores for artistry. The six jump types carry their inventors' names, and the Axel remains the only one taking off forward.",
+      "It is the oldest winter federation sport — the ISU dates to 1892 — and its cultural reach runs from Sonja Henie's Hollywood to national obsession in Japan, Canada, and across Europe. One clean quad can flip a championship; one fall can erase one, which is why the free skate is sport's most reliable four minutes of live tension.",
+      "Newcomers should know edges come before everything: crossovers, turns, and one-foot glides are the alphabet, jumps are sentences. Group lessons cost less than a dinner out, and progress is measured in seasons — the waltz jump to a single Axel is a two-year journey that teaches falling as a skill."
+    ],
+    "facts": [
+      ["Governing body", "ISU — International Skating Union, founded 1892, the oldest international winter sports federation"],
+      ["Disciplines", "Men's and women's singles, pairs, ice dance, plus synchronized skating below the Olympics"],
+      ["Scoring", "International Judging System since 2004: technical element scores plus five program component scores"],
+      ["Jumps", "Six types — Axel, Lutz, flip, loop, Salchow, toe loop — with quadruple jumps now standard in men's events"],
+      ["Olympic status", "Judged at the 1908 London Games and at every Winter Olympics since 1924"],
+      ["Rink", "Competition ice measures 60 by 30 meters"],
+      ["First world championship", "1896 in Saint Petersburg — the ISU's first world title of any kind"]
+    ],
+    "history": [
+      ["1860s", "Jackson Haines fuses ballet and skating on tour in Europe; the international, dance-rooted style takes hold in Vienna."],
+      ["1892-1896", "The ISU is founded in the Netherlands and stages the first World Championships in Saint Petersburg in 1896."],
+      ["1908", "Figure skating appears at the London Summer Olympics — the first judged winter sport in Olympic history, years before Winter Games existed."],
+      ["1924-1961", "Chamonix 1924 opens the Winter Games era; Sonja Henie wins three straight titles, and in 1961 the entire United States team dies in the Sabena crash en route to the Prague worlds."],
+      ["1976", "Ice dance joins the Olympics at Innsbruck, completing the four-discipline program."],
+      ["2002-2004", "The Salt Lake City pairs scandal ends the 6.0 era; the International Judging System debuts in 2004 with per-element scoring."]
+    ],
+    "formats": [
+      ["Singles", "Short program of 2:40 with required elements, then a 4:00 free skate of open composition."],
+      ["Pairs", "Side-by-side jumps and spins plus overhead lifts, throw jumps, and twist lifts — strength choreographed."],
+      ["Ice dance", "Dance lifts and twizzles with no overt jumps; short dance plus free dance."],
+      ["Synchronized skating", "Sixteen skaters in formations — wheels, blocks, intersections — a world championship discipline since 2000."],
+      ["Show skating", "Touring shows and professional competitions keep retired champions on the ice — the sport's second stage."]
+    ],
+    "skills": [
+      ["Edges", "Deep, controlled one-foot leans — every jump, spin, and step grows from edge quality.", "Power pulls and edge presses, fifteen minutes every session, both feet, both directions, no exceptions."],
+      ["Jumps", "Six types from waltz to quadruple: Axel takes off forward, Lutz from an outside edge, flip from inside — edge errors are called loudly.", "Learn singles in order and land twenty consecutive clean singles before attempting doubles; harness work for new rotations."],
+      ["Spins", "Camel, sit, layback, and combination spins judged for speed, center, and positions.", "Hold each position a minimum of eight rotations; enter from steps, not from standstill."],
+      ["Twizzles", "Multi-rotation traveling turns on one foot — ice dance's signature, done in unison.", "Four sets of four twizzles down the rink daily; count aloud with your partner for sync."],
+      ["Step sequences", "Choreographed turns — brackets, counters, rockers, three-turns — linking end to end with rhythm.", "Drill one turn family per week on figure circles; edge and turn vocabulary is memorized like scales."],
+      ["Lifts", "Overhead lifts in pairs and traveling lifts in dance — strength plus trust at height.", "Progress only under a pairs coach with guarding; gym presses and carries build the base, never rushed on ice."],
+      ["Performance", "Program components score interpretation, musicality, and presence — expression is trainable.", "Run full programs weekly under simulated judging; video every run-through and mark performance like you mark jumps."]
+    ],
+    "rules": [
+      "Competition runs a short program of 2:40 with required elements and a free skate of 4:00 with composition freedom.",
+      "The International Judging System scores each element: a base value plus a grade of execution from -5 to +5 by the judging panel.",
+      "Program components score skating skills, transitions, performance, composition, and interpretation of music — artistry is quantified, not guessed.",
+      "Under-rotated jumps are downgraded a full revolution's value, and a Lutz taken from the wrong inside edge — a flutz — is flagged by the technical panel.",
+      "Each fall carries a one-point deduction, and repeated jump types beyond the allowed count forfeit their value.",
+      "Costume, music, and time limits are policed — violations cost deductions rather than goodwill."
+    ],
+    "equipment": [
+      ["Boots", "Stiff, heat-moldable boots fitted by a specialist — the sport's most personal purchase. $300-900."],
+      ["Blades", "Hollow-ground steel from makers like John Wilson and MK; competition pairs $200-600."],
+      ["Guards and soakers", "Blade guards for walking, absorbent soakers for storage — $15-30 that protect $500 blades."],
+      ["Costume", "Competition dresses and shirts range from $100 at club level to $1,500 bespoke."],
+      ["Ice time", "The real cost of the sport: sessions run $10-30, and training skaters buy them by the season."],
+      ["Spinner and jump mat", "Off-ice rotation tools for daily practice at home. $50-200."]
+    ],
+    "training": [
+      "On-ice volume defines the sport: senior skaters train twenty or more hours weekly, split between elements and full run-throughs.",
+      "Off-ice jumps and spinner work daily; ballet or dance class weekly builds the carriage judges score under performance.",
+      "Strength is specific: single-leg power and rotational core for jumps, shoulder stability for lifts and spins.",
+      "Monitor jump load carefully — landings multiply body weight, and stress fractures are the sport's known cost.",
+      "Sport psychology is standard at the top: judged sports need routines for programs nobody can redo."
+    ],
+    "pathway": [
+      ["Learn-to-skate", "Badge programs at any rink, any age — the universal front door."],
+      ["Club testing", "National test structures (moves in the field, freestyle, dance) grade progress beyond competitions."],
+      ["Competitive sectional", "Regional and sectional championships introduce the judged pipeline."],
+      ["National and junior international", "National championships and the Junior Grand Prix series."],
+      ["Grand Prix, worlds, Olympics", "The senior international circuit and its quadrennial summit."]
+    ],
+    "events": [
+      ["Winter Olympics", "Figure skating at every Winter Games since 1924, plus the team event since 2014."],
+      ["World Championships", "Annually since 1896 across singles, pairs, and dance."],
+      ["Grand Prix series", "Six autumn events — Skate America, Skate Canada and more — feeding a December final."],
+      ["European and Four Continents Championships", "The continental championships each January; Europe's dates to 1891."],
+      ["Junior Grand Prix", "The international development series for age-eligible juniors."]
+    ],
+    "legends": [
+      ["Sonja Henie", "Norway — three Olympic titles from 1928 to 1936 and ten straight world championships, then a Hollywood career that globalized the sport."],
+      ["Dick Button", "United States — back-to-back Olympic titles (1948, 1952) and the first double Axel and triple loop landed in competition; the sport's great television voice."],
+      ["Katarina Witt", "Germany — consecutive Olympic titles in 1984 and 1988, capped by the Battle of the Carmens in Calgary."],
+      ["Yuzuru Hanyu", "Japan — back-to-back Olympic titles (2014, 2018), the first man to repeat in 66 years, and the first ratified quadruple loop."],
+      ["Michelle Kwan", "United States — five world titles and nine national titles; the standard of consistency and artistry for a decade."]
+    ],
+    "getting_started": [
+      "Start with group lessons at a rink's learn-to-skate program — rental skis first, fitted boots once you are hooked.",
+      "Insist on edges: every lesson should include crossovers, one-foot glides, and turns, not only jumping.",
+      "Add off-ice work early: hip and hamstring flexibility, core strength, and a spinner for rotation.",
+      "Protect the ankles: lace boots properly, check blade sharpness, and walk only with guards on.",
+      "Watch skating analytically — pick one element per viewing and count under-rotations like the technical panel does.",
+      "Budget patience: a clean single Axel is a milestone that routinely takes a year of consistent practice."
+    ],
+    "glossary": [
+      ["Axel", "The only jump taking off from a forward edge — a half extra rotation that makes it the hardest."],
+      ["Lutz", "A toe jump from an outside back edge, named for Alois Lutz."],
+      ["Flutz", "A Lutz cheated from the wrong, inside edge — flagged by the technical panel."],
+      ["Salchow", "An edge jump from a back inside edge, named for Ulrich Salchow."],
+      ["Toe loop", "A toe pick jump from a back outside edge, often used in combinations."],
+      ["Twizzle", "A fast multi-rotation traveling turn on one foot — ice dance's signature."],
+      ["Layback", "A spin position with the back arched and free leg turned out, classic in women's skating."],
+      ["GOE", "Grade of execution — the -5 to +5 mark judges add to each element's base value."],
+      ["Program components", "The five artistry scores: skating skills, transitions, performance, composition, interpretation."],
+      ["Short program", "The 2:40 required-element program that seeds the free skate."]
+    ],
+    "related": ["speed-skating", "short-track-speed-skating", "dancesport", "artistic-gymnastics", "ice-hockey"],
+    "crosslink": false
+  },
+  {
+    "slug": "speed-skating",
+    "name": "Speed Skating (Long Track)",
+    "category": "winter",
+    "glyph": "⛸️",
+    "tagline": "Racing the clock around a 400-meter oval — 60 km/h sprints to 25 grinding laps.",
+    "origin": "Netherlands · 1892",
+    "tags": ["Endurance", "Olympic", "Racing", "Winter"],
+    "overview": [
+      "Speed skating races the clock around a 400 m two-lane oval: pairs start together, change lanes each lap to equalize the corners, and the fastest time wins regardless of who they drew. Distances run from the 500 m sprint to the 10,000 m, plus team pursuit, team sprint, and the pack-style mass start.",
+      "It is the Netherlands in ice form — canal skating turned national religion — and recent decades have been Dutch by acclamation: at Sochi 2014 the Dutch won 23 of 36 speed skating medals. Eric Heiden's five golds at Lake Placid 1980 remain the sport's single greatest Olympic fortnight.",
+      "Newcomers should know the sport is technique first: a low position, sideways pushes, and patient crossovers beat fitness alone. Most Olympic ovals run public club nights with loaner skates, and the time-trial culture means personal bests arrive early and keep coming."
+    ],
+    "facts": [
+      ["Governing body", "ISU, founded 1892 — speed skating was one of its two founding sports"],
+      ["Track", "Standard 400 m oval, two lanes, with a lane change at each lap's back straight"],
+      ["Distances", "500, 1000, 1500, 3000 (women), 5000, and 10,000 m, plus mass start and team events"],
+      ["Speeds", "Sprinters pass 60 km/h on the straights; the 10,000 m world record stands near 12:33"],
+      ["Olympic status", "Men's races since Chamonix 1924; women's since Squaw Valley 1960"],
+      ["Clap skate", "A hinged blade that extends the push, standard since the late 1990s and worth seconds per 1500 m"],
+      ["First world championship", "1889 in Amsterdam — the official world title predates the federation itself"]
+    ],
+    "history": [
+      ["1600s-1800s", "Canal transport becomes national pastime in the Netherlands; iron skates and ice festivals turn commuting into racing."],
+      ["1889", "Amsterdam stages the first official world championships over multiple distances."],
+      ["1892", "The ISU is founded at Scheveningen to standardize distances, rules, and records."],
+      ["1924-1960", "Speed skating headlines the first Winter Olympics; women join the medal program at Squaw Valley 1960."],
+      ["1996-1998", "The clap skate escapes the laboratory and sweeps the World Cup within two seasons; world records fall across the board."],
+      ["2014", "At Sochi the Netherlands wins 23 of 36 speed skating medals — depth no nation has approached before or since."]
+    ],
+    "formats": [
+      ["Single distances", "The Olympic core: one race, one medal, from 500 m sprints to the 10,000 m."],
+      ["Sprint and allround championships", "Two-day combined titles — sprinters race two 500s and two 1000s; allrounders race four distances under the Samalog point system."],
+      ["Team pursuit", "Three skaters ride formation for eight laps, six for women — the team time trial of ice."],
+      ["Team sprint", "Three skaters each lead one lap in sequence."],
+      ["Mass start", "Sixteen laps of pack racing with intermediate sprints — Olympic since 2018."]
+    ],
+    "skills": [
+      ["The position", "Hips low, back flat, hands behind — the racing stance is the sport's grammar and its gym.", "Wall sits and isometric holds, three by 90 seconds daily; position endurance fails before legs do."],
+      ["The push", "Skating is pushing sideways from the hip through the full blade — not stepping.", "Slide-board sessions twice weekly, three by ten minutes of slow, full-extension side pushes."],
+      ["Crossunders", "Fully crossing one leg over the other through every corner — free speed on the bends.", "Twenty minutes of corner work every ice session; count crossovers per corner and never coast."],
+      ["Starts", "A running start into long, powerful strokes — the 500 m is decided in the first 100 m.", "Twenty starts per session with first-100 m splits tracked weekly."],
+      ["Aerodynamics", "Hooded skinsuits, a flat back, and motionless hands — drag decides more than power at speed.", "Film from the front to catch wobble; elites add wind-tunnel testing before big seasons."],
+      ["Drafting in team racing", "In pursuits and mass starts the lead skater breaks the wind — rotating well is a skill.", "Practice formation changes with a partner every session: four laps leading, four laps following."],
+      ["Pacing the 10,000", "Twenty-five laps inside a half-second band per lap — the discipline of not panicking early.", "Long threshold intervals, three by twelve minutes, with per-lap targets set in advance."]
+    ],
+    "rules": [
+      "Pairs race the clock, not each other — the fastest time across all pairs wins the distance.",
+      "Skaters change lanes every lap at the crossing in the back straight; interference there can bring a re-skate or disqualification.",
+      "False starts are charged to the pair; repeat offenders are disqualified.",
+      "In pairs there is no drafting and no pacing help — each duo races alone.",
+      "The mass start packs up to 24 skaters over 16 laps with three intermediate sprints worth points.",
+      "Timing runs to hundredths of a second, and a fall does not end a race — get up and finish the distance."
+    ],
+    "equipment": [
+      ["Skates", "Clap-skate boots with hinged blades — $400-1,200 for a competitive setup."],
+      ["Blades", "Straight tube steel, sharpened by hand on a jig. $300-800."],
+      ["Skinsuit", "Hooded, seam-managed aerodynamics. $150-500."],
+      ["Sharpening jig", "The daily ritual — edges are checked before every session. $100-300."],
+      ["Glasses", "Aero lenses for wind and ice spray. $40-150."],
+      ["Slide board", "The off-ice technique classroom. $100-400."]
+    ],
+    "training": [
+      "Aerobic volume is the base: 500-800 hours a year across cycling, running, and skating — the 10,000 m is an endurance race in tights.",
+      "Position strength: heavy squats and isometric holds in the racing position — the deep knee bend is the sport's gym signature.",
+      "Sprint work for the short distances: six to ten second maximum efforts and slide-board sprints build alactic power.",
+      "Hip mobility and adductor strength prevent the sport's classic overuse strains across the groin and hips.",
+      "Ice time is structured: technique drills first, intervals second — and every session ends with corners."
+    ],
+    "pathway": [
+      ["Learn-to-skate and club nights", "Public sessions at ovals with loaner skates — most national champions started here."],
+      ["Age-class racing", "Regional meets and national junior championships, racing the clock from the start."],
+      ["Junior internationals", "World Junior Championships and development squads."],
+      ["World Cup circuit", "Five or six stops each winter across Europe, North America, and Asia."],
+      ["World titles and Olympics", "Single-distance, sprint, and allround championships, then the Games."]
+    ],
+    "events": [
+      ["Winter Olympics", "Speed skating's medal program since the first Winter Games in 1924."],
+      ["ISU World Single Distances Championships", "The annual distance-by-distance world title, since 1996."],
+      ["World Allround and Sprint Championships", "The classic combined titles decided over two days and four races each."],
+      ["World Cup circuit", "The winter league of paired racing at the sport's ovals, November to March."],
+      ["Four Continents Championships", "The ISU's championship for skaters outside Europe, first held in 2020."]
+    ],
+    "legends": [
+      ["Eric Heiden", "United States — five golds in five distances at Lake Placid 1980, the greatest single Games in speed skating history."],
+      ["Ireen Wüst", "Netherlands — six Olympic golds and 13 total medals, the most successful speed skater in Olympic history."],
+      ["Sven Kramer", "Netherlands — three consecutive 5000 m titles (2010, 2014, 2018) plus a team pursuit gold; the distance's defining racer."],
+      ["Ard Schenk", "Netherlands — three golds at Sapporo 1972 and the sport's first modern superstar."],
+      ["Bonnie Blair", "United States — five Olympic sprint golds across four Games from 1988 to 1994."]
+    ],
+    "getting_started": [
+      "Find the nearest 400 m oval's club night — most rent skates and coach beginners on the same evening.",
+      "Learn position and crossovers before chasing speed; a low back and bent knees are the whole sport's grammar.",
+      "Keep technique alive off-season with inline skating and a slide board.",
+      "Enter age-class meets early — long track's time-trial culture means personal bests are always available.",
+      "Take a sharpening lesson in week one; blade edges are a daily variable you will manage forever.",
+      "Choose a distance identity within a season — sprint and distance athletes train differently almost from the start."
+    ],
+    "glossary": [
+      ["Oval", "The standard 400 m two-lane track, indoors or outdoors."],
+      ["Clap skate", "A hinged blade that stays on the ice longer, extending each push — universal since the late 1990s."],
+      ["Crossunder", "The full leg crossover through corners — free speed on the bends."],
+      ["Lane crossing", "The marked change point in the back straight where skaters swap lanes each lap."],
+      ["Samalog", "The points system converting times across distances into allround championships."],
+      ["Allround", "The combined format racing four distances over two days."],
+      ["Pair", "The two-skater starting unit in single-distance racing."],
+      ["Mass start", "Pack racing over 16 laps with intermediate sprints, Olympic since 2018."],
+      ["Team pursuit", "Three skaters in formation for eight laps, racing another team's trio."],
+      ["Straightaway", "The flat stretches between corners where the tuck lives."]
+    ],
+    "related": ["short-track-speed-skating", "figure-skating", "track-cycling", "cross-country-skiing"],
+    "crosslink": false
+  },
+  {
+    "slug": "short-track-speed-skating",
+    "name": "Short Track Speed Skating",
+    "category": "winter",
+    "glyph": "⭕",
+    "tagline": "Six skaters, 111 meters of ice, medals decided in the last corner.",
+    "origin": "North America · 1960s",
+    "tags": ["Olympic", "Pack racing", "Sprint", "Winter"],
+    "overview": [
+      "Short track is pack racing on a 111.12 m oval marked inside a hockey rink: four to six skaters shoulder to shoulder over 500, 1000, and 1500 m, plus relays of 5000 m for men, 3000 m for women, and the mixed 2000 m. Placement decides everything — first across the line advances or wins — so tactics and nerve outrank raw lap times.",
+      "Born in North American racing carnivals and refined by Korea, China, and Canada, the sport has produced winter's most famous photo finishes and most famous crashes. Skaters lean so deep through corners that the left hand skims the ice — at 50 km/h, inches from four rivals.",
+      "Newcomers should know it is the most accessible elite skating: any hockey rink becomes a track with marker blocks. Learn to skate first, buy cut-resistant gloves immediately, and expect penalties to be part of the sport's grammar — impeding calls decide heats as often as legs do."
+    ],
+    "facts": [
+      ["Track", "A 111.12 m oval set with marker blocks on a standard rink — a kilometer is nine laps"],
+      ["Format", "Placement racing: the first skaters across the line advance or win; times seed heats only"],
+      ["Field", "Four to six skaters race each heat at once, shoulder to shoulder"],
+      ["Olympic status", "Demonstration sport at Calgary 1988; full medals since Albertville 1992"],
+      ["Governing body", "ISU, with world championships since 1981 and a World Cup circuit since the 1990s"],
+      ["Skates", "Hand-bent boots with blades around 45 cm, sharpened by hand on a jig"],
+      ["Safety", "Cut-resistant suits, gloves, and helmets are mandatory — the blades are razor sharp"]
+    ],
+    "history": [
+      ["Early 1900s", "Pack-style racing grows at North American skating carnivals on small rinks, long before Europe's ovals."],
+      ["1967", "The ISU recognizes short track as a discipline."],
+      ["1976-1981", "International competition begins, and the first official ISU World Short Track Championships follow in 1981."],
+      ["1988-1992", "Demonstration status at Calgary, then full Olympic medals at Albertville 1992."],
+      ["2002", "Yang Yang (A) wins China's first-ever Winter Olympic gold in the 500 m at Salt Lake City."],
+      ["2014", "Viktor Ahn — the same Ahn Hyun-soo who starred for South Korea in 2006 — wins three golds and a bronze for Russia at Sochi."]
+    ],
+    "formats": [
+      ["500 m", "Four and a half laps of pure sprint — the first corner decides more than any other meter."],
+      ["1000 m", "Nine laps, the tactical middle distance."],
+      ["1500 m", "Thirteen and a half laps — pacing, patience, and a final three laps of chaos."],
+      ["Relays", "5000 m men (45 laps), 3000 m women (27 laps), and the mixed 2000 m, with push exchanges between teammates."],
+      ["3000 m", "A championship super-distance raced for overall titles."]
+    ],
+    "skills": [
+      ["Pack positioning", "Where you sit in the line decides your race — sheltered, patient, with an exit.", "Ride every position in training races; learn what third place can see that first cannot."],
+      ["Inside passing", "Slipping up the inside at corner entry — the sport's highest-risk, highest-reward move.", "Inside-pass repetitions with a willing partner at 80 percent speed; commit late, stay low."],
+      ["Outside passing", "Swinging wide off a corner exit with more speed than the leader carried.", "Outside-pass drills off every corner in warmups; time the swing against a coach's lap counter."],
+      ["Corner technique", "Deep lean, left hand brushing the ice, crossovers on every stride through the turn.", "Twenty minutes of corner work every session — lean until the glove marks the ice, then repeat."],
+      ["Starts", "Explosive gun-to-first-corner acceleration — in the 500 m it is half the race.", "Fifteen full-pack starts per session; solo starts teach nothing about the traffic you will meet."],
+      ["Contact management", "Shoulders will touch; balance under a bump is a skill, not luck.", "Partner drills at 80 percent speed: jostle for lane legally, stay over your edges, no grabbing."],
+      ["Push exchanges", "The relay push that launches a teammate at full speed — timing beats power.", "Twenty exchanges per relay practice; the push should arrive exactly at the corner exit."]
+    ],
+    "rules": [
+      "Racing is counterclockwise; the first skaters across the line advance or win, and times matter only for seeding.",
+      "Impeding — blocking, pulling, or forcing a rival off the racing line — draws penalties; the referee can advance an impeded skater instead.",
+      "Skaters must pass outside the marker blocks; cutting inside the blocks is a disqualification.",
+      "Helmets, cut-resistant suits, gloves, and shin protection are mandatory, and equipment is checked before racing.",
+      "Relays use push or touch exchanges, with the four skaters rotating through the race distance.",
+      "Advancement is generous by design: fastest losers and wronged skaters can advance on the referee's call."
+    ],
+    "equipment": [
+      ["Skates", "Hand-bent boots with custom-mounted blades, sharpened on a jig — $800-2,500."],
+      ["Blades", "Around 45 cm, bent and offset for cornering — the sport's most personal tool. $300-700."],
+      ["Cut suit", "Cut-resistant suit and neck protection, mandatory. $300-800."],
+      ["Gloves", "Cut-resistant, with hardened knuckle pads that skim the ice in corners. $50-150."],
+      ["Helmet", "Certified, smooth-shelled, mandatory. $100-300."],
+      ["Shin guards", "Worn under the suit against blade contact. $30-80."]
+    ],
+    "training": [
+      "Corner-specific dryland: low crossovers, wall sits, and slide-board work — corners are where races are held and lost.",
+      "Energy systems match the race: alactic sprints plus 45-second to two-minute anaerobic capacity intervals.",
+      "Ice sessions are pack sessions — four to five weekly, each with race-speed traffic; solo laps teach little.",
+      "Balance and contact: unstable-surface work and partner bumping drills make pressure survivable.",
+      "Weekly video review — call each pass before it happens, then check what actually happened."
+    ],
+    "pathway": [
+      ["Learn-to-skate", "Basic skating confidence on any rink — hockey or recreational backgrounds both work."],
+      ["Club pack racing", "Local club nights set a 111 m track and teach positioning from the first session."],
+      ["Provincial and national juniors", "Age-class meets and junior championships from the early teens."],
+      ["National team", "Selection via national rankings; junior worlds usually arrive first."],
+      ["World Cup and Olympics", "The annual circuit across Asia, Europe, and North America, then the Games."]
+    ],
+    "events": [
+      ["Winter Olympics", "Short track's medal program since Albertville 1992."],
+      ["ISU World Short Track Championships", "The annual world title across individual distances and relays."],
+      ["World Cup circuit", "Several stops each winter — Seoul, Montreal, Dordrecht and more — with 500, 1000, and 1500 m races plus relays."],
+      ["Four Continents Championships", "The ISU championship for skaters outside Europe."],
+      ["National championships", "Deep domestic scenes in Korea, China, Canada, the Netherlands, and the United States."]
+    ],
+    "legends": [
+      ["Apolo Anton Ohno", "United States — eight Olympic medals including two golds across three Games; the face of American short track."],
+      ["Viktor Ahn", "South Korea and Russia — six medals for Korea in 2006, then three golds and a bronze for Russia at Sochi 2014; the most technically complete skater of the century."],
+      ["Yang Yang (A)", "China — the first Chinese Winter Olympic champion (500 m, Salt Lake City 2002) and a dominant early-2000s world force."],
+      ["Suzanne Schulting", "Netherlands — back-to-back Olympic 1000 m titles (2018, 2022) and consecutive overall world championship crowns."],
+      ["Wu Dajing", "China — Olympic 500 m champion at PyeongChang 2018 in 39.505 seconds, a world record that still stands."]
+    ],
+    "getting_started": [
+      "Any hockey rink works — clubs set the 111 m track with marker blocks on public nights.",
+      "Arrive with basic skating confidence; hockey, recreational, or long-track backgrounds all convert.",
+      "Buy cut-resistant gloves before anything else — most clubs will not let you on the ice without them.",
+      "Learn corner lean at low speed first: hand on the ice, weight inside, patience before pace.",
+      "Train in packs whenever possible — placement, not lap times, is the sport's actual skill.",
+      "Watch a full World Cup 1500 m on video and call the passes — the tactics live in the last two laps."
+    ],
+    "glossary": [
+      ["Pack racing", "Racing shoulder to shoulder rather than against the clock."],
+      ["Heat", "A preliminary race; top finishers advance through rounds to the final."],
+      ["ADV", "Advance — the referee moving an impeded skater up despite the result."],
+      ["Impeding", "Blocking or forcing a rival wide — the sport's cardinal penalty."],
+      ["Blocks", "The rubber markers defining the track's corners."],
+      ["Inside pass", "Passing on the inside of a rival, usually at corner entry."],
+      ["Outside pass", "Swinging wide off a corner to pass with speed."],
+      ["Push exchange", "The relay handover where a teammate pushes the next skater into full speed."],
+      ["A final", "The medal race of a distance, fed by semifinals and heats."],
+      ["Photo finish", "The camera-decided ending that short track produces more than any other skating discipline."]
+    ],
+    "related": ["speed-skating", "ice-hockey", "track-cycling", "figure-skating"],
+    "crosslink": false
+  },
+  {
+    "slug": "bobsleigh",
+    "name": "Bobsleigh",
+    "category": "winter",
+    "glyph": "🛷",
+    "tagline": "Half a ton of crew and sled at 150 km/h down an ice canyon.",
+    "origin": "Switzerland · 1897",
+    "tags": ["Olympic", "Team", "Gravity", "Winter"],
+    "overview": [
+      "Bobsleigh crews sprint 50 m pushing a sled, dive aboard, and pilot 1,200-1,650 m of refrigerated ice track through 14-20 curves at up to 150 km/h, absorbing up to 5 G. Formats are two-man, four-man, two-woman, and the pilot-only monobob added at Beijing 2022 — and races are decided by hundredths across four heats.",
+      "The sport was invented for bored hotel guests at St. Moritz, where Caspar Badrutt built a run in the 1880s and the world's oldest bobsleigh club formed in 1897. Four-man bobsleigh headlined the first Winter Olympics in 1924, and Germany has since industrialized the sport into the deepest talent machine in winter racing.",
+      "Newcomers should know the two doors in: push athletes are recruited from sprinting with open national combines, while pilots attend federation driving schools that start with coach-driven descents. Most tracks also offer passenger rides — the cheapest way to understand why 5 G feels like a decision, not a sensation."
+    ],
+    "facts": [
+      ["Governing body", "IBSF — International Bobsleigh and Skeleton Federation, successor to the FIBT founded in 1923"],
+      ["Crews", "Two-man, four-man, two-woman, and women's monobob"],
+      ["Weight limits", "Maximums including crew: 630 kg four-man, 390 kg two-man, 330 kg two-woman — lighter crews add ballast"],
+      ["Tracks", "Refrigerated concrete, 1,200-1,650 m long, 14-20 curves, speeds to 150 km/h and corner forces near 5 G"],
+      ["Olympic status", "Four-man since Chamonix 1924, two-man since 1932, women's since 2002, monobob since 2022"],
+      ["The start", "A 50 m sprint push in 4-6 seconds before loading — races are won here as often as in the curves"],
+      ["First world championship", "1930 — the FIBT's first world title"]
+    ],
+    "history": [
+      ["1880s-1897", "Caspar Badrutt builds a toboggan run for restless English guests at St. Moritz; the St. Moritz Bobsleigh Club forms in 1897 — the world's oldest."],
+      ["1923-1924", "The FIBT is founded in Paris, and four-man bobsleigh headlines the first Winter Olympics at Chamonix."],
+      ["1932", "Two-man racing joins the program at Lake Placid."],
+      ["1964", "Eugenio Monti lends rival Tony Nash an axle bolt at Innsbruck; Nash wins gold, and Monti collects the first Pierre de Coubertin medal for sportsmanship."],
+      ["1970s-1980s", "East Germany industrializes the sport — push tracks, sports science, talent pipelines — seeding today's German dynasty."],
+      ["2002-2022", "Women's racing debuts at Salt Lake City; monobob arrives at Beijing 2022 as Francesco Friedrich's era makes Germany the standard."]
+    ],
+    "formats": [
+      ["Four-man", "Pilot, brakeman, and two pushers — maximum crew at maximum speed."],
+      ["Two-man", "Pilot and brakeman; the purest test of a pilot's steering on long tracks."],
+      ["Two-woman", "The women's team discipline since 2002, sharing the same tracks and physics."],
+      ["Monobob", "One woman, one sled: push, load, steer, and brake alone — Olympic since 2022."],
+      ["Championship format", "Four heats over two days at the Olympics and worlds; World Cup races run two heats."]
+    ],
+    "skills": [
+      ["Piloting", "Steering by memorized line — entry points, apexes, and exit speeds for every named curve.", "Federation driving schools: coach-steered descents first, then your hands on entry-level tracks, one curve at a time."],
+      ["The push start", "A 50 m all-out sprint pushing more than 200 kg of sled — the sport's most analyzed number.", "Thirty-meter sprint work and loaded sled pushes three times weekly; crews time every push to the hundredth."],
+      ["Loading", "Diving aboard a moving sled without breaking rhythm — each crew has a choreographed entry.", "Twenty load repetitions per session until the entry is silent and fast."],
+      ["Braking", "The brakeman alone pulls the brake after the finish line — a missed grab ends in the walls.", "Brakemen double as pushers and train grip and reaction; the pull is rehearsed every descent."],
+      ["G tolerance", "Holding your head against 5 G for a minute while your vision narrows.", "Daily isometric neck work — harness routines and holds; pilots and crew train it like a lift."],
+      ["Steering precision", "Two rope handles, subtle pulls, and a memory of twenty curves — oversteering costs speed, understeering costs walls.", "Track walks and onboard video between every run; driving judgment is mileage, not talent."],
+      ["Synchronization", "A four-man push is four athletes with one stride pattern.", "Weekly push-track sessions with video timing; the fastest crews sync strides to the sled frame."]
+    ],
+    "rules": [
+      "The run begins with the sprint push; timing starts as the sled crosses the start gate and stops at the finish.",
+      "Maximum weights include crew and equipment: 630 kg four-man, 390 kg two-man, 330 kg two-woman — lighter crews may add ballast, heavier crews are disqualified.",
+      "Runners are standardized steel within strict IBSF dimensions — no custom machining and no heating between runs.",
+      "Olympic and world titles are decided by the lowest aggregate time over four heats; the sled must finish with its full crew aboard.",
+      "The brakeman operates the brake only after the finish line; steering is the pilot's alone, via two handles linked to the front axle.",
+      "Suits, helmets, and shoes are regulated — push shoes carry brush spikes that grip the start ice."
+    ],
+    "equipment": [
+      ["Sled", "IBSF-spec carbon and steel machines; new race sleds run $30,000-90,000."],
+      ["Runners", "Polished steel, ground to spec per track — a set costs $1,500-4,000."],
+      ["Helmet", "Motorsport-grade full-face protection. $500-1,200."],
+      ["Push shoes", "Sprint shoes with brush spikes for start traction. $100-300."],
+      ["Racing suit", "Aerodynamic skinsuits regulated like speed skating's. $200-500."],
+      ["Push track access", "Not sold but essential — summer wheeled tracks are where crews are built."]
+    ],
+    "training": [
+      "Push athletes are sprinters: 30-60 m acceleration, heavy squats, and power cleans are the core program.",
+      "Neck strength is daily: isometric holds and harness work for corners that hit 5 G.",
+      "Pilots accumulate descents year-round — summer ice at Calgary and push tracks keep driving judgment alive.",
+      "Track walks and video study are training: most tracks are learned by name, curve by curve.",
+      "Injury prevention: Nordic curls and hamstring work for sprint loads, shoulder stability for pushing."
+    ],
+    "pathway": [
+      ["Open combines", "National federations test 30 m sprints, jumps, and squats — the recruitment door for push athletes."],
+      ["Development team", "Push-track training, brakeman duty, and passenger runs behind experienced pilots."],
+      ["Driving school", "Federation schools on real ice for aspiring pilots — braking runs before steering."],
+      ["Continental Cups", "The North American and European circuits where new crews and pilots earn ranks."],
+      ["World Cup and Olympics", "The sport's summit, dominated in the modern era by Germany's system."]
+    ],
+    "events": [
+      ["Winter Olympics", "On the program since the first Winter Games in 1924."],
+      ["IBSF World Championships", "Annual except Olympic years, shared with skeleton."],
+      ["World Cup circuit", "Stops at St. Moritz, Altenberg, La Plagne, Lake Placid, Whistler and more each winter."],
+      ["Continental Cups", "The North American and European development circuits."],
+      ["Continental championships", "The European and North American titles feeding world rankings."]
+    ],
+    "legends": [
+      ["Eugenio Monti", "Italy — six Olympic medals in the 1950s and 1960s, and the 1964 Pierre de Coubertin medal for lending a rival the bolt that won gold."],
+      ["Wolfgang Hoppe", "Germany — double Olympic champion at Sarajevo 1984 and a medalist across a decade of East German dominance."],
+      ["Kevin Kuske", "Germany — four Olympic golds as brakeman beside André Lange and Francesco Friedrich; the sport's greatest pusher."],
+      ["Francesco Friedrich", "Germany — Olympic champion in both disciplines at Beijing 2022 and the most decorated pilot in history."],
+      ["Kaillie Humphries", "Canada and the United States — two-woman titles in 2010 and 2014 for Canada, the first monobob gold in 2022 for the United States."]
+    ],
+    "getting_started": [
+      "Test as a push athlete first: national combines measure 30 m sprints, broad jumps, and squats — those numbers get you recruited.",
+      "Ride before you drive: every driving school starts with coach-driven and braking runs on real ice.",
+      "Use summer push tracks with wheeled sleds to build the sprint-load skill year-round.",
+      "Pick your door honestly — brakemen are fast-twitch athletes; pilots are students of geometry with ten years of patience.",
+      "Watch onboard footage of Altenberg or St. Moritz and name the curves — memorization is the pilot's first training.",
+      "Build the three currencies: sprint speed, squat strength, and neck endurance."
+    ],
+    "glossary": [
+      ["Pilot", "The athlete who steers, via two handles linked to the front axle."],
+      ["Brakeman", "The rear crew member who pulls the brake after the finish line."],
+      ["Pusher", "The side crew members in four-man who load mid-sled."],
+      ["Load", "The dive aboard at speed — choreographed, rehearsed, and make-or-break."],
+      ["Runners", "The polished steel blades beneath the sled, ground to track conditions."],
+      ["Ballast", "Added weight that lets lighter crews reach the maximum legal mass."],
+      ["Heat", "One timed descent; titles aggregate two to four heats."],
+      ["Outrun", "The uphill deceleration stretch after the finish."],
+      ["Push track", "A wheeled summer facility where crews train the sprint push."],
+      ["Kreisel", "A curve where the track crosses over itself — St. Moritz's famous signature."]
+    ],
+    "related": ["skeleton", "luge", "formula-1"],
+    "crosslink": false
+  },
+  {
+    "slug": "skeleton",
+    "name": "Skeleton",
+    "category": "winter",
+    "glyph": "💀",
+    "tagline": "Head first at 130 km/h, steering with shoulders and knees — no brakes.",
+    "origin": "Switzerland · 1884",
+    "tags": ["Olympic", "Gravity", "Solo", "Winter"],
+    "overview": [
+      "Skeleton races a small sled head first and prone: athletes sprint 25-40 m bent over their sled, dive aboard, and ride 1,200-1,650 m of ice track at up to 140 km/h with corner forces near 5 G. There is no brake and no steering mechanism — the body does the driving.",
+      "The sport grew out of the Cresta Run, built at St. Moritz for the winter of 1884-85, and it is winter sliding's most accessible elite door: national slide schools take complete beginners onto real ice in days, and adult sprinters regularly reach national teams within a few seasons.",
+      "Newcomers should know the order of operations: the push decides the run, the load decides the push, and the line decides everything else. Fear is managed, not eliminated — every national team member started on a beginner track with a coach walking them through curve one."
+    ],
+    "facts": [
+      ["Governing body", "IBSF — skeleton races under the bobsleigh federation's roof"],
+      ["Position", "Prone and head first, face centimeters above the ice"],
+      ["Speeds", "120-145 km/h with corner forces approaching 5 G; the sled has no brakes"],
+      ["Steering", "Shoulder, knee, and head pressure — no mechanical steering exists"],
+      ["Olympic status", "St. Moritz 1928 and 1948, then a 54-year absence until Salt Lake City 2002"],
+      ["Weight rules", "Combined athlete-plus-sled maximums of 115 kg (men) and 102 kg (women), with ballast allowed for lighter athletes"],
+      ["First world championship", "St. Moritz, 1982"]
+    ],
+    "history": [
+      ["1884-85", "The Cresta Run is built at St. Moritz — head-first tobogganing gets the run it never leaves behind."],
+      ["1890s-1900s", "Bare-frame metal sleds appear on the run; riders and writers start calling them skeletons, and the name sticks."],
+      ["1928", "Skeleton debuts at the St. Moritz Olympics; America's Jennison Heaton beats his brother John for the first gold."],
+      ["1948", "Skeleton returns at St. Moritz, then vanishes from the Olympic program for 54 years."],
+      ["2002", "Salt Lake City revives Olympic skeleton; Jim Shea and Tristan Gale take the first modern titles."],
+      ["2010s", "Martins Dukurs' decade of dominance and Lizzy Yarnold's back-to-back titles carry the sport onto front pages."]
+    ],
+    "formats": [
+      ["Men's and women's singles", "One athlete, one sled — the only two Olympic events."],
+      ["Olympic format", "Four heats over two days, lowest aggregate time wins."],
+      ["World Cup format", "Two heats in a single day."],
+      ["Cresta racing", "The St. Moritz Tobogganing Club's own winter calendar on the private run — the sport's living ancestry."]
+    ],
+    "skills": [
+      ["The push", "A bent-over sprint with the sled, 25-40 m, worth a tenth or more at the finish.", "Thirty-meter sprint work plus push-track sessions two or three times weekly, timed on video."],
+      ["The load (dive)", "Belly-down onto a moving sled at 30 km/h — the make-or-break skill of the sport.", "Dive mechanics drilled at walking speed first, then half pace; twenty loads per session, speed added gradually."],
+      ["Line reading", "The shortest line through 14-20 named curves at 130 km/h — memorized, not seen.", "Track walks and onboard video before every first run; rehearse the line mentally between heats."],
+      ["Head discipline", "Chin up a centimeter too far scrapes the visor and costs the run — the neck holds position under 5 G.", "Isometric neck training three times weekly — harness routines and holds."],
+      ["Steering", "Shoulder and knee pressure, tiny and early — the sled has no other controls.", "Beginner-track progressions at Lillehammer or Calgary: straight runs, then gentle curves, then full lines."],
+      ["Fear management", "Composure at 130 km/h face down is trainable: routines, breathing, and exposure in careful doses.", "Process routines before every run; progression through tracks rather than heroic leaps."],
+      ["Sled preparation", "Polishing steels is a nightly ritual; runner condition is worth hundredths nobody sees.", "Learn runner polishing and sled assembly first — mechanics is the entry-level skill every slider needs."]
+    ],
+    "rules": [
+      "The clock starts at the start beam; every hundredth lost in the push shows up at the finish.",
+      "Combined athlete-plus-sled weight is capped — about 115 kg men, 102 kg women — and lighter athletes add ballast to reach it.",
+      "Sleds are frame-and-runner machines within IBSF size specs; no brakes and no mechanical steering are permitted.",
+      "A run is invalid if the athlete comes off the sled — riders stay aboard from start to finish.",
+      "Full-face helmets with chin guards, speed suits, and spiked shoes are mandatory equipment.",
+      "Olympic races run four heats over two days with the lowest aggregate time winning."
+    ],
+    "equipment": [
+      ["Sled", "Frame and steel runners; entry sleds about $3,000, race sleds $6,000-9,000."],
+      ["Helmet and chin guard", "Full-face with integrated chin protection. $400-900."],
+      ["Speed suit", "Skin-tight and abrasion-tested. $200-600."],
+      ["Spiked shoes", "Sprint shoes with brush spikes for the start. $150-400."],
+      ["Runner kit", "Polishing stones and oils — the nightly ritual. $50-150."],
+      ["Ballast", "Vests and plates for lighter athletes to reach the weight cap. $50-200."]
+    ],
+    "training": [
+      "Sprint mechanics come first: the 30 m acceleration is the single most important dryland skill.",
+      "Isometric neck work starts in week one — the first fast corner explains why immediately.",
+      "Track walks and onboard video are daily training during race weeks; skeleton is a memory sport.",
+      "Posterior-chain strength — Romanian deadlifts, hip thrusts — and anti-rotation core serve the load position.",
+      "Confidence is built by progression: beginner tracks, longer tracks, then the classic tracks — never skipped rungs."
+    ],
+    "pathway": [
+      ["Slide school", "Federation beginner programs at Calgary, Lillehammer, Lake Placid, and other entry tracks."],
+      ["National development", "Push-track testing and national development squads with ice time rationed by progression."],
+      ["Continental Cup", "The North American and European circuits below the World Cup."],
+      ["World Cup", "The annual international circuit shared with bobsleigh venues."],
+      ["Olympics and worlds", "Medal racing on the great tracks, Whistler to St. Moritz."]
+    ],
+    "events": [
+      ["Winter Olympics", "Contested in 1928 and 1948, and at every Games since 2002."],
+      ["IBSF World Championships", "World titles since 1982, shared with bobsleigh."],
+      ["World Cup circuit", "The annual winter tour of the great tracks, St. Moritz to Whistler."],
+      ["Cresta Run season", "The St. Moritz Tobogganing Club's private racing calendar each winter — the sport's living root."],
+      ["Continental Cups", "North American and European development racing."]
+    ],
+    "legends": [
+      ["Martins Dukurs", "Latvia — the most dominant men's slider of the modern era, with a record shelf of World Cup season titles; twice an Olympic silver medalist (2010, 2014)."],
+      ["Lizzy Yarnold", "Great Britain — back-to-back Olympic golds (2014, 2018) and the first British athlete to defend a Winter Olympic title."],
+      ["Amy Williams", "Great Britain — 2010 Olympic champion in a breakthrough ride at Whistler."],
+      ["Jon Montgomery", "Canada — Whistler 2010 gold at the home track, celebrated with one of the Olympics' great victory walks."],
+      ["Jennison Heaton", "United States — the first Olympic skeleton champion at St. Moritz 1928, ahead of his brother John."]
+    ],
+    "getting_started": [
+      "Book a federation slide school — Calgary, Lillehammer, and Lake Placid all run beginner programs with full gear provided.",
+      "Train the 30 m sprint before anything else; the push decides more than any curve you will ever steer.",
+      "Start isometric neck training immediately — the first fast corner will make the reason obvious.",
+      "Walk the track and watch onboards; skeleton is memorized before it is ridden.",
+      "Progress track by track with coaches gating every step — no uninvited bigger hills, ever.",
+      "It is never too late: national programs recruit adult sprinters, and Olympic careers have begun at 20."
+    ],
+    "glossary": [
+      ["Cresta Run", "The ice run built at St. Moritz in 1884-85 — skeleton's birthplace, rebuilt every winter."],
+      ["Steels", "The polished runners — skeleton slang, shared with luge."],
+      ["Handles", "The two grips the athlete holds during the push."],
+      ["Load", "The dive aboard — belly-down, elbows in, eyes forward."],
+      ["Push track", "The timed start ramp used for push training and testing."],
+      ["Chin guard", "The helmet's chin piece that protects the face centimeters above the ice."],
+      ["Outrun", "The deceleration stretch after the finish line."],
+      ["G-force", "The corner loading that approaches 5 G and tries to fold the head down."],
+      ["Track walk", "The pre-race walk of every curve — memorization is training."],
+      ["Heat", "One timed run; titles aggregate the heats."]
+    ],
+    "related": ["luge", "bobsleigh", "alpine-skiing"],
+    "crosslink": false
+  },
+  {
+    "slug": "luge",
+    "name": "Luge",
+    "category": "winter",
+    "glyph": "🛷",
+    "tagline": "Feet first at 140 km/h — decided by thousandths of a second, not by brakes.",
+    "origin": "European Alps · 1957 (FIL)",
+    "tags": ["Olympic", "Gravity", "Precision", "Winter"],
+    "overview": [
+      "Luge races a small sled feet first and supine down refrigerated tracks at up to 140 km/h: athletes pull start handles, paddle the ice for acceleration, then steer with calf pressure on the runners and subtle shoulder shifts. There are no brakes and no second chances — timing is measured to the thousandth of a second, the finest margin in winter sport.",
+      "Germany, Austria, and Italy have owned the podium since luge joined the Olympics at Innsbruck 1964, and the sport's culture is intimate: small national teams, family sled workshops, and classic tracks where generations learn the same curves. Team relay added a crowd format in 2014; women's doubles joins the Olympic program at Milano Cortina 2026.",
+      "Newcomers should know the start is half the sport — paddle power and coordination decide an outsized share of the result. National federation start schools teach the sequence on real ice with loaner sleds, and natural-track luge offers an accessible alpine variant for clubs without a concrete channel."
+    ],
+    "facts": [
+      ["Governing body", "FIL — International Luge Federation, founded 1957"],
+      ["Formats", "Men's singles, women's singles, doubles, team relay; women's doubles joins the Olympics in 2026"],
+      ["Tracks", "1,000-1,500 m of refrigerated concrete with roughly a dozen to twenty curves"],
+      ["Speeds", "Up to 140 km/h on the fastest straights, with timing to the thousandth of a second"],
+      ["Steering", "Calf pressure against the runners and shoulder shifts — no brakes anywhere on the sled"],
+      ["Olympic status", "Olympic since Innsbruck 1964; team relay since 2014"],
+      ["First world championship", "1955 in Oslo"]
+    ],
+    "history": [
+      ["1500s-1800s", "Alpine sled transport becomes winter recreation — village road races and hotel toboggan runs spread across Switzerland and Norway."],
+      ["1883", "Davos hosts the first international sled race, with competitors from several nations on the same course."],
+      ["1957", "The FIL is founded, separating luge's governance from bobsleigh."],
+      ["1964", "Luge joins the Olympics at Innsbruck with men's, women's, and doubles titles."],
+      ["1968", "Königssee opens the world's first artificially refrigerated track — racing becomes an engineered, year-round sport."],
+      ["2014-2026", "Team relay debuts at Sochi 2014; women's doubles joins the Olympic program at Milano Cortina 2026."]
+    ],
+    "formats": [
+      ["Men's singles", "Four heats at the Olympics; the fastest combined time wins."],
+      ["Women's singles", "Two Olympic heats since 2022; championship formats vary by year."],
+      ["Doubles", "Two athletes on one sled with the front athlete steering — historically raced by men, with women's doubles now on the rise."],
+      ["Team relay", "Men's single, women's single, and doubles sleds share one clock; the next run starts the instant the previous sled triggers the touchpad."],
+      ["Sprint racing", "A World Cup variant on a shortened track, decided in a single pass."],
+      ["Naturbahn", "Natural-track luge on winding snow courses with banked curves — a FIL discipline with its own world championships."]
+    ],
+    "skills": [
+      ["The start", "Rock the sled, pull the handles, and paddle the ice explosively before lying onto the pod — the sport's most-trained sequence.", "Start-track sessions weekly; paddle power built with bench pulls, rows, and medicine-ball slams."],
+      ["Calf steering", "Pressing a calf against the runner flexes the steel and steers that side — the sport's core control skill.", "Single-curve focus runs: ten passes working only one corner, hands quiet, legs doing the talking."],
+      ["Shoulder and body control", "Shoulder rolls and weight shifts fine-tune the line where calves cannot.", "Onboard video after every run; compare pressure points curve by curve with a coach."],
+      ["Head discipline", "Lying flat, chin down, racing from memory — visibility is sacrificed to aerodynamics.", "Memorization drills: track walks, curve names, and sector splits recited before every run."],
+      ["Line precision", "Enter high, clip the apex, exit low — identical every time.", "Sector-timed runs; the goal is not one fast line but ten identical ones."],
+      ["Doubles teamwork", "Two on one sled: the front athlete steers, the back athlete adds weight and balance.", "Partner starts and sync drills; doubles teams are chosen for complementary sizes and trust."],
+      ["Relay handovers", "The touchpad relay demands three clean runs, back to back, from one squad.", "Full relay rehearsals in training camps; pad timing teaches urgency better than any stopwatch."]
+    ],
+    "rules": [
+      "The race starts from the start handles: athletes rock, pull, and paddle — and the clock is already running.",
+      "Sleds are FIL-spec machines with maximum weights around 21-25 kg for singles and 25-30 kg for doubles.",
+      "Runner temperature is checked at the start — warming steels for speed is against the rules.",
+      "Olympic men's singles run four heats and women's singles two since 2022; the lowest combined time wins.",
+      "The team relay chains men's single, women's single, and doubles runs; the next sled launches the instant the previous one trips the touchpad.",
+      "A run ends if the athlete comes off the sled — no re-boarding, no second chances."
+    ],
+    "equipment": [
+      ["Sled", "Pod shell, steels, handles, and bridges — race sleds run $3,000-8,000."],
+      ["Runners (steels)", "Hand-polished steel, chosen and tuned per track. $500-2,000."],
+      ["Racing suit", "Aerodynamic and abrasion-resistant. $200-600."],
+      ["Helmet", "Aero shell with clear visor, tested at speed. $300-800."],
+      ["Gloves", "Padded grip gloves for the handles and start. $50-150."],
+      ["Boots", "Stiff-soled boots that lock the ankle for calf steering. $100-250."]
+    ],
+    "training": [
+      "Start power is upper-body: bench pulls, rows, and medicine-ball work feed the paddle.",
+      "Neck and core isometrics hold the supine position under heavy corner loads.",
+      "Track memory is daily training: video, curve names, and sector splits rehearsed like a script.",
+      "Ice time progresses through beginner tracks — Lillehammer and Innsbruck-Igls are classics — before the fast ones.",
+      "Hollow-body isometrics mirror the race position — the flat, tensioned profile that wins straightaways."
+    ],
+    "pathway": [
+      ["Federation start schools", "Beginner days on real ice with loaner sleds and full coaching — the front door."],
+      ["Junior racing", "National junior series and youth cups through the teens."],
+      ["International development", "Junior and Nations Cup events build international mileage."],
+      ["World Cup", "The annual circuit across the classic tracks, singles and doubles."],
+      ["Olympics and worlds", "Individual medals plus the team relay's national effort."]
+    ],
+    "events": [
+      ["Winter Olympics", "Luge's medal program since Innsbruck 1964; relay since 2014, women's doubles from 2026."],
+      ["FIL World Championships", "Annual except Olympic years, across all disciplines and Naturbahn."],
+      ["FIL World Cup", "The winter league at Innsbruck-Igls, Altenberg, Oberhof, Whistler, Lake Placid and more."],
+      ["European Championships", "The continent's annual title, traditionally the deepest field."],
+      ["Junior World Championships", "The development summit for junior sliders."]
+    ],
+    "legends": [
+      ["Georg Hackl", "Germany — three consecutive Olympic titles (1992, 1994, 1998) and five medals in all; the sport's beloved everyman genius."],
+      ["Armin Zöggeler", "Italy — the Ice Man: medals at six consecutive Olympics from 1994 to 2014, with golds in 2002 and 2006."],
+      ["Natalie Geisenberger", "Germany — three consecutive Olympic singles titles from 2014 to 2022 plus relay golds; the most successful female luger in history."],
+      ["Felix Loch", "Germany — back-to-back Olympic titles in 2010 and 2014; the prodigy who became the standard."],
+      ["Tatjana Hüfner", "Germany — Vancouver 2010 Olympic champion and a multiple world champion through the late 2000s."]
+    ],
+    "getting_started": [
+      "Book a federation start school — national luge programs run beginner days with loaner sleds on real tracks.",
+      "Learn the start sequence first: rock, pull, paddle — thousands of repetitions before the first curve matters.",
+      "Build pulling power: rows, pull-ups, and medicine-ball work are the sport's gym core.",
+      "Memorize before you ride: watch onboard videos and walk the track until the curves have names in your head.",
+      "Progress through beginner tracks — Lillehammer and Innsbruck-Igls exist for exactly this.",
+      "Consider Naturbahn clubs in the Alps — natural-track luge teaches the same skills on snow rather than ice."
+    ],
+    "glossary": [
+      ["Pod", "The aerodynamic shell on which the athlete lies."],
+      ["Steels", "The runners — polished, temperature-checked, and hand-tuned per track."],
+      ["Start handles", "The grips athletes pull at the launch of every run."],
+      ["Paddling", "The double-armed ice sprint that accelerates the sled before the athlete lies back."],
+      ["Racing line", "The memorized path — enter high, clip the apex, exit low."],
+      ["Outrun", "The uphill stretch after the finish where the sled slows."],
+      ["Naturbahn", "Natural-track luge on winding snow runs — a FIL discipline of its own."],
+      ["Sector split", "Timing between track sections that shows where hundredths were lost."],
+      ["Touchpad", "The relay's trigger — the next sled starts the instant it is struck."],
+      ["Thousandths", "Luge timing's unit of decision — the finest margin in winter sport."]
+    ],
+    "related": ["skeleton", "bobsleigh", "alpine-skiing"],
+    "crosslink": false
+  },
+  {
+    "slug": "curling",
+    "name": "Curling",
+    "category": "winter",
+    "glyph": "🥌",
+    "tagline": "Nineteen-kilogram granite stones, brooms, and eight ends of geometry on ice.",
+    "origin": "Scotland · 1541",
+    "tags": ["Team", "Precision", "Strategy", "Olympic"],
+    "overview": [
+      "Curling is precision team play on ice: teams of four slide 19-kg granite stones down a 45.72 m sheet toward the house, a target of four concentric rings, while teammates sweep to adjust speed and curve. Only one team scores per end — the team with the stones closest to the button — and the last-stone advantage, the hammer, shapes every strategic choice.",
+      "Scotland wrote the rules and Canada wrote the culture: club curling is a civic institution across the northern latitudes, bonspiels run from village leagues to the Scotties and the Brier, and the sport's Olympic revival since 1998 turned skips into household names. It is often called chess on ice, and the comparison holds — visible strategy, invisible margins.",
+      "Newcomers should find a learn-to-curl session: two hours, all gear included, and you will throw takeouts in week one. The delivery is a lunge, balance is the whole game, and honesty is built in — players call their own fouls, which tells you what kind of sport this is."
+    ],
+    "facts": [
+      ["Governing body", "World Curling Federation, the international federation since 1966"],
+      ["Teams", "Four players — lead, second, vice-skip, and skip — each throwing two stones per end"],
+      ["Sheet", "45.72 m (150 ft) long and about 5 m wide, pebbled with water droplets that make stones curl"],
+      ["House", "Concentric rings of 12, 8, and 4 feet around the button at the center"],
+      ["Stones", "17.24-19.96 kg granite from Ailsa Craig, Scotland — shaped and polished by Kays of Scotland"],
+      ["Olympic status", "Medal event at Chamonix 1924, recognized retroactively in 2006, and continuously since Nagano 1998"],
+      ["Game length", "Ten ends in championship play; eight ends in club games and mixed doubles"]
+    ],
+    "history": [
+      ["1541", "The first written record of curling appears in Scotland — a game on frozen ponds already old when written down."],
+      ["1716", "Kilsyth's curling club traces itself to 1716, the sport's oldest traced club."],
+      ["1838-1843", "The Grand Caledonian Curling Club standardizes the laws of the game; royal patronage in 1843 adds the Royal to its name."],
+      ["1924", "Curling is played at the first Winter Olympics in Chamonix; the IOC confirms its medal status in 2006."],
+      ["1998", "Curling returns as a full medal sport at Nagano — television discovers the sweep."],
+      ["2018-2022", "Mixed doubles debuts at PyeongChang 2018, and the four-player mixed team event joins at Beijing 2022."]
+    ],
+    "formats": [
+      ["Team curling", "The classic four-player game, ten ends at championships — strategy at its deepest."],
+      ["Mixed doubles", "Two players, eight ends, each team throwing five stones with one pre-positioned — fast, tactical, Olympic since 2018."],
+      ["Mixed team", "Two men and two women alternating — an Olympic event since Beijing 2022."],
+      ["Wheelchair curling", "Paralympic since 2006, delivered from a stationary position with no sweeping."],
+      ["Stick curling", "Delivery with a push stick — the game's most accessible variant for players of any mobility."]
+    ],
+    "skills": [
+      ["Delivery", "A balanced lunge from the hack: stone on line, slide low, release smooth.", "A hundred dry slides a week — balance beats power; a knee-slide drill on the back line teaches the weight transfer."],
+      ["Draw weight", "Throwing a stone to stop on the button without sweeping — the calibrated memory at the heart of the game.", "Time every throw with a stopwatch and log it; ten draws per practice to a target, in-turn and out-turn."],
+      ["Takeouts", "Removing opponent stones with weight and angle — peel weight clears guards at maximum pace.", "Set target stones and throw ten takeouts per practice; hit-and-rolls teach angle control."],
+      ["Sweeping", "Friction control in real time: sweeping adds distance, straightens the path, and is the difference between a point and a blank.", "Forty-five-second maximum-effort sweep intervals — the position is an aerobic sport in disguise."],
+      ["Reading the ice", "Every sheet curls differently by the minute — frost, humidity, and pebble all shift the line.", "Throw a dozen draws at the start of every session and chart where they stopped."],
+      ["Calling (skipping)", "The skip reads the end, chooses shots, and shows the broom — decision-making under a running clock.", "Score your own decisions like statisticians do; replay one end after every game and defend the calls aloud with your team."],
+      ["Handle (rotation)", "In-turn and out-turn rotations decide whether the stone curls in or out — the same weight, two personalities.", "Alternate rotations throw by throw; mirror drills with the non-dominant hand build feel."]
+    ],
+    "rules": [
+      "Ten ends in championship play, eight in most club games: each team throws eight stones per end, two per player.",
+      "Only one team scores per end — one point for each of its stones closer to the button than the opponent's best.",
+      "The scoring team throws first the following end, surrendering the hammer; the team with hammer throws last, the key advantage.",
+      "The five-rock rule protects guards: stones in the free guard zone cannot be removed from play before the fifth stone of the end, a WCF standard since 2018.",
+      "Deliveries must be released before the near hog line, and stones must cross the far hog line to stay in play.",
+      "Touching a moving stone is a foul — the non-offending team chooses the remedy — and players call their own violations."
+    ],
+    "equipment": [
+      ["Stones", "Ailsa Craig granite at $400-700 each — clubs own them; players never do."],
+      ["Broom", "Carbon-fiber shaft with a WCF-certified pad head. $100-300."],
+      ["Curling shoes", "One slider sole (PTFE), one gripper — or a slip-on slider over a sneaker to start. $100-250."],
+      ["Delivery stick", "Pushes the stone from a standing position — the stick curling tool and an accessibility lifeline. $40-80."],
+      ["Stopwatch", "Timed deliveries are how draw weight is learned. $10-30."],
+      ["Warm layers", "Flexible pants and layers you can lunge in — ice arenas sit near freezing."]
+    ],
+    "training": [
+      "Sweeping fitness is the hidden athletic base: interval training that mimics 45-second maximum efforts.",
+      "Balance work — single-leg squats, lunges, and stability drills — carries directly into delivery consistency.",
+      "Throw volume with intent: every practice includes timed draws to a target and charted results.",
+      "Strategy study: watch Grand Slam matches with the skip's decisions in mind and pause before each call.",
+      "Hip and ankle mobility keep the delivery lunge deep and repeatable across a season of league nights."
+    ],
+    "pathway": [
+      ["Learn-to-curl", "Two-hour sessions at almost any curling club, gear included."],
+      ["Novice leagues", "Weekly club leagues with coaching nights — the sport's social and skill engine."],
+      ["Playdowns", "Club teams enter regional and provincial championships — Canada's Brier pipeline is the model."],
+      ["National and tour ranks", "National championships and the Grand Slam of Curling's professional circuit."],
+      ["World titles and Olympics", "WCF world championships and the Games, reached through national team programs."]
+    ],
+    "events": [
+      ["Winter Olympics", "Curling's medal program continuously since 1998, with mixed doubles since 2018."],
+      ["World Curling Championships", "Annual men's, women's, mixed doubles, and mixed team titles under the WCF."],
+      ["Grand Slam of Curling", "The professional tour's premium series, several events each season."],
+      ["The Brier and Scotties Tournament of Hearts", "Canada's national men's and women's championships — the deepest talent pools in the sport."],
+      ["European Curling Championships", "The annual continental title, a world championship qualifier."]
+    ],
+    "legends": [
+      ["Brad Gushue", "Canada — Turin 2006 Olympic champion and the anchor of Canadian curling for two decades."],
+      ["Kevin Martin", "Canada — Vancouver 2010 Olympic champion and one of the greatest strategists the game has seen."],
+      ["Niklas Edin", "Sweden — Beijing 2022 Olympic champion and multiple world titles; the engine of Sweden's modern dynasty."],
+      ["Jennifer Jones", "Canada — an undefeated run to Sochi 2014 gold; the standard of women's skipping for a generation."],
+      ["Eve Muirhead", "Scotland — the 2013 world champion at 22 who skipped Great Britain to Beijing 2022 gold."]
+    ],
+    "getting_started": [
+      "Find a learn-to-curl session — two hours, roughly $20-40, all equipment provided.",
+      "Wear thin, clean-soled sneakers and stretchy layers; you will be lunging on ice within the hour.",
+      "Learn delivery balance before weight — a stable, repeatable slide is the whole technique.",
+      "Sweep with your legs and body weight, not your arms; watch the stone and listen for the skip's call.",
+      "Join a novice league within your first month — strategy only develops against real opponents.",
+      "Watch one Grand Slam broadcast with commentary; the sport's strategy becomes legible fast."
+    ],
+    "glossary": [
+      ["Bonspiel", "A curling tournament — the sport's social heart since the club era began."],
+      ["Skip", "The team's strategist, who calls the shots and usually throws last."],
+      ["Hammer", "The last stone of an end — the advantage every end's tactics are built around."],
+      ["Hog line", "The line a delivery must be released before — and the far line stones must cross to live."],
+      ["House", "The four-ring target at each end of the sheet."],
+      ["Button", "The small center circle of the house — the measuring point for scoring."],
+      ["Draw", "A stone thrown to stop at a chosen spot, usually in the house."],
+      ["Takeout", "A stone thrown hard enough to remove another from play."],
+      ["Guard", "A stone placed in front of the house to protect scoring stones."],
+      ["Pebble", "The frozen water droplets sprayed on the ice that let stones glide and curl."]
+    ],
+    "related": ["ice-hockey", "snooker", "petanque", "golf"],
+    "crosslink": false
+  }
+]
