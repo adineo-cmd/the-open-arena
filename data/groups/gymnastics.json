@@ -1,0 +1,1057 @@
+[
+  {
+    "slug": "artistic-gymnastics",
+    "name": "Artistic Gymnastics",
+    "category": "gymnastics-aesthetic",
+    "glyph": "🤸",
+    "tagline": "Six apparatus for men, four for women — flight, strength, and landings judged to the tenth.",
+    "origin": "Prussia · early 1800s",
+    "tags": ["Olympic", "Apparatus", "Code of Points", "FIG"],
+    "overview": [
+      "Artistic gymnastics is the Olympic discipline of short, explosive routines on apparatus — women compete on vault, uneven bars, balance beam, and floor exercise; men on floor, pommel horse, still rings, vault, parallel bars, and high bar. Every routine gets two scores: a D-score that rewards what you attempt and an E-score that grades how cleanly you do it.",
+      "It carries a weight of history no other gymnastic discipline matches — the modern Olympic program has included men's gymnastics since 1896, and its icons cross into general culture, from Nadia Comaneci's perfect 10 to skills named after Simone Biles. National programs from Romania to Japan to the United States treat it as a medal engine and a national narrative at once.",
+      "Newcomers should know that gymnastics rewards shapes before tricks: a tight hollow body, straight knees, and pointed toes are the alphabet every skill is written in. Progress is patient and hierarchical — nobody learns a full-twisting double back before a standing back tuck, and good coaching exists to enforce exactly that ladder."
+    ],
+    "facts": [
+      ["Modern form", "Friedrich Jahn's Turner movement in Berlin, from 1811, builds the apparatus the sport still uses"],
+      ["Governing body", "FIG (Federation Internationale de Gymnastique), founded 1881 — the oldest international sports federation"],
+      ["Events", "Women: vault, uneven bars, balance beam, floor. Men: floor, pommel horse, rings, vault, parallel bars, high bar"],
+      ["Scoring", "Open-ended D-score for difficulty plus E-score for execution, started at 10.00 and docked in tenths — the system since 2006"],
+      ["Olympic status", "Men's program since Athens 1896; women's team event since Amsterdam 1928"],
+      ["First world championships", "1903 in Antwerp; women first competed at the Worlds in 1934"],
+      ["Arena", "A 12 by 12 m floor mat, a 5 m beam 10 cm wide, bars rising from 1.70 to 2.50 m"]
+    ],
+    "history": [
+      ["1811", "Friedrich Jahn opens Berlin's first outdoor gymnasium, fusing exercise with apparatus — the horse, the bars, and the beam all descend from his Turner halls."],
+      ["1881", "European federations found the FIG in Liege, the world's first international governing body for any sport."],
+      ["1896", "Men's gymnastics anchors the first modern Olympics in Athens, with events on horse, bars, rings, and even rope climbing."],
+      ["1928-1952", "Women enter the Olympic program at Amsterdam in 1928; individual apparatus medals for women arrive at Helsinki in 1952."],
+      ["1976", "Fourteen-year-old Nadia Comaneci scores the first perfect 10 in Olympic history at Montreal — seven of them in one Games."],
+      ["2006", "After the judging controversies of Athens 2004, the FIG retires the perfect 10 and adopts the open-ended D-score plus E-score system."],
+      ["2010s-2020s", "Simone Biles pushes difficulty past what the Code anticipated, and new vaults and floor passes are named after her."]
+    ],
+    "formats": [
+      ["Women's artistic", "Four apparatus — vault, uneven bars, beam, floor — contested as all-around, team, and individual event finals."],
+      ["Men's artistic", "Six apparatus from floor to high bar; the all-around remains the sport's most prestigious single title."],
+      ["Team competition", "Squads of five at the Olympics, with three gymnasts performing and counting on each apparatus in the team final."],
+      ["Event finals", "Eight qualifiers per apparatus, one routine each — vault specialists and bar workers chase medals of their own."],
+      ["Development and Xcel", "USA Gymnastics' age-group programs offer competition without elite hours — the league most gymnasts grow up in."],
+      ["NCAA gymnastics", "The American college season, whose championships fill arenas and have become a television staple."]
+    ],
+    "skills": [
+      ["Handstand", "The vertical position on which bars, rings, and beam skills begin and end — straight arms, straight body, stacked over the shoulders.", "Wall handstand holds of 30-60 seconds daily, then freestanding holds; a coach checks the line with side-on video."],
+      ["Kip and cast", "The bar fundamental — a glide, a snap to support, and a cast to handstand that unlocks every uneven bars and high bar routine.", "Three sets of ten kip-cast-handstands per bars session; strength comes from leg lifts and hollow holds, not from muscling the skill."],
+      ["Vault technique", "A sprint, a round-off or handspring entry, one explosive block off the hands, and a salto set from that block.", "Run-speed drills over 25 m, then hurdle and board-timing reps onto a resi pit before moving to the hard table."],
+      ["Beam tumbling", "Connected flips and turns on a 10 cm surface — the sport's tightrope act.", "Every beam skill lands first on the floor line, then on a low beam over a pit, then at competition height; 20-30 quality reps per session."],
+      ["Rings strength", "Static holds — L-sit, iron cross, planche — plus swinging giants that separate men's gymnastics from every other sport.", "Straight-arm strength work: rows, pull-ups, support holds, and band work three sessions a week; never train crosses on tired shoulders."],
+      ["Floor choreography", "Tumbling and dance composed into 70-90 seconds, with the women's floor performed to music.", "Mark the routine daily, run it full-out three times, and film from the front to check lines and expression."],
+      ["Stuck landing", "Finishing a dismount without a step — the tenths that decide medals.", "Pit dismounts first, then flat, quiet landings with hips under shoulders; only then add difficulty to the dismount."]
+    ],
+    "rules": [
+      "A difficulty panel computes the D-score from skill values and connection bonuses, while execution judges start at 10.00 and deduct for bent knees, separated legs, and poor lines.",
+      "A fall from an apparatus costs 1.00; a small step on landing costs 0.10, a larger stumble 0.30.",
+      "The balance beam is 5 m long and 10 cm wide at 1.25 m high; routines must stay under 90 seconds and mix acrobatics, dance elements, and turns.",
+      "Men's floor routines run up to 70 seconds; women's floor is choreographed to music within a 70-90 second window.",
+      "Vault finalists perform two different vaults and the scores are averaged; the table stands 1.25 m for women and 1.35 m for men, with uneven bars at 1.70 and 2.50 m.",
+      "Gymnasts must turn 16 in the Olympic year to compete at the Games — a rule tightened after age-falsification scandals.",
+      "At the Olympics, teams of five compete, three perform and count on each apparatus in the team final, and qualification scores never carry into finals."
+    ],
+    "equipment": [
+      ["Grips and wrist bands", "Leather grips protect palms on bars; broken in over weeks, replaced several times a year. $30-70."],
+      ["Chalk", "Magnesium carbonate for hands — the smell of every gym. A block lasts about a month. $10-15."],
+      ["Leotards and singlets", "Training leotards from $25; competition leotards with crystals run $100-500, and men wear stirrup pants with a singlet."],
+      ["Home beam and mats", "A folding low beam costs $80-150; 10 cm panel mats around $200 protect home landings."],
+      ["Pit and resi systems", "Foam pits and resi pits are the safety backbone — clubs absorb the five-figure cost, athletes absorb the confidence."],
+      ["Tape and bar brushes", "Pre-wrap and athletic tape for wrists and fingers, plus brushes to keep the rails chalked and consistent."]
+    ],
+    "training": [
+      "Train shapes daily: hollow holds, arch rocks, and handstands are the alphabet — 10-15 minutes every session, at every level, forever.",
+      "Build straight-arm and core strength with pulls, rows, and leg lifts; gymnasts need the strength ratio to lift their own body through space on rings and bars.",
+      "Protect ankles and wrists: calf raises, wrist conditioning, and landings on soft surfaces come before hard tables — lower-limb injuries cluster around underprepared landings.",
+      "Periodize like a spring sport: skill acquisition blocks in the off-season, routine hardening and peak conditioning before competition, with planned deload weeks.",
+      "Respect the volume: elites train 25-35 hours across six days, and age-group athletes should protect school and sleep before chasing elite hours."
+    ],
+    "pathway": [
+      ["Recreational classes", "Ages 4-7 on scaled equipment — cartwheels, rolls, swings, and the love of being upside down."],
+      ["Development and Xcel", "Age-group competition with progressive levels; most gymnasts compete happily here for years."],
+      ["Junior elite", "National testing and junior international assignments begin, with hours climbing toward 25-30 a week in the early teens."],
+      ["Senior elite", "World championship and World Cup selection through national team camps; in the United States, college scholarships run in parallel."],
+      ["Olympic cycle", "Team selection through national championships and trials, with all-arounders and apparatus specialists named per quota."]
+    ],
+    "events": [
+      ["Olympic Games", "Every four years — team, all-around, and apparatus finals for each gender; the sport's summit since 1896."],
+      ["FIG World Championships", "Annual in non-Olympic years, rotating host cities; all-around and apparatus titles decided over roughly ten days."],
+      ["World Cup series", "Annual FIG World Cups in Cottbus, Baku, Doha and elsewhere, offering apparatus titles and Olympic qualification points."],
+      ["Continental championships", "European, Asian, and Pan American championships each year — the proving ground between nationals and Worlds."],
+      ["NCAA championships", "The American college final each April, a television hit that routinely rivals elite meets for attention."]
+    ],
+    "legends": [
+      ["Larisa Latynina", "Soviet Union — 18 Olympic medals including 9 gold across three Games, a record for any athlete in any sport until Michael Phelps."],
+      ["Nadia Comaneci", "Romania — the first perfect 10 in Olympic gymnastics at Montreal 1976, aged 14, and the sport's global breakthrough star."],
+      ["Kohei Uchimura", "Japan — Olympic all-around champion in 2012 and 2016, with six consecutive world all-around titles from 2009 to 2015."],
+      ["Vera Caslavska", "Czechoslovakia — seven Olympic golds among 11 medals, all-around champion of 1964 and 1968, and a quiet symbol of resistance in 1968."],
+      ["Simone Biles", "United States — 11 Olympic medals and a record 30 world championship medals; the most difficult routines ever performed, several named after her."]
+    ],
+    "getting_started": [
+      "Find a recreational class with foam pits and qualified coaches — gymnastics is the one sport where self-teaching is genuinely dangerous.",
+      "Master the alphabet first: forward roll, backward roll, cartwheel, handstand against a wall, bridge. Everything is built from these five shapes.",
+      "Do three handstand sets a day at home — 30-60 seconds against the wall with straight arms and ribs pulled in.",
+      "Build basic strength with push-ups, pull-ups, hollow holds, and jumps, three sessions a week, before asking for harder skills.",
+      "Watch one event per competition with a judging eye, counting execution deductions aloud to train your eye.",
+      "Be patient with fear: beam and high bar courage grows from hundreds of easy repetitions, never from skipping steps."
+    ],
+    "glossary": [
+      ["D-score", "The difficulty score — the sum of skill values and connection bonuses, with no upper limit."],
+      ["E-score", "The execution score — starts at 10.00 and loses tenths for every form break."],
+      ["Stuck landing", "A dismount finished without a step or stumble — the cleanest sound in sport."],
+      ["Yurchenko", "A vault entered with a round-off onto the board and a back handspring onto the table; the family that holds the sport's hardest vaults."],
+      ["Giants", "Full circling swings around the bar through handstand — the engine of every bar routine."],
+      ["Kip", "The glide-and-pull to support that starts nearly every women's bar routine."],
+      ["Arabian", "A half-turning entry that flips the salto's direction — the Arabian double front is one of floor's hardest tricks."],
+      ["Salto", "A flip with somersault rotation, named by direction (front, back, side) and shape (tuck, pike, layout)."],
+      ["Squeeze", "Coaching shorthand for a tight, straight body position — loose shapes bleed tenths everywhere."],
+      ["Code of Points", "The FIG rulebook of skill values and deductions, rewritten every Olympic cycle."]
+    ],
+    "related": ["trampoline-gymnastics", "rhythmic-gymnastics", "breaking", "parkour", "diving"],
+    "crosslink": false
+  },
+  {
+    "slug": "rhythmic-gymnastics",
+    "name": "Rhythmic Gymnastics",
+    "category": "gymnastics-aesthetic",
+    "glyph": "🎀",
+    "tagline": "Five hand apparatus, one carpet — ballet's lines and a gymnast's engine, scored three ways.",
+    "origin": "Eastern Europe · early 1900s",
+    "tags": ["Olympic", "Apparatus", "Women's discipline", "FIG"],
+    "overview": [
+      "Rhythmic gymnastics is performed on a 13 by 13 m carpet with hand apparatus — rope, hoop, ball, clubs, and ribbon — blending dance, ballet, and acrobatics into routines of 75 to 90 seconds for individuals and up to two and a half minutes for groups of five. Judges score three panels: difficulty, artistry, and execution.",
+      "It is the most celebrated of the aesthetic disciplines: born from ballet and the European free-exercise tradition, polished by the Soviet and later Russian schools into decades of dominance, and adored wherever it tours. The ribbon's spirals and the group's five-body geometry make it gymnastics' most photographed art form.",
+      "Newcomers should know the sport is judged on what happens between tricks as much as on the tricks: the apparatus must be handled constantly, with throws, catches, and body connections woven through every passage. Flexibility and musicality are trained daily alongside the leaps and pivots that anchor each routine."
+    ],
+    "facts": [
+      ["Disciplines", "Individual (four apparatus per Olympic cycle, drawn from the five) and group (five gymnasts, one or two apparatus)"],
+      ["Governing body", "FIG, which took the discipline in as modern gymnastics and staged its first world championships in 1963 in Budapest"],
+      ["Olympic status", "Individual all-around since Los Angeles 1984; group competition since Atlanta 1996; women only at the Games"],
+      ["Routine length", "Individual: 75-90 seconds. Group: 2 minutes 15 seconds to 2 minutes 30 seconds"],
+      ["Scoring", "Three panels out of 10 each — difficulty, artistry, execution — for a 30.00 ceiling per routine"],
+      ["Apparatus specs", "Hoop 80-90 cm across; ball 18-19 cm and about 400 g; ribbon of 6 m on a 50-60 cm stick"],
+      ["Benchmark", "Dina Averina is the only four-time world all-around champion; Russian gymnasts have owned the all-around for decades"]
+    ],
+    "history": [
+      ["Early 1900s", "Dalcroze's eurhythmics and the German free-exercise schools fuse music, ballet, and hand apparatus into rhythmic forerunners."],
+      ["1930s-1940s", "The Soviet Union builds its first rhythmic schools around ballet academies, and the discipline spreads through Eastern Europe."],
+      ["1962-1963", "The FIG recognizes the discipline and stages the first world championships in Budapest in 1963, won by the USSR's Ludmila Savinkova."],
+      ["1984", "Rhythmic gymnastics joins the Olympic program in Los Angeles, with Canada's Lori Fung taking the first all-around gold."],
+      ["1996", "Group competition debuts at the Atlanta Olympics, where Spain wins the first group gold."],
+      ["2000-2012", "The Russian school sets the standard, and Evgenia Kanaeva becomes the only gymnast with two Olympic all-around titles."],
+      ["2021-2023", "Dina Averina claims a record fourth straight world all-around title, and Germany's Darja Varfolomeev takes the 2023 crown as the sport globalizes."]
+    ],
+    "formats": [
+      ["Individual all-around", "Four rotations, one per apparatus, with the total deciding the champion."],
+      ["Apparatus finals", "The top eight on each apparatus return for one routine each — hoop, ball, clubs, and ribbon medals of their own."],
+      ["Group of five", "Five athletes share one or two apparatus in synchronized routines of throws, exchanges, and five-body formations."],
+      ["Group all-around", "Groups perform two routines in qualifying — one with a single apparatus type, one mixing two — and finals repeat both for medals."],
+      ["Junior categories", "Ages 13-15 compete under junior rules with simpler requirements, the pipeline into senior international ranks."]
+    ],
+    "skills": [
+      ["Body difficulty", "Leaps, pivots, and balances with required shapes — a full split leap, a penche, a multi-rotation turn on releve.", "Daily ballet barre and flexibility blocks; each body element is drilled in isolation, then connected to apparatus handling."],
+      ["Apparatus mastery", "Constant, precise handling — rolls along the body, blind catches behind the back, taps and circles without interruption.", "Ten-minute handling circuits per apparatus every session; master the throw to a marked target before adding height."],
+      ["Throw and catch", "Apparatus launched several meters into the air and recovered mid-leap or out of a roll — the sport's signature risk.", "Progress from standing catches to catches out of a back walkover; count rotations aloud and fix the eyes on the catch early."],
+      ["Ribbon technique", "Spirals, snakes, and swings from a 6 m ribbon that must never knot or touch the floor.", "Wrist-driven patterns with a shorter ribbon first; a metronome keeps spirals even before speed climbs."],
+      ["Ball handling", "The one apparatus never gripped — balanced on the hand, rolled across the back, bounced through the routine.", "Rolls along arm, back, and chest with the ball resting in the fingers; dry hands and patience, no squeeze."],
+      ["Pivot turns", "Multi-rotation turns on releve with a shaped free leg and apparatus layered on top.", "Releve and turn-board drills daily; add apparatus only when triples are consistent without a wobble."],
+      ["Group synchronization", "Five bodies breathing as one — identical timing on throws, exchanges, and formation changes.", "Metronome work, mirrored drills, and slow-motion run-throughs; exchanges are rehearsed hundreds of times before speed."],
+      ["Artistry", "Expression, musical connection, and choreographic texture — the artistry panel's 10 points.", "Separate choreography sessions; cross-training in ballet and contemporary builds the movement quality judges reward."]
+    ],
+    "rules": [
+      "Individuals perform four routines of 75-90 seconds, one per apparatus; only four of the five apparatus are contested in any Olympic cycle, and the dropped one rotates.",
+      "Groups of five perform two routines in qualifying — one with a single apparatus type, one mixing two — and both count for the all-around total.",
+      "Three judging panels score out of 10: difficulty, artistry, and execution, for a maximum of 30.00 per routine.",
+      "A drop costs real points through the execution panel and severs the difficulty connections built around it.",
+      "The competition carpet is 13 by 13 m; stepping outside it with or without the apparatus brings deductions.",
+      "A coach may return a dropped apparatus, but the assistance itself carries a penalty.",
+      "Routines must meet the Code's minimum counts of body difficulties, dance steps, and apparatus-handling elements, or the score is capped."
+    ],
+    "equipment": [
+      ["Ribbon", "6 m of satin on a fiberglass or plastic stick; FIG-approved models from the major brands run $30-60."],
+      ["Hoop", "80-90 cm interior diameter, minimum 300 g, taped for grip. $25-55."],
+      ["Ball", "18-19 cm, about 400 g, in latex or rubber with a matte finish for control. $40-80."],
+      ["Clubs", "A 40-50 cm pair of at least 150 g each, matched in weight and color. $50-120 per pair."],
+      ["Half shoes", "Toe shoes that leave the heel bare for pivots and pointes. $20-50."],
+      ["Competition leotard", "Training leotards from $40; a crystal-covered custom competition leotard runs $300-1,000 or more."],
+      ["Floor carpet", "Clubs train and compete on a 13 by 13 m carpet; home training uses a soft mat section and a cleared floor."]
+    ],
+    "training": [
+      "Flexibility is a daily discipline: active splits, oversplits with control, and back mobility every session — passive range means nothing without strength inside it.",
+      "Ballet class two or three times a week builds the lines, turnout, and musicality the artistry panel rewards.",
+      "Apparatus handling is volume training: 15-20 minutes per apparatus daily, with throwing accuracy logged the way a pitcher counts strikes.",
+      "Condition like a sprinter: routines are 90 seconds at high intensity, so train the anaerobic alactic and glycolytic systems with leap circuits and intervals.",
+      "Protect spine and hips: core anti-rotation work, hip-control drills, and carefully monitored loading for young gymnasts during growth spurts.",
+      "Rehearse under pressure: weekly run-throughs in competition leotard, judges' tables mocked up, no second attempts allowed."
+    ],
+    "pathway": [
+      ["Introductory classes", "Ages 5-8, play-based sessions with ribbon, hoop, and ball — music and movement before requirements."],
+      ["Regional competition", "Local and national age-group circuits with simplified difficulty rules and 8-12 training hours a week."],
+      ["National junior squad", "Testing into national programs, with hours climbing toward 20-30 weekly alongside school flexibility arrangements."],
+      ["Senior elite", "World Cup and world championship selection; top programs train 30 or more hours a week."],
+      ["Group pathway", "Nations select five-person groups separately — choreography-heavy, career-long partnerships with their own trials."]
+    ],
+    "events": [
+      ["Olympic Games", "Individual all-around and group — two medal events since 1984 and 1996 respectively."],
+      ["World Championships", "Annual, rotating host cities; all-around, apparatus finals, and group medals across ten days."],
+      ["World Cup series", "Annual stops in Sofia, Tashkent, Baku, Pesaro and elsewhere, spreading apparatus titles and ranking points."],
+      ["Continental championships", "European, Asian, Pan American, and African championships each year, doubling as qualification events."],
+      ["Grand Prix circuit", "Invitational meets with long traditions — Holon, Brno, Moscow and more — between the World Cups."]
+    ],
+    "legends": [
+      ["Marina Lobatch", "Soviet Union — the first Olympic all-around champion at Seoul 1988."],
+      ["Lori Fung", "Canada — won rhythmic gymnastics' first Olympic gold in Los Angeles 1984, when the boycott kept much of the field away."],
+      ["Evgenia Kanaeva", "Russia — the only gymnast with two Olympic all-around titles (2008, 2012) and 17 world championship golds."],
+      ["Dina Averina", "Russia — a record four consecutive world all-around titles (2017, 2018, 2019, 2021), 18 world golds, and Tokyo Olympic silver."],
+      ["Alina Kabaeva", "Russia — 2004 Olympic champion and two-time world all-around champion (1999, 2003)."]
+    ],
+    "getting_started": [
+      "Start with a general gymnastics or dance class that introduces hand apparatus — coordination with ribbon and ball is trainable at almost any age.",
+      "Buy one apparatus to practice with at home — a ribbon is cheapest and safest — plus a soft mat to protect the floor and the knees.",
+      "Take a flexibility inventory: active split, shoulder mobility, bridge. Train the weakest link in daily 20-minute blocks.",
+      "Learn the musical side deliberately: clap rhythms, mark choreography to counts, and take one ballet class a week.",
+      "Master one throw-and-catch pattern per apparatus before adding height — accuracy first, amplitude later.",
+      "Watch group routines on video to study formations, exchange timing, and the difference between pretty and precise.",
+      "Find a club with a certified coach; self-taught throws teach bad habits that are expensive to unlearn."
+    ],
+    "glossary": [
+      ["D-score", "Difficulty — the summed value of body elements, apparatus handling, and dance steps."],
+      ["A-score", "Artistry — musicality, expression, and choreographic quality judged by a separate panel out of 10."],
+      ["E-score", "Execution — technical cleanliness out of 10, docked for drops, wobbles, and imprecise apparatus work."],
+      ["Rotation", "One apparatus round in an all-around or group competition — four for individuals, two for groups."],
+      ["Exchange", "A group throw-and-catch between gymnasts — the moment the whole arena holds its breath."],
+      ["Handling", "Every contact with the apparatus; the Code rewards risk and penalizes letting the apparatus go still."],
+      ["Pivot", "A releve turn with a defined free-leg shape — triples and quads separate podiums."],
+      ["Spiral", "The ribbon's circular pattern, driven from the wrist and judged on evenness."],
+      ["Penche", "A balance on one leg with the free leg lifted vertical behind — a classic body difficulty."],
+      ["Oversplit", "A split beyond 180 degrees, trained with control — the flexibility signature of the sport."]
+    ],
+    "related": ["artistic-gymnastics", "trampoline-gymnastics", "artistic-swimming", "figure-skating", "dancesport"],
+    "crosslink": false
+  },
+  {
+    "slug": "trampoline-gymnastics",
+    "name": "Trampoline Gymnastics",
+    "category": "gymnastics-aesthetic",
+    "glyph": "🤸",
+    "tagline": "Ten skills, one routine, ten seconds of air — the purest flying in the Olympic program.",
+    "origin": "United States · 1936",
+    "tags": ["Olympic", "Aerial", "FIG", "Synchronized"],
+    "overview": [
+      "Trampoline gymnastics sends athletes through ten-skill routines on a sprung nylon bed, where elites spend close to ten seconds per routine airborne and reach heights beyond six meters. The total score adds four things: difficulty, execution out of 10.0, horizontal displacement, and time of flight measured by a sensor under the bed.",
+      "Invented as a training tool and a circus-inspired plaything, it became a competitive discipline with its own federation in 1964, joined the FIG in 1999, and arrived at the Olympics in Sydney in 2000. Synchronized trampoline — two athletes on two beds matching each other flip for flip — is the discipline's most spellbinding format.",
+      "Newcomers should know the sport is judged on precision as much as bravery: a routine is ten straight, piked, or tucked shapes, each opened and closed at exactly the right angle, landing within centimeters of the bed's center. The road from first bounce to triple somersault runs through years of pit, trampette, and belted progression."
+    ],
+    "facts": [
+      ["Modern trampoline", "Built in 1936 by George Nissen and Larry Griswold at the University of Iowa"],
+      ["Governing body", "FIG — trampoline arrived through its own federation (the FIT, founded 1964) merging into FIG in 1999"],
+      ["Olympic status", "Individual trampoline for men and women since Sydney 2000"],
+      ["Routine", "Ten skills; qualification uses two routines, the final one — around ten seconds airborne per pass"],
+      ["Scoring", "Total = difficulty + execution (from 10.0) + time of flight (seconds multiplied by 0.6) + horizontal displacement"],
+      ["First world championships", "1964 in London"],
+      ["Bed", "A woven-nylon web of about 4.3 by 2.1 m strung on springs inside a steel frame near 5 by 3 m"]
+    ],
+    "history": [
+      ["1936", "University of Iowa gymnast George Nissen and Larry Griswold bolt a canvas bed to coil springs and name it after the Spanish trampolin, a diving board."],
+      ["1940s-1950s", "Nissen tours the world demonstrating, schools adopt the apparatus for aerial training, and the space-race era puts it to work for astronaut conditioning."],
+      ["1964", "The International Trampoline Federation forms and crowns the first world champions at the Royal Albert Hall in London."],
+      ["1999", "The FIT merges into the FIG, aligning trampoline with the Olympic family."],
+      ["2000", "Trampoline debuts at the Sydney Olympics; Russia's Irina Karavaeva and Alexander Moskalenko take the first golds."],
+      ["2012-2016", "Canada's Rosannagh MacLennan becomes the first trampolinist to defend an Olympic title, while China's Dong Dong builds a four-Games medal run."],
+      ["2021-2024", "Belarus's Ivan Litvinovich wins back-to-back Olympic golds — first in Tokyo, then in Paris as a neutral athlete — a first for a male trampolinist."]
+    ],
+    "formats": [
+      ["Individual trampoline", "The Olympic discipline: two routines in qualifying, one in the final, ten skills each on the standard bed."],
+      ["Synchronized trampoline", "Two athletes, two beds, one routine in unison — judged on execution plus how precisely they mirror each other."],
+      ["Tumbling", "A FIG discipline on a 25 m track — explosive passes of eight elements or more, judged on tempo and landing."],
+      ["Double mini-trampoline", "A sprint, two skills on a small angled bed, and a dismount — sprint-quick decisions at speed."],
+      ["Age-group competition", "Restricted routines and compulsory elements let juniors compete safely on the same beds as seniors."]
+    ],
+    "skills": [
+      ["Straight bouncing", "Controlled vertical bounces with a flat, quiet body line, stopping exactly where you choose.", "Three 60-second straight-bounce sets with coach-checked form; every landing must return to the center cross before anything else."],
+      ["Tuck, pike, and layout", "The three somersault shapes, opened at the right angle for every landing.", "Shaping drills onto soft mats, then slow trampette progressions; film each set against a coach's model."],
+      ["Twisting", "Baranis, fulls, and adlers — rotation around the long axis layered onto somersaults.", "Learn half twists into the pit; twisting skills go under a belt until consistent."],
+      ["Timing the bed", "Reading the bed's rhythm so every skill takes off from the sweet spot.", "Count bounce cycles aloud; run ten-skill straight-bounce routines where every landing returns to center."],
+      ["Synchronization", "Matching a partner's shape, height, and tempo within tenths of a second.", "Mirror drills with callouts, then full routines filmed side by side and reviewed frame by frame."],
+      ["Landings", "Killing rotation cleanly on the cross — knees soft, hips forward, arms out.", "Pit landings first, then bed landings from lower skills; a stuck landing is quiet, flat, and still."],
+      ["Routine construction", "Choosing ten skills that balance difficulty against what you can land at 100 percent.", "Score-sheet math with a coach: pick the routine that maximizes difficulty plus flight time without collapsing the execution score."]
+    ],
+    "rules": [
+      "A routine is exactly ten skills; repeating an element is penalized, and an incomplete routine forfeits most of its score.",
+      "Execution judges start each routine at 10.0 and deduct for bent legs, crossed feet, and incomplete rotations; time of flight is measured electronically and multiplied by 0.6.",
+      "Horizontal displacement scores how close the athlete stays to the bed's center — drifting costs points even when the skills are perfect.",
+      "Qualification runs two routines, the first with restrictions on which skills may be used; the final is a single open routine, and qualification scores do not carry over.",
+      "Synchronized pairs are rewarded for unison as strictly as for form — a frame of difference is visible to the judges and the audience alike.",
+      "Elite routines reach heights beyond six meters, which is why spotting rigs, pit ends, and padded frames are mandatory around the competition bed.",
+      "Athletes compete in trampoline shoes or barefoot; jewelry and anything that could cut the bed is banned."
+    ],
+    "equipment": [
+      ["Competition trampoline", "A FIG-spec bed on springs with an electronic flight-time sensor — club-level kit runs $3,000-6,000."],
+      ["Trampoline shoes", "Light, thin-soled slippers that protect the feet without dulling the feel of the bed. $15-40."],
+      ["Landing mats", "Thick mats around and beyond the bed are compulsory; a home gym needs them more than the trampoline itself."],
+      ["Home trampoline", "A quality rectangular backyard trampoline costs $300-800; round toy models do not teach the sport."],
+      ["Spotting belt and rig", "Overhead rigs with hand-spotting belts for learning twisting skills — club equipment, priceless in practice."],
+      ["Tape and first aid", "Minimal compared to artistic gymnastics — finger tape and a stocked kit cover most of it."]
+    ],
+    "training": [
+      "Trampoline fitness is aerial: build the anaerobic alactic system with short, explosive sets, because a routine is ten seconds of maximal effort.",
+      "Squat jumps, hip thrusts, and calf work build the leg stiffness the bed demands; weak ankles leak height on every bounce.",
+      "Neck and core conditioning is non-negotiable — rotation skills load the cervical spine, so strengthen it under supervision before doubles and triples.",
+      "Learn to fall: the soft-landing curriculum in the pit (back drop, front drop, cradle) precedes every new skill by weeks.",
+      "Track your numbers — difficulty, flight-time seconds, and displacement on every routine — and let the score sheet tell you whether to add a skill or polish an old one.",
+      "Cross-train spatial awareness: tumbling, diving, and freestyle sessions build the air sense that new skills draw on."
+    ],
+    "pathway": [
+      ["Club introduction", "First bounces with qualified coaches on a proper rectangular bed — never unsupervised on a toy round trampoline."],
+      ["Age-group competition", "Compulsory and restricted routines, local through national meets, with skills gated by the age-group code."],
+      ["Junior elite", "National squad testing, international junior events, and the first double somersaults under belt and rig."],
+      ["Senior elite", "World Cup circuit and world championships; the Olympic quota is one man and one woman per nation."],
+      ["Specialist routes", "Synchronized pairs, tumbling specialists, and show careers in circus and stunt work branch from the same base."]
+    ],
+    "events": [
+      ["Olympic Games", "Men's and women's individual trampoline since Sydney 2000 — 16 athletes total, one per gender per nation."],
+      ["World Championships", "Annual, covering individual, synchronized, tumbling, and double mini-trampoline titles."],
+      ["World Cup series", "Annual FIG World Cups in Baku, Coimbra, Valladolid and elsewhere, feeding world rankings and Olympic qualification."],
+      ["National championships", "Every major trampoline nation runs annual nationals that select world championship and World Cup teams."],
+      ["Age-group internationals", "Mass-participation gymnastics festivals give juniors their first international bed."]
+    ],
+    "legends": [
+      ["Irina Karavaeva", "Russia — the first Olympic champion in women's trampoline at Sydney 2000 and a multiple world champion."],
+      ["Dong Dong", "China — Olympic gold in London 2012 and medals at four consecutive Games; the most decorated Olympic trampolinist."],
+      ["Rosannagh MacLennan", "Canada — the first trampolinist to win back-to-back Olympic titles (2012, 2016), plus bronze in Tokyo."],
+      ["Jason Burnett", "Canada — 2008 Olympic silver medalist who repeatedly pushed the world difficulty record into new territory."],
+      ["Ivan Litvinovich", "Belarus — the first male trampolinist with back-to-back Olympic golds (Tokyo 2020, Paris 2024)."]
+    ],
+    "getting_started": [
+      "Find a club with competition-style beds and foam pits — the rectangular bed is the sport; backyard round trampolines are toys.",
+      "Learn straight bouncing until a coach can find nothing to fix: 60 seconds, flat body, quiet landings, on the cross.",
+      "Master the back drop, front drop, and crash dive before any somersault — pit safety skills are the sport's seatbelt.",
+      "Do 15 minutes of daily leg and core conditioning: squats, calf raises, hollow holds.",
+      "Film every session; slow motion shows shape errors the body cannot feel.",
+      "Enter a local age-group meet early — compulsory routines teach competition calm better than months of training alone.",
+      "Respect the order: new skills go to the pit, then the rig, then the bed — never skip a step."
+    ],
+    "glossary": [
+      ["Time of Flight", "The seconds a routine spends airborne, measured by a bed sensor and multiplied by 0.6 into score points."],
+      ["Bed", "The woven-nylon jumping surface strung on springs — stiffer and far more responsive than a backyard trampoline."],
+      ["Cross", "The center mark of the bed; horizontal displacement is scored against it."],
+      ["Barani", "A front somersault with a half twist — the gateway to all twisting fronts."],
+      ["Rudi", "A front somersault with one and a half twists; rudis out are the sport's signature exit dismounts."],
+      ["Cradle", "A safety catch position after a twist, hugging the knees — how beginners survive learning to rotate."],
+      ["Triffis", "A triple-twisting double somersault — the top of the men's difficulty tree."],
+      ["Synchrony", "The match between two synchronized athletes, judged frame by frame."],
+      ["Puck", "A hybrid tuck-pike shape allowed on twisting skills where a full tuck is not required."],
+      ["Stuck", "A landing with no travel, no shuffle, and no bounce — the two-footed exclamation point of a routine."]
+    ],
+    "related": ["artistic-gymnastics", "diving", "ski-jumping", "bmx-freestyle", "rhythmic-gymnastics"],
+    "crosslink": false
+  },
+  {
+    "slug": "breaking",
+    "name": "Breaking (B-boying, B-girling)",
+    "category": "gymnastics-aesthetic",
+    "glyph": "🕺",
+    "tagline": "Hip hop's athletic heart — toprock, footwork, freezes, and powermoves settled round by round in battle.",
+    "origin": "The Bronx, New York · 1970s",
+    "tags": ["Olympic", "Street dance", "Battles", "Hip hop"],
+    "overview": [
+      "Breaking — b-boying and b-girling — is the dance discipline born in the Bronx in the early 1970s, danced to the extended breakbeats of hip hop's first DJs. Its vocabulary spans toprock, footwork, freezes, and powermoves, and its competitive form is the battle: dancers alternate rounds and a panel of judges decides the winner.",
+      "It carries fifty years of street culture — crew loyalty, cypher circles, and a code of originality where copying is the only real crime. Paris 2024 made it an Olympic sport, judged on technique, vocabulary, execution, musicality, and variety, and introduced a global television audience to a culture that had already circled the world several times over.",
+      "Newcomers should know that breaking trains the whole athlete: stamina for rounds, strength for freezes, and fearlessness for windmills and flares. The culture matters as much as the tricks — learn to dance to the music before you learn to spin on your head, because judges weigh musicality alongside the fireworks."
+    ],
+    "facts": [
+      ["Roots", "Bronx block parties of the early 1970s, where DJ Kool Herc's extended breakbeats created the space b-boys filled"],
+      ["Governing body", "The World DanceSport Federation ran breaking's Olympic pathway; the wider culture is governed by crews and jams"],
+      ["Olympic status", "Debut at Paris 2024 — 1 v 1 battles for men and women, round-robin groups then knockout"],
+      ["Judging", "Live evaluation on technique, vocabulary, execution, musicality, and variety under the Trivium system"],
+      ["Signature competition", "Red Bull BC One, the 1 v 1 world final, has crowned champions since 2004"],
+      ["Crew culture", "Rock Steady Crew (founded 1977) and Battle of the Year (1990) anchor the tradition and the crew-battle scene"],
+      ["Global reach", "Jams and world finals from Seoul to Sao Paulo; the world championship circuit spans every continent"]
+    ],
+    "history": [
+      ["1973", "DJ Kool Herc's back-to-school party at 1520 Sedgwick Avenue stretches the drum breaks — the beat b-boying grew up on."],
+      ["1977", "Rock Steady Crew forms in the Bronx and, through the 1980s, becomes breaking's most famous ambassador."],
+      ["1983-1984", "Wild Style, Flashdance, and Beat Street carry breaking to cinema screens worldwide and spark the first global wave."],
+      ["1990", "Battle of the Year launches in Germany, inventing the international crew-battle format."],
+      ["2004", "Red Bull BC One stages its first world final in Switzerland, formalizing the solo battle championship."],
+      ["2019", "The IOC adds breaking to the Paris 2024 program, with the WDSF building an Olympic qualification system."],
+      ["2024", "Paris hosts breaking's Olympic debut; Canada's B-Boy Phil Wizard and Lithuania's B-Girl Nicka become the first Olympic champions."]
+    ],
+    "formats": [
+      ["1 v 1 battle", "The classic: alternating rounds, judges signaling after each battle, in knockout brackets or round-robin groups."],
+      ["Crew battle", "Teams trade sets and call-outs — Battle of the Year's showcase format, with a group routine before the battle rounds."],
+      ["2 v 2 and 7-to-smoke", "Partner battles and elimination formats where seven dancers are smoked out one by one — jam staples."],
+      ["Cypher", "The circle: no judges, no bracket, dancers entering one by one — the culture's original competition."],
+      ["Olympic battle", "The Paris 2024 format: round-robin groups, then knockout battles, judged by a panel on the Trivium criteria."]
+    ],
+    "skills": [
+      ["Toprock", "The standing dance that opens every set — steps in rhythm, character, and conversation with the DJ.", "Five-minute toprock sets daily at different tempos; film it and strip out anything the beat cannot hear."],
+      ["Footwork and downrock", "Floor patterns — six-step, three-step, coffee grinder — threaded through with the hands carrying weight.", "Six-step ladders: clean rounds at slow tempo, then timed to the beat; 100 clean repetitions beat 20 sloppy ones."],
+      ["Freezes", "Stopped shapes — baby, chair, airchair, head hollows — that punctuate the music like punctuation.", "Hold each freeze 5-10 seconds, three sets per shape; balance drills with a partner's hands as training wheels."],
+      ["Powermoves", "Continuous rotations — windmills, flares, headspins, airtracks — the sport's acrobatic exclamation marks.", "Progress windmills from shoulder-roll drills on a mat and flares from supported circles; a spotter or crash mat is mandatory."],
+      ["Musicality", "Reading the DJ — hitting accents, riding the beat, and answering every musical cue with a step.", "Daily listening practice: one song, one round, marking every accent on the floor before adding tricks."],
+      ["Originality", "The cultural currency — sets built from your own moves rather than copied highlights.", "Keep a move journal; build 30-second sets from your own vocabulary and retire anything borrowed wholesale."],
+      ["Battle craft", "Reading an opponent, answering their round, and keeping energy for the third battle of the day.", "Simulated battles in training, two rounds each, with rest timed to real competition schedules."]
+    ],
+    "rules": [
+      "Battles are decided, not scored in points: after each round the panel signals or scores a winner, and the majority decides who advances.",
+      "The five judging criteria — technique, vocabulary, execution, musicality, and variety — carry equal weight under the Trivium system.",
+      "DJs pick the music live; dancers must adapt to whatever plays, so rehearsed routines count for less than adaptable vocabulary.",
+      "Rounds typically run 30-60 seconds, and managing energy across a full day of battles is part of the sport.",
+      "Aggression is part of the conversation, but disrespect is not — contact that mocks a move is culture, contact that harms a body is not.",
+      "Olympic qualification ran through a world ranking built on WDSF-sanctioned events, capped by a 2024 Olympic Qualifier Series in Shanghai and Budapest.",
+      "Categories are open to all ages, with separate b-girl brackets from local jams to the Games."
+    ],
+    "equipment": [
+      ["Flat-soled shoes", "Thin, grippy sneakers that slide on the toes but hold the floor — the single most important purchase. $60-140."],
+      ["Beanie or hat", "For headspins and head freezes; seasoned b-boys carry a dedicated spin hat. $10-30."],
+      ["Knee protection", "Soft knee pads worn under pants for downrock volume. $15-40."],
+      ["Practice floor", "Linoleum, cardboard, or plywood over concrete protects joints at home; studios rent wood floors by the hour."],
+      ["Portable speaker", "The culture runs on portable sound — a jam starts when the speaker lands. $50-200."],
+      ["Crash mats", "Thick mats for powermove progressions; gyms own them, home practitioners should too."]
+    ],
+    "training": [
+      "Breaking is interval sprint work: train the anaerobic alactic system with 30-45 second maximal rounds and short rests, exactly like battle conditions.",
+      "Shoulders and wrists carry the sport — push-up variations, handstand holds, and straight-arm strength three times a week prevent the overuse injuries downrock breeds.",
+      "Learn the music deliberately: an hour a week of pure listening and rhythm drills pays more than an hour of extra tricks.",
+      "Progress powermoves with graduated mats and spotters; the gap between brave and reckless is a crash mat.",
+      "Stretch hips and shoulders daily — windmills, flares, and airchairs all draw on ranges that strength alone cannot reach.",
+      "Battle regularly: enter cyphers before you enter championships, because reading a room is a trainable skill."
+    ],
+    "pathway": [
+      ["Local jams and cyphers", "First battles at community jams, dance studios, and school programs — cheap, welcoming, and honest."],
+      ["Crew membership", "Joining a crew brings training partners, mentorship, and the culture's real education."],
+      ["Regional and national circuits", "Eliminations feeding international finals — national qualifiers, jam series, and ranking events."],
+      ["International stage", "Red Bull BC One nationals and world final, Battle of the Year, and world championship events."],
+      ["Olympic pathway", "WDSF-sanctioned ranking events and the Olympic Qualifier Series, then the Games themselves."]
+    ],
+    "events": [
+      ["Red Bull BC One", "The 1 v 1 world final, annual since 2004, moving between host cities — breaking's most famous night."],
+      ["Battle of the Year", "Annual international crew championship in Germany since 1990, with a show routine before the battles."],
+      ["World championships", "WDSF world championships crown world champions in 1 v 1 battle and feed Olympic qualification."],
+      ["Olympic Games", "Paris 2024 marked the debut — two medal events, judged battles, and a hip hop stage at the heart of the Games."],
+      ["Local jams and anniversaries", "Weekly sessions and crew anniversaries — like Rock Steady's — are the sport's grassroots heartbeat in every city."]
+    ],
+    "legends": [
+      ["Crazy Legs (Richard Colon)", "Rock Steady Crew president who carried breaking from the Bronx to film, television, and the world in the 1980s."],
+      ["Hong 10", "South Korea — three-time Red Bull BC One champion (2006, 2013, 2023) and the modern powermove standard-setter."],
+      ["B-Boy Victor", "USA — Victor Montalvo, Red Bull BC One champion in 2015 and the anchor of American breaking into the Olympic era."],
+      ["B-Girl Ami", "Japan — Ami Yuasa, Red Bull BC One champion and Olympic silver medalist at Paris 2024."],
+      ["B-Girl Nicka", "Lithuania — Dominika Banevic, world champion in 2022 and the first Olympic breaking champion at Paris 2024."]
+    ],
+    "getting_started": [
+      "Learn the six-step this week — it is the alphabet of downrock, and 15 minutes a day makes it yours in a month.",
+      "Build a toprock vocabulary of five steps you can ride to any tempo, practiced daily to a mix of songs.",
+      "Start strength basics: push-ups, planks, and wall handstands, three sessions a week.",
+      "Find a local jam or studio session within your first month — cyphers are the classroom this culture has always used.",
+      "Watch legendary battles on video, one dancer at a time, copying for study rather than performance.",
+      "Record your rounds weekly; the camera is the honest coach the mirror is not.",
+      "Respect the culture: learn the names, thank the DJ, and give rounds before you take them."
+    ],
+    "glossary": [
+      ["B-boy, B-girl", "Break boy and break girl — the dancers who filled the breaks the DJs made."],
+      ["Cypher", "The circle of dancers and onlookers where sets happen one entrant at a time."],
+      ["Toprock", "Standing dance in rhythm, the opening statement of every set."],
+      ["Downrock", "Footwork on the floor, hands and feet carrying the body — six-step is the foundation."],
+      ["Freeze", "A stopped, balanced shape that punctuates the music."],
+      ["Powermove", "Continuous rotational acrobatics — windmills, flares, headspins, airtracks."],
+      ["Battle", "Head-to-head competition in alternating rounds, decided by judges or the crowd."],
+      ["Burn", "A move or round that answers an opponent's set — competitive conversation, not disrespect."],
+      ["Set", "A prepared sequence of moves, assembled from vocabulary and fired in battle."],
+      ["Jam", "A community event with cyphers, battles, and DJs — the culture's grassroots unit."]
+    ],
+    "related": ["parkour", "skateboarding", "dancesport", "capoeira", "artistic-gymnastics"],
+    "crosslink": false
+  },
+  {
+    "slug": "parkour",
+    "name": "Parkour (Freerunning)",
+    "category": "gymnastics-aesthetic",
+    "glyph": "🧱",
+    "tagline": "Cross the city like water — precision jumps, vaults, and rolls over whatever the streets provide.",
+    "origin": "Lisses, France · late 1980s",
+    "tags": ["Urban", "Obstacle discipline", "Freerunning", "FIG"],
+    "overview": [
+      "Parkour is the discipline of moving efficiently through any environment — running, jumping, climbing, and vaulting over obstacles with movements refined to their essentials: the precision jump, the cat leap, the kong vault, and the safety roll. It began in the Paris suburb of Lisses, where David Belle and the Yamakasi turned the staircases, walls, and rooftops of their housing estates into a gym.",
+      "Its cultural pull is the promise of self-reliance: no equipment, no field, no referee — just the built environment and the athlete's judgment of it. The discipline split its identity in the 2000s: parkour kept the efficiency ethic, while freerunning, Sebastien Foucan's branch, embraced flips and creative expression — the two share a training base and a philosophy of fear management.",
+      "Newcomers should know parkour is a progressions sport disguised as an adventurous one: every rooftop line sits atop years of ground-level drills, and the community's first rule is to train the fall before the jump. The FIG now runs speed and freestyle world championships, but the heart of the practice remains informal training in public spaces."
+    ],
+    "facts": [
+      ["Founding circle", "David Belle and the Yamakasi group, training in Lisses and Evry from the late 1980s"],
+      ["Lineage", "Georges Hebert's methode naturelle — early 1900s French military training — filtered through Belle's father Raymond, a Paris firefighter"],
+      ["Governing body", "FIG runs the Parkour World Championships (first edition: Tokyo, 2022) with Speed and Freestyle events"],
+      ["Competition disciplines", "Speed, a race against the clock over obstacles, and Freestyle, judged runs rewarding difficulty, execution, and creativity"],
+      ["Signature event", "Red Bull Art of Motion, the annual freerunning invitational on spectacular courses"],
+      ["Olympic status", "Not yet on the Olympic program; the FIG continues to press for inclusion"],
+      ["Core practice", "Outdoor training on public obstacles, supported by a growing network of indoor parkour gyms"]
+    ],
+    "history": [
+      ["Early 1900s", "Georges Hebert codifies the methode naturelle — running, jumping, climbing, balancing — for French sailors and soldiers."],
+      ["1930s-1980s", "Raymond Belle trains himself and later his son David in the method; David Belle and friends form the Yamakasi in the Paris suburbs."],
+      ["1997-1998", "The group appears in French media under the banner of l'art du deplacement, and the name parkour — from parcours, the route — reaches the public."],
+      ["2001-2004", "The films Yamakasi (2001) and District B13 (2004), the latter starring David Belle, push the discipline into world cinema."],
+      ["2003", "The Jump London documentary introduces Foucan and the movement to British audiences — and coins freerunning for the English-speaking world."],
+      ["2006-2010s", "Online video globalizes the practice; indoor parkour gyms and coaching certifications professionalize the teaching."],
+      ["2022", "The FIG stages the first Parkour World Championships in Tokyo — Speed and Freestyle — after the pandemic postponed the planned 2020 edition."]
+    ],
+    "formats": [
+      ["Speed", "Race the clock over a course of rails, walls, and gaps; falls and missed zones add penalty time."],
+      ["Freestyle", "Flowing judged runs rewarding difficulty, execution, and creativity — the freerunning branch of competition."],
+      ["Training practice", "The heart of parkour: outdoor sessions drilling jumps, vaults, and climbs on found obstacles."],
+      ["Jams", "Community gatherings where practitioners tour a city's spots together — no judges, just shared training."],
+      ["Indoor parkour gyms", "Padded facilities with custom-built structures for year-round progression in cold or wet climates."]
+    ],
+    "skills": [
+      ["Safety roll", "The diagonal roll that converts a drop's energy into motion instead of impact — the sport's seatbelt.", "Practice on grass from a kneel, then a stand, then small drops; 20 rolls per session until silent and smooth."],
+      ["Precision jump", "Landing both feet on a small target, measured in centimeters.", "Mark targets with chalk at 70-90 percent of maximum distance; ten clean landings before the gap grows."],
+      ["Cat leap", "Jumping at a wall and catching the top edge with the hands — the arm jump that solves the fearsome gaps.", "Start with hang-and-climb-ups on low walls; progress height and distance only after 50 clean repetitions."],
+      ["Vault family", "Speed, kong, dash, and lazy vaults — the moves that make rails and walls transparent.", "One vault per session, 30 reps each side over a hip-height rail, filmed for hand placement."],
+      ["Wall run and tic-tac", "Stepping off a wall to gain height or redirect — the moves that turn vertical surfaces into path.", "Wall-run progressions on smooth, grippy walls; two-step tic-tacs between parallel walls at knee height first."],
+      ["Climb-up", "From hanging to standing on top of a wall in one efficient motion — the cat leap's exit.", "Explosive pull-up plus dip combinations; climb-ups for time, ten reps, resting fully between sets."],
+      ["Route vision", "Reading an environment for lines — what to jump, what to vault, what to leave alone.", "Walk spots before training them; name every obstacle's move aloud, then attempt in reverse order of risk."]
+    ],
+    "rules": [
+      "FIG speed competition times runs over a standardized course of rails, walls, and gaps; marked zones must be touched and falls add penalty time.",
+      "FIG freestyle runs are judged on difficulty, execution, and creativity, typically across qualification rounds and a final.",
+      "Parkour's community rules outweigh the federation's: train within your ability, scope every obstacle before attempting it, and leave no trace in public spaces.",
+      "Competition uses closed courses with marshal supervision and mandated mats below the biggest features.",
+      "Freerunning differs from pure parkour by intent — creative tricks and flips are welcome, while parkour values efficiency — and most modern athletes train both.",
+      "Public-space training is legal in most cities but contested; practitioners share spots with pedestrians and security through courtesy and restraint."
+    ],
+    "equipment": [
+      ["Parkour shoes", "Thin, flexible, grippy soles — trained practitioners wear through pairs every few months. $60-120."],
+      ["Chalk", "For rails and walls in heat or rain. $10-15 per block."],
+      ["Padded gloves", "Optional, for rough rails and long climb-up sessions. $15-30."],
+      ["Knee and elbow sleeves", "Light protection for repeated drill volume. $20-50."],
+      ["Home setup", "A pull-up bar, a low wall or rail, and soft ground cover make a serviceable training corner. $50-200."],
+      ["Indoor gym pass", "Purpose-built parkour gyms charge $10-25 per session and accelerate progressions in bad weather."]
+    ],
+    "training": [
+      "Land before you leap: the training order is roll, land, jump, climb, then vault — impact tolerance is built in months, not sessions.",
+      "Condition connective tissue deliberately: calf raises, slow-tempo squats, and hanging work strengthen tendons faster than jumping alone.",
+      "Train the anaerobic alactic system — parkour efforts are short and maximal — with hill sprints and short obstacle intervals.",
+      "Work mobility at both ends: hip and shoulder flexibility for the vault family, ankle stiffness for precision landings.",
+      "Manage fear as a skill: exposure ladders, breathing routines, and honest self-assessment keep progression from becoming bravado.",
+      "Cross-train climbing and gymnastics — grip strength and body tension transfer directly to walls and rails."
+    ],
+    "pathway": [
+      ["Foundation classes", "Indoor gyms and certified coaching teach progressions on padded structures."],
+      ["Outdoor training", "Local spots and weekly sessions; the community's mentorship replaces belts and levels."],
+      ["Jams and gatherings", "Regional jams connect practitioners across cities and expose athletes to new environments."],
+      ["Competition", "FIG Parkour World Cup events and national championships in Speed and Freestyle."],
+      ["Professional practice", "Sponsorships, stunt and film work, coaching, and world championship teams for the few at the top."]
+    ],
+    "events": [
+      ["FIG Parkour World Championships", "Speed and Freestyle world titles, first awarded in Tokyo in 2022."],
+      ["FIG Parkour World Cup", "An annual circuit of Speed and Freestyle events feeding the world rankings."],
+      ["Red Bull Art of Motion", "The annual invitational freerunning competition on spectacular courses, running since the late 2000s."],
+      ["National championships", "Federations in Japan, France, the United Kingdom and elsewhere stage annual speed and freestyle titles."],
+      ["City jams", "Monthly and annual jams in every major city — the non-competitive heart of the calendar."]
+    ],
+    "legends": [
+      ["David Belle", "Founder of parkour — trained by his father Raymond in the methode naturelle, he led the Yamakasi and starred in District B13."],
+      ["Sebastien Foucan", "Co-founder of the original group and father of freerunning — his Jump London appearances and the Casino Royale chase introduced millions to the movement."],
+      ["The Yamakasi", "The original Lisses group — Yann Hnautra, Charles Perriere, Chau Belle-Dinh, Malik Diouf, Guylain N'Guba-Boyeke, Williams Belle, and David Belle — who named and shaped the discipline."],
+      ["Raymond Belle", "The method's bridge — a firefighter whose training discipline and philosophy his son David turned into parkour."],
+      ["Tim Livewire Shieff", "British freerunner and Red Bull Art of Motion champion who carried freestyle parkour to a global online audience."]
+    ],
+    "getting_started": [
+      "Start indoors: one session at a parkour gym teaches progressions that two years of video cannot.",
+      "Learn the safety roll on grass until it is silent — it is the first skill and the last insurance.",
+      "Build the basics weekly: precision jumps at 70 percent of maximum, 30 vault reps, and hanging work for grip.",
+      "Train with a group; spots, spotting, and honest feedback come from training partners.",
+      "Scope everything twice: walk the obstacle, visualize the move, commit once — not twice.",
+      "Add strength work — pull-ups, dips, and squats — three sessions a week; strength makes techniques cheaper.",
+      "Respect the spaces: train early, yield to pedestrians, and leave every spot cleaner than you found it."
+    ],
+    "glossary": [
+      ["Parkour", "The efficient-traversal discipline — moving through environment with the minimum of wasted motion."],
+      ["Freerunning", "The creative sibling discipline — flips, tricks, and expression added to the same movement base."],
+      ["Art du deplacement", "The original name the Yamakasi used — the art of moving."],
+      ["Precision", "A jump landing on a defined target with both feet."],
+      ["Cat leap", "A leap at a wall caught with the hands on the top edge — the arm jump."],
+      ["Kong vault", "A dive over an obstacle with both hands planted and knees tucked between the arms."],
+      ["Tic-tac", "A single step on a wall to redirect or gain height."],
+      ["Climb-up", "The move from hanging to standing on top of a wall in one motion."],
+      ["Spot", "A training location — a plaza, an estate, a rooftop — with its known obstacles."],
+      ["Flow", "The quality of linking movements without hesitation — the aesthetic parkour is judged on."]
+    ],
+    "related": ["breaking", "skateboarding", "bmx-freestyle", "obstacle-course-racing", "bouldering"],
+    "crosslink": false
+  },
+  {
+    "slug": "cheerleading",
+    "name": "Cheerleading",
+    "category": "gymnastics-aesthetic",
+    "glyph": "📣",
+    "tagline": "Stunts, tumbling, and pyramids — sideline tradition grown into a judged, global discipline.",
+    "origin": "United States · 1898",
+    "tags": ["Team sport", "Stunt and tumble", "All Star", "IOC recognized"],
+    "overview": [
+      "Cheerleading began in 1898 when a University of Minnesota student turned to the crowd and directed the first organized cheer; a century later it is a full athletic discipline of stunts, pyramids, tumbling, jumps, and dance, performed by teams on a spring floor in routines scored by panels of judges.",
+      "Its culture is American at the root and global at the branches: school and college squads still own the sidelines of football and basketball, while the All Star gym industry built a worldwide competition ladder of levels 1 to 7. The International Cheer Union, founded in 2004, earned full International Olympic Committee recognition in 2021 — the sport's ticket to a possible Olympic future.",
+      "Newcomers should know cheerleading is a team engineering problem: every stunt is a group of athletes solving balance, timing, and trust at height, under strict rules that cap which skills a team may attempt at its level. Safety reform — trained coaches, certified mats, progressive skill rules — is the reason the sport's old injury reputation has been rewritten."
+    ],
+    "facts": [
+      ["Origin", "University of Minnesota, 1898 — Johnny Campbell leads the first organized crowd cheer"],
+      ["Governing body", "International Cheer Union (ICU), founded 2004; USA Cheer runs the American programs"],
+      ["Olympic status", "Full IOC recognition since 2021, after provisional recognition in 2016"],
+      ["Global reach", "More than 100 national federations compete under the ICU banner"],
+      ["Routine", "Competition cheer runs two and a half minutes on a spring floor 42 by 54 feet"],
+      ["All Star pinnacle", "The Cheerleading Worlds in Orlando, the All Star world championship, has run since 2004"],
+      ["Disciplines", "Team cheer (stunts, pyramids, tumbling), cheer dance (pom, jazz, hip hop), and the game format STUNT"]
+    ],
+    "history": [
+      ["1898", "Johnny Campbell directs the Minnesota crowd from the track — cheerleading is born as a leadership role at the game's edge."],
+      ["1920s", "Women join in large numbers and reshape the sideline role, bringing gymnastics and organized spirit routines with them."],
+      ["1948", "Lawrence Herkimer founds the National Cheerleaders Association, holds the first cheer camp, and invents the Herkie jump."],
+      ["1974", "Jeff Webb leaves the NCA and founds Varsity Spirit, professionalizing uniforms, camps, and eventually competition broadcasting."],
+      ["1980s", "Safety reform begins: the American Association for Cheerleading Coaches and Advisors forms in 1987 and writes the first national stunt and tumbling safety rules."],
+      ["2004", "The ICU is founded, and the first Cheerleading Worlds crowns All Star champions in Orlando."],
+      ["2016-2023", "The IOC grants provisional recognition in 2016 and full recognition in 2021; STUNT, the game format, reaches NCAA emerging-sport status for women in 2023."]
+    ],
+    "formats": [
+      ["School and sideline cheer", "The original role: leading crowds at games, plus a competition season of two-and-a-half-minute routines."],
+      ["All Star cheer", "Gym-based teams competing at levels 1 to 7 by skill difficulty, ages 5 to adult — the industry's competitive engine."],
+      ["College cheer", "Game-day support plus national championships; collegiate cheer is among the sport's most-watched divisions."],
+      ["Cheer dance", "Pom, jazz, and hip hop routines judged on choreography and execution, contested at the ICU World Championships."],
+      ["STUNT", "A four-quarter head-to-head game — stunts, pyramids, tumbling and jumps, then a full routine — built to satisfy varsity sport rules."]
+    ],
+    "skills": [
+      ["Stunting technique", "Bases, backspot, and flyer solving a load-in, a liberty, and a full-up with synchronized power.", "Drill each position separately: bases practice grip and timing with light loads; flyers hold body positions on the ground for 60 seconds per shape."],
+      ["Flyer body positions", "Liberty, heel stretch, scorpion, and arabesque held motionless at extension.", "Daily flexibility plus core work: three sets of 30-second holds per position on the floor, then in the air with a spotter."],
+      ["Tumbling", "Standing back handsprings, round-off doubles, and running passes — gymnastics transplanted onto the cheer floor.", "Progress through a gymnastics curriculum, not around it; 20-30 quality reps per session with a certified tumbling coach."],
+      ["Pyramids", "Multiple connected stunts sharing grips and bracing — the routine's architectural centerpiece.", "Build at half height first; connect units only after each stands alone, and rehearse the dismounts more than the entrances."],
+      ["Jumps", "Toe touches, hurdler, pike — height, hyperextension, and a clean landing together.", "Three sets of ten quality jumps with two minutes of rest; stretch hips and hamstrings before and after."],
+      ["Dance and motion", "Sharp arm motions and choreography that tie the routine together.", "Mark the dance daily; film front-on and grade motion sharpness the way a judge would."],
+      ["Basket tosses", "The highest-flying skill in the sport — an interlocked-hands launch and a trick at the peak.", "Allowed only with trained spotters and level-appropriate rules; drills begin with loads to thigh height."]
+    ],
+    "rules": [
+      "Routine music is capped at two minutes 30 seconds, performed on a spring floor 42 by 54 feet.",
+      "All Star teams compete at numbered levels 1 to 7; each level caps which stunts, release moves, and tumbling skills are legal — attempting above level costs major deductions.",
+      "Every stunt group needs bases, a backspot, and a flyer; dismounts and release moves carry strict height and rotation limits by level.",
+      "Judges score execution across stunts, pyramids, tumbling, jumps, and dance, with deductions for falls, bobbles, and boundary violations.",
+      "Age divisions span youth to senior and international categories, with mandatory spotters in the younger divisions.",
+      "STUNT plays as a game: four quarters of stunts, pyramids, tumbling and jumps, and a full routine, head to head, with both teams running the same plays simultaneously.",
+      "ICU world divisions field national teams in premier and advanced brackets, with roster sizes capped by division."
+    ],
+    "equipment": [
+      ["Cheer shoes", "Flat, flexible sneakers designed for tumbling and stunting. $50-100."],
+      ["Uniform", "Shell and skirt or pants, plus the team bow — $150-400 per athlete per season."],
+      ["Pom-poms", "Metallic vinyl poms for dance and sideline — a pair costs $15-40."],
+      ["Spring floor", "42 by 54 feet of sprung panels; gyms invest $20,000-50,000 in a proper competition floor."],
+      ["Mats and pits", "Stunt mats and landing surfaces for progressions — the reason hard skills are learnable at all."],
+      ["Megaphones and props", "The sideline toolkit, from $20 amplifiers to custom-painted signs."]
+    ],
+    "training": [
+      "Stunting is strength in coordination: bases train squats, presses, and grip; flyers train balance, flexibility, and core; backspots train everything.",
+      "Tumbling progression follows gymnastics methodology — shapes and drills before skills, drills before full passes.",
+      "Condition for routine endurance: a two-and-a-half-minute routine is anaerobic, so interval circuits with 30-second efforts mirror the demand.",
+      "Reinforce shoulders and wrists — the sport's most loaded joints — with push-up ladders and scapular work.",
+      "Rehearse with full spotters and mats until a skill is boring; the sport's safety record is built on boring repetitions.",
+      "Film everything: judging is visual, and weekly video review is the cheapest performance upgrade a team can buy."
+    ],
+    "pathway": [
+      ["Youth and school cheer", "Ages 5-14 on school squads or recreational gyms — motions, jumps, and basic stunts."],
+      ["All Star levels 1-3", "Local gyms with competition seasons; half-year and full-year teams travel regionally."],
+      ["All Star levels 4-7", "National and world bid seasons, with The Cheerleading Worlds as the annual summit in Orlando."],
+      ["College and STUNT", "Collegiate programs and scholarships through STUNT's NCAA emerging-sport status, plus national titles."],
+      ["National team and beyond", "ICU national teams compete at the World Cheerleading Championships, with Olympic recognition the next horizon."]
+    ],
+    "events": [
+      ["ICU World Cheerleading Championships", "The annual world championship for national teams, held at Walt Disney World in Orlando."],
+      ["The Cheerleading Worlds", "The All Star world championship, annual in Orlando since 2004 across levels and divisions."],
+      ["NCA and UCA nationals", "The classic American championship brands — NCA in Dallas and UCA in Orlando — closing each winter and spring season."],
+      ["Continental championships", "ICU-run championships across Europe, Asia, the Americas, and Oceania that select and qualify national teams."],
+      ["STUNT national championships", "The game format's college and high school seasons end in national tournaments each spring."]
+    ],
+    "legends": [
+      ["Johnny Campbell", "University of Minnesota student who directed the first organized cheer in 1898 — the role's inventor."],
+      ["Lawrence Herkimer", "Founded the NCA in 1948, ran the sport's first camps, and invented the Herkie jump."],
+      ["Jeff Webb", "Founded Varsity Spirit in 1974 and later the ICU — the commercial and international architect of modern cheerleading."],
+      ["Bill Seely", "USA Cheer president who steered the STUNT game format into varsity sport and helped win the ICU's full IOC recognition in 2021."],
+      ["The All Star program-builders", "The coaches and gym owners who turned levels, bids, and Worlds into a global industry serving hundreds of thousands of athletes."]
+    ],
+    "getting_started": [
+      "Take a fundamentals class at an All Star gym or a school squad clinic — stunting is never self-taught.",
+      "Build the baseline: 30-second wall sits, a daily stretch routine for splits, and 20 sharp motion drills a day.",
+      "Learn a standing back handspring progression only through a certified tumbling coach, never alone.",
+      "Try every position for a month each — bases, backspot, flyer — before choosing; empathy between positions is the team's currency.",
+      "Watch ICU Worlds videos for your division to see what your level's ceiling actually looks like.",
+      "Condition three days a week: squats, planks, push-ups, jumps.",
+      "Enter a novice or prep team season before committing to a full-year travel team."
+    ],
+    "glossary": [
+      ["Flyer", "The athlete lifted into the air in a stunt or pyramid."],
+      ["Base", "The athlete or athletes supporting the flyer from below."],
+      ["Backspot", "The spotter behind a stunt who controls the load, the balance, and the catch."],
+      ["Full-up", "A load-in with a full twist to an extended stunt."],
+      ["Liberty", "A one-foot stunt with the free leg bent at the knee — the flyer's first real balance test."],
+      ["Heel stretch", "A flyer holds one leg straight up beside the ear at extension."],
+      ["Basket toss", "Interlocked hands launch a flyer several meters upward for a trick at the peak."],
+      ["Level", "The 1-7 skill ladder in All Star cheer that gates legal stunts, releases, and tumbling."],
+      ["Bobble", "A small, recoverable wobble in a stunt — tenths off the score instead of a fall."],
+      ["Sideline", "Game-day cheering from the track or court edge — the sport's original job description."]
+    ],
+    "related": ["artistic-gymnastics", "trampoline-gymnastics", "dancesport", "rhythmic-gymnastics"],
+    "crosslink": false
+  },
+  {
+    "slug": "skateboarding",
+    "name": "Skateboarding",
+    "category": "gymnastics-aesthetic",
+    "glyph": "🛹",
+    "tagline": "Four wheels and a maple deck — every ledge, rail, and bowl becomes an invitation.",
+    "origin": "California, USA · 1950s",
+    "tags": ["Olympic", "Street culture", "Street and park", "World Skate"],
+    "overview": [
+      "Skateboarding rides a maple-wood deck on four urethane wheels through two Olympic disciplines: street, a course of stairs, rails, and ledges ridden like a city plaza, and park, a bowl of transitions and airs. Runs are judged on difficulty, style, and use of the course, with each run or trick scored out of 100.",
+      "Born from California surfers looking for something to do when the waves went flat, it grew through the 1970s pool-riding revolution into a global street culture with its own magazines, videos, and unspoken etiquette. Its Olympic debut at Tokyo 2020 — contested in empty arenas through the pandemic — still delivered the sport's largest broadcast audience ever.",
+      "Newcomers should know the first year is mostly falling and standing back up, and that the ollie is the gateway to everything: pop the board off the ground cleanly and the rest of the vocabulary follows. Progress is measured in sessions and bruises, and the culture prizes style over raw trick count."
+    ],
+    "facts": [
+      ["Origin", "California surfers' sidewalk imitation in the 1950s; the modern era began with urethane wheels in 1972"],
+      ["Governing body", "World Skate, formed in 2017, runs the Olympic program"],
+      ["Olympic status", "Debut at Tokyo 2020 — street and park for men and women, continuing at Paris 2024"],
+      ["Olympic format", "Street: two 45-second runs plus five single tricks. Park: three 45-second runs. Best scores count"],
+      ["Judging", "Five-judge panels score each run or trick 0-100, dropping the highest and lowest marks"],
+      ["Cultural milestone", "Tony Hawk's 900, landed in competition at the 1999 X Games"],
+      ["Global reach", "Millions of skaters worldwide and skateparks in nearly every major city"]
+    ],
+    "history": [
+      ["1950s", "California surfers bolt roller-skate wheels to planks — sidewalk surfing is born."],
+      ["1972", "Frank Nasworthy's urethane Cadillac wheels replace clay wheels — grip, speed, and the modern skateboard arrive."],
+      ["1975", "The Zephyr team from Venice and Santa Monica rewrites the book with low, fluid pool-style turns at the Del Mar contest, and skateboarding's style revolution begins."],
+      ["1978", "Alan Gelfand invents the ollie — the no-hands air that becomes skateboarding's foundational trick."],
+      ["1999", "Tony Hawk lands the first 900 in competition at the X Games — the sport's moon landing."],
+      ["2016", "The IOC votes skateboarding onto the Tokyo program, with World Skate installed as the governing federation."],
+      ["2021", "Tokyo hosts the Olympic debut; Japan's Yuto Horigome and Momiji Nishiya become the first Olympic street champions."]
+    ],
+    "formats": [
+      ["Street", "Ledges, rails, stairs, and banks ridden like a city plaza — two runs plus five individual tricks in Olympic competition."],
+      ["Park", "Bowls, hips, and quarters — flowing runs of airs and grinds above the coping, three runs with the best one counting."],
+      ["Vert", "Giant halfpipe skating — the discipline of Tony Hawk's era, still alive at the X Games."],
+      ["Flatground freestyle", "The technical branch — kickflips, manuals, and footwork on open pavement, Rodney Mullen's laboratory."],
+      ["Downhill and longboarding", "Speed disciplines on closed mountain roads, with slide gloves and leather suits."]
+    ],
+    "skills": [
+      ["Pushing and stance", "Regular or goofy stance, efficient pushes, and comfortable riding — the skill everything sits on.", "Week one: 20 minutes of pure riding daily; push both directions before learning any trick."],
+      ["Ollie", "Popping the tail and sliding the front foot to lift board and skater together — the gateway trick.", "Three sets of 20 stationary ollies per session; film the slide, not just the jump."],
+      ["Kickflip", "The ollie with a full board flip beneath the feet.", "Learn the flick with the board half-supported on grass; 50 attempts per session until landing on the bolts is normal."],
+      ["Grinds and slides", "50-50s, 5-0s, and boardslides on rails and ledges — the street vocabulary.", "Wax the ledge low first; approach speed is the variable beginners get wrong, so count your pushes."],
+      ["Dropping in", "Committing to the transition from the deck's edge — the park discipline's first hurdle.", "Start on the smallest mini-ramp section with a spotter standing close; commit in one motion."],
+      ["Transition lines", "Carving and pumping between features to keep speed without pushing.", "Pump drills: ten minutes without pushing, learning to generate speed from the body alone."],
+      ["Airs and grabs", "Going above the coping with method grabs and indys, then adding rotations.", "Trampoline board drills for air awareness, then small quarter pipes with pads until the timing is automatic."]
+    ],
+    "rules": [
+      "Olympic street: two 45-second runs plus five individual tricks; the best run score and the two best trick scores are added.",
+      "Olympic park: three 45-second runs, with the best run counting.",
+      "Five judges score every run or trick from 0-100 on difficulty, style, originality, and course use; the highest and lowest marks are dropped.",
+      "Tricks must be landed to count — a fall ends a run's scoring momentum, and bailed tricks score nothing.",
+      "Helmets are mandatory in Olympic park competition and for younger athletes everywhere; pads are required in park.",
+      "Competition courses open for practice sessions before every heat, and course familiarization is part of the format.",
+      "World Skate crowns world champions annually in street and park, and those results feed the Olympic qualification ranking."
+    ],
+    "equipment": [
+      ["Deck", "Seven-ply maple, 7.75-8.5 inches wide; decks wear out and get replaced several times a year. $40-80."],
+      ["Trucks", "The axle assemblies; height and width must match the deck. $30-70 per pair."],
+      ["Wheels and bearings", "Hard wheels (99a-101a) for street, softer for cruising; bearings from $10-60."],
+      ["Grip tape", "The sandpaper-like top layer — $5-12, applied with a razor and patience."],
+      ["Skate shoes", "Suede, flat-soled, with reinforced ollie areas; skaters buy multiple pairs a year. $50-120."],
+      ["Helmet and pads", "A certified helmet is the one non-negotiable — $30-80; knee and elbow pads run $30-70 per set."]
+    ],
+    "training": [
+      "Skate fitness is isometric and reactive: build ankle stability, hip mobility, and core rotation with single-leg work and stretching.",
+      "Falling is a trained skill — learn to roll out of bails on grass before the concrete asks.",
+      "Volume builds instinct: 30-60 minutes of basic trick drilling per session outperforms sporadic hero attempts.",
+      "Film and review: the best skaters study their own angles and their influences with equal obsession.",
+      "Protect the ankles — calf raises, balance-board work, and taping habits prevent the sport's most common injury.",
+      "Cross-train trampoline or surfing for air awareness; transition skaters especially benefit from aerial rotation practice."
+    ],
+    "pathway": [
+      ["First board", "Parking lots and driveways: push, ride, fall, repeat — with a helmet from day one."],
+      ["Local park scene", "Skateparks and street spots; local shops sponsor young skaters and build scenes."],
+      ["Amateur contests", "Shop series, national amateur championships, and contest circuits by discipline."],
+      ["Professional ranks", "Sponsorships from deck, shoe, and wheel companies; video parts remain the currency of credibility."],
+      ["Olympic and world tour", "National federations select through World Skate rankings toward the Games and world titles."]
+    ],
+    "events": [
+      ["Olympic Games", "Street and park, men and women, every four years since Tokyo 2020."],
+      ["World Skate Championships", "Annual world titles in street and park, doubling as the core of Olympic qualification."],
+      ["Street League Skateboarding", "The premier professional street series, annual since 2010, with stops on three continents."],
+      ["X Games", "Annual since 1995 — vert, street, and park competitions with the sport's biggest names."],
+      ["Vans Park Series", "The annual professional park-terrain world championship tour."]
+    ],
+    "legends": [
+      ["Tony Hawk", "The vert era's defining champion — first to land the 900 in competition in 1999, then the sport's most famous ambassador."],
+      ["Rodney Mullen", "Invented the flatground ollie, kickflip, heelflip, and 360 flip — the engineer of modern street skating."],
+      ["Nyjah Huston", "The most successful contest street skater of his generation — multiple Street League titles and X Games golds."],
+      ["Rayssa Leal", "Brazil — Olympic street silver at 13 in Tokyo, world street champion in 2022, and the sport's global youth icon."],
+      ["Yuto Horigome", "Japan — the first Olympic street champion in Tokyo, and again in Paris 2024."]
+    ],
+    "getting_started": [
+      "Buy a complete setup for $100-150 from a local skate shop — they will size the trucks and wheels for how you want to skate.",
+      "Wear the helmet every session from day one; style points are earned on the board, not against the pavement.",
+      "Spend the first two weeks just riding: pushing, carving, stopping, and falling on grass on purpose.",
+      "Learn the ollie stationary, then rolling slowly — 20 clean pops per session beats an hour of flailing.",
+      "Find your local skatepark's quiet hours; transition beginners get the small ramps early in the morning.",
+      "Watch one video part per week with intent, studying feet and approach speed rather than highlights.",
+      "Skate with better skaters — parks and shops run beginner sessions, and the culture is friendlier than its reputation."
+    ],
+    "glossary": [
+      ["Ollie", "The no-hands pop that lifts board and skater together — the trick all others build from."],
+      ["Goofy and regular", "Right foot forward and left foot forward; neither is better, both are honest."],
+      ["Grind", "Sliding along an edge on the trucks — a 50-50 uses both."],
+      ["Boardslide", "Sliding a rail or ledge on the deck between the trucks."],
+      ["Transition", "Curved surfaces — quarter pipes, bowls, ramps — that convert speed into height."],
+      ["Coping", "The metal lip at the top of transition features, made for grinds and stalls."],
+      ["Gap", "A distance between takeoff and landing — stairs, ledges, or the legendary roof-to-roof lines."],
+      ["Line", "A chosen route through a course or plaza, linking tricks in flow."],
+      ["Bail", "A crash — ideally a practiced, rolling exit rather than a stiff-armed splat."],
+      ["Fakie", "Riding backward in the normal stance — the approach to half the tricks in street."]
+    ],
+    "related": ["bmx-freestyle", "surfing", "snowboarding", "parkour", "breaking"],
+    "crosslink": false
+  },
+  {
+    "slug": "dancesport",
+    "name": "Dancesport (Competitive Ballroom)",
+    "category": "gymnastics-aesthetic",
+    "glyph": "💃",
+    "tagline": "Ten dances, one floor, judged step by step — ballroom's century of competitive craft.",
+    "origin": "England · 1920s",
+    "tags": ["Ballroom", "Blackpool", "Standard and Latin", "WDSF"],
+    "overview": [
+      "Dancesport is competitive ballroom dancing: couples judged round by round on technique, musicality, and partnership across two families of five dances each — Standard (waltz, tango, Viennese waltz, foxtrot, quickstep) and Latin (cha-cha, samba, rumba, paso doble, jive). The 10 Dance format demands both, in one championship weekend.",
+      "The sport codified in England in the 1920s, and the British Open at Blackpool — held since 1920 in the Winter Gardens ballrooms — remains its Wimbledon: winning there defines careers. Television's ballroom boom since the early 2000s poured new dancers into studios on every continent, and WDSF-governed competition now spans age groups from juvenile to senior.",
+      "Newcomers should know that dancesport is judged more on how you move than on what you move: rise and fall in the waltz, hip action in the cha-cha, and the invisible connection of frame are scored before any flashy figure. Couples train like sprinters — a competition round means five dances in quick succession, with no rest and no second chances."
+    ],
+    "facts": [
+      ["Governing bodies", "The WDSF (World DanceSport Federation, founded 1957 as the ICBD) runs amateur competition; the WDC runs the professional world"],
+      ["The two families", "Standard: waltz, tango, Viennese waltz, foxtrot, quickstep. Latin: cha-cha, samba, rumba, paso doble, jive"],
+      ["Competition cadence", "Rounds of five dances in sequence, closing with a six-couple final judged on the skatings system"],
+      ["Tempos", "Standardized speeds — waltz at 28-30 bars per minute, quickstep at 50-52"],
+      ["Flagship event", "The British Open at Blackpool's Winter Gardens, every late May and June since 1920"],
+      ["Olympic status", "Not on the Olympic program, though the WDSF is IOC-recognized and governed breaking at Paris 2024"],
+      ["Multi-sport presence", "Dancesport has appeared at the Asian Games since 2010"]
+    ],
+    "history": [
+      ["1904-1920s", "English teachers' societies codify ballroom technique — the English Style that competition judges still grade against."],
+      ["1920", "The first Blackpool Dance Festival is held at the Winter Gardens — the sport's flagship is born."],
+      ["1957", "The International Council of Ballroom Dancing forms; it becomes the WD&DSC and then the WDSF in 2011."],
+      ["1970s-1990s", "Latin American dancing goes through an athletic revolution, turning the competitive floor into a sprint-and-showcase arena."],
+      ["2004-2005", "Strictly Come Dancing and Dancing with the Stars launch, driving enrollment booms in studios worldwide."],
+      ["2010", "Dancesport debuts at the Asian Games in Guangzhou, the discipline's biggest multi-sport stage."],
+      ["2024", "Breaking — governed by the WDSF — joins the Paris Olympics, giving the dance world its first Olympic medal events."]
+    ],
+    "formats": [
+      ["Standard", "Five dances in closed hold throughout — waltz to quickstep — judged on swing, frame, and floorcraft."],
+      ["Latin", "Five dances of open energy — cha-cha to jive — judged on rhythm, hip action, and presentation."],
+      ["10 Dance", "One couple, all ten dances over two days — the decathlon of the ballroom world."],
+      ["Formation dancing", "Teams of eight couples dancing synchronized choreography — the team branch of the sport."],
+      ["Pro-Am and age ladders", "Amateur-student pairings plus juvenile, junior, youth, adult, and senior categories keep competition open for life."],
+      ["Wheelchair dancesport", "Combi and duo events for wheelchair users, governed within the WDSF family."]
+    ],
+    "skills": [
+      ["Frame and connection", "The invisible architecture of Standard — shoulders, arms, and tone held steady through every figure.", "Static frame holds of two to three minutes daily; walk the waltz box keeping contact before adding rotation."],
+      ["Rise and fall", "The vertical swell through the waltz and foxtrot, driven from feet and legs.", "Drill heel-toe weight changes up and down the room at half speed; no rise until the transfer is controlled."],
+      ["Latin hip action", "Weight transfer through bent and straightened knees that powers the Cuban motion.", "Slow-motion cha-cha basics, 100 repetitions; the hips move because knees and feet work, not because they are shaken."],
+      ["Footwork and timing", "Exact placement and musical precision — heel leads in Standard, ball-flat in Latin.", "Practice to a metronome at competition tempo; one dance per session, ten minutes of pure basics."],
+      ["Floorcraft", "Navigating a crowded floor in line of dance without collisions — a scored skill in every round.", "Practice rounds with eight to ten couples on the floor; treat traffic as choreography, not as an obstacle."],
+      ["Showmanship", "The final's presentation — costume, projection, and performance that separate equal technicians.", "Rehearse in competition dress weekly; perform rounds facing a mirror wall or a video camera."],
+      ["Stamina", "Five dances back to back at race pace, several rounds a day.", "Interval conditioning three times a week: 90-second efforts with short rests, matched to round structure."]
+    ],
+    "rules": [
+      "Competitions run in rounds — from preliminary heats to a six-couple final, with judges marking couples through to each next round.",
+      "Finals use the skatings system: each judge places the couples 1-6 per dance, and a majority rule converts placements into the overall order.",
+      "Standard is danced in closed hold throughout; breaking hold or opening figures costs marks.",
+      "Lifts are banned — one partner must keep a foot on the floor at all times.",
+      "Music is provided by the organizers at standardized tempos — waltz at 28-30 bars per minute, samba at 50-52.",
+      "Costume rules are strict by age: juvenile couples face restrictions on dress, rhinestones, and makeup to keep the sport age-appropriate.",
+      "Age categories run from juvenile through junior, youth, adult, and senior divisions, each with its own minimum ages."
+    ],
+    "equipment": [
+      ["Latin shoes", "Open, flexible, suede-soled with a flared heel for women — $60-150."],
+      ["Standard shoes", "Closed court shoes for men, satin pumps with a lower heel for women — $80-200."],
+      ["Practice wear", "Comfortable training clothing and practice skirts — $30-100 per piece."],
+      ["Competition dresses and tailsuits", "A stone-set Latin dress runs $300-1,500; men's tailsuits $300-1,000, usually resold and rebuilt over a career."],
+      ["Floor", "Sprung wooden floors are the standard; studios rent practice space by the hour at $10-25."],
+      ["Hair, tan, and accessories", "The finishing economy of the sport — professional competition prep costs $50-200 per event."]
+    ],
+    "training": [
+      "Technique is built alone: solo basics and body isolation drills before partner work, every session.",
+      "Condition like a 90-second sprinter — Latin rounds are glycolytic, so interval work with 90-second to two-minute efforts matches the demand.",
+      "Build strength for frame and power: core anti-rotation work, glute and calf work for Standard's rise, and shoulder endurance for the hold.",
+      "Cross-train ballet for Standard lines and a strength discipline for Latin speed — the top couples typically do.",
+      "Rehearse full competition simulations: five dances in sequence with short breaks, several times a week before a championship.",
+      "Protect the feet: calf stretching, blister care, and rotation between heel heights prevent the overuse injuries that end careers."
+    ],
+    "pathway": [
+      ["Studio classes", "Social ballroom and first medal tests — most careers start in a beginner class, child or adult."],
+      ["Local and national circuit", "Medalist and open competitions by age group; couples climb through championship tiers."],
+      ["National squad and ranking", "WDSF world-ranking events and national team selection in the amateur ranks."],
+      ["Professional titles", "WDC-affiliated professional championships and the Blackpool professional events."],
+      ["Coaching and adjudication", "Fellowship qualifications and judging licenses extend careers past competition."]
+    ],
+    "events": [
+      ["Blackpool Dance Festival", "The British Open at the Winter Gardens, annually in late May and June since 1920 — the sport's most coveted title."],
+      ["WDSF World Championships", "Annual world titles across Standard, Latin, 10 Dance, and formation for amateur couples."],
+      ["UK Open Championships", "Each January in Bournemouth — the season's first major and a Blackpool predictor."],
+      ["International Championships", "London each October — the other historic major on the English circuit."],
+      ["Asian Games", "Dancesport in the program every four years since 2010 — the discipline's multi-sport showcase."],
+      ["WDSF GrandSlam", "The premier annual ranking series, hosted across the continents."]
+    ],
+    "legends": [
+      ["Donnie Burns and Gaynor Fairweather", "Scotland — a record fourteen World Professional Latin titles from 1984 into the 1990s; still the benchmark."],
+      ["Marcus and Karen Hilton", "England — the Standard dynasty of the 1980s and 1990s, with multiple world and British Open titles."],
+      ["Bryan Watson and Carmen Vincelj", "The Latin athletes of their era — nine World Professional Latin titles between them."],
+      ["Mirko Gozzoli and Edita Daniute", "Multiple World Professional Standard champions whose style defined the 2000s and early 2010s."],
+      ["Riccardo Cocchi and Yulia Zagoruychenko", "The dominant World Professional Latin couple of the 2010s, with a decade of world titles."]
+    ],
+    "getting_started": [
+      "Book one private lesson and one group class a week at a reputable studio — ballroom is partner-skill heavy and self-teaching has a ceiling.",
+      "Buy proper shoes early; sneakers ruin Latin hip action and Standard footwork.",
+      "Learn the five basic figures of waltz and cha-cha before anything flashy — basics are what judges actually score.",
+      "Practice at home to competition-tempo music, ten minutes per dance, counting aloud.",
+      "Enter a medal test or a beginner competition within three months; rounds teach more than months of lessons.",
+      "Watch Blackpool finals on video — six couples, five dances, a masterclass in every one.",
+      "Stretch hips and calves daily; the sport asks for range the couch does not."
+    ],
+    "glossary": [
+      ["Frame", "The held upper-body structure connecting partners — Standard's invisible engine."],
+      ["Rise and fall", "The vertical swell through waltz and foxtrot steps."],
+      ["Cuban motion", "The Latin hip action produced by knee and weight transfer."],
+      ["Skatings system", "The majority-based final marking method that converts judges' placements into results."],
+      ["Line of dance", "The counterclockwise traffic direction every Standard dance follows."],
+      ["Closed hold", "The Standard embrace, maintained throughout the dance by rule."],
+      ["Open figure", "A pattern where partners separate — legal in Latin, restricted in Standard."],
+      ["10 Dance", "The championship format requiring all five Standard and all five Latin dances."],
+      ["Amalgamation", "A linked sequence of figures rehearsed as one phrase."],
+      ["Walk-on", "The final couples' entrance parade — the sport's version of a title-fight walkout."]
+    ],
+    "related": ["breaking", "cheerleading", "artistic-swimming", "figure-skating", "rhythmic-gymnastics"],
+    "crosslink": false
+  },
+  {
+    "slug": "capoeira",
+    "name": "Capoeira",
+    "category": "gymnastics-aesthetic",
+    "glyph": "🥁",
+    "tagline": "A fight that dances — music, cunning, and acrobatics inside Brazil's circle of drummers.",
+    "origin": "Brazil · 1500s onward",
+    "tags": ["Afro-Brazilian", "Martial art", "Music and dance", "UNESCO heritage"],
+    "overview": [
+      "Capoeira is the Afro-Brazilian discipline that plays a fight as a game: two capoeiristas trade evasive kicks, sweeps, and acrobatics inside the roda, a circle of musicians and singers led by the berimbau. It is at once martial art, dance, and ritual — trained with the body and the voice together.",
+      "Born among enslaved Africans in Brazil and criminalized for decades, capoeira survived through mestres who shaped it into teachable schools — Mestre Bimba's faster Regional and Mestre Pastinha's traditional Angola. UNESCO inscribed the roda of capoeira as intangible cultural heritage in 2014, and academies from Salvador to Seoul keep the music as central as the movement.",
+      "Newcomers should know the ginga comes first: the swaying base step from which every attack and escape grows. Capoeira is learned as a conversation — you do not win a roda, you play it well — and the music, the Portuguese songs, and the etiquette of the circle are half the art."
+    ],
+    "facts": [
+      ["Origins", "Developed by enslaved Africans in Brazil from the 1500s onward, drawing on Central African movement traditions"],
+      ["Recognition", "A national sport of Brazil by declaration, with the roda inscribed by UNESCO as intangible cultural heritage in 2014"],
+      ["Two classical schools", "Mestre Bimba's Regional (1930s) and Mestre Pastinha's Angola (1941) define the art's poles"],
+      ["The roda", "A circle of players, singers, and a bateria of berimbau, atabaque, and pandeiro — the berimbau leads"],
+      ["Graduation", "Modern groups mark rank with a cordao or corda, awarded at annual batizados"],
+      ["Music repertoire", "Ladainha, corridos, and rhythmic toques — Angola, Sao Bento Grande, Iuna — direct the game's tempo"],
+      ["Global reach", "Academies on every continent, with strong scenes in Brazil, Europe, North America, and Asia"]
+    ],
+    "history": [
+      ["1500s-1800s", "Enslaved Africans in Brazil develop capoeira, blending Central African fight-dances with the realities of plantations and cities."],
+      ["1890", "Brazil's new republican penal code bans capoeira by name; practitioners are jailed for decades."],
+      ["1930s", "Mestre Bimba opens his academy in Salvador and structures capoeira Regional — sequences, graduations, and a fighting identity."],
+      ["1937", "After a demonstration before President Getulio Vargas, capoeira is legalized, and Bimba's school becomes a national reference."],
+      ["1941", "Mestre Pastinha opens the Centro Esportivo de Capoeira Angola in Salvador, preserving the older, grounded game."],
+      ["1970s-1990s", "Mestres emigrate and academies open across the Americas, Europe, and Asia; films like Only the Strong (1993) widen the audience."],
+      ["2014", "UNESCO inscribes the roda de capoeira on its intangible cultural heritage lists, formalizing global recognition."]
+    ],
+    "formats": [
+      ["Capoeira Angola", "The older game: slower, lower, closer, richer in malicia and trickery, played to a full bateria."],
+      ["Capoeira Regional", "Bimba's faster, more upright system with fixed training sequences and a clear martial structure."],
+      ["Capoeira Contemporanea", "The modern blend most groups teach — Regional energy and Angola cunning in one repertoire."],
+      ["Maculele and folkloric performance", "The stick-dance and staged shows that carry capoeira onto theater and festival stages."],
+      ["Roda de rua", "Street rodas in plazas and markets — the art's public face and its oldest stage."]
+    ],
+    "skills": [
+      ["Ginga", "The rhythmic sway-step that is capoeira's base — constant, low, and ready to become any move.", "Three-minute ginga rounds daily, front and back; 100 repetitions to each side with a metronome until it breathes on its own."],
+      ["Esquivas", "The escape family — cocorinha, esquiva baixa, negativa — dodges that keep the head off the kick's line.", "Partner drill: one kicks slowly, one escapes, then switch; 20 clean repetitions per esquiva per session."],
+      ["Kicks", "Meia lua de compasso, armada, queixada, martelo — circular and straight attacks launched from the ginga.", "Slow-motion kicking against a hanging target for line and control; power comes after precision, never before."],
+      ["Aus and acrobatics", "The cartwheel family — au aberto, au fechado, au sem mao — plus macacos and flips for travel and escape.", "Cartwheel drills on both sides against a wall first; acrobatics enter the roda only after landings are silent."],
+      ["Rasteiras and sweeps", "The ground game — rasteira, vingativa, tesoura — takedowns woven into the flow of play.", "Practice from negativa positions with a patient partner at half speed; in the roda, sweeps are pulled by etiquette."],
+      ["Music: berimbau and song", "The single-stringed bow leads the bateria; singers answer in call-and-response.", "Ten minutes of berimbau daily — one toque at first — and memorize one corrido per week."],
+      ["Malicia", "The cunning layer — feints, pauses, chamadas, and the reading of an opponent's intent.", "Play slow games with masters and watch: rodas teach malicia faster than drills ever will."]
+    ],
+    "rules": [
+      "The roda has no scoring: the game is judged by the mestre, the audience, and the players themselves on rhythm, trickery, and control.",
+      "The bateria leads — the berimbau sets the toque, and the game must follow the music's tempo and character.",
+      "Attacks are controlled: hard kicks are pulled at head level, and contact is the exception that ends a game, not its goal.",
+      "The ladainha opens formal rodas — a solo song, often by the mestre, that sets the story and the pace.",
+      "A chamada is a ritual pause — one player offers a call, the other answers; refusing one breaks the game's etiquette.",
+      "Regional training uses Bimba's fixed sequences of attack and response, teaching timing before free play.",
+      "Entry follows ritual: players buy the game (comprar o jogo) at the foot of the berimbau, and cutting in carelessly is a genuine offense."
+    ],
+    "equipment": [
+      ["Berimbau", "Biriba stick, wire string, and cabaca gourd with a caxixi shaker — $40-150 handmade."],
+      ["Atabaque", "The tall hand drum that drives the roda; a good one runs $150-500."],
+      ["Pandeiro and agogo", "Tambourine and double bell — $20-60 each, and the cheapest way into the music."],
+      ["Abada", "White training pants worn tied at the waist — $30-60."],
+      ["Cordao", "The graduation cord or ribbon, colored by group tradition and awarded at the batizado."],
+      ["Training space", "A smooth floor and room to cartwheel; academies carry the roda, and a home corner needs only about three square meters."]
+    ],
+    "training": [
+      "Ginga endurance is the base: capoeira games are interval work, so train repeated two-to-three-minute rounds with rolling recovery.",
+      "Build the ground game's strength — handstands, bridges, and bear crawls give the low game its engine.",
+      "Train flexibility for high kicks and low escapes: daily hip openers, hamstring work, and spinal mobility.",
+      "Play music daily — capoeira training is incomplete without berimbau, clapping, and song; the body follows the orchestra.",
+      "Rotate between Angola-style slow play and Regional-style speed; each teaches what the other hides.",
+      "Protect wrists and knees with progressive loading — cartwheel volume and low-game drills grow slowly over months."
+    ],
+    "pathway": [
+      ["First roda", "Community classes and university groups introduce ginga, music, and the circle's etiquette."],
+      ["Batizado", "The annual baptism ceremony where new students receive their first cordao and play their first official games."],
+      ["Graduado and instrutor", "Mid-rank students begin teaching; many groups send them to lead academies abroad."],
+      ["Contra-mestre and mestre", "Decades of training, a reputation earned in rodas, and responsibility for a community's games and music."],
+      ["International community", "Workshops, encontros, and festivals connect groups across countries year-round."]
+    ],
+    "events": [
+      ["Batizados and trocas de cordao", "Annual graduation ceremonies in every major city, with rodas, guest mestres, and music that run all night."],
+      ["Encontros and festivals", "Group gatherings that draw mestres and students across borders, typically annually or semi-annually."],
+      ["Rodas de rua", "Public street rodas, scheduled weekly in cities from Salvador to Lisbon to New York."],
+      ["Cultural festivals and performance seasons", "Folkloric companies stage capoeira and maculele year-round, from Brazil's Carnival stages to world tours."],
+      ["Ceremonial showcases", "Capoeira featured in the Rio 2016 Olympic opening ceremony — recognition on the world stage without Olympic competition."]
+    ],
+    "legends": [
+      ["Mestre Bimba", "Manoel dos Reis Machado (1889-1974) — creator of capoeira Regional, whose 1930s academy legalized and professionalized the art."],
+      ["Mestre Pastinha", "Vicente Ferreira Pastinha (1889-1981) — guardian of capoeira Angola, whose 1941 academy kept the old game alive."],
+      ["Mestre Joao Grande", "Angola master of Pastinha's lineage who carried the traditional game to New York and taught it worldwide."],
+      ["Mestre Joao Pequeno", "Pastinha's heir in Salvador, who taught Angola into his nineties and shaped generations of masters."],
+      ["Besouro Manganga", "The legendary early-1900s capoeirista of Bahia — a folk hero whose escapes and audacity still fill the songs."]
+    ],
+    "getting_started": [
+      "Find a group that teaches music from day one — a capoeira class without berimbau is a fitness class in disguise.",
+      "Learn the ginga in front of a mirror: three minutes daily for a month makes it yours.",
+      "Sing — memorize one corrido in your first month; the voice is a training tool, not decoration.",
+      "Build the ground basics — cocorinha, negativa, au — before any acrobatics; cartwheels come with control, not courage.",
+      "Attend rodas as an audience first: watch how games start, pause, and end before you buy one.",
+      "Stretch hips and hamstrings 15 minutes daily; the low game demands range.",
+      "Expect sore wrists and puzzled neighbors — train on a mat, keep the volume humane, and stay for the music."
+    ],
+    "glossary": [
+      ["Roda", "The circle of players, musicians, and singers where capoeira happens."],
+      ["Ginga", "The swaying base movement from which all attacks and escapes flow."],
+      ["Berimbau", "The single-stringed musical bow that leads the bateria and sets the game's tempo."],
+      ["Bateria", "The orchestra of instruments — berimbaus, atabaque, pandeiro, agogo, reco-reco."],
+      ["Toque", "A berimbau rhythm — Angola, Sao Bento Grande, Iuna — each dictating a style of game."],
+      ["Malicia", "Cunning — the feints, patience, and trickery that make capoeira a conversation, not a workout."],
+      ["Jogo", "The game played by two capoeiristas inside the roda."],
+      ["Esquiva", "An escape movement that evades a kick without leaving the game's rhythm."],
+      ["Rasteira", "The low sweep that takes a standing player off their feet."],
+      ["Chamada", "A ritual call within the game — a pause offered and answered before play resumes."]
+    ],
+    "related": ["brazilian-jiu-jitsu", "breaking", "judo", "wrestling", "dancesport"],
+    "crosslink": true
+  }
+]
