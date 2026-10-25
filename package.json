@@ -1,0 +1,16 @@
+{
+  "name": "the-open-arena-site",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "prebuild": "python3 scripts/build-astro.py",
+    "predev": "python3 scripts/build-astro.py"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  }
+}

@@ -1,27 +1,55 @@
-name: Build and deploy site
+name: Deploy site to GitHub Pages
 
 on:
   push:
     branches: [main]
-    paths: ["data/**", "build.py", "assets/**", ".github/workflows/deploy.yml"]
+    paths:
+      - "data/**"
+      - "assets/**"
+      - "build.py"
+      - "scripts/build-astro.py"
+      - "src/**"
+      - "package.json"
+      - "package-lock.json"
+      - "astro.config.mjs"
+      - ".github/workflows/deploy.yml"
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Build the static site
-        run: python3 build.py
-      - name: Deploy to gh-pages branch
-        uses: peaceiris/actions-gh-pages@v4
+      - uses: actions/setup-node@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
-          keep_files: false
+          node-version: 22
+          cache: npm
+      - run: python3 scripts/build-astro.py
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/configure-pages@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

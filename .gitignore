@@ -1,0 +1,8 @@
+site/
+src/raw/
+src/pages/
+public/
+dist/
+.astro/
+node_modules/
+__pycache__/
